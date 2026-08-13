@@ -608,16 +608,16 @@
     <value>Any</value>
   </data>
   <data name="mode.osu" xml:space="preserve">
-    <value>osu!</value>
+    <value>standard</value>
   </data>
   <data name="mode.taiko" xml:space="preserve">
-    <value>osu!taiko</value>
+    <value>taiko</value>
   </data>
   <data name="mode.fruits" xml:space="preserve">
-    <value>osu!catch</value>
+    <value>catch</value>
   </data>
   <data name="mode.mania" xml:space="preserve">
-    <value>osu!mania</value>
+    <value>mania</value>
   </data>
   <data name="mode.undefined" xml:space="preserve">
     <value>not set</value>

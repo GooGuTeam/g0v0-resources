@@ -927,22 +927,22 @@ namespace osu.Game.Resources.Localisation.Web
         /// <summary>
         /// "osu!"
         /// </summary>
-        public static LocalisableString ModeOsu => new TranslatableString(getKey(@"mode.osu"), @"osu!");
+        public static LocalisableString ModeOsu => new TranslatableString(getKey(@"mode.osu"), @"standard");
 
         /// <summary>
-        /// "osu!taiko"
+        /// "taiko"
         /// </summary>
-        public static LocalisableString ModeTaiko => new TranslatableString(getKey(@"mode.taiko"), @"osu!taiko");
+        public static LocalisableString ModeTaiko => new TranslatableString(getKey(@"mode.taiko"), @"taiko");
 
         /// <summary>
-        /// "osu!catch"
+        /// "catch"
         /// </summary>
-        public static LocalisableString ModeFruits => new TranslatableString(getKey(@"mode.fruits"), @"osu!catch");
+        public static LocalisableString ModeFruits => new TranslatableString(getKey(@"mode.fruits"), @"catch");
 
         /// <summary>
-        /// "osu!mania"
+        /// "mania"
         /// </summary>
-        public static LocalisableString ModeMania => new TranslatableString(getKey(@"mode.mania"), @"osu!mania");
+        public static LocalisableString ModeMania => new TranslatableString(getKey(@"mode.mania"), @"mania");
 
         /// <summary>
         /// "not set"
