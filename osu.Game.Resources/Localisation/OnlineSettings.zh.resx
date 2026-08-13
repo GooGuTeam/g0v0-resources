@@ -109,4 +109,31 @@
   <data name="hide_country_flags" xml:space="preserve">
     <value>隐藏国家或地区旗</value>
   </data>
+  <data name="connected_to_default_server" xml:space="preserve">
+    <value>已连接到默认服务器</value>
+  </data>
+  <data name="current_server" xml:space="preserve">
+    <value>当前服务器：{0}</value>
+  </data>
+  <data name="custom_api_url" xml:space="preserve">
+    <value>自定义 API 服务器链接</value>
+  </data>
+  <data name="custom_api_url_invalid" xml:space="preserve">
+    <value>指定的服务器链接无效。请只输入域名（可带端口号），不接受后接路径。</value>
+  </data>
+  <data name="custom_api_url_restart_required" xml:space="preserve">
+    <value>该设置需要重启后生效。</value>
+  </data>
+  <data name="default_server" xml:space="preserve">
+    <value>默认服务器</value>
+  </data>
+  <data name="official_server" xml:space="preserve">
+    <value>g0v0! 官方服务器 (g0v0.top)</value>
+  </data>
+  <data name="server_information" xml:space="preserve">
+    <value>服务器信息</value>
+  </data>
+  <data name="custom_api_risky_warning" xml:space="preserve">
+    <value>你正试图连接到 ppy 官服。不建议这么做，其会导致账号被封。</value>
+  </data>
 </root>

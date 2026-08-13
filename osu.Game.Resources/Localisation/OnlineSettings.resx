@@ -109,4 +109,31 @@
   <data name="hide_country_flags" xml:space="preserve">
     <value>Hide country flags</value>
   </data>
+  <data name="custom_api_url" xml:space="preserve">
+    <value>Custom API server URL</value>
+  </data>
+  <data name="custom_api_url_restart_required" xml:space="preserve">
+    <value>A restart is required for this setting to take effect.</value>
+  </data>
+  <data name="custom_api_url_invalid" xml:space="preserve">
+    <value>Invalid custom API server address. Enter only a hostname, optionally with a port. Paths are not allowed.</value>
+  </data>
+  <data name="connected_to_default_server" xml:space="preserve">
+    <value>Connected to default server</value>
+  </data>
+  <data name="current_server" xml:space="preserve">
+    <value>Current server: {0}</value>
+  </data>
+  <data name="official_server" xml:space="preserve">
+    <value>g0v0! official server (g0v0.top)</value>
+  </data>
+  <data name="default_server" xml:space="preserve">
+    <value>Default server</value>
+  </data>
+  <data name="server_information" xml:space="preserve">
+    <value>Server Information</value>
+  </data>
+  <data name="custom_api_risky_warning" xml:space="preserve">
+    <value>You are attempting to connect to ppy's official server. This is not recommended and would result in an account ban.</value>
+  </data>
 </root>
