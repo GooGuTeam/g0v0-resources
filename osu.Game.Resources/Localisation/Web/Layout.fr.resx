@@ -62,7 +62,7 @@
     <value>Jouer automatiquement la musique suivante</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rhythm is just a *click* away! Avec les modes de jeu Ouendan/EBA, Taiko et d'autres modes de jeu originaux, ainsi qu'un éditeur de niveaux entièrement fonctionnel.</value>
+    <value>g0v0! - Une expérience rythmique libre et ouverte ! Avec les modes de jeu Ouendan/EBA, Taiko et d'autres modes de jeu originaux, ainsi qu'un éditeur de niveaux entièrement fonctionnel.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -191,7 +191,7 @@
     <value>Liste des beatmaps</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Télécharger osu!</value>
+    <value>Télécharger g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Aide &amp; Communauté</value>
@@ -311,7 +311,7 @@
     <value>Télécharger</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Téléchargez osu! pour créer votre propre compte !</value>
+    <value>Téléchargez g0v0! pour créer votre propre compte !</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Vous n'avez pas de compte ?</value>
@@ -326,10 +326,10 @@
     <value>Amis</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Mode lazer</value>
+    <value>Mode g0v0!</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Le mode lazer permet d'afficher les scores réalisés sur lazer. Ces scores utilisent un nouvel algorithme de calcul du score.</value>
+    <value>Le mode g0v0! permet d'afficher les scores réalisés sur g0v0!. Ces scores utilisent un nouvel algorithme de calcul du score.</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Se déconnecter</value>
@@ -341,7 +341,7 @@
     <value>Score classique</value>
   </data>
   <data name="popup_user.links.scoring_mode_toggle_tooltip" xml:space="preserve">
-    <value>Le score classique utilise un calcul du score qui n'a pas de limites fixes, similaire à la version stable d'osu!.</value>
+    <value>Le score classique utilise un calcul du score qui n'a pas de limites fixes, similaire à la version stable d'g0v0!.</value>
   </data>
   <data name="popup_user.links.team" xml:space="preserve">
     <value>Mon équipe</value>

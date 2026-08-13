@@ -68,12 +68,12 @@
     <value>Du kannst dieses Fenster nun schließen</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu! Client-Verifizierung wurde abgeschlossen</value>
+    <value>g0v0! Client-Verifizierung wurde abgeschlossen</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Klicke unten auf den Autorisierungs-Button, um die Client-Verifizierung abzuschließen.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! Client-Verifizierung</value>
+    <value>g0v0! Client-Verifizierung</value>
   </data>
 </root>

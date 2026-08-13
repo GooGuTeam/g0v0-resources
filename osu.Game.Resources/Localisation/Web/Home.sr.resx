@@ -80,7 +80,7 @@
     <value>најбоља free-to-win ритмичка игрица</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>ритам је увек удаљен за 1 клик</value>
+    <value>Слободно и отворено ритмичко искуство!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Напредна претрага</value>
@@ -276,12 +276,12 @@
 </value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Преузмите osu!</value>
+    <value>Преузмите g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Подржите osu!</value>
+    <value>Подржите g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!продавница</value>
+    <value>g0v0!продавница</value>
   </data>
 </root>

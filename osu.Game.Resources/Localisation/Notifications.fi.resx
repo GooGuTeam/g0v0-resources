@@ -80,7 +80,7 @@
     <value>Automaattinen toisto ei ole saatavilla nykyiselle pelimuodolle!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! ei vaikuta pystyvän toistamaan ääntä oikein.
+    <value>g0v0! ei vaikuta pystyvän toistamaan ääntä oikein.
 
 Ole hyvä ja yritä vaihtaa äänilaite toimivaksi asetukseksi.</value>
   </data>
@@ -115,7 +115,7 @@ Ole hyvä ja yritä vaihtaa äänilaite toimivaksi asetukseksi.</value>
     <value>Paikallinen kopiosi rytmikartasta tätä uusintaa varten näyttää olevan erilainen kuin odotettiin. Voit joutua lataamaan uudelleen tai päivittämään sen.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Käytössäsi on nyt osu! {0}.
+    <value>Käytössäsi on nyt g0v0! {0}.
 Napsauta nähdäksesi, mitä uutta on tarjolla!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

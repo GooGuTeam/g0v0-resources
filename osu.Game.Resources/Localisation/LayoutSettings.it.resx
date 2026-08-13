@@ -62,7 +62,7 @@
     <value>Controllando le funzionalità per lo schermo intero...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! è in esecuzione a schermo intero, garantendo bassa latenza!</value>
+    <value>g0v0! è in esecuzione a schermo intero, garantendo bassa latenza!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Impossibile andare in schermo intero. Potrebbero verificarsi latenze sull'input.</value>

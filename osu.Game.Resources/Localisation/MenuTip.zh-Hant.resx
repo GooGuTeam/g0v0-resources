@@ -124,9 +124,6 @@
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>在歌曲選單中按 Ctrl-Enter 可以以自動遊玩的方式開始！</value>
   </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>「Lazer」不是英文單字。雷射的正確拼法是「laser」。</value>
-  </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>多執行緒支援表示即使在低「FPS」的情況下，你的輸入和判斷依然會很準確！</value>
   </data>

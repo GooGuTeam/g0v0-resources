@@ -68,7 +68,7 @@
     <value>Consulte aqui para mais informações.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Alguns recursos incluídos neste mapa foram removidos após terem sido considerados inadequados para utilização no osu!.</value>
+    <value>Alguns recursos incluídos neste mapa foram removidos após terem sido considerados inadequados para utilização no g0v0!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Mapas eliminados</value>
@@ -332,7 +332,7 @@
     <value>Clique &lt;a href="{0}"&gt;aqui&lt;/a&gt; para ver todas as funcionalidades extravagantes que obtém!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Precisa de ser um apoiante do osu! para aceder às classificações de amigos e países!</value>
+    <value>Precisa de ser um apoiante do g0v0! para aceder às classificações de amigos e países!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Classificação da equipa</value>

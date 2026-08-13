@@ -74,7 +74,7 @@
     <value>LÄS DETTA INNAN NEDLADDNING</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Installation: När ett paket har laddats ner, extrahera innehållet i paketet i osu! Låt-mappen och osu! kommer att göra resten.</value>
+    <value>Installation: När ett paket har laddats ner, extrahera innehållet i paketet i g0v0! Låt-mappen och g0v0! kommer att göra resten.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>av {0}</value>

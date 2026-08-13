@@ -80,7 +80,7 @@
     <value>Cara main semasa tidak mempunyai penyesuai automain yang tersedia!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! nampaknya tidak boleh memutarkan audio dengan betul.
+    <value>g0v0! nampaknya tidak boleh memutarkan audio dengan betul.
 
 Sila cuba ubah peranti audio anda ke tetapan yang berguna.</value>
   </data>
@@ -115,7 +115,7 @@ Sila cuba ubah peranti audio anda ke tetapan yang berguna.</value>
     <value>Salinan setempat peta rentak anda untuk ulangan ini nampaknya berbeza dari jangkaan. Anda mungkin perlu mengemas kini atau memuat turun semula peta rentak ini.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Anda kini menjalankan osu! {0}.
+    <value>Anda kini menjalankan g0v0! {0}.
 Klik untuk melihat pembaharuan!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

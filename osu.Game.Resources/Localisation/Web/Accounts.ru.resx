@@ -149,7 +149,7 @@
     <value>сохранить</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Если вы вносите вклад в репозиторий osu!, подключение аккаунта GitHub позволит связать ваш ник в списке изменений с профилем osu!. Аккаунт GitHub без какого-либо вклада в osu! подключить нельзя.</value>
+    <value>Если вы вносите вклад в репозиторий g0v0!, подключение аккаунта GitHub позволит связать ваш ник в списке изменений с профилем g0v0!. Аккаунт GitHub без какого-либо вклада в g0v0! подключить нельзя.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Подключить аккаунт GitHub</value>
@@ -164,7 +164,7 @@
     <value>Этот аккаунт GitHub уже связан с другим пользователем.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Нельзя подключить аккаунт GitHub без вклада в репозиторий osu!.</value>
+    <value>Нельзя подключить аккаунт GitHub без вклада в репозиторий g0v0!.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Пожалуйста, сначала подтвердите электронную почту аккаунта GitHub, затем попробуйте снова.</value>
@@ -306,7 +306,7 @@
     <value>скрывать, что я в сети</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>это соответствует статусу "невидимка" в osu!lazer</value>
+    <value>это соответствует статусу "невидимка" в g0v0!</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Конфиденциальность</value>

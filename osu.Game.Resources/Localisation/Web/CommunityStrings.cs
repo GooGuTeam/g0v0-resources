@@ -15,9 +15,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportConvincedTitle(LocalisableString d) => new TranslatableString(getKey(@"support.convinced.title"), @"I'm convinced! {0}", d);
 
         /// <summary>
-        /// "support osu!"
+        /// "support g0v0!"
         /// </summary>
-        public static LocalisableString SupportConvincedSupport => new TranslatableString(getKey(@"support.convinced.support"), @"support osu!");
+        public static LocalisableString SupportConvincedSupport => new TranslatableString(getKey(@"support.convinced.support"), @"support g0v0!");
 
         /// <summary>
         /// "or gift supporter to other players"
@@ -30,9 +30,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportConvincedInstructions => new TranslatableString(getKey(@"support.convinced.instructions"), @"click the heart button to proceed to the osu!store");
 
         /// <summary>
-        /// "Why should I support osu!? Where does the money go?"
+        /// "Why should I support g0v0!? Where does the money go?"
         /// </summary>
-        public static LocalisableString SupportWhySupportTitle => new TranslatableString(getKey(@"support.why-support.title"), @"Why should I support osu!? Where does the money go?");
+        public static LocalisableString SupportWhySupportTitle => new TranslatableString(getKey(@"support.why-support.title"), @"Why should I support g0v0!? Where does the money go?");
 
         /// <summary>
         /// "Support the Team"
@@ -40,9 +40,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportWhySupportTeamTitle => new TranslatableString(getKey(@"support.why-support.team.title"), @"Support the Team");
 
         /// <summary>
-        /// "A small team develops and runs osu!. Your support helps them to, you know... live."
+        /// "A small team develops and runs g0v0!. Your support helps them to, you know... live."
         /// </summary>
-        public static LocalisableString SupportWhySupportTeamDescription => new TranslatableString(getKey(@"support.why-support.team.description"), @"A small team develops and runs osu!. Your support helps them to, you know... live.");
+        public static LocalisableString SupportWhySupportTeamDescription => new TranslatableString(getKey(@"support.why-support.team.description"), @"A small team develops and runs g0v0!. Your support helps them to, you know... live.");
 
         /// <summary>
         /// "Server Infrastructure"
@@ -60,9 +60,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportWhySupportFeaturedArtistsTitle => new TranslatableString(getKey(@"support.why-support.featured-artists.title"), @"Featured Artists");
 
         /// <summary>
-        /// "With your support, we can approach even more awesome artists and license more great music for use in osu!"
+        /// "With your support, we can approach even more awesome artists and license more great music for use in g0v0!"
         /// </summary>
-        public static LocalisableString SupportWhySupportFeaturedArtistsDescription => new TranslatableString(getKey(@"support.why-support.featured-artists.description"), @"With your support, we can approach even more awesome artists and license more great music for use in osu!");
+        public static LocalisableString SupportWhySupportFeaturedArtistsDescription => new TranslatableString(getKey(@"support.why-support.featured-artists.description"), @"With your support, we can approach even more awesome artists and license more great music for use in g0v0!");
 
         /// <summary>
         /// "View the current roster &amp;raquo;"
@@ -70,9 +70,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportWhySupportFeaturedArtistsLinkText => new TranslatableString(getKey(@"support.why-support.featured-artists.link_text"), @"View the current roster &raquo;");
 
         /// <summary>
-        /// "Keep osu! self-sustaining"
+        /// "Keep g0v0! self-sustaining"
         /// </summary>
-        public static LocalisableString SupportWhySupportAdsTitle => new TranslatableString(getKey(@"support.why-support.ads.title"), @"Keep osu! self-sustaining");
+        public static LocalisableString SupportWhySupportAdsTitle => new TranslatableString(getKey(@"support.why-support.ads.title"), @"Keep g0v0! self-sustaining");
 
         /// <summary>
         /// "Your contributions help keep the game independent and completely free from ads and outside sponsors."
@@ -100,9 +100,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportWhySupportBountyProgramTitle => new TranslatableString(getKey(@"support.why-support.bounty-program.title"), @"Open Source Bounty Program");
 
         /// <summary>
-        /// "Support the community contributors that have given their time and effort to help make osu! better."
+        /// "Support the community contributors that have given their time and effort to help make g0v0! better."
         /// </summary>
-        public static LocalisableString SupportWhySupportBountyProgramDescription => new TranslatableString(getKey(@"support.why-support.bounty-program.description"), @"Support the community contributors that have given their time and effort to help make osu! better.");
+        public static LocalisableString SupportWhySupportBountyProgramDescription => new TranslatableString(getKey(@"support.why-support.bounty-program.description"), @"Support the community contributors that have given their time and effort to help make g0v0! better.");
 
         /// <summary>
         /// "Find out more &amp;raquo;"

@@ -500,7 +500,7 @@
     <value>Vairāk Meklēšanas Opcijas</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrēšanai pēc {0} ir nepieciešams aktīvs osu!atbalstītāja piekariņš</value>
+    <value>Filtrēšanai pēc {0} ir nepieciešams aktīvs g0v0!atbalstītāja piekariņš</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>nav rezultātu</value>
@@ -569,7 +569,7 @@
     <value>Filtrēšanai pēc {0} ir nepieciešams aktīvs {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!atbalstītāja piekariņš</value>
+    <value>g0v0!atbalstītāja piekariņš</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Iekļaut pārveidotās ritma-kartes</value>

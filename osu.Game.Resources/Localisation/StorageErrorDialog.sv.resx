@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>osu! lagringsfel</value>
+    <value>g0v0! lagringsfel</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Den angivna osu! dataplatsen ("{0}") är inte tillgänglig. Om den finns på extern lagring, vänligen återanslut enheten och försök igen.</value>
+    <value>Den angivna g0v0! dataplatsen ("{0}") är inte tillgänglig. Om den finns på extern lagring, vänligen återanslut enheten och försök igen.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>Den angivna osu! dataplatsen ("{0}") är tom. Om du har flyttat filerna, vänligen stäng osu! och flytta tillbaka dem.</value>
+    <value>Den angivna g0v0! dataplatsen ("{0}") är tom. Om du har flyttat filerna, vänligen stäng g0v0! och flytta tillbaka dem.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Försök igen</value>

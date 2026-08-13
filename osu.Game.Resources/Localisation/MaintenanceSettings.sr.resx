@@ -83,7 +83,7 @@
     <value>Изабрана локација садржи osu! инсталација. Да ли га треба заменити овим?</value>
   </data>
   <data name="restart_and_re_open_required_for_completion" xml:space="preserve">
-    <value>Да бисте довршили ову операцију, затвори osu!. Отворите га поново да бисте користили нову локацију података.</value>
+    <value>Да бисте довршили ову операцију, затвори g0v0!. Отворите га поново да бисте користили нову локацију података.</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>Обришите СВЕ мапе</value>

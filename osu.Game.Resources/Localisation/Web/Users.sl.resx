@@ -311,7 +311,7 @@
     <value>Tu že od samega začetka</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!razvijalec</value>
+    <value>g0v0!razvijalec</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
     <value>osu!supporter</value>
@@ -782,7 +782,7 @@
     <value>namesto tega se registriraj prek odjemalca igre!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>prosimo dokončaj registracijo s pomočjo osu! spletne strani</value>
+    <value>prosimo dokončaj registracijo s pomočjo g0v0! spletne strani</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Uporabnik ustvarjen</value>

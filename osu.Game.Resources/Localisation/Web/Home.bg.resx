@@ -80,7 +80,7 @@
     <value>най-добрата безплатна ритъм игра</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>ритъмът е само на клик от вас</value>
+    <value>Свободно и отворено ритмично преживяване!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Разширено търсене</value>
@@ -296,12 +296,12 @@
     <value>свършва след {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Изтегли osu!</value>
+    <value>Изтегли g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Подкрепи osu!</value>
+    <value>Подкрепи g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!магазин</value>
+    <value>g0v0!магазин</value>
   </data>
 </root>

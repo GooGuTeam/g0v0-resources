@@ -89,10 +89,10 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;{1}&lt;/em&gt; ({2}) beatmapinde birinciliği kaybetti</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; bir kez daha osu!'yu desteklemeyi seçti - cömertliğinden dolayı teşekkürler!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; bir kez daha g0v0!'yu desteklemeyi seçti - cömertliğinden dolayı teşekkürler!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; osu! supporter satın aldı - cömertliğinden dolayı teşekkür ederiz!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; g0v0! supporter satın aldı - cömertliğinden dolayı teşekkür ederiz!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; osu!supporter hediyesi aldı!</value>

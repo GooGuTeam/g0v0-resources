@@ -899,7 +899,7 @@
     <value>Пожалуйста, зарегистрируйтесь через игровой клиент!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>Пожалуйста, завершите регистрацию через сайт osu!</value>
+    <value>Пожалуйста, завершите регистрацию через сайт g0v0!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Пользователь создан</value>

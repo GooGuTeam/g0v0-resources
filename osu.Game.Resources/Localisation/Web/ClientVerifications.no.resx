@@ -68,13 +68,13 @@
     <value>Du kan nå lukke fanen/vinduet</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu! klient verifikasjon har blitt fullført
+    <value>g0v0! klient verifikasjon har blitt fullført
 </value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Trykk på autoriser knappen under for å fullføre klien verifikasjon.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! klient verifikasjon</value>
+    <value>g0v0! klient verifikasjon</value>
   </data>
 </root>

@@ -83,7 +83,7 @@
     <value>Проверявам за актуализации</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Отваряне на osu! папка</value>
+    <value>Отваряне на g0v0! папка</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Експорт на дневник</value>
@@ -93,12 +93,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Стартиране на съветник за настройка</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Научете повече за lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Преглед и сравнение на функции и ЧЗВ</value>
   </data>
   <data name="change_release_stream_package_warning" xml:space="preserve">
     <value>Проверете вашия пакетен доставчик за други издания.</value>

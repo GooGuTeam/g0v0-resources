@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="page_description" xml:space="preserve">
-    <value>Избранные исполнители osu!</value>
+    <value>Избранные исполнители g0v0!</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>Избранные исполнители</value>
@@ -77,13 +77,13 @@
     <value>шаблон карты пока недоступен</value>
   </data>
   <data name="index.description" xml:space="preserve">
-    <value>Избранные исполнители — это артисты, с которыми мы начали сотрудничать, чтобы наполнить игру свежей и оригинальной музыкой. Команда osu! вручную отобрала классные песни и их авторов как наиболее подходящие для создания карт. Некоторые исполнители сочиняют музыку эксклюзивно для osu!.&lt;br&gt;&lt;br&gt;Ко всем песням ниже, у которых есть лицензия на использование в osu! и других связанных продуктах, прилагаются шаблоны для маппинга.</value>
+    <value>Избранные исполнители — это артисты, с которыми мы начали сотрудничать, чтобы наполнить игру свежей и оригинальной музыкой. Команда g0v0! вручную отобрала классные песни и их авторов как наиболее подходящие для создания карт. Некоторые исполнители сочиняют музыку эксклюзивно для g0v0!.&lt;br&gt;&lt;br&gt;Ко всем песням ниже, у которых есть лицензия на использование в g0v0! и других связанных продуктах, прилагаются шаблоны для маппинга.</value>
   </data>
   <data name="links.beatmaps" xml:space="preserve">
-    <value>Карты osu!</value>
+    <value>Карты g0v0!</value>
   </data>
   <data name="links.osu" xml:space="preserve">
-    <value>Профиль в osu!</value>
+    <value>Профиль в g0v0!</value>
   </data>
   <data name="links.site" xml:space="preserve">
     <value>Официальный сайт</value>
@@ -95,7 +95,7 @@
     <value>{0} песня|{0} песни|{0} песен</value>
   </data>
   <data name="songs.original" xml:space="preserve">
-    <value>исключительно для osu!</value>
+    <value>исключительно для g0v0!</value>
   </data>
   <data name="songs.original_badge" xml:space="preserve">
     <value>ORIGINAL</value>
@@ -119,7 +119,7 @@
     <value>Все</value>
   </data>
   <data name="tracks.index.exclusive_only.exclusive_only" xml:space="preserve">
-    <value>исключительно для osu!</value>
+    <value>исключительно для g0v0!</value>
   </data>
   <data name="tracks.index.form.advanced" xml:space="preserve">
     <value>Расширенный поиск</value>

@@ -89,9 +89,9 @@
     <value>A ligação leve de ficheiros não é suportada no seu sistema operativo de momento, por isso será feita uma cópia de todos os ficheiros durante a importação.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Será feita uma segunda cópia de todos os ficheiros durante a importação. Para evitar isto, certifique‑se de que a pasta de dados do lazer está na mesma unidade que a sua instalação anterior do osu! (e que o sistema de ficheiros é NTFS).</value>
+    <value>Será feita uma segunda cópia de todos os ficheiros durante a importação. Para evitar isto, certifique‑se de que a pasta de dados do g0v0 está na mesma unidade que a sua instalação anterior do osu! (e que o sistema de ficheiros é NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Será feita uma segunda cópia de todos os ficheiros durante a importação. Para evitar isto, certifique‑se de que a pasta de dados do lazer está na mesma unidade que a sua instalação anterior do osu! (e que o sistema de ficheiros suporta ligações rígidas).</value>
+    <value>Será feita uma segunda cópia de todos os ficheiros durante a importação. Para evitar isto, certifique‑se de que a pasta de dados do g0v0 está na mesma unidade que a sua instalação anterior do osu! (e que o sistema de ficheiros suporta ligações rígidas).</value>
   </data>
 </root>

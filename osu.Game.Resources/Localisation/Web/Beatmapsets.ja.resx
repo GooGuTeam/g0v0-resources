@@ -68,7 +68,7 @@
     <value>詳細はこちらです。</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>このビートマップに含まれる一部のアセットは、osu!での使用に適さないと判断され、削除されています。</value>
+    <value>このビートマップに含まれる一部のアセットは、g0v0!での使用に適さないと判断され、削除されています。</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>削除されたビートマップ</value>
@@ -329,10 +329,10 @@
     <value>世界ランキング</value>
   </data>
   <data name="show.scoreboard.supporter-link" xml:space="preserve">
-    <value>&lt;a href="{0}"&gt;ここ&lt;/a&gt;をクリックする事でosu!サポーターの詳細が見れます。</value>
+    <value>&lt;a href="{0}"&gt;ここ&lt;/a&gt;をクリックする事でg0v0!サポーターの詳細が見れます。</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>フレンドランキングと国別ランキングを利用するにはosu!サポータータグが必要です！</value>
+    <value>フレンドランキングと国別ランキングを利用するにはg0v0!サポータータグが必要です！</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>チームランキング</value>
@@ -395,7 +395,7 @@
     <value>あなたのベスト</value>
   </data>
   <data name="show.scoreboard.supporter_link._" xml:space="preserve">
-    <value>osu!サポーターの詳細を見るには{0}してください。</value>
+    <value>g0v0!サポーターの詳細を見るには{0}してください。</value>
   </data>
   <data name="show.scoreboard.supporter_link.here" xml:space="preserve">
     <value>こちらをクリック</value>

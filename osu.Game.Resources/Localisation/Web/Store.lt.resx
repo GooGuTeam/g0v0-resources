@@ -104,7 +104,7 @@
     <value>Šiuo metu yra labai daug užsakymų! Maloniai kviečiame užsakyti prekes, tačiau prekės **papildomai vėluos 1-2 savaites** iki kol mes susidorosime su dabartiniais užsakymais.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Nerodyti visas šio užsakymo osu!rėmėjo žymas tarp mano veiklos</value>
+    <value>Nerodyti visas šio užsakymo g0v0!rėmėjo žymas tarp mano veiklos</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Tavo prekių krepšelis atrodo nebuvo atnaujintas, pamėgink dar kartą.</value>
@@ -146,7 +146,7 @@
     <value>Paypal atšaukė eCheck apmokėjimą.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!rėmėjo žymos šiame užsakyme nerodomos jūsų pastarojoje veikloje.</value>
+    <value>g0v0!rėmėjo žymos šiame užsakyme nerodomos jūsų pastarojoje veikloje.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Siunčiama Per:</value>

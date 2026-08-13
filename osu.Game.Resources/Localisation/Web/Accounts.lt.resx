@@ -143,7 +143,7 @@
     <value>išsaugoti</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Jei prisidedate prie osu! atvirojo kodo saugyklų, susiejant jūsų GitHub paskyrą galite pririšti jūsų pakeitimų pateiktis prie jūsų osu! paskyros. GitHub paskyros be jokios prisidėjimų prie osu! istorijos negali būti susietos.</value>
+    <value>Jei prisidedate prie g0v0! atvirojo kodo saugyklų, susiejant jūsų GitHub paskyrą galite pririšti jūsų pakeitimų pateiktis prie jūsų g0v0! paskyros. GitHub paskyros be jokios prisidėjimų prie g0v0! istorijos negali būti susietos.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Susieti GitHub paskyrą</value>
@@ -158,7 +158,7 @@
     <value>Ši GitHub paskyra jau yra susieta su kitu naudotuju.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Negalima susieti GitHub paskyros be įnašų istorijos osu! saugyklose.</value>
+    <value>Negalima susieti GitHub paskyros be įnašų istorijos g0v0! saugyklose.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Prašome patvirtinti jūsų pagrindinį el. pašto adresą GitHub platformoje, tada vėl bandyti susieti su savo paskyra.</value>

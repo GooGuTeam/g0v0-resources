@@ -62,7 +62,7 @@
     <value>Groti kitą takelį automatiškai</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritmas yra tik per vieną *paspaudimą* nuo tavęs! Su Ouendan/EBA, Taiko ir originaliais žaidimo režimais, taip pat pilnai veikiančiu lygių redagavimo įrankių.</value>
+    <value>g0v0! - Laisva ir atvira ritmo patirtis! Su Ouendan/EBA, Taiko ir originaliais žaidimo režimais, taip pat pilnai veikiančiu lygių redagavimo įrankių.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmap'ų setas</value>
@@ -185,7 +185,7 @@
     <value>Beatmap'ų sąrašas</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Atsisiūsti osu!</value>
+    <value>Atsisiūsti g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Pagalba ir Bendruomenė</value>
@@ -305,7 +305,7 @@
     <value>Atsisiųsti</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Atsisiųsk osu!, kad susikurti paskyrą!</value>
+    <value>Atsisiųsk g0v0!, kad susikurti paskyrą!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Neturite paskyros?</value>
@@ -320,10 +320,10 @@
     <value>Draugai</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer rėžimas</value>
+    <value>g0v0! rėžimas</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer rėžimas rodo lazer rezultatus naudojančius naują taškų skaičiavimo algoritmą</value>
+    <value>g0v0! rėžimas rodo g0v0! rezultatus naudojančius naują taškų skaičiavimo algoritmą</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Atsijungti</value>

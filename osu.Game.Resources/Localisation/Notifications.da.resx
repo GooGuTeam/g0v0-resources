@@ -80,7 +80,7 @@
     <value>Det nuværende regelsæt har ikke en automatisk afspilning modifikation tilgængelig!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! ser ikke ud til at afspille lyd korrekt.
+    <value>g0v0! ser ikke ud til at afspille lyd korrekt.
 Prøv at ændre din lydenhed til en, der virker.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
@@ -114,7 +114,7 @@ Prøv at ændre din lydenhed til en, der virker.</value>
     <value>Din lokale kopi af beatmappet for genafspilningen ser ud til at være anderledes end forventet. You skal måske opdatere eller hente det igen.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Du kører nu osu! {0}.
+    <value>Du kører nu g0v0! {0}.
 Klik her, for at se hvad der er nyt!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -139,7 +139,7 @@ Klik her, for at se hvad der er nyt!</value>
     <value>Offline: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>Forbindelse til onlinetjenester blev afbrudt. osu! vil fungere med begrænset funktionalitet.</value>
+    <value>Forbindelse til onlinetjenester blev afbrudt. g0v0! vil fungere med begrænset funktionalitet.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Du er blevet logget ud af denne enhed fordi der blev logget ind på din konto på en anden enhed.</value>
@@ -166,13 +166,13 @@ Klik her, for at se hvad der er nyt!</value>
     <value>Denne fejl er automatisk blevet rapporteret til udvikler-holdet.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>A nyere udgivelse af osu! blev fundet ({0} → {1}).</value>
+    <value>A nyere udgivelse af g0v0! blev fundet ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Klik her for at hente den nye version, som kan installeres oven på din eksisterende installation.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Tjek med din pakke-manager / udbyder for at holde osu! opdateret!</value>
+    <value>Tjek med din pakke-manager / udbyder for at holde g0v0! opdateret!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>En handling blev afbrudt på grund af dialog der blev vises.</value>
@@ -190,7 +190,7 @@ Klik her, for at se hvad der er nyt!</value>
     <value>Logfiler blev eksporteret! Klik her for at se.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>At køre osu! som {0} forbedrer ikke ydeevnen, som kan bryde integrationer og udgør en sikkerhedsrisiko. Være flink at køre spillet som en normal bruger.</value>
+    <value>At køre g0v0! som {0} forbedrer ikke ydeevnen, som kan bryde integrationer og udgør en sikkerhedsrisiko. Være flink at køre spillet som en normal bruger.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Skærmbillede {0} blev gemt!</value>

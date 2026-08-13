@@ -89,13 +89,13 @@
     <value>Dacă ai orice întrebare sau feedback, nu ezita să răspunzi acestui e-mail; îți voi răspunde cât mai curând posibil!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Mulţumită oamenilor ca tine, osu! este capabil să menţină jocul şi comunitatea funcţională fără reclame sau plăţi forţate.</value>
+    <value>Mulţumită oamenilor ca tine, g0v0! este capabil să menţină jocul şi comunitatea funcţională fără reclame sau plăţi forţate.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Sprijinul tău păstrează osu! rulând aproximativ {0}! Poate nu pare prea mult, dar totul se adună :).</value>
+    <value>Sprijinul tău păstrează g0v0! rulând aproximativ {0}! Poate nu pare prea mult, dar totul se adună :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Mulțumim, osu! te &lt;3</value>
+    <value>Mulțumim, g0v0! te &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>O traducere furnizată de către comunitate pentru scopuri informative:</value>
@@ -107,7 +107,7 @@
     <value>Acum vei avea acces la osu!direct și la multe alte beneficii de suporter pentru {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Îți mulțumim mult pentru {0} tău către osu!.</value>
+    <value>Îți mulțumim mult pentru {0} tău către g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>suportul</value>
@@ -119,7 +119,7 @@
     <value>Ai primit un comentariu nou în "{0}" de la vizita ta trecută.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nou răspuns pentru subiectul "{0}"</value>
+    <value>[g0v0!] Nou răspuns pentru subiectul "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Dacă nu mai dorești să urmărești acest subiect, poți face clic pe link-ul "Dezabonare subiect" găsit în partea de jos a subiectului de mai sus, sau din pagina de administrare subiecte abonate:</value>
@@ -149,10 +149,10 @@
     <value>Livrare</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Am primit comanda ta din magazinul osu!</value>
+    <value>Am primit comanda ta din magazinul g0v0!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Mulțumim pentru comanda ta din magazinul osu!</value>
+    <value>Mulțumim pentru comanda ta din magazinul g0v0!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Total</value>
@@ -164,19 +164,19 @@
     <value>Dar probabil că ştii deja cine este ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Mulțumită lor, ai acces la osu!direct și alte beneficii de suporter osu! pentru {0}.</value>
+    <value>Mulțumită lor, ai acces la osu!direct și alte beneficii de suporter g0v0! pentru {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Mai multe detalii privind aceste beneficii pot fi găsite aici:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Cineva tocmai ți-a dăruit statusul de suporter osu!</value>
+    <value>Cineva tocmai ți-a dăruit statusul de suporter g0v0!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Persoana care a dăruit statusul de suporter v-a lăsat un mesaj:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Ți-a fost oferit statusul de suporter osu!</value>
+    <value>Ți-a fost oferit statusul de suporter g0v0!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>Acesta este un e-mail de confirmare pentru a te informa că e-mailul contului tău osu! a fost modificat la "{0}".</value>
@@ -209,7 +209,7 @@
     <value>Schimbă preferințele de notificare prin e-mail:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Noi notificări osu!</value>
+    <value>Noi notificări g0v0!</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Aceasta este doar o confirmare că parola de osu! a fost schimbată.</value>

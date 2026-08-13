@@ -90,13 +90,13 @@
     <value>Ако имате каквито и да е въпроси или искате да се свържете с нас, не се колебайте да отговорите на този имейл; Ще се свържем с вас възможно най-скоро!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Благодарение на хора като вас, osu! е в състояние да поддържа играта и общността безпроблемно работещи, без реклами или принудителни плащания.</value>
+    <value>Благодарение на хора като вас, g0v0! е в състояние да поддържа играта и общността безпроблемно работещи, без реклами или принудителни плащания.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Вашата подкрепа помага на osu! да работи за около {0}! Това може да не изглежда като много, но всичко се натрупва :).</value>
+    <value>Вашата подкрепа помага на g0v0! да работи за около {0}! Това може да не изглежда като много, но всичко се натрупва :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Благодаря, osu! Ви &lt;3</value>
+    <value>Благодаря, g0v0! Ви &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Следва предоставен от общността превод за информационни цели:</value>
@@ -108,7 +108,7 @@
     <value>Вече имате достъп до osu!direct и всички останали привилегии за поддръжници за {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Благодаря много за цялата {0} спрямо osu!.</value>
+    <value>Благодаря много за цялата {0} спрямо g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>подкрепа</value>
@@ -120,7 +120,7 @@
     <value>Уведомяваме ви, че има нов отговор в "{0}" след последното ви посещение.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Нов отговор в дискусията "{0}"</value>
+    <value>[g0v0!] Нов отговор в дискусията "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Ако вече не желаете да следите тази дискусия, може да кликнете върху връзката „Отписване на абонамент от тази тема“, в долната част или от страницата за управление на следваните теми:</value>
@@ -214,7 +214,7 @@
     <value>Промени известията по имейл:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Нови osu! известия</value>
+    <value>Нови g0v0! известия</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Това е подвърждение, че вашата osu! парола е променена.</value>

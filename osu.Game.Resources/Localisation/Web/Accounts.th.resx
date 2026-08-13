@@ -143,7 +143,7 @@
     <value>อัพเดต</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>หากคุณเป็นผู้มีส่วนร่วมในพื้นที่เก็บข้อมูลโอเพ่นซอร์สของ osu! การเชื่อมโยงบัญชี GitHub ของคุณที่นี่จะเชื่อมโยงรายการบันทึกการเปลี่ยนแปลงของคุณกับ osu! ประวัติโดยย่อ. บัญชี GitHub ที่ไม่มีประวัติการมีส่วนร่วมกับ osu! ไม่สามารถเชื่อมโยงได้</value>
+    <value>หากคุณเป็นผู้มีส่วนร่วมในพื้นที่เก็บข้อมูลโอเพ่นซอร์สของ g0v0! การเชื่อมโยงบัญชี GitHub ของคุณที่นี่จะเชื่อมโยงรายการบันทึกการเปลี่ยนแปลงของคุณกับ g0v0! ประวัติโดยย่อ. บัญชี GitHub ที่ไม่มีประวัติการมีส่วนร่วมกับ g0v0! ไม่สามารถเชื่อมโยงได้</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>เชื่อมโยงบัญชี GitHub</value>
@@ -158,7 +158,7 @@
     <value>บัญชี GitHub นี้เชื่อมโยงกับผู้ใช้รายอื่นแล้ว</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>ไม่สามารถเชื่อมโยงบัญชี GitHub โดยไม่มีประวัติการมีส่วนร่วมใน osu! ที่เก็บ</value>
+    <value>ไม่สามารถเชื่อมโยงบัญชี GitHub โดยไม่มีประวัติการมีส่วนร่วมใน g0v0! ที่เก็บ</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>โปรดยืนยันอีเมลหลักของคุณบน GitHub จากนั้นลองเชื่อมโยงบัญชีของคุณอีกครั้ง</value>

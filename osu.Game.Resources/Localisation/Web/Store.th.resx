@@ -149,7 +149,7 @@
     <value>การชำระเงิน eCheck ถูกปฏิเสธโดย PayPal</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>แท็กผู้สนับสนุน osu! ในคำสั่งซื้อนี้จะไม่แสดงในกิจกรรมล่าสุดของคุณ</value>
+    <value>แท็กผู้สนับสนุน g0v0! ในคำสั่งซื้อนี้จะไม่แสดงในกิจกรรมล่าสุดของคุณ</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>ส่งทาง:</value>

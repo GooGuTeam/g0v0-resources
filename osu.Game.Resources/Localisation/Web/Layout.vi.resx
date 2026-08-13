@@ -62,7 +62,7 @@
     <value>Tự động phát bài tiếp theo</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Chỉ bắt đầu bằng một cái *click* chuột!  Với Ouendan/EBA, Taiko và những chế độ chơi nguyên bản, cũng như một level editor đầy đủ chức năng.</value>
+    <value>g0v0! - Trải nghiệm nhịp điệu tự do và mở!  Với Ouendan/EBA, Taiko và những chế độ chơi nguyên bản, cũng như một level editor đầy đủ chức năng.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -191,7 +191,7 @@
     <value>Danh Sách Beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Tải Xuống osu!</value>
+    <value>Tải Xuống g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Giúp Đỡ &amp; Cộng Đồng</value>
@@ -311,7 +311,7 @@
     <value>Tải xuống</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Hãy tải xuống osu! để tạo tài khoản của riêng bạn!</value>
+    <value>Hãy tải xuống g0v0! để tạo tài khoản của riêng bạn!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Chưa có tài khoản?</value>
@@ -326,10 +326,10 @@
     <value>Bạn bè</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Chế độ lazer</value>
+    <value>Chế độ g0v0!</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Chế độ lazer hiển thị các điểm cá nhân từ lazer cùng thuật toán tính điểm mới</value>
+    <value>Chế độ g0v0! hiển thị các điểm cá nhân từ g0v0! cùng thuật toán tính điểm mới</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Đăng Xuất</value>

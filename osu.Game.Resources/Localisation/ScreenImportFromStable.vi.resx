@@ -89,9 +89,9 @@
     <value>Hệ điều hành của bạn chưa hỗ trợ liên kết nhẹ giữa các tệp, do đó bản sao của tất cả các tệp sẽ được tạo trong quá trình nhập dữ liệu.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Một bản sao thứ hai của tất cả các tệp sẽ được tạo ra trong quá trình nhập dữ liệu. Để tránh điều này, vui lòng đảm bảo thư mục dữ liệu của lazer nằm cùng ổ đĩa với bản cài đặt osu! trước đó của bạn (và định dạng ổ đĩa phải là NTFS).</value>
+    <value>Một bản sao thứ hai của tất cả các tệp sẽ được tạo ra trong quá trình nhập dữ liệu. Để tránh điều này, vui lòng đảm bảo thư mục dữ liệu của g0v0 nằm cùng ổ đĩa với bản cài đặt osu! trước đó của bạn (và định dạng ổ đĩa phải là NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Một bản sao thứ hai của tất cả các tệp sẽ được tạo trong quá trình nhập dữ liệu. Để tránh điều này, vui lòng đảm bảo thư mục dữ liệu lazer nằm trên cùng ổ đĩa với phiên bản osu! trước đó của bạn (và hệ thống tệp hỗ trợ hard links).</value>
+    <value>Một bản sao thứ hai của tất cả các tệp sẽ được tạo trong quá trình nhập dữ liệu. Để tránh điều này, vui lòng đảm bảo thư mục dữ liệu g0v0 nằm trên cùng ổ đĩa với phiên bản osu! trước đó của bạn (và hệ thống tệp hỗ trợ hard links).</value>
   </data>
 </root>

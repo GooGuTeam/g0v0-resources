@@ -68,12 +68,12 @@
     <value>Şimdi bu sekmeyi/pencereyi kapatabilirsiniz</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu! istemci doğrulaması tamamlandı</value>
+    <value>g0v0! istemci doğrulaması tamamlandı</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>İstemci doğrulamasını tamamlamak için alttaki "doğrula" butonuna bas.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! istemci doğrulaması</value>
+    <value>g0v0! istemci doğrulaması</value>
   </data>
 </root>

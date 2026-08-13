@@ -81,7 +81,7 @@
     <value>vislabākā brīvā ritma spēle</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>ritms ir tikai klikšķa attālumā</value>
+    <value>Brīva un atvērta ritma pieredze!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Izvērstā meklēšana</value>
@@ -306,13 +306,13 @@
     <value>restartējās {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Lejupielādēt osu!</value>
+    <value>Lejupielādēt g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Atbalstīt osu!</value>
+    <value>Atbalstīt g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!veikals</value>
+    <value>g0v0!veikals</value>
   </data>
   <data name="user.show.admin.page" xml:space="preserve">
     <value>Avērt adminu konsoli</value>

@@ -62,7 +62,7 @@
     <value>Verificare capabilități fullscreen...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! rulează în mod fullscreen exclusiv, garantând latență de intrare mai mică!</value>
+    <value>g0v0! rulează în mod fullscreen exclusiv, garantând latență de intrare mai mică!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Nu se poate rula în modul fullscreen exclusiv. Este posibil să aveți latență de intrare adițională.</value>

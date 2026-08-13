@@ -62,7 +62,7 @@
     <value>กำลังตรวจสอบความสามารถในการปรับให้เต็มหน้าจอ...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! กำลังทำงานแบบเต็มหน้าจอพิเศษ รับประกันความหน่วงต่ำ!</value>
+    <value>g0v0! กำลังทำงานแบบเต็มหน้าจอพิเศษ รับประกันความหน่วงต่ำ!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>ไม่สามารถทำงานในแบบเต็มหน้าจอพิเศษ คุณอาจพบความหน่วงในการป้อนข้อมูล</value>

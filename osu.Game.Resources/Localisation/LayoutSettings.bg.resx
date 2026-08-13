@@ -62,7 +62,7 @@
     <value>Проверяват се възможностите за цял екран...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! работи на цял екран, гарантирано е ниско закъснение!</value>
+    <value>g0v0! работи на цял екран, гарантирано е ниско закъснение!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Изпълнението на цял екран не е възможно. Може да изпитате някои забавяния.</value>

@@ -62,7 +62,7 @@
     <value>S'estan comprovant les capacitats de pantalla completa...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! s'està executant una pantalla completa exclusiva, garantint una baixa latència!</value>
+    <value>g0v0! s'està executant una pantalla completa exclusiva, garantint una baixa latència!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>No s'ha pogut executar la pantalla completa exclusiva. Encara experimentaràs una mica de latència d'entrada.</value>

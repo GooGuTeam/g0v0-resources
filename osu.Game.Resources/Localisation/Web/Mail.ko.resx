@@ -89,13 +89,13 @@
     <value>만약 질문이나 피드백이 있으시다면, 이 메일로 답장하는걸 주저하지 마세요. 최대한 빠르게 답해드리겠습니다!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>osu!가 광고나 결제 유도 없이 게임과 커뮤니티를 운영할 수 있는것은 당신같은 사람들 덕분입니다.</value>
+    <value>g0v0!가 광고나 결제 유도 없이 게임과 커뮤니티를 운영할 수 있는것은 당신같은 사람들 덕분입니다.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>당신의 지원으로 osu!가 {0}분 동안 더 돌아갈 수 있게 되었습니다! 그렇게 길지 않을 수는 있지만, 티끌 모아 태산이죠 :)</value>
+    <value>당신의 지원으로 g0v0!가 {0}분 동안 더 돌아갈 수 있게 되었습니다! 그렇게 길지 않을 수는 있지만, 티끌 모아 태산이죠 :)</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>감사합니다, osu!는 여러분을 ❤합니다</value>
+    <value>감사합니다, g0v0!는 여러분을 ❤합니다</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>다음은 정보 제공을 위해 유저가 번역한 내용입니다:</value>
@@ -107,7 +107,7 @@
     <value>이제 {0}동안 osu!direct와 다른 서포터 혜택을 누리실 수 있습니다.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>osu!를 향한 당신의 {0}에 감사드립니다!</value>
+    <value>g0v0!를 향한 당신의 {0}에 감사드립니다!</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>지원</value>
@@ -119,7 +119,7 @@
     <value>지난 방문 이후로 "{0}" 게시글에 새로운 답글이 달렸다는 것을 알려드립니다.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] "{0}" 주제에 대한 새로운 답변이 달렸습니다</value>
+    <value>[g0v0!] "{0}" 주제에 대한 새로운 답변이 달렸습니다</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>이 주제의 소식을 그만 받으시려면 위 페이지에 있는 "구독 해제" 링크를 클릭하거나, 다음 구독 관리 페이지에서 설정하실 수 있습니다:</value>
@@ -164,19 +164,19 @@
     <value>뭐... 이미 누군지 눈치챈 것 같기도 하네요^^</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>선물해주신 분 덕분에 {0}동안 osu!direct를 비롯한 다른 osu! 서포터 혜택을 누리실 수 있습니다.</value>
+    <value>선물해주신 분 덕분에 {0}동안 osu!direct를 비롯한 다른 g0v0! 서포터 혜택을 누리실 수 있습니다.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>자세한 기능은 다음 링크를 통해 확인하실 수 있습니다:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>누군가가 당신에게 osu! 서포터 태그를 선물했습니다!</value>
+    <value>누군가가 당신에게 g0v0! 서포터 태그를 선물했습니다!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>이 태그를 선물하신 분께서 메시지를 남기셨어요:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>osu! 서포터 태그를 선물 받았습니다!</value>
+    <value>g0v0! 서포터 태그를 선물 받았습니다!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>이는 귀하의 osu! 이메일 주소가 "{0}" 로 변경되었음을 알리기 위한 확인 이메일입니다.</value>
@@ -209,7 +209,7 @@
     <value>이메일 알림 설정 변경</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>새로운 osu! 알림</value>
+    <value>새로운 g0v0! 알림</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>이는 귀하의 osu! 비밀번호 변경되었음을 알리기 위한 확인 이메일입니다.</value>

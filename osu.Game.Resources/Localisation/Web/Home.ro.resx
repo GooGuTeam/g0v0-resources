@@ -80,7 +80,7 @@
     <value>cel mai cel joc de ritm free-to-win</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>ritmul este doar la un clic distanță</value>
+    <value>O experiență ritmică liberă și deschisă!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Căutare avansată</value>
@@ -293,13 +293,13 @@
     <value>se resetează {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Descarcă osu!</value>
+    <value>Descarcă g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Sprijină osu!</value>
+    <value>Sprijină g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>Magazinul osu!</value>
+    <value>Magazinul g0v0!</value>
   </data>
   <data name="user.show.admin.page" xml:space="preserve">
     <value>Deschide consola de administrator</value>

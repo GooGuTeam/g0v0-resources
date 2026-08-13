@@ -89,9 +89,9 @@
     <value>Ang magaan na pag-link ng mga file ay hindi pa sinusuportahan sa iyong operating system, kaya isang kopya ng lahat ng mga file ay gagawin sa panahon ng pag-import.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Ang pangalawang kopya ng lahat ng mga file ay gagawin habang nag-i-import. Upang maiwasan ito, pakitiyak na ang folder ng data ng lazer ay nasa parehong drive ng iyong nakaraang install ng osu! (at ang file system ay NTFS).</value>
+    <value>Ang pangalawang kopya ng lahat ng mga file ay gagawin habang nag-i-import. Upang maiwasan ito, pakitiyak na ang folder ng data ng g0v0 ay nasa parehong drive ng iyong nakaraang install ng osu! (at ang file system ay NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Ang pangalawang kopya ng lahat ng mga file ay gagawin habang nag-i-import. Upang maiwasan ito, pakitiyak na ang folder ng data ng lazer ay nasa parehong drive ng iyong nakaraang install ng osu! (at ang file system ay sumusuporta sa mga hard link).</value>
+    <value>Ang pangalawang kopya ng lahat ng mga file ay gagawin habang nag-i-import. Upang maiwasan ito, pakitiyak na ang folder ng data ng g0v0 ay nasa parehong drive ng iyong nakaraang install ng osu! (at ang file system ay sumusuporta sa mga hard link).</value>
   </data>
 </root>

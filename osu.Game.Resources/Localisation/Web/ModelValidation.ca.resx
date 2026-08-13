@@ -341,7 +341,7 @@
     <value>Has de tenir un {0} per canviar el teu nom!</value>
   </data>
   <data name="user.change_username.supporter_required.link_text" xml:space="preserve">
-    <value>he donat suport a l'osu!</value>
+    <value>he donat suport a l'g0v0!</value>
   </data>
   <data name="user.change_username.username_is_same" xml:space="preserve">
     <value>Aquest ja és el teu nom d'usuari, ruc!</value>

@@ -89,18 +89,18 @@
     <value>ご質問やご意見がございましたら、このメールへの返信をしてください。できるだけ早くご連絡いたします！</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>あなたのような人々のおかげで、osu!は広告や課金なしでゲームとコミュニティを稼働し続けることができます。</value>
+    <value>あなたのような人々のおかげで、g0v0!は広告や課金なしでゲームとコミュニティを稼働し続けることができます。</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>あなたのサポートはosu!の運営を約 {0}支えることに相当します！
+    <value>あなたのサポートはg0v0!の運営を約 {0}支えることに相当します！
 これは大きなものに思えないかもしれませんが、かけがえのない助けです。
 皆さんのサポートが集まると結果的には大きなものになります:)</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>ありがとうございます! osu!はあなたのことが大好きです♥</value>
+    <value>ありがとうございます! g0v0!はあなたのことが大好きです♥</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
-    <value>下記はosu!ユーザーが翻訳してくれた日本語訳です。</value>
+    <value>下記はg0v0!ユーザーが翻訳してくれた日本語訳です。</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
     <value>ギフトを受け取った人は、osu!directやその他多くのサポーター特典を利用できます。</value>
@@ -109,7 +109,7 @@
     <value>{0}、osu!directおよびその他多くのサポーター特典にアクセスできます。</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>osu!に対する {0} に感謝します。</value>
+    <value>g0v0!に対する {0} に感謝します。</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>サポート</value>
@@ -121,7 +121,7 @@
     <value>前回の訪問以降、ビートマップ「{0}」に新しい返信がありました。</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] トピック「{0}」に新しい返信があります</value>
+    <value>[g0v0!] トピック「{0}」に新しい返信があります</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>このトピックをもう見たくない場合は、トピックの下部にある[トピックのサブスクライブを解除]リンクをクリックするか、トピックサブスクリプション管理ページからクリックしてください:</value>
@@ -151,7 +151,7 @@
     <value>出荷</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>osu!ストアで注文を受け付けました！</value>
+    <value>g0v0!ストアで注文を受け付けました！</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
     <value>osu!store でのご注文ありがとうございます！</value>
@@ -166,19 +166,19 @@
     <value>しかし、あなたはおそらくそれが誰であるかすでに知っているでしょう;)</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>それらのおかげで、次の{0} osu!directやその他のosu!サポーター特典を利用できます。</value>
+    <value>それらのおかげで、次の{0} osu!directやその他のg0v0!サポーター特典を利用できます。</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>これらの機能の詳細については、こちらをご覧ください:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>誰かがあなたにosu!サポータータグをプレゼントしました！</value>
+    <value>誰かがあなたにg0v0!サポータータグをプレゼントしました！</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>このサポータータグを贈った人からのメッセージ:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>あなたはosu!サポータータグを贈られました！</value>
+    <value>あなたはg0v0!サポータータグを贈られました！</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>これはosu!のメールアドレスが次のものに変更された事に関する確認メールです: {0}</value>
@@ -211,7 +211,7 @@
     <value>電子メール通知の設定</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>新しいosu!の通知</value>
+    <value>新しいg0v0!の通知</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>これはosu!のパスワードが変更されたことを示すお知らせです。</value>

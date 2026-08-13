@@ -62,7 +62,7 @@
     <value>أنا مقتنع! D:</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>ادعم osu!</value>
+    <value>ادعم g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>او قدم الشارة للاعب اخر</value>
@@ -71,13 +71,13 @@
     <value>انقر زر القلب للمضي قدما الى osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>لماذا يجب ان أدعم !osu؟ إلى أين يذهب مالي؟</value>
+    <value>لماذا يجب ان أدعم !g0v0؟ إلى أين يذهب مالي؟</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>إدعم الفريق</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>فريق صغير يطوّر ويُدير osu!. دعمك يساعدهم على أن، كما تعلم… يستمروا في الحياة.</value>
+    <value>فريق صغير يطوّر ويُدير g0v0!. دعمك يساعدهم على أن، كما تعلم… يستمروا في الحياة.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>بنية الخادم</value>
@@ -89,13 +89,13 @@
     <value>الفنانين المميزين</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>بدعمك، يمكننا التواصل مع المزيد من الفنانين الرائعين والحصول على تراخيص لمزيد من الموسيقى المميزة لاستخدامها في osu!</value>
+    <value>بدعمك، يمكننا التواصل مع المزيد من الفنانين الرائعين والحصول على تراخيص لمزيد من الموسيقى المميزة لاستخدامها في g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>عرض الجدول الحالي &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>أبقِ osu! مكتفية ذاتيًا</value>
+    <value>أبقِ g0v0! مكتفية ذاتيًا</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>تساعد مساهماتك في إبقاء اللعبة مستقلة ومجانية تمامًا من الإعلانات والرعاة الخارجيين.</value>
@@ -113,7 +113,7 @@
     <value>برنامج مكافأة مفتوح المصدر</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>ادعم مساهمي المجتمع الذين أعطوا وقتهم وجهدهم لمساعدة osu! على أن تصبح أفضل.
+    <value>ادعم مساهمي المجتمع الذين أعطوا وقتهم وجهدهم لمساعدة g0v0! على أن تصبح أفضل.
 </value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">

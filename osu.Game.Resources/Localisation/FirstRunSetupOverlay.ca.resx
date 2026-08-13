@@ -68,7 +68,7 @@
     <value>Configuració de la primera execució</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Configura osu! per adaptar-te a tu</value>
+    <value>Configura g0v0! per adaptar-te a tu</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Benvingut</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Us donem la benvinguda a la guia de configuració de la primera execució!
 
-osu! És un joc molt configurable, i submergir-se directament a la configuració de vegades pot ser aclaparador. Aquesta guia us ajudarà a treure les opcions importants del camí per assegurar una gran primera experiència!</value>
+g0v0! És un joc molt configurable, i submergir-se directament a la configuració de vegades pot ser aclaparador. Aquesta guia us ajudarà a treure les opcions importants del camí per assegurar una gran primera experiència!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>La mida de la interfície d'usuari d'osu! es pot ajustar al teu gust.</value>
+    <value>La mida de la interfície d'usuari d'g0v0! es pot ajustar al teu gust.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Comportament</value>
@@ -87,7 +87,7 @@ osu! És un joc molt configurable, i submergir-se directament a la configuració
   <data name="behaviour_description" xml:space="preserve">
     <value>S'han implementat alguns nous valors per defecte per a comportaments de joc, amb l'objectiu de millorar l'experiència del joc i fer-lo més accessible per a tothom.
 
-Us recomanem que proveu els nous valors per defecte, però si voleu que les coses se sentin més com a versions clàssiques d'osu!, podeu aplicar fàcilment alguns valors per defecte sans a continuació.</value>
+Us recomanem que proveu els nous valors per defecte, però si voleu que les coses se sentin més com a versions clàssiques d'g0v0!, podeu aplicar fàcilment alguns valors per defecte sans a continuació.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Valors predeterminats nous</value>

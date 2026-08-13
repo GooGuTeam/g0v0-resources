@@ -68,7 +68,7 @@
     <value>Check here for more information.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Some assets contained within this map have been removed after being judged as not being suitable for use in osu!.</value>
+    <value>Some assets contained within this map have been removed after being judged as not being suitable for use in g0v0!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Deleted beatmap</value>
@@ -302,16 +302,16 @@
     <value>This beatmap contains video</value>
   </data>
   <data name="show.lazer_only.title" xml:space="preserve">
-    <value>Lazer Only</value>
+    <value>g0v0! Only</value>
   </data>
   <data name="show.lazer_only.description" xml:space="preserve">
-    <value>Due to specific mechanics, this beatmap can only be played on osu!lazer.</value>
+    <value>Due to specific mechanics, this beatmap can only be played on g0v0!.</value>
   </data>
   <data name="show.lazer_only.scoreboard_switch_mode._" xml:space="preserve">
     <value>{0} to view scores set on this beatmap.</value>
   </data>
   <data name="show.lazer_only.scoreboard_switch_mode.enable_link" xml:space="preserve">
-    <value>Enable lazer mode</value>
+    <value>Enable g0v0! mode</value>
   </data>
   <data name="show.nsfw_warning.details" xml:space="preserve">
     <value>This beatmap contains explicit, offensive, or disturbing content. Would you like to view it anyway?</value>

@@ -71,7 +71,7 @@
     <value>{0} 參數最多只能有 {1} 個項目</value>
   </data>
   <data name="supporter_only" xml:space="preserve">
-    <value>您需要成為 osu! 贊助者才能使用此功能。</value>
+    <value>您需要成為 g0v0! 贊助者才能使用此功能。</value>
   </data>
   <data name="unknown" xml:space="preserve">
     <value>發生了未知的錯誤。</value>

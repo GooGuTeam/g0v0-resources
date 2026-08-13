@@ -62,7 +62,7 @@
     <value>A verificar as capacidades de ecrã inteiro...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>O osu! está a ser executado em ecrã inteiro exclusivo, garantindo baixa latência!</value>
+    <value>O g0v0! está a ser executado em ecrã inteiro exclusivo, garantindo baixa latência!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Não é possível executar em ecrã inteiro exclusivo. Poderá sentir alguma latência de entrada.</value>

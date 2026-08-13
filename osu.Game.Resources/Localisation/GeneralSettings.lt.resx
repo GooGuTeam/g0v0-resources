@@ -89,7 +89,7 @@
     <value>Ieškoma atnaujinimų</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Atidaryti osu! aplankalą</value>
+    <value>Atidaryti g0v0! aplankalą</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Eksportuoti žurnalus</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Paleisti sąrankos vedlį</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Sužinokite daugiau apie lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Paržiūrėk funkcijų palyginimą ir DUK</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Pranešti apie problemą</value>

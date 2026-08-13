@@ -89,10 +89,10 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; втратив лідерство на мапі &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; вирішив знову підтримати osu! Дякуємо за вашу підтримку!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; вирішив знову підтримати g0v0! Дякуємо за вашу підтримку!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; підтримав osu! - дякуємо за вашу підтримку!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; підтримав g0v0! - дякуємо за вашу підтримку!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; отримав osu!supporter в подарунок!</value>

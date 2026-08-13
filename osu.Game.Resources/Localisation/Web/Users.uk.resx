@@ -353,7 +353,7 @@
     <value>Тут з часів заснування</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!розробник</value>
+    <value>g0v0!розробник</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
     <value>osu!supporter</value>
@@ -899,7 +899,7 @@
     <value>будь ласка, зареєструйтесь через ігровий клієнт!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>будь ласка, продовжить реєстрацію через сайт osu!</value>
+    <value>будь ласка, продовжить реєстрацію через сайт g0v0!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Зареєстрований</value>

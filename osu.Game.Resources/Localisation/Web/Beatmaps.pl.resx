@@ -500,10 +500,10 @@
     <value>Więcej opcji wyszukiwania</value>
   </data>
   <data name="listing.search.rank_filter_note" xml:space="preserve">
-    <value>Liczniki ocen na profilach oraz wyniki wyszukiwania wyświetlane na tej stronie są oparte o wyniki wykorzystujące nowy system punktacji (tryb „lazer”).</value>
+    <value>Liczniki ocen na profilach oraz wyniki wyszukiwania wyświetlane na tej stronie są oparte o wyniki wykorzystujące nowy system punktacji (tryb „g0v0!”).</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Użycie wybranych filtrów ({0}) wymaga aktywnego statusu donatora osu!</value>
+    <value>Użycie wybranych filtrów ({0}) wymaga aktywnego statusu donatora g0v0!</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>brak wyników</value>
@@ -572,7 +572,7 @@
     <value>Użycie wybranych filtrów ({0}) wymaga {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>statusu donatora osu!</value>
+    <value>statusu donatora g0v0!</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>przeglądaj tagi użytkowników</value>

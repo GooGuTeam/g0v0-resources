@@ -167,7 +167,7 @@
     <value>Ha nem kérted a lemondást, kérjük, vedd fel a kapcsolatot itt: {0}, majd add meg a rendelésed számát (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!bolt támogatás</value>
+    <value>g0v0!bolt támogatás</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>A rendelésed megérkezett! Reméljük, hogy tetszik neked!</value>
@@ -176,7 +176,7 @@
     <value>Ha bármilyen problémád akad a vásárlással, kérlek lépj kapcsolatba {0} helyen.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!bolt támogatás</value>
+    <value>g0v0!bolt támogatás</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>A rendelés feldolgozás alatt!</value>
@@ -353,7 +353,7 @@
     <value>adj egy üzenetet az ajándékodhoz, amennyiben szeretnél! (legfeljebb {0} karakterű)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Az osu!támogatói cím megszerzéséhez {0} kell lenned!</value>
+    <value>Az g0v0!támogatói cím megszerzéséhez {0} kell lenned!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>lépj be</value>

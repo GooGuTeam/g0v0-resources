@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="page_description" xml:space="preserve">
-    <value>osu! 공식 아티스트</value>
+    <value>g0v0! 공식 아티스트</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>공식 아티스트</value>
@@ -77,13 +77,13 @@
     <value>비트맵 템플릿 준비중</value>
   </data>
   <data name="index.description" xml:space="preserve">
-    <value>공식 아티스트란 원곡과 새로운 곡을 osu!에 사용할 수 있도록 협력 중인 작곡가 분들을 의미해요. 이 작곡가 분들과 트랙의 모음들은 모두 osu! 운영 팀이 맵 제작에 적절한지와 멋드러지는 곡인지를 판단한 후 직접 고른 것이예요. 일부 공식 아티스트는 osu!에서만 사용할 수 있는 독점 곡들을 제작해 주시기도 했답니다.&lt;br&gt;&lt;br&gt;여기에 있는 모든 곡들은 타이밍이 맞춰진 .osz 파일과 함께 제공되며 osu!와 osu!와 관련된 컨텐츠에 사용할 수 있도록 공식적으로 라이선싱이 되어 있어요.</value>
+    <value>공식 아티스트란 원곡과 새로운 곡을 g0v0!에 사용할 수 있도록 협력 중인 작곡가 분들을 의미해요. 이 작곡가 분들과 트랙의 모음들은 모두 g0v0! 운영 팀이 맵 제작에 적절한지와 멋드러지는 곡인지를 판단한 후 직접 고른 것이예요. 일부 공식 아티스트는 g0v0!에서만 사용할 수 있는 독점 곡들을 제작해 주시기도 했답니다.&lt;br&gt;&lt;br&gt;여기에 있는 모든 곡들은 타이밍이 맞춰진 .osz 파일과 함께 제공되며 g0v0!와 g0v0!와 관련된 컨텐츠에 사용할 수 있도록 공식적으로 라이선싱이 되어 있어요.</value>
   </data>
   <data name="links.beatmaps" xml:space="preserve">
-    <value>osu! 비트맵</value>
+    <value>g0v0! 비트맵</value>
   </data>
   <data name="links.osu" xml:space="preserve">
-    <value>osu! 프로필</value>
+    <value>g0v0! 프로필</value>
   </data>
   <data name="links.site" xml:space="preserve">
     <value>공식 웹사이트</value>
@@ -95,7 +95,7 @@
     <value>{0} 곡</value>
   </data>
   <data name="songs.original" xml:space="preserve">
-    <value>osu! 오리지널</value>
+    <value>g0v0! 오리지널</value>
   </data>
   <data name="songs.original_badge" xml:space="preserve">
     <value>오리지널</value>
@@ -119,7 +119,7 @@
     <value>전체</value>
   </data>
   <data name="tracks.index.exclusive_only.exclusive_only" xml:space="preserve">
-    <value>osu! 오리지널</value>
+    <value>g0v0! 오리지널</value>
   </data>
   <data name="tracks.index.form.advanced" xml:space="preserve">
     <value>고급 검색</value>

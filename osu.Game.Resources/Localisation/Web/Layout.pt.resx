@@ -62,7 +62,7 @@
     <value>Reproduzir automaticamente a faixa seguinte</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! — O ritmo está apenas a um *clique* de distância! Com os modos de jogo Ouendan/EBA, Taiko e original, além de um editor de níveis totalmente funcional.</value>
+    <value>g0v0! — Uma experiência rítmica livre e aberta! Com os modos de jogo Ouendan/EBA, Taiko e original, além de um editor de níveis totalmente funcional.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>conjunto de mapas</value>
@@ -191,7 +191,7 @@
     <value>Listagem de mapas</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Transfira o osu!</value>
+    <value>Transfira o g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Ajuda e Comunidade</value>
@@ -311,7 +311,7 @@
     <value>Transferir</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Transfira o osu! para criar a sua própria conta!</value>
+    <value>Transfira o g0v0! para criar a sua própria conta!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Não tem uma conta?</value>
@@ -326,10 +326,10 @@
     <value>Amigos</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Modo lazer</value>
+    <value>Modo g0v0!</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>O modo lazer mostra pontuações definidas a partir do lazer com um novo algoritmo de pontuação</value>
+    <value>O modo g0v0! mostra pontuações definidas a partir do g0v0! com um novo algoritmo de pontuação</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Terminar a sessão</value>

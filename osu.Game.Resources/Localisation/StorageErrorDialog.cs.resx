@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>Chyba osu! úložiště</value>
+    <value>Chyba g0v0! úložiště</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Uvedené umístění dat osu! ("{0}") není dostupné. Pokud je na externím úložišti, prosím odpoj a připoj toto zařízení a zkus to znovu.</value>
+    <value>Uvedené umístění dat g0v0! ("{0}") není dostupné. Pokud je na externím úložišti, prosím odpoj a připoj toto zařízení a zkus to znovu.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>Uvedené umístění dat osu! ("{0}") je prázdné. Pokud jsi soubory přesunul, zavři prosím osu! a přesuň je zpět.</value>
+    <value>Uvedené umístění dat g0v0! ("{0}") je prázdné. Pokud jsi soubory přesunul, zavři prosím g0v0! a přesuň je zpět.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Zkusit znovu</value>

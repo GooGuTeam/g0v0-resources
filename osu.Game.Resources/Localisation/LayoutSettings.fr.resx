@@ -62,7 +62,7 @@
     <value>Vérification des capacités en plein écran...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! fonctionne en plein écran exclusif, garantissant une latence faible !</value>
+    <value>g0v0! fonctionne en plein écran exclusif, garantissant une latence faible !</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Impossible d'exécuter en plein écran exclusif. Vous pouvez rencontrer une certaine latence d'entrée.</value>

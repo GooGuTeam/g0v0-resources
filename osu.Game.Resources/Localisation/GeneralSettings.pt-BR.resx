@@ -80,7 +80,7 @@
     <value>Atualizações</value>
   </data>
   <data name="release_stream" xml:space="preserve">
-    <value>Distribuição do osu!</value>
+    <value>Distribuição do g0v0!</value>
   </data>
   <data name="check_update" xml:space="preserve">
     <value>Verificar atualizações</value>
@@ -89,7 +89,7 @@
     <value>Procurando por atualizações</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Abrir a pasta do osu!</value>
+    <value>Abrir a pasta do g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Exportar logs</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Executar assistente de configuração</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Saiba mais sobre o lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Confira a comparação de recursos e as perguntas frequentes</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Reportar um problema</value>

@@ -89,13 +89,13 @@
     <value>Si tienes alguna pregunta o comentario, no dudes en responder a este correo; ¡te responderé lo antes posible!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Es gracias a personas como tú que osu! es capaz de mantener el juego y la comunidad funcionando sin ningún tipo de anuncios ni pagos forzados.</value>
+    <value>Es gracias a personas como tú que g0v0! es capaz de mantener el juego y la comunidad funcionando sin ningún tipo de anuncios ni pagos forzados.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>¡Tu contribución hace que osu! funcione durante unos {0}! Puede que no parezca mucho, pero todo suma :).</value>
+    <value>¡Tu contribución hace que g0v0! funcione durante unos {0}! Puede que no parezca mucho, pero todo suma :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Gracias, osu! te &lt;3</value>
+    <value>Gracias, g0v0! te &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>A continuación, se muestra una traducción realizada por la comunidad con fines informativos:</value>
@@ -107,7 +107,7 @@
     <value>A partir de ahora tendrás acceso a osu!direct y a muchas otras ventajas para los supporters durante {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Muchas gracias por tu {0} a osu!.</value>
+    <value>Muchas gracias por tu {0} a g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>apoyo</value>
@@ -119,7 +119,7 @@
     <value>Te informamos de que ha habido una nueva respuesta en «{0}» desde tu última visita.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nueva respuesta en el tema «{0}»</value>
+    <value>[g0v0!] Nueva respuesta en el tema «{0}»</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Si ya no quieres recibir más notificaciones de este tema, puedes hacer clic en el enlace «Cancelar suscripción al tema» que se encuentra  en la parte inferior del tema de arriba, o desde la página de gestión de suscripciones al tema:</value>
@@ -209,7 +209,7 @@
     <value>Cambiar las preferencias de notificación por correo electrónico:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nuevas notificaciones de osu!</value>
+    <value>Nuevas notificaciones de g0v0!</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Esto es solo una confirmación de que tu contraseña de osu! ha sido cambiada.</value>

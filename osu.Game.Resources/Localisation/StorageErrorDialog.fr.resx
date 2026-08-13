@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>Erreur de stockage d'osu!</value>
+    <value>Erreur de stockage d'g0v0!</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Impossible d'accéder à l'emplacement des données d'osu! que vous avez sélectionné ("{0}"). S'il se trouve sur un périphérique de stockage externe, veuillez le reconnecter et réessayer.</value>
+    <value>Impossible d'accéder à l'emplacement des données d'g0v0! que vous avez sélectionné ("{0}"). S'il se trouve sur un périphérique de stockage externe, veuillez le reconnecter et réessayer.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>L'emplacement des données d'osu! que vous avez sélectionné est vide ("{0}"). Si vous avez déplacé les fichiers, veuillez fermer osu! et remettre ces fichiers à cet emplacement.</value>
+    <value>L'emplacement des données d'g0v0! que vous avez sélectionné est vide ("{0}"). Si vous avez déplacé les fichiers, veuillez fermer g0v0! et remettre ces fichiers à cet emplacement.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Réessayer</value>

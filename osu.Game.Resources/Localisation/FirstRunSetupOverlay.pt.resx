@@ -68,7 +68,7 @@
     <value>Configuração de primeira execução</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Configure o osu! de acordo com as suas preferências</value>
+    <value>Configure o g0v0! de acordo com as suas preferências</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Bem-vindo</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Bem‑vindo ao guia de configuração da primeira execução!
 
-O osu! é um jogo altamente configurável, e explorar as definições de imediato pode, por vezes, ser avassalador. Este guia irá ajudá‑lo a tratar das escolhas mais importantes para garantir uma excelente primeira experiência!</value>
+O g0v0! é um jogo altamente configurável, e explorar as definições de imediato pode, por vezes, ser avassalador. Este guia irá ajudá‑lo a tratar das escolhas mais importantes para garantir uma excelente primeira experiência!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>O tamanho da interface do utilizador do osu! pode ser ajustado de acordo com as suas preferências.</value>
+    <value>O tamanho da interface do utilizador do g0v0! pode ser ajustado de acordo com as suas preferências.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Comportamento</value>
@@ -87,7 +87,7 @@ O osu! é um jogo altamente configurável, e explorar as definições de imediat
   <data name="behaviour_description" xml:space="preserve">
     <value>Foram implementados alguns novos valores predefinidos para os comportamentos do jogo, com o objetivo de melhorar a experiência e torná‑la mais acessível para todos.
 
-Recomendamos que experimente estas novas predefinições, mas, se preferir que o jogo se assemelhe mais às versões clássicas do osu!, pode aplicar facilmente algumas predefinições adequadas abaixo.</value>
+Recomendamos que experimente estas novas predefinições, mas, se preferir que o jogo se assemelhe mais às versões clássicas do g0v0!, pode aplicar facilmente algumas predefinições adequadas abaixo.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Novas predefinições</value>

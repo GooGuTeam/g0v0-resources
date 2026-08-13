@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>osu! storage error</value>
+    <value>g0v0! storage error</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>The specified osu! data location ("{0}") is not accessible. If it is on external storage, please reconnect the device and try again.</value>
+    <value>The specified g0v0! data location ("{0}") is not accessible. If it is on external storage, please reconnect the device and try again.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>The specified osu! data location ("{0}") is empty. If you have moved the files, please close osu! and move them back.</value>
+    <value>The specified g0v0! data location ("{0}") is empty. If you have moved the files, please close g0v0! and move them back.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Try again</value>

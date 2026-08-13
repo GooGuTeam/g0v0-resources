@@ -89,10 +89,10 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; เสียอันดับที่ 1 ในเพลง &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; ได้สนับสนุน osu! อีกครั้ง - ขอขอบคุณน้ำใจงาม ๆ ของท่าน</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; ได้สนับสนุน g0v0! อีกครั้ง - ขอขอบคุณน้ำใจงาม ๆ ของท่าน</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; ได้กลายผู้สนับสนุน osu! แล้ว - ขอขอบคุณน้ำใจงาม ๆ ของท่าน</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; ได้กลายผู้สนับสนุน g0v0! แล้ว - ขอขอบคุณน้ำใจงาม ๆ ของท่าน</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; ได้รับแท็กผู้สนับสนุนเป็นของขวัญ!</value>

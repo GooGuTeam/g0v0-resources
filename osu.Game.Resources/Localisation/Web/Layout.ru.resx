@@ -62,7 +62,7 @@
     <value>Играть следующий трек автоматически</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ритм всего лишь в *клике* от тебя! С Ouendan/EBA, Taiko и оригинальными режимами игры, а также многофункциональным редактором карт.</value>
+    <value>g0v0! - Свободный и открытый ритм-опыт! С Ouendan/EBA, Taiko и оригинальными режимами игры, а также многофункциональным редактором карт.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>карта</value>
@@ -191,7 +191,7 @@
     <value>Библиотека карт</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Скачать osu!</value>
+    <value>Скачать g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Помощь и сообщество</value>
@@ -311,7 +311,7 @@
     <value>Скачать</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Скачайте osu!, чтобы его создать!</value>
+    <value>Скачайте g0v0!, чтобы его создать!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Нет аккаунта?</value>
@@ -326,10 +326,10 @@
     <value>Друзья</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer-рекорды</value>
+    <value>g0v0!-рекорды</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Режим отображения, который показывает рекорды, поставленные в клиенте lazer с новым алгоритмом подсчёта очков</value>
+    <value>Режим отображения, который показывает рекорды, поставленные в клиенте g0v0! с новым алгоритмом подсчёта очков</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Выйти</value>

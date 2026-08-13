@@ -143,7 +143,7 @@
     <value>uppdatera</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Om du är medverkande till osu!'s öppen källkodsarkiv, kommer länkning av ditt GitHub-konto här att associera dina changelog-poster med din osu! profil. GitHub-konton utan medverkningshistorik till osu! kan inte länkas.</value>
+    <value>Om du är medverkande till g0v0!'s öppen källkodsarkiv, kommer länkning av ditt GitHub-konto här att associera dina changelog-poster med din g0v0! profil. GitHub-konton utan medverkningshistorik till g0v0! kan inte länkas.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Länka GitHub-konto</value>
@@ -158,7 +158,7 @@
     <value>Detta GitHub-konto är redan kopplat till en annan användare.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Kan inte länka GitHub-konto utan någon medverkningshistorik i osu! utvecklingskataloger.</value>
+    <value>Kan inte länka GitHub-konto utan någon medverkningshistorik i g0v0! utvecklingskataloger.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Vänligen verifiera din primära e-postadress på GitHub, försök sedan att länka ditt konto igen.</value>
@@ -266,7 +266,7 @@
     <value>dölj din online-närvaro</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>denna kartor till "visas offline" läge i osu!laser</value>
+    <value>denna kartor till "visas offline" läge i g0v0!laser</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Sekretess</value>

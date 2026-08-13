@@ -74,7 +74,7 @@
     <value>ダウンロード前に必ず読んでください</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>読み込み方法: ビートマップパックをダウンロードしたら、アーカイブの中身をosu!のSongsディレクトリに抽出するとosu!が残りの作業を行います。</value>
+    <value>読み込み方法: ビートマップパックをダウンロードしたら、アーカイブの中身をg0v0!のSongsディレクトリに抽出するとg0v0!が残りの作業を行います。</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>作成者: {0}</value>

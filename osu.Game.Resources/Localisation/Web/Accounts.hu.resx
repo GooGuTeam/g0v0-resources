@@ -143,7 +143,7 @@
     <value>mentés</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Ha közreműködsz osu! nyílt forráskódjához, itt összekapcsolhatod a GitHub fiókodat. Ez a változtatási naplóban az osu! profilodhoz linkeli a közreműködéseidet. Olyan fiókok amiknek még nincs közreműködési történelmük osu!-val nem csatlakoztathatók.</value>
+    <value>Ha közreműködsz g0v0! nyílt forráskódjához, itt összekapcsolhatod a GitHub fiókodat. Ez a változtatási naplóban az g0v0! profilodhoz linkeli a közreműködéseidet. Olyan fiókok amiknek még nincs közreműködési történelmük g0v0!-val nem csatlakoztathatók.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>GitHub fiók csatlakoztatása</value>
@@ -158,7 +158,7 @@
     <value>Ez a Gitahub fiók már csatlakozatva van egy másik felhasználóhoz.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Nem lehet GitHub fiókot csatlakoztatni, ami még nem tett közreműködést osu! kódtárban.</value>
+    <value>Nem lehet GitHub fiókot csatlakoztatni, ami még nem tett közreműködést g0v0! kódtárban.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Kérlek igazold elsődleges GitHub email címedet és próbáld újra.</value>

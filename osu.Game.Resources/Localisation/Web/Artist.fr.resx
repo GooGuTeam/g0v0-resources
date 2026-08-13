@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="page_description" xml:space="preserve">
-    <value>Featured Artists sur osu!</value>
+    <value>Featured Artists sur g0v0!</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>Featured Artists</value>
@@ -77,13 +77,13 @@
     <value>La beatmap type n'est pas encore disponible</value>
   </data>
   <data name="index.description" xml:space="preserve">
-    <value>Les Featured Artists sont des artistes avec qui nous collaborons pour apporter des musiques nouvelles et originales à osu!. Ces artistes ainsi qu'une sélection de leurs musiques ont été sélectionnés par l'équipe d'osu! pour leur qualité et leur potentiel pour le mapping. Quelques-uns de ces artistes ont également créé des musiques exclusivement pour osu!.&lt;br&gt;&lt;br&gt;Toutes les musiques de cette section sont fournies avec des fichiers .osz pré-timés et peuvent officiellement être utilisées sur osu! ainsi que tout contenu relatif à osu!.</value>
+    <value>Les Featured Artists sont des artistes avec qui nous collaborons pour apporter des musiques nouvelles et originales à g0v0!. Ces artistes ainsi qu'une sélection de leurs musiques ont été sélectionnés par l'équipe d'g0v0! pour leur qualité et leur potentiel pour le mapping. Quelques-uns de ces artistes ont également créé des musiques exclusivement pour g0v0!.&lt;br&gt;&lt;br&gt;Toutes les musiques de cette section sont fournies avec des fichiers .osz pré-timés et peuvent officiellement être utilisées sur g0v0! ainsi que tout contenu relatif à g0v0!.</value>
   </data>
   <data name="links.beatmaps" xml:space="preserve">
-    <value>Beatmaps osu!</value>
+    <value>Beatmaps g0v0!</value>
   </data>
   <data name="links.osu" xml:space="preserve">
-    <value>Profil osu!</value>
+    <value>Profil g0v0!</value>
   </data>
   <data name="links.site" xml:space="preserve">
     <value>Site officiel</value>
@@ -95,7 +95,7 @@
     <value>{0} titre|{0} titres</value>
   </data>
   <data name="songs.original" xml:space="preserve">
-    <value>osu! original</value>
+    <value>g0v0! original</value>
   </data>
   <data name="songs.original_badge" xml:space="preserve">
     <value>ORIGINAL</value>
@@ -119,7 +119,7 @@
     <value>Tout</value>
   </data>
   <data name="tracks.index.exclusive_only.exclusive_only" xml:space="preserve">
-    <value>osu! original</value>
+    <value>g0v0! original</value>
   </data>
   <data name="tracks.index.form.advanced" xml:space="preserve">
     <value>Recherche Avancée</value>

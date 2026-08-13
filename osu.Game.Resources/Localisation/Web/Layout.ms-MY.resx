@@ -62,7 +62,7 @@
     <value>Putar runut seterusnya secara automatik</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Irama tinggal *seketik* saja! Dengan Ouendan/EBA, Taiko dan mod permainan asli serta penyunting tahap berfungsi penuh.</value>
+    <value>g0v0! - Pengalaman irama yang bebas dan terbuka! Dengan Ouendan/EBA, Taiko dan mod permainan asli serta penyunting tahap berfungsi penuh.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>peranggu peta rentak</value>
@@ -185,7 +185,7 @@
     <value>Senarai Peta Rentak</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Muat Turun osu!</value>
+    <value>Muat Turun g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Bantuan dan Komuniti</value>
@@ -305,7 +305,7 @@
     <value>Muat Turun</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Muat turun osu! untuk mencipta akaun anda sendiri!</value>
+    <value>Muat turun g0v0! untuk mencipta akaun anda sendiri!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Adakah anda tidak mempunyai akaun?</value>
@@ -320,10 +320,10 @@
     <value>Kawan</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Mod lazer</value>
+    <value>Mod g0v0!</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Mod lazer menunjukkan markah yang dicapai dari lazer dengan algoritma baharu</value>
+    <value>Mod g0v0! menunjukkan markah yang dicapai dari g0v0! dengan algoritma baharu</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Daftar Keluar</value>

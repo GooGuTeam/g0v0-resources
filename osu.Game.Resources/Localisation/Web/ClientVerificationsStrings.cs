@@ -25,9 +25,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString CompletedText => new TranslatableString(getKey(@"completed.text"), @"You can close this tab/window now");
 
         /// <summary>
-        /// "osu! client verification has been completed"
+        /// "g0v0! client verification has been completed"
         /// </summary>
-        public static LocalisableString CompletedTitle => new TranslatableString(getKey(@"completed.title"), @"osu! client verification has been completed");
+        public static LocalisableString CompletedTitle => new TranslatableString(getKey(@"completed.title"), @"g0v0! client verification has been completed");
 
         /// <summary>
         /// "Click on authorise button below to finish client verification."
@@ -35,9 +35,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString CreateConfirm => new TranslatableString(getKey(@"create.confirm"), @"Click on authorise button below to finish client verification.");
 
         /// <summary>
-        /// "osu! client verification"
+        /// "g0v0! client verification"
         /// </summary>
-        public static LocalisableString CreateTitle => new TranslatableString(getKey(@"create.title"), @"osu! client verification");
+        public static LocalisableString CreateTitle => new TranslatableString(getKey(@"create.title"), @"g0v0! client verification");
 
         private static string getKey(string key) => $@"{prefix}:{key}";
     }

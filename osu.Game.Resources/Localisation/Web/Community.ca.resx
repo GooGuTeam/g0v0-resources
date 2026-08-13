@@ -62,7 +62,7 @@
     <value>m'has convençut! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>donar suport a osu!</value>
+    <value>donar suport a g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>o regalar supporter a altres jugadors</value>
@@ -71,13 +71,13 @@
     <value>clica el botó amb el cor per accedir a la osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Per què hauria de donar suport a osu!? On van els diners?</value>
+    <value>Per què hauria de donar suport a g0v0!? On van els diners?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Dona suport a l'equip</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Un petit equip desenvolupa i manté osu!. El seu suport els ajuda, ja sap... viure.</value>
+    <value>Un petit equip desenvolupa i manté g0v0!. El seu suport els ajuda, ja sap... viure.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infraestructura del servidor</value>
@@ -89,13 +89,13 @@
     <value>Artistes Destacats</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Amb el teu suport, podem arribar a artistes encara més impressionants i llicenciar més música per fer-la servir a osu!</value>
+    <value>Amb el teu suport, podem arribar a artistes encara més impressionants i llicenciar més música per fer-la servir a g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Veure la llista actual &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Mantingues l'osu! autosuficient</value>
+    <value>Mantingues l'g0v0! autosuficient</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Les teves contribucions ajuden a mantenir el joc independent i de manera completament lliure d'anuncis o patrocinadors externs.</value>
@@ -113,7 +113,7 @@
     <value>Programa de recompenses de codi lliure</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Dona suport als contribuïdors de la comunitat que han dedicat el seu temps i esforç a fer osu! millor.</value>
+    <value>Dona suport als contribuïdors de la comunitat que han dedicat el seu temps i esforç a fer g0v0! millor.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Descobreix més &amp;raquo;</value>

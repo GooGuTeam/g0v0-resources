@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>osu! tárolási hiba</value>
+    <value>g0v0! tárolási hiba</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>A kiválasztott osu! hely ("{0}") jelenleg nem elérhető. Ha ez egy külső adathordozó, kérlek próbáld meg újracsatlakoztatása után.</value>
+    <value>A kiválasztott g0v0! hely ("{0}") jelenleg nem elérhető. Ha ez egy külső adathordozó, kérlek próbáld meg újracsatlakoztatása után.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>A kiválasztott osu! hely ("{0}") jelenleg üres. Ha a fájlokat áthelyezted innen, kérlek zárd be osu!-t és helyezd vissza őket.</value>
+    <value>A kiválasztott g0v0! hely ("{0}") jelenleg üres. Ha a fájlokat áthelyezted innen, kérlek zárd be g0v0!-t és helyezd vissza őket.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Próbáld újra</value>

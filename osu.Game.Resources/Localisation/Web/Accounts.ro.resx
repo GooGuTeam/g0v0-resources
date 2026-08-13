@@ -143,7 +143,7 @@
     <value>actualizează</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Dacă sunteți un contribuitor la depozitele cu sursă deschisă osu!, legarea contului dvs. de GitHub vă va asocia în istoricul de modificări cu profilul dvs. osu!. Conturile de GitHub fără un istoric de contribuții la osu! nu pot fi legate.</value>
+    <value>Dacă sunteți un contribuitor la depozitele cu sursă deschisă g0v0!, legarea contului dvs. de GitHub vă va asocia în istoricul de modificări cu profilul dvs. g0v0!. Conturile de GitHub fără un istoric de contribuții la g0v0! nu pot fi legate.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Leagă Cont GitHub</value>
@@ -158,7 +158,7 @@
     <value>Acest cont GitHub este deja legat de un alt utilizator.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Nu se poate lega contul GitHub fără un istoric de contribuții în depozitele osu!.</value>
+    <value>Nu se poate lega contul GitHub fără un istoric de contribuții în depozitele g0v0!.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Vă rugăm să verificați adresa de e-mail principală pe GitHub, apoi încercați din nou să legați contul dvs.</value>

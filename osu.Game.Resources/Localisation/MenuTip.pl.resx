@@ -124,9 +124,6 @@
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>Naciśnij Ctrl-Enter podczas wyboru piosenki, aby rozpocząć automatyczne przejście beatmapy!</value>
   </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>„Lazer” nie jest angielskim słowem. Prawidłowa pisownia określenia na jasne światło to „laser”.</value>
-  </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>Użycie trybu wielowątkowego oznacza, że nawet przy niskich wartościach FPS twoje kliknięcia będą dokładne!</value>
   </data>

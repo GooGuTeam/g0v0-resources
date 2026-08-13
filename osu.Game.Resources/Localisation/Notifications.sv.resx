@@ -80,7 +80,7 @@
     <value>Den aktuella regeln har inte en automatspel mod tillgänglig!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! verkar inte kunna spela upp ljud korrekt.\n\nFörsök att ändra din ljudenhet till en fungerande inställning.</value>
+    <value>g0v0! verkar inte kunna spela upp ljud korrekt.\n\nFörsök att ändra din ljudenhet till en fungerande inställning.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>Poängöverlagringen är för närvarande inaktiverad. Du kan växla detta genom att trycka på {0}.</value>
@@ -119,7 +119,7 @@
     <value>Din lokala kopia av beatmapen för denna repris verkar vara annorlunda än väntat. Du kan behöva uppdatera eller ladda ner den igen.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Du kör nu osu! {0}.
+    <value>Du kör nu g0v0! {0}.
 Klicka för att se vad som är nytt!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

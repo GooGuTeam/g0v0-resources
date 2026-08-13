@@ -62,7 +62,7 @@
     <value>I-play agad ang sumusunod na mga track</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ang ritmo ay isang *click* na lang! Mayroong Oudendan/EBA, Taiko at orihinal na mga gameplay mode, pati na rin ang gumaganang level editor.</value>
+    <value>g0v0! - Malaya at bukas na ritmikong karanasan! Mayroong Oudendan/EBA, Taiko at orihinal na mga gameplay mode, pati na rin ang gumaganang level editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -185,7 +185,7 @@
     <value>Listahan ng mga Beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>I-download ang osu!</value>
+    <value>I-download ang g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Tulong &amp; Komunidad</value>
@@ -317,10 +317,10 @@
     <value>Mga Kaibigan</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer mode</value>
+    <value>g0v0! mode</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Ang Lazer mode ay nagpapakita ng mga iskor na itinakda mula sa lazer na may bagong algorithm sa pag-iskor</value>
+    <value>Ang g0v0! mode ay nagpapakita ng mga iskor na itinakda mula sa g0v0! na may bagong algorithm sa pag-iskor</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Mag-sign Out</value>

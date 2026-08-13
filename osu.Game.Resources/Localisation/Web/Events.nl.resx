@@ -89,13 +89,13 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; verloor de eerste plaats op &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; is opnieuw osu! supporter - bedankt voor je vrijgevigheid!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; is opnieuw g0v0! supporter - bedankt voor je vrijgevigheid!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt;  heeft osu! ondersteund - bedankt voor je vrijgevigheid!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt;  heeft g0v0! ondersteund - bedankt voor je vrijgevigheid!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; heeft osu! supporter! gekregen!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; heeft g0v0! supporter! gekregen!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; noemt zichzelf vanaf nu &lt;strong&gt;&lt;em&gt;{1}&lt;/strong&gt;&lt;/em&gt;!</value>

@@ -89,13 +89,13 @@
     <value>{0} đã không còn dẫn đầu ở {1} ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>{0} đã chọn một lần nữa hỗ trợ osu! - cảm ơn vì sự rộng lượng của bạn!</value>
+    <value>{0} đã chọn một lần nữa hỗ trợ g0v0! - cảm ơn vì sự rộng lượng của bạn!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
     <value>{0} đã trở thành osu!supporter - cảm ơn vì sự rộng lượng của bạn!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>{0} đã nhận được quà tặng osu! supporter!</value>
+    <value>{0} đã nhận được quà tặng g0v0! supporter!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>{0} đã đổi tên tài khoản của họ thành {1}!</value>

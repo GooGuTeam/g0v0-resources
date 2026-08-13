@@ -160,9 +160,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString EditSignatureUpdate => new TranslatableString(getKey(@"edit.signature.update"), @"update");
 
         /// <summary>
-        /// "If you&#39;re a contributor to osu!&#39;s open-source repositories, linking your GitHub account here will associate your changelog entries with your osu! profile. GitHub accounts with no contribution history to osu! cannot be linked."
+        /// "If you&#39;re a contributor to g0v0!&#39;s open-source repositories, linking your GitHub account here will associate your changelog entries with your g0v0! profile. GitHub accounts with no contribution history to g0v0! cannot be linked."
         /// </summary>
-        public static LocalisableString GithubUserInfo => new TranslatableString(getKey(@"github_user.info"), @"If you're a contributor to osu!'s open-source repositories, linking your GitHub account here will associate your changelog entries with your osu! profile. GitHub accounts with no contribution history to osu! cannot be linked.");
+        public static LocalisableString GithubUserInfo => new TranslatableString(getKey(@"github_user.info"), @"If you're a contributor to g0v0!'s open-source repositories, linking your GitHub account here will associate your changelog entries with your g0v0! profile. GitHub accounts with no contribution history to g0v0! cannot be linked.");
 
         /// <summary>
         /// "Link GitHub Account"
@@ -185,9 +185,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString GithubUserErrorAlreadyLinked => new TranslatableString(getKey(@"github_user.error.already_linked"), @"This GitHub account is already linked to a different user.");
 
         /// <summary>
-        /// "Cannot link GitHub account without any contribution history in osu! repositories."
+        /// "Cannot link GitHub account without any contribution history in g0v0! repositories."
         /// </summary>
-        public static LocalisableString GithubUserErrorNoContribution => new TranslatableString(getKey(@"github_user.error.no_contribution"), @"Cannot link GitHub account without any contribution history in osu! repositories.");
+        public static LocalisableString GithubUserErrorNoContribution => new TranslatableString(getKey(@"github_user.error.no_contribution"), @"Cannot link GitHub account without any contribution history in g0v0! repositories.");
 
         /// <summary>
         /// "Please verify your primary email on GitHub, then try linking your account again."
@@ -430,9 +430,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString PrivacyHideOnline => new TranslatableString(getKey(@"privacy.hide_online"), @"hide your online presence");
 
         /// <summary>
-        /// "this maps to the &quot;appear offline&quot; mode in osu!lazer"
+        /// "this maps to the &quot;appear offline&quot; mode in g0v0!"
         /// </summary>
-        public static LocalisableString PrivacyHideOnlineInfo => new TranslatableString(getKey(@"privacy.hide_online_info"), @"this maps to the ""appear offline"" mode in osu!lazer");
+        public static LocalisableString PrivacyHideOnlineInfo => new TranslatableString(getKey(@"privacy.hide_online_info"), @"this maps to the ""appear offline"" mode in g0v0!");
 
         /// <summary>
         /// "Privacy"

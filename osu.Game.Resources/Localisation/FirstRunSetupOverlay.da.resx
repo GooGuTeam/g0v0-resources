@@ -68,7 +68,7 @@
     <value>Opsætning</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Tilpas osu! til dig</value>
+    <value>Tilpas g0v0! til dig</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Velkommen</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Velkommen til opsætningsguide!
 
-osu! er et meget konfigurerbart spil, og dykning direkte ind i indstillingerne kan undertiden være overvældende. Denne guide vil hjælpe dig med at få de vigtige valg ud af vejen for at sikre en stor første oplevelse!</value>
+g0v0! er et meget konfigurerbart spil, og dykning direkte ind i indstillingerne kan undertiden være overvældende. Denne guide vil hjælpe dig med at få de vigtige valg ud af vejen for at sikre en stor første oplevelse!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>Størrelsen af osu! brugergrænsefladen kan justeres til din smag.</value>
+    <value>Størrelsen af g0v0! brugergrænsefladen kan justeres til din smag.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Opførsel</value>
@@ -87,7 +87,7 @@ osu! er et meget konfigurerbart spil, og dykning direkte ind i indstillingerne k
   <data name="behaviour_description" xml:space="preserve">
     <value>Nogle nye standarder for spiladfærd er blevet implementeret med det formål at forbedre spiloplevelsen og gøre den mere tilgængelig for alle.
 
-Vi anbefaler, at du giver den nye standard et forsøg, men hvis du gerne vil have ting mere som klassiske versioner af osu! du kan nemt anvende nogle sande standarder nedenfor.</value>
+Vi anbefaler, at du giver den nye standard et forsøg, men hvis du gerne vil have ting mere som klassiske versioner af g0v0! du kan nemt anvende nogle sande standarder nedenfor.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Nye standarder</value>

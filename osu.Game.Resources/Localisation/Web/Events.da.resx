@@ -89,13 +89,13 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; har mistet førstepladsen på &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; har endnu engang valgt at støtte osu! - tak for din gavmildhed!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; har endnu engang valgt at støtte g0v0! - tak for din gavmildhed!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; har støttet osu! - mange tak for din gavmildhed!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; har støttet g0v0! - mange tak for din gavmildhed!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; har modtaget et osu! supporter tag som gave!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; har modtaget et g0v0! supporter tag som gave!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; har skiftet brugernavn til &lt;strong&gt;&lt;em&gt;{1}&lt;/em&gt;&lt;/strong&gt;!</value>

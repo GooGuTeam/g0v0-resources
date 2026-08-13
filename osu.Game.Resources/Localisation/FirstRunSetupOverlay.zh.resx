@@ -68,7 +68,7 @@
     <value>首次启动设置</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>调整 osu! 以更贴合你的习惯</value>
+    <value>调整 g0v0! 以更贴合你的习惯</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>欢迎</value>
@@ -76,11 +76,11 @@
   <data name="welcome_description" xml:space="preserve">
     <value>欢迎来到首次启动设置指南页！
 
-osu! 是一款可高度自由化配置的游戏，但初面这些繁多复杂的设置可能会让你不知所措。
+g0v0! 是一款可高度自由化配置的游戏，但初面这些繁多复杂的设置可能会让你不知所措。
 这个指南能帮你快速设定一些重要设置项，确保你有一个良好的初次游戏体验！</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>您可以按自己的喜好来调整 osu! 的界面尺寸。</value>
+    <value>您可以按自己的喜好来调整 g0v0! 的界面尺寸。</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>游戏表现</value>
@@ -88,7 +88,7 @@ osu! 是一款可高度自由化配置的游戏，但初面这些繁多复杂的
   <data name="behaviour_description" xml:space="preserve">
     <value>游戏提供了部分表现内容的新预设，旨在易于玩家理解，并提升玩家的游玩体验。
 
-我们建议您先试用一下新预设，但如果您更偏好经典 osu! 的表现风格，也可轻松设置并应用经典预设。</value>
+我们建议您先试用一下新预设，但如果您更偏好经典 g0v0! 的表现风格，也可轻松设置并应用经典预设。</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>新预设</value>

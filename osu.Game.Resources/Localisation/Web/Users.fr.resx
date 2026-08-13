@@ -899,7 +899,7 @@
     <value>veuillez vous inscrire via le client du jeu à la place !</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>veuillez compléter votre inscription en utilisant le site Web d'osu!</value>
+    <value>veuillez compléter votre inscription en utilisant le site Web d'g0v0!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Utilisateur créé</value>

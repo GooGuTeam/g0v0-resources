@@ -62,7 +62,7 @@
     <value>Redă automat melodia următoare</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritmul este doar la un *clic* distanță! Cu Ouendan/EBA, Taiko și moduri de joc originale,  precum și un editor de nivel complet funcțional.</value>
+    <value>g0v0! - O experiență ritmică liberă și deschisă! Cu Ouendan/EBA, Taiko și moduri de joc originale,  precum și un editor de nivel complet funcțional.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -185,7 +185,7 @@
     <value>Lista Beatmap-uri</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Descarcă osu!</value>
+    <value>Descarcă g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Ajutor &amp; Comunitate</value>
@@ -305,7 +305,7 @@
     <value>Descarcă</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Descarcă osu! pentru a-ți crea propriul cont!</value>
+    <value>Descarcă g0v0! pentru a-ți crea propriul cont!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Nu ai un cont?</value>
@@ -320,10 +320,10 @@
     <value>Prieteni</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Mod lazer</value>
+    <value>Mod g0v0!</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Modul lazer afișează scoruri obținute din lazer folosind un algoritm nou de scor</value>
+    <value>Modul g0v0! afișează scoruri obținute din g0v0! folosind un algoritm nou de scor</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Deconectare</value>

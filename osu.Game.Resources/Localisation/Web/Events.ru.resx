@@ -89,10 +89,10 @@
     <value>{0} потерял первенство на карте {1} ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>{0} снова поддержал osu! — благодарим вас за щедрость!</value>
+    <value>{0} снова поддержал g0v0! — благодарим вас за щедрость!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>{0} поддержал osu! — благодарим вас за щедрость!</value>
+    <value>{0} поддержал g0v0! — благодарим вас за щедрость!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
     <value>{0} получил тег osu!supporter в подарок!</value>

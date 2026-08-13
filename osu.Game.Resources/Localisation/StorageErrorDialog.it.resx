@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>Errore di archiviazione per osu!</value>
+    <value>Errore di archiviazione per g0v0!</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>La posizione dati specificata per osu! ("{0}") non è accessibile. Se si trova su un archivio esterno, prova a ricollegare il dispositivo.</value>
+    <value>La posizione dati specificata per g0v0! ("{0}") non è accessibile. Se si trova su un archivio esterno, prova a ricollegare il dispositivo.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>La posizione dati specificata per osu! ("{0}") non è accessibile. Se hai spostato i file, chiudi osu! e rimettili dov'erano prima.</value>
+    <value>La posizione dati specificata per g0v0! ("{0}") non è accessibile. Se hai spostato i file, chiudi g0v0! e rimettili dov'erano prima.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Riprova</value>

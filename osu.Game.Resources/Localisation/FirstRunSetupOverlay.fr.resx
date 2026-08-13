@@ -62,24 +62,24 @@
     <value>Commencer</value>
   </data>
   <data name="click_to_resume_first_run_setup_at_any_point" xml:space="preserve">
-    <value>Cliquez pour reprendre le guide de mise en place d'osu! à tout moment</value>
+    <value>Cliquez pour reprendre le guide de mise en place d'g0v0! à tout moment</value>
   </data>
   <data name="first_run_setup_title" xml:space="preserve">
-    <value>Mise en place d'osu!</value>
+    <value>Mise en place d'g0v0!</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Configurez osu! à votre convenance</value>
+    <value>Configurez g0v0! à votre convenance</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Bienvenue</value>
   </data>
   <data name="welcome_description" xml:space="preserve">
-    <value>Bienvenue dans le guide de mise en place d'osu!.
+    <value>Bienvenue dans le guide de mise en place d'g0v0!.
 
-osu! est un jeu très configurable, et plonger directement dans les paramètres peut parfois être éprouvant. Ce guide vous aidera à faire les choix les plus importants afin de vous assurer une première expérience réussie !</value>
+g0v0! est un jeu très configurable, et plonger directement dans les paramètres peut parfois être éprouvant. Ce guide vous aidera à faire les choix les plus importants afin de vous assurer une première expérience réussie !</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>La taille de l'interface d'osu! peut être ajustée à votre goût.</value>
+    <value>La taille de l'interface d'g0v0! peut être ajustée à votre goût.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Comportement</value>
@@ -87,7 +87,7 @@ osu! est un jeu très configurable, et plonger directement dans les paramètres 
   <data name="behaviour_description" xml:space="preserve">
     <value>De nouvelles valeurs par défaut pour les comportements du jeu ont été implémentées dans le but d'améliorer l'expérience de jeu et de le rendre plus accessible à tous.
 
-Nous vous recommandons d'essayer ces nouvelles valeurs par défaut, mais si vous souhaitez que les choses ressemblent plus aux versions classiques d'osu!, vous pouvez facilement appliquer quelques valeurs par défaut ci-dessous.</value>
+Nous vous recommandons d'essayer ces nouvelles valeurs par défaut, mais si vous souhaitez que les choses ressemblent plus aux versions classiques d'g0v0!, vous pouvez facilement appliquer quelques valeurs par défaut ci-dessous.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Nouvelles valeurs par défaut</value>

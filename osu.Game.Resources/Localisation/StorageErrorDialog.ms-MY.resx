@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>Ralat storan osu!</value>
+    <value>Ralat storan g0v0!</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Tempat data osu! yang ditentukan ("{0}") tidak tercapai. Sekiranya osu! berada pada storan luaran, sila sambung semula peranti dan cuba lagi.</value>
+    <value>Tempat data g0v0! yang ditentukan ("{0}") tidak tercapai. Sekiranya g0v0! berada pada storan luaran, sila sambung semula peranti dan cuba lagi.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>Tempat data osu! yang ditentukan ("{0}") kosong. Sekiranya anda telah memindahkan fail, sila tutupkan osu! dan pindahkan fail kembali.</value>
+    <value>Tempat data g0v0! yang ditentukan ("{0}") kosong. Sekiranya anda telah memindahkan fail, sila tutupkan g0v0! dan pindahkan fail kembali.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Cuba lagi</value>

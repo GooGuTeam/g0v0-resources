@@ -143,7 +143,7 @@
     <value>atjaunināt</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Ja esi ieguldītājs osu! atvērtā koda repozitorijos, sasaistot savu GitHub kontu šeit, tavi izmaiņu žurnāla ieraksti tiks saistīti ar tavu osu! profilu. GitHub kontus, kuriem nav ieguldījumu vēstures osu!, nevar sasaistīt.</value>
+    <value>Ja esi ieguldītājs g0v0! atvērtā koda repozitorijos, sasaistot savu GitHub kontu šeit, tavi izmaiņu žurnāla ieraksti tiks saistīti ar tavu g0v0! profilu. GitHub kontus, kuriem nav ieguldījumu vēstures g0v0!, nevar sasaistīt.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Pievienot GitHub kontu</value>
@@ -158,7 +158,7 @@
     <value>Šis GitHub konts jau ir pievienots citam lietotājam.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Nevar sasaistīt GitHub kontu bez jebkādas ieguldījumu vēstures osu! repozitorijos.</value>
+    <value>Nevar sasaistīt GitHub kontu bez jebkādas ieguldījumu vēstures g0v0! repozitorijos.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Lūdzu, apstiprini savu primāro e-pasta adresi GitHub un pēc tam mēģini vēlreiz sasaistīt kontu.</value>
@@ -260,7 +260,7 @@
     <value>slēpt jūsu tiešsaistes klātbūtni</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>tas atbilst “nerādīt tiešsaistē” režīmam osu!lazer</value>
+    <value>tas atbilst “nerādīt tiešsaistē” režīmam g0v0!</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Konfidencialitāte</value>

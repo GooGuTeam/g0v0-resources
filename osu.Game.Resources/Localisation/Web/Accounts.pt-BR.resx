@@ -143,7 +143,7 @@
     <value>atualizar</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Se você é um contribuidor dos repositórios de código aberto do osu!, vincular sua conta do GitHub aqui associará suas entradas ao registro de alterações com seu perfil do osu!. Contas do GitHub sem histórico de contribuições para o osu! não podem ser vinculadas.</value>
+    <value>Se você é um contribuidor dos repositórios de código aberto do g0v0!, vincular sua conta do GitHub aqui associará suas entradas ao registro de alterações com seu perfil do g0v0!. Contas do GitHub sem histórico de contribuições para o g0v0! não podem ser vinculadas.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Conectar conta do GitHub</value>
@@ -158,7 +158,7 @@
     <value>Esta conta do GitHub já está vinculada a outro usuário.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Não é possível vincular a conta GitHub sem qualquer histórico de contribuição nos repositórios do osu!.</value>
+    <value>Não é possível vincular a conta GitHub sem qualquer histórico de contribuição nos repositórios do g0v0!.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Verifique seu email principal no GitHub e tente vincular sua conta novamente.</value>
@@ -299,7 +299,7 @@
     <value>ocultar sua presença online</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>isso corresponde ao modo "aparecer offline" no osu!lazer</value>
+    <value>isso corresponde ao modo "aparecer offline" no g0v0!</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Privacidade</value>

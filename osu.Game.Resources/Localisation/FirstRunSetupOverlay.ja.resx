@@ -68,7 +68,7 @@
     <value>初回セットアップ</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>osu! を自分好みにカスタマイズしてください</value>
+    <value>g0v0! を自分好みにカスタマイズしてください</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>ようこそ！</value>
@@ -76,11 +76,11 @@
   <data name="welcome_description" xml:space="preserve">
     <value>初回セットアップガイドへようこそ！
 
-osu! はカスタマイズできる項目がたくさんあるので、慣れていない方が設定画面を見ると「？？？」となってしまうかもしれません。
+g0v0! はカスタマイズできる項目がたくさんあるので、慣れていない方が設定画面を見ると「？？？」となってしまうかもしれません。
 このガイドでは重要な項目をセットアップして、素晴らしいゲーム体験をしていただくお手伝いをします。</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>osu! のユーザー インターフェイスはサイズをお好きなように調整できます。</value>
+    <value>g0v0! のユーザー インターフェイスはサイズをお好きなように調整できます。</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>動作設定</value>
@@ -88,7 +88,7 @@ osu! はカスタマイズできる項目がたくさんあるので、慣れて
   <data name="behaviour_description" xml:space="preserve">
     <value>ゲーム体験を向上させ、誰もがプレイしやすくすることを目的として、いくつかの新しいデフォルトが実装されました。
 
-新しいデフォルトでのプレイを試すことをおすすめしますが、osu! のクラシックな体験を求めている場合は、こちらで簡単に変更できます。</value>
+新しいデフォルトでのプレイを試すことをおすすめしますが、g0v0! のクラシックな体験を求めている場合は、こちらで簡単に変更できます。</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>新しいデフォルト</value>

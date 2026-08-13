@@ -80,31 +80,25 @@
     <value>Pembaruan</value>
   </data>
   <data name="release_stream" xml:space="preserve">
-    <value>Versi rilis osu!</value>
+    <value>Versi rilis g0v0!</value>
   </data>
   <data name="check_update" xml:space="preserve">
-    <value>Perbarui osu!</value>
+    <value>Perbarui g0v0!</value>
   </data>
   <data name="checking_for_updates" xml:space="preserve">
     <value>Memeriksa pembaruan</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Buka folder osu!</value>
+    <value>Buka folder g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Ekspor log</value>
   </data>
   <data name="change_folder_location" xml:space="preserve">
-    <value>Ubah lokasi folder osu!...</value>
+    <value>Ubah lokasi folder g0v0!...</value>
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Jalankan pengaturan dasar</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Pelajari lebih lanjut tentang lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Ketahui perbandingan fitur serta berbagai pertanyaan umum (FAQ) seputar lazer</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Laporkan masalah</value>

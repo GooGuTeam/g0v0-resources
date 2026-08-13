@@ -143,7 +143,7 @@
     <value>оновити</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Якщо ви вносите внесок в репозиторії osu! з відкритим джерельним кодом, прив'язка вашого облікового запису GitHub асоціює вас до списку змін з вашим обліковим записом osu!. Облікові записи, в яких відсутня історія внесення змін в репозиторію osu! не можуть бути прив'язані.</value>
+    <value>Якщо ви вносите внесок в репозиторії g0v0! з відкритим джерельним кодом, прив'язка вашого облікового запису GitHub асоціює вас до списку змін з вашим обліковим записом g0v0!. Облікові записи, в яких відсутня історія внесення змін в репозиторію g0v0! не можуть бути прив'язані.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Прив'язати облік.запис GitHub</value>
@@ -158,7 +158,7 @@
     <value>Цей обліковий запис GitHub вже прив'язаний до іншого користувача.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Неможливо зв'язати обліковий запис GitHub без історії внесків в репозиторії osu!.</value>
+    <value>Неможливо зв'язати обліковий запис GitHub без історії внесків в репозиторії g0v0!.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Будь ласка, підтвердіть вашу основну електронну пошту на GitHub, а потім спробуйте прив'язати обліковий запис ще раз.</value>
@@ -299,7 +299,7 @@
     <value>приховувати вашу присутність "В мережі"</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>це позначить вас у статусі "не в мережі" в osu!lazer </value>
+    <value>це позначить вас у статусі "не в мережі" в g0v0! </value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Конфіденційність</value>

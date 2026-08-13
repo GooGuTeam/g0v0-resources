@@ -68,7 +68,7 @@
     <value>点击这里查看更多信息。</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>已在审核后移除了谱面中不适合于 osu! 展示的内容。</value>
+    <value>已在审核后移除了谱面中不适合于 g0v0! 展示的内容。</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>已删除的谱面</value>
@@ -299,16 +299,16 @@
     <value>此谱面包含视频</value>
   </data>
   <data name="show.lazer_only.title" xml:space="preserve">
-    <value>仅 Lazer</value>
+    <value>仅 g0v0!</value>
   </data>
   <data name="show.lazer_only.description" xml:space="preserve">
-    <value>由于特殊机制，此谱面仅可在 osu!lazer 上游玩。</value>
+    <value>由于特殊机制，此谱面仅可在 g0v0! 上游玩。</value>
   </data>
   <data name="show.lazer_only.scoreboard_switch_mode._" xml:space="preserve">
     <value>{0} 以查看此谱面的成绩。</value>
   </data>
   <data name="show.lazer_only.scoreboard_switch_mode.enable_link" xml:space="preserve">
-    <value>启用 Lazer 模式</value>
+    <value>启用 g0v0! 模式</value>
   </data>
   <data name="show.nsfw_warning.details" xml:space="preserve">
     <value>此谱面包含少儿不宜、冒犯性或令人不安的内容。您仍然想查看它吗？</value>
@@ -344,7 +344,7 @@
     <value>点击 &lt;a href="{0}"&gt;这里&lt;/a&gt; 来查看你得到的精彩功能！</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>你需要成为 osu! 支持者才能查看地区/好友/特定 Mod 排名！</value>
+    <value>你需要成为 g0v0! 支持者才能查看地区/好友/特定 Mod 排名！</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>战队排名</value>

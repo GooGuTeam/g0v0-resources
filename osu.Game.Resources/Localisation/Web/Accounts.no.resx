@@ -143,7 +143,7 @@
     <value>oppdater</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Hvis du er en bidragsyter til osu!s åpne kildekode, kan du knytte endringene dine med osu! profilen ved å koble til GitHub-kontoen din her. GitHub-kontoer uten bidragshistorikk til osu! kan ikke bli koblet til.</value>
+    <value>Hvis du er en bidragsyter til g0v0!s åpne kildekode, kan du knytte endringene dine med g0v0! profilen ved å koble til GitHub-kontoen din her. GitHub-kontoer uten bidragshistorikk til g0v0! kan ikke bli koblet til.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Koble til GitHub-konto</value>
@@ -158,7 +158,7 @@
     <value>Denne GitHub-kontoen er allerede koblet til en annen bruker.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Kan ikke koble GitHub-konto uten bidragshistorikk i osu! kildekode.</value>
+    <value>Kan ikke koble GitHub-konto uten bidragshistorikk i g0v0! kildekode.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Vennligst bekreft din primære e-postadresse på GitHub, og så prøv å koble til kontoen på nytt.</value>

@@ -124,9 +124,6 @@
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>곡 선택 후 Ctrl-Enter 버튼을 누르면 자동 재생 모드로 시작돼요!</value>
   </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>"Lazer"는 사실 영단어가 아니랍니다. 밝은 빛을 의미하는 단어의 올바른 철자는 "laser"입니다.</value>
-  </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>멀티스레드 지원 덕분에 낮은 "FPS"에서도 입력과 판정이 정확하게 이뤄지게 되었어요!</value>
   </data>

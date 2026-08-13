@@ -143,10 +143,10 @@
     <value>PNG (bezstratny)</value>
   </data>
   <data name="change_renderer_configuration" xml:space="preserve">
-    <value>Aby zmienić silnik renderujący, osu! zostanie zamknięte. Otwórz grę ponownie.</value>
+    <value>Aby zmienić silnik renderujący, g0v0! zostanie zamknięte. Otwórz grę ponownie.</value>
   </data>
   <data name="minimise_on_focus_loss" xml:space="preserve">
-    <value>Minimalizuj osu! przy przełączaniu na inną aplikację</value>
+    <value>Minimalizuj g0v0! przy przełączaniu na inną aplikację</value>
   </data>
   <data name="shrink_game_to_safe_area" xml:space="preserve">
     <value>Zmniejsz rozmiar ekranu w celu ominięcia aparatów i notcha</value>

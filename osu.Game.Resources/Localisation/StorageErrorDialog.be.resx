@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>Памылка сховішча osu!</value>
+    <value>Памылка сховішча g0v0!</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Указаная дырэкторыя захоўвання дадзеных osu! ("{0}") недаступная. Калі яна знаходзіцца на вонкавым сховішчы, калі ласка, перападключыце прыладу і паспрабуйце яшчэ раз.</value>
+    <value>Указаная дырэкторыя захоўвання дадзеных g0v0! ("{0}") недаступная. Калі яна знаходзіцца на вонкавым сховішчы, калі ласка, перападключыце прыладу і паспрабуйце яшчэ раз.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>Указаная дырэкторыя захоўвання дадзеных osu! ("{0}") пустая. Калі вы перамясцілі файлы, закройце osu! і перанясіце іх назад.</value>
+    <value>Указаная дырэкторыя захоўвання дадзеных g0v0! ("{0}") пустая. Калі вы перамясцілі файлы, закройце g0v0! і перанясіце іх назад.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Паспрабуйце яшчэ раз</value>

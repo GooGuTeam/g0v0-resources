@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="page_description" xml:space="preserve">
-    <value>Ліцэнзаваныя мастакі osu!</value>
+    <value>Ліцэнзаваныя мастакі g0v0!</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>Ліцэнзаваныя мастакі</value>
@@ -77,13 +77,13 @@
     <value>Шаблон карты яшчэ недаступны</value>
   </data>
   <data name="index.description" xml:space="preserve">
-    <value>Ліцэнзаваныя мастакі — гэта выканаўцы, з якімі мы працуем разам, каб прынесці новую і арыгінальную музыку да osu!. Яны і іх кампазіцыі абраныя з дапамогай камандны osu! як самыя падыходныя для стварэння карт. Некаторы выканаўцы маюць кампазіцыі зробленыя выключна для osu!.&lt;br&gt;&lt;br&gt;Усе кампазіцыі гэтага раздзелу афіцыйна ліцэнзаваны для osu! і звязанага з ім кантэнту. Усе кампазіцыі маюць .osz файлы з ужо прадвызначанымі таймінгамі.</value>
+    <value>Ліцэнзаваныя мастакі — гэта выканаўцы, з якімі мы працуем разам, каб прынесці новую і арыгінальную музыку да g0v0!. Яны і іх кампазіцыі абраныя з дапамогай камандны g0v0! як самыя падыходныя для стварэння карт. Некаторы выканаўцы маюць кампазіцыі зробленыя выключна для g0v0!.&lt;br&gt;&lt;br&gt;Усе кампазіцыі гэтага раздзелу афіцыйна ліцэнзаваны для g0v0! і звязанага з ім кантэнту. Усе кампазіцыі маюць .osz файлы з ужо прадвызначанымі таймінгамі.</value>
   </data>
   <data name="links.beatmaps" xml:space="preserve">
-    <value>Карты osu!</value>
+    <value>Карты g0v0!</value>
   </data>
   <data name="links.osu" xml:space="preserve">
-    <value>osu! профіль</value>
+    <value>g0v0! профіль</value>
   </data>
   <data name="links.site" xml:space="preserve">
     <value>Афіцыйны вэб-сайт</value>
@@ -95,7 +95,7 @@
     <value>{0} песня|{0} песні|{0} песень</value>
   </data>
   <data name="songs.original" xml:space="preserve">
-    <value>osu! арыгінал</value>
+    <value>g0v0! арыгінал</value>
   </data>
   <data name="songs.original_badge" xml:space="preserve">
     <value>АРЫГІНАЛ</value>
@@ -119,7 +119,7 @@
     <value>Усе</value>
   </data>
   <data name="tracks.index.exclusive_only.exclusive_only" xml:space="preserve">
-    <value>osu! арыгінальны</value>
+    <value>g0v0! арыгінальны</value>
   </data>
   <data name="tracks.index.form.advanced" xml:space="preserve">
     <value>Пашыраны пошук</value>

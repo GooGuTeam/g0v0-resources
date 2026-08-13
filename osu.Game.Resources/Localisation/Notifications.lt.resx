@@ -80,7 +80,7 @@
     <value>Šis rėžimas neturi auto žaidimo modo!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! negali tinkamai paleisti garso.
+    <value>g0v0! negali tinkamai paleisti garso.
 Pabadykite pakeisti garso įrenginio nustatymus.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
@@ -114,7 +114,7 @@ Pabadykite pakeisti garso įrenginio nustatymus.</value>
     <value>Jūsų vietinė beatmap'o kopija šiam  įrašui kitokia nei tikėtasi. Jums gali reikėti atnaujinti arba atsisiųsti beatmap'ą iš naujo.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Jus leidžiate osu! {0}.
+    <value>Jus leidžiate g0v0! {0}.
 Paspauskite, kad peržiūrėti kas naujo!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

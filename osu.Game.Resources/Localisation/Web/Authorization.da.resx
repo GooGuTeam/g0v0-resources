@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Hvad med at spille nogle osu! i stedet?</value>
+    <value>Hvad med at spille nogle g0v0! i stedet?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Log venligst ind for at fortsætte.</value>
@@ -323,7 +323,7 @@
     <value>Ikke et medlem af holdet.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>osu!support tag er påkrævet for at oprette et hold.</value>
+    <value>g0v0!support tag er påkrævet for at oprette et hold.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>Brugerside er låst.</value>

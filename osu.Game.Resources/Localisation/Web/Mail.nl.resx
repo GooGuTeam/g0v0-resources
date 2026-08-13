@@ -89,25 +89,25 @@
     <value>Als je vragen of feedback hebt, aarzel dan niet om deze mail te beantwoorden; ik neem zo snel mogelijk contact met je op!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Het is aan mensen zoals jij te danken dat osu! het mogelijk maakt om het spel en de gemeenschap probleemloos draaiende te houden zonder advertenties of gedwongen betalingen.</value>
+    <value>Het is aan mensen zoals jij te danken dat g0v0! het mogelijk maakt om het spel en de gemeenschap probleemloos draaiende te houden zonder advertenties of gedwongen betalingen.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Je support houdt osu! draait gedurende ongeveer {0}! Het lijkt misschien niet zo veel, maar het voegt allemaal toe :).</value>
+    <value>Je support houdt g0v0! draait gedurende ongeveer {0}! Het lijkt misschien niet zo veel, maar het voegt allemaal toe :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Bedankt, osu! &lt;3 van je</value>
+    <value>Bedankt, g0v0! &lt;3 van je</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Een gebruiker-ingegeven vertaling voor informatieve doeleinden:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>De mensen die je supporter hebt gegift zullen nu toegang hebben tot osu! direct en vele andere voordelen.</value>
+    <value>De mensen die je supporter hebt gegift zullen nu toegang hebben tot g0v0! direct en vele andere voordelen.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
     <value>Je krijgt nu toegang tot osu!direct en vele andere supporter voordelen gedurende {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Bedankt voor je {0} naar osu!.</value>
+    <value>Bedankt voor je {0} naar g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>ondersteuning</value>
@@ -119,7 +119,7 @@
     <value>Laat je maar weten dat er sinds je laatste bezoek een nieuw antwoord in "{0}" is geweest.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nieuwe reactie voor topic "{0}"</value>
+    <value>[g0v0!] Nieuwe reactie voor topic "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Als je niet langer dit onderwerp wilt bekijken, kan je ook op de link "Afmeld onderwerp" klikken die je onderaan het topic hierboven vindt of vanaf topicabonnementen managementpagina:</value>
@@ -170,7 +170,7 @@
     <value>Je kunt hier meer details over deze functies vinden:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Iemand heeft je zojuist een osu! supporter tag cadeau gedaan!</value>
+    <value>Iemand heeft je zojuist een g0v0! supporter tag cadeau gedaan!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>De persoon die je deze tag cadeau gaf heeft je een bericht achtergelaten:</value>
@@ -209,7 +209,7 @@
     <value>Verander voorkeuren voor email meldingen:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nieuwe osu! meldingen</value>
+    <value>Nieuwe g0v0! meldingen</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Dit is een bevestiging dat uw osu! wachtwoord is gewijzigd.</value>

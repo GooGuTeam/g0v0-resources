@@ -89,7 +89,7 @@
     <value>Перевірка оновлень</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Відкрити теку з osu!</value>
+    <value>Відкрити теку з g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Експортувати логи</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Запустити майстер налаштування</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Дізнатися більше про "osu!lazer"</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Перегляньте порівняння функцій і ЧаПи</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Повідомити про проблему </value>

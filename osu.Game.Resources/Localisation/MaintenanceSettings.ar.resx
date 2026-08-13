@@ -80,7 +80,7 @@
     <value>يبدو ان هذا المسار يحوي على نسخة osu! مثبتة مسبقاََ, هل تفضل إستعمال هذه البيانات؟</value>
   </data>
   <data name="restart_and_re_open_required_for_completion" xml:space="preserve">
-    <value>لإكمال هذه العملية، سيتم إغلاق osu!. الرجاء فتحها مرة أخرى لاستخدام موقع البيانات الجديد.</value>
+    <value>لإكمال هذه العملية، سيتم إغلاق g0v0!. الرجاء فتحها مرة أخرى لاستخدام موقع البيانات الجديد.</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>حذف جميع الخرائط</value>

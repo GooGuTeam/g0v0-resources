@@ -83,7 +83,7 @@
     <value>Menyemak untuk pengemaskinian</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Buka folder osu!</value>
+    <value>Buka folder g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Eksport log</value>
@@ -93,12 +93,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Jalankan bestari persediaan</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Belajar lebih lanjut tentang lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Lihat perbandingan ciri-ciri dan FAQ</value>
   </data>
   <data name="change_release_stream_package_warning" xml:space="preserve">
     <value>Semak dengan pengurus/pembekal pakej anda untuk saluran edaran lain.</value>

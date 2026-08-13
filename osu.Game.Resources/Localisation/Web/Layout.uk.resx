@@ -62,7 +62,7 @@
     <value>Грати наступну пісню автоматично</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ритм в *натиску* від вас! Разом з Ouendan/EBA, Taiko та оригінальними ігровими режимами, а також повнофункціональним редактором рівнів.</value>
+    <value>g0v0! - Вільний і відкритий ритмічний досвід! Разом з Ouendan/EBA, Taiko та оригінальними ігровими режимами, а також повнофункціональним редактором рівнів.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>набор бітмап</value>
@@ -191,7 +191,7 @@
     <value>Бібліотека бітмап</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Завантажити osu!</value>
+    <value>Завантажити g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Допомога і спільнота</value>
@@ -311,7 +311,7 @@
     <value>Завантажити</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Завантажте osu! щоб створити свій обліковий запис!</value>
+    <value>Завантажте g0v0! щоб створити свій обліковий запис!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Не маєте облікового запису?</value>
@@ -326,10 +326,10 @@
     <value>Друзі</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Режим Lazer</value>
+    <value>Режим g0v0!</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Режим відображення, який показує результати, поставлені у клієнті lazer з новим алгоритмом підрахунку очок</value>
+    <value>Режим відображення, який показує результати, поставлені у клієнті g0v0! з новим алгоритмом підрахунку очок</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Вийти</value>

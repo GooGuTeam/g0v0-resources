@@ -62,7 +62,7 @@
     <value>正在檢查是否可使用全螢幕功能...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! 正在以獨佔全螢幕模式執行，您將能享受低延遲的遊戲體驗！</value>
+    <value>g0v0! 正在以獨佔全螢幕模式執行，您將能享受低延遲的遊戲體驗！</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>無法以獨佔全螢幕模式執行。遊玩時可能會有輸入延遲。</value>

@@ -60,19 +60,19 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString DonationThanksFeedback => new TranslatableString(getKey(@"donation_thanks.feedback"), @"If you have any questions or feedback, don't hesitate to reply to this mail; I'll get back to you as soon as possible!");
 
         /// <summary>
-        /// "It is thanks to people like you that osu! is able to keep the game and community running smoothly without any advertisements or forced payments."
+        /// "It is thanks to people like you that g0v0! is able to keep the game and community running smoothly without any advertisements or forced payments."
         /// </summary>
-        public static LocalisableString DonationThanksKeepFree => new TranslatableString(getKey(@"donation_thanks.keep_free"), @"It is thanks to people like you that osu! is able to keep the game and community running smoothly without any advertisements or forced payments.");
+        public static LocalisableString DonationThanksKeepFree => new TranslatableString(getKey(@"donation_thanks.keep_free"), @"It is thanks to people like you that g0v0! is able to keep the game and community running smoothly without any advertisements or forced payments.");
 
         /// <summary>
-        /// "Your support keeps osu! running for around {0}! It may not seem like much, but it all adds up :)."
+        /// "Your support keeps g0v0! running for around {0}! It may not seem like much, but it all adds up :)."
         /// </summary>
         public static LocalisableString DonationThanksKeepRunning(LocalisableString minutes) => new TranslatableString(getKey(@"donation_thanks.keep_running"), @"Your support keeps osu! running for around {0}! It may not seem like much, but it all adds up :).", minutes);
 
         /// <summary>
-        /// "Thanks, osu! &lt;3s you"
+        /// "Thanks, g0v0! &lt;3s you"
         /// </summary>
-        public static LocalisableString DonationThanksSubject => new TranslatableString(getKey(@"donation_thanks.subject"), @"Thanks, osu! <3s you");
+        public static LocalisableString DonationThanksSubject => new TranslatableString(getKey(@"donation_thanks.subject"), @"Thanks, g0v0! <3s you");
 
         /// <summary>
         /// "A community-provided translation for informational purposes follows:"
@@ -90,7 +90,7 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString DonationThanksBenefitSelf(LocalisableString duration) => new TranslatableString(getKey(@"donation_thanks.benefit.self"), @"You will now have access to osu!direct and many other supporter benefits for {0}.", duration);
 
         /// <summary>
-        /// "Thanks a lot for your {0} towards osu!."
+        /// "Thanks a lot for your {0} towards g0v0!."
         /// </summary>
         public static LocalisableString DonationThanksSupportDefault(LocalisableString support) => new TranslatableString(getKey(@"donation_thanks.support._"), @"Thanks a lot for your {0} towards osu!.", support);
 
@@ -110,7 +110,7 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ForumNewReplyNew(LocalisableString title) => new TranslatableString(getKey(@"forum_new_reply.new"), @"Just letting you know that there has been a new reply in ""{0}"" since your last visit.", title);
 
         /// <summary>
-        /// "[osu!] New reply for topic &quot;{0}&quot;"
+        /// "[g0v0!] New reply for topic &quot;{0}&quot;"
         /// </summary>
         public static LocalisableString ForumNewReplySubject(LocalisableString title) => new TranslatableString(getKey(@"forum_new_reply.subject"), @"[osu!] New reply for topic ""{0}""", title);
 
@@ -260,9 +260,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UserNotificationDigestSettings => new TranslatableString(getKey(@"user_notification_digest.settings"), @"Change email notification preferences:");
 
         /// <summary>
-        /// "New osu! notifications"
+        /// "New g0v0! notifications"
         /// </summary>
-        public static LocalisableString UserNotificationDigestSubject => new TranslatableString(getKey(@"user_notification_digest.subject"), @"New osu! notifications");
+        public static LocalisableString UserNotificationDigestSubject => new TranslatableString(getKey(@"user_notification_digest.subject"), @"New g0v0! notifications");
 
         /// <summary>
         /// "This is just a confirmation that your osu! password has been changed."

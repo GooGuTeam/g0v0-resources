@@ -68,7 +68,7 @@
     <value>First-run setup</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Set up osu! to suit you</value>
+    <value>Set up g0v0! to suit you</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Welcome</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Welcome to the first-run setup guide!
 
-osu! is a very configurable game, and diving straight into the settings can sometimes be overwhelming. This guide will help you get the important choices out of the way to ensure a great first experience!</value>
+g0v0! is a very configurable game, and diving straight into the settings can sometimes be overwhelming. This guide will help you get the important choices out of the way to ensure a great first experience!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>The size of the osu! user interface can be adjusted to your liking.</value>
+    <value>The size of the g0v0! user interface can be adjusted to your liking.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Behaviour</value>
@@ -87,7 +87,7 @@ osu! is a very configurable game, and diving straight into the settings can some
   <data name="behaviour_description" xml:space="preserve">
     <value>Some new defaults for game behaviours have been implemented, with the aim of improving the game experience and making it more accessible to everyone.
 
-We recommend you give the new defaults a try, but if you'd like to have things feel more like classic versions of osu!, you can easily apply some sane defaults below.</value>
+We recommend you give the new defaults a try, but if you'd like to have things feel more like classic versions of g0v0!, you can easily apply some sane defaults below.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>New defaults</value>

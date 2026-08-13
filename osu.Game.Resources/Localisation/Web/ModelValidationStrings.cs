@@ -480,9 +480,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UserChangeUsernameSupporterRequiredDefault(LocalisableString link) => new TranslatableString(getKey(@"user.change_username.supporter_required._"), @"You must have {0} to change your name!", link);
 
         /// <summary>
-        /// "supported osu!"
+        /// "supported g0v0!"
         /// </summary>
-        public static LocalisableString UserChangeUsernameSupporterRequiredLinkText => new TranslatableString(getKey(@"user.change_username.supporter_required.link_text"), @"supported osu!");
+        public static LocalisableString UserChangeUsernameSupporterRequiredLinkText => new TranslatableString(getKey(@"user.change_username.supporter_required.link_text"), @"supported g0v0!");
 
         /// <summary>
         /// "This is already your username, silly!"

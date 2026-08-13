@@ -62,7 +62,7 @@
     <value>پخش قطعه بعدی به صورت خودکار</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - ریتم یک *کلیک* با شما فاصله دارد! با حالت های Ouendan/EBA ، Taiko و اوریجینال، به همراه ویرایشگر مرحله ی کاملا کاربردی.</value>
+    <value>g0v0! - تجربهای آزاد و باز از ریتم! با حالت های Ouendan/EBA ، Taiko و اوریجینال، به همراه ویرایشگر مرحله ی کاملا کاربردی.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>سری بیت مپ ها</value>
@@ -92,7 +92,7 @@
     <value>دانلود</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>برای ساختن حساب کاربری خودتان osu! را دانلود کنید!</value>
+    <value>برای ساختن حساب کاربری خودتان g0v0! را دانلود کنید!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>حساب کاربری ندارید؟</value>

@@ -68,12 +68,12 @@
     <value>您現在可以關閉此選項/視窗</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu! 客戶端驗證已完成</value>
+    <value>g0v0! 客戶端驗證已完成</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>點擊下面的驗證按鈕來完成客戶端驗證</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! 客戶端驗證</value>
+    <value>g0v0! 客戶端驗證</value>
   </data>
 </root>

@@ -80,7 +80,7 @@
     <value>Поточний режим не має в наявності авто мода!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>Схоже, що osu! не може відтворити звук правильно.\n\nБудь ласка, змініть ваш аудіо пристрій на робочий в "налаштуваннях".</value>
+    <value>Схоже, що g0v0! не може відтворити звук правильно.\n\nБудь ласка, змініть ваш аудіо пристрій на робочий в "налаштуваннях".</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>Таблицю рекордів вимкнено. Для її увімкнення натисніть {0}.</value>
@@ -113,7 +113,7 @@
     <value>Ваша локальна копія мапи для цього повтору відрізняється від очікуваної. Ви маєте оновити її або видалити й перезавантажити її ще раз.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Ви використовуєте osu! версії {0}
+    <value>Ви використовуєте g0v0! версії {0}
 Натисніть сюди, щоб побачити останній список змін!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -141,7 +141,7 @@
     <value>Офлайн: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>З'єднання з онлайн-сервісами перервано. osu! працюватиме з обмеженою функціональністю.</value>
+    <value>З'єднання з онлайн-сервісами перервано. g0v0! працюватиме з обмеженою функціональністю.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Вашу сесію на цьому пристрої завершено через вхід в обліковий запис на іншому пристрої.</value>
@@ -168,13 +168,13 @@
     <value>Ця помилка була автоматично надіслана команді розробників.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>Знайдено свіжу версію osu! ({0} → {1}).</value>
+    <value>Знайдено свіжу версію g0v0! ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Натисніть тут, щоб завантажити нову версію, яку можна встановити поверх поточної версії.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Перегляньте ваш пакетний менеджер / крамницю додатків, щоб оновити osu!</value>
+    <value>Перегляньте ваш пакетний менеджер / крамницю додатків, щоб оновити g0v0!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>Дію перервано через показ іншого діалогового вікна.</value>
@@ -192,10 +192,10 @@
     <value>Логи експортовано! Натисніть сюди, щоб подивитися.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>Запуск osu! з правами {0} не покращує продуктивність, може зламати інтеграцію та поставити безпеку під загрозу. Краще запустіть гру з правами звичайного користувача.</value>
+    <value>Запуск g0v0! з правами {0} не покращує продуктивність, може зламати інтеграцію та поставити безпеку під загрозу. Краще запустіть гру з правами звичайного користувача.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>На macOS кореневий каталог osu!, що відрізняється від /Applications або {0}/Applications, може спричинити проблеми під час оновлення гри. Будь ласка, перемістіть вашу гру саме в один із цих каталогів.</value>
+    <value>На macOS кореневий каталог g0v0!, що відрізняється від /Applications або {0}/Applications, може спричинити проблеми під час оновлення гри. Будь ласка, перемістіть вашу гру саме в один із цих каталогів.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Скриншот {0} збережено!</value>

@@ -62,7 +62,7 @@
     <value>次のトラックを自動的に再生</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - リズムはもう、その指先に！応援団や太鼓をモチーフにしたゲームモード、オリジナルのゲームモード、そしてレベルエディタも備えています。</value>
+    <value>g0v0! - 自由でオープンなリズム体験！応援団や太鼓をモチーフにしたゲームモード、オリジナルのゲームモード、そしてレベルエディタも備えています。</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>ビートマップセット</value>
@@ -170,7 +170,7 @@
     <value>ホーム</value>
   </data>
   <data name="menu.home.team" xml:space="preserve">
-    <value>osu!team</value>
+    <value>g0v0!team</value>
   </data>
   <data name="menu.rankings._" xml:space="preserve">
     <value>ランキング</value>
@@ -191,7 +191,7 @@
     <value>ビートマップリスト</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>osu!をダウンロード</value>
+    <value>g0v0!をダウンロード</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>ヘルプ＆コミュニティ</value>
@@ -329,10 +329,10 @@
     <value>フレンド</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazerモード</value>
+    <value>g0v0!モード</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazerモードは、新しいスコアリングアルゴリズムを使用して、Lazerから提出されたスコアを表示します</value>
+    <value>g0v0!モードは、新しいスコアリングアルゴリズムを使用して、g0v0!から提出されたスコアを表示します</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>ログアウト</value>

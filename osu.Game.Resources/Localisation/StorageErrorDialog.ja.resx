@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>osu!ストレージエラー</value>
+    <value>g0v0!ストレージエラー</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>指定されたosu!のデータの場所 ("{0}") にアクセスできません。外部ストレージにある場合は、デバイスを再接続して再試行してください。</value>
+    <value>指定されたg0v0!のデータの場所 ("{0}") にアクセスできません。外部ストレージにある場合は、デバイスを再接続して再試行してください。</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>指定されたosu!のデータの場所 ("{0}") は空です。ファイルを移動した場合は、osu!を閉じて元の場所に戻してください。</value>
+    <value>指定されたg0v0!のデータの場所 ("{0}") は空です。ファイルを移動した場合は、g0v0!を閉じて元の場所に戻してください。</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>再試行</value>

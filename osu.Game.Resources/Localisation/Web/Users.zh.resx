@@ -233,7 +233,7 @@
     <value>Beta 仅限于特定用户访问</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>（在不久后将对 osu! 支持者开放）</value>
+    <value>（在不久后将对 g0v0! 支持者开放）</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>正在进行</value>
@@ -353,10 +353,10 @@
     <value>元老玩家</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu! 开发者</value>
+    <value>g0v0! 开发者</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu! 支持者</value>
+    <value>g0v0! 支持者</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>注册于 {0}</value>
@@ -464,7 +464,7 @@
     <value>自定义头图只有 {0} 可用</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu! 支持者</value>
+    <value>g0v0! 支持者</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>默认游戏模式</value>
@@ -482,7 +482,7 @@
     <value>自定义色彩主题只有 {0} 可用</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu! 支持者</value>
+    <value>g0v0! 支持者</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>无</value>
@@ -800,7 +800,7 @@
     <value>需要成为 {0} 才能使用此功能。</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu! 支持者</value>
+    <value>g0v0! 支持者</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>发表了 {0}</value>

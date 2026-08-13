@@ -89,10 +89,10 @@
     <value>בזכות תורמים כמוך הפרויקט לא נסגר ולא מתבקש בפרסומות או הלוואות.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>התרומה שלך משאירה את !osu פעיל ויציב בסביבות {0}! אולי זה לא נראה הרבה, אבל הכל עוזר לנו :).</value>
+    <value>התרומה שלך משאירה את !g0v0 פעיל ויציב בסביבות {0}! אולי זה לא נראה הרבה, אבל הכל עוזר לנו :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>תודה, osu! אוהבים אותך</value>
+    <value>תודה, g0v0! אוהבים אותך</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>התרגום מסופק על ידי שחקני הקהילה למטרות הסברה:</value>
@@ -104,7 +104,7 @@
     <value>עכשיו יש לך גישה ל-osu!direct ולעוד הרבה יתרונות של תורמים {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>תודה רבה על ה{0} כלפי osu!</value>
+    <value>תודה רבה על ה{0} כלפי g0v0!</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>תמיכה</value>
@@ -116,7 +116,7 @@
     <value>רק מידעים אותך שיש תגובה חדשה ב"{0}" מאז הביקור האחרון שלך.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] תגובה חדשה לנושא "{0}"</value>
+    <value>[g0v0!] תגובה חדשה לנושא "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>אם אינך רוצה לראות אשכול זה יותר, אתה יכול ללחוץ על "בטל את מעקב האשכול" הנמצא בראש האשכול או באזור ניהול האשכול:</value>
@@ -203,7 +203,7 @@
     <value>פתח העדפות הודעות דוא"ל שלי:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>התראות osu! חדשות</value>
+    <value>התראות g0v0! חדשות</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>רק מתהירים שהסיסמא למשתמש ה-!osu שלך שונתה.</value>

@@ -80,7 +80,7 @@
     <value>基本料無料で最高のリズムゲーム</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>リズムはもう、その指先に</value>
+    <value>自由でオープンなリズム体験！</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>高度な検索</value>
@@ -308,13 +308,13 @@
     <value>{0}にリセット</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>osu!をダウンロード</value>
+    <value>g0v0!をダウンロード</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>osu!を支援する</value>
+    <value>g0v0!を支援する</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!ストア</value>
+    <value>g0v0!ストア</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>注目のライブ配信</value>

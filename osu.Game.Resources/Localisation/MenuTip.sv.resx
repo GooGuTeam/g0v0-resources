@@ -124,9 +124,6 @@
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>Ctrl-Enter vid låtval startar en beatmap i autospelningsläge!</value>
   </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>"Lazer" inte ett ord. Den korrekta stavningen för det starka ljuset är "laser".</value>
-  </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>Multithreading-stöd innebär att även med låg "FPS" kommer din input och bedömningar att vara korrekta!
 </value>

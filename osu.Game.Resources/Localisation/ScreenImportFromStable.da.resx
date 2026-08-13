@@ -89,9 +89,9 @@
     <value>Let linking af filer understøttes ikke i dit operativsystem endnu, så en kopi af filerne oprettes under import.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>En anden kopi af alle filerne vil blive lavet under importen. For at undgå dette, skal du sørge for, at lazer datamappen er på det samme drev som din tidligere osu!-installation (og at filsystemet er NTFS).</value>
+    <value>En anden kopi af alle filerne vil blive lavet under importen. For at undgå dette, skal du sørge for, at g0v0 datamappen er på det samme drev som din tidligere osu!-installation (og at filsystemet er NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>En anden kopi af alle filerne vil blive lavet under importen. For at undgå dette, skal du sørge for, at lazer datamappen er på det samme drev som din tidligere osu!-installation (og at filsystemet understøtter hårde links).</value>
+    <value>En anden kopi af alle filerne vil blive lavet under importen. For at undgå dette, skal du sørge for, at g0v0 datamappen er på det samme drev som din tidligere osu!-installation (og at filsystemet understøtter hårde links).</value>
   </data>
 </root>

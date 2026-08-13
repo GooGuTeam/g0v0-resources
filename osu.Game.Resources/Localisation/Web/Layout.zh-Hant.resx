@@ -62,7 +62,7 @@
     <value>自動播放下一首曲目</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.</value>
+    <value>g0v0! - 自由開放的節奏體驗！  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>圖譜</value>
@@ -191,7 +191,7 @@
     <value>圖譜清單</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>下載 osu!</value>
+    <value>下載 g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>說明與社群</value>
@@ -311,7 +311,7 @@
     <value>下載</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>立即下載 osu! 並註冊帳號吧！</value>
+    <value>立即下載 g0v0! 並註冊帳號吧！</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>沒有帳號？</value>
@@ -326,10 +326,10 @@
     <value>好友</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer 模式</value>
+    <value>g0v0! 模式</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer 模式會顯示使用新的計分演算法，在 Lazer 中取得的分數。</value>
+    <value>g0v0! 模式會顯示使用新的計分演算法，在 g0v0! 中取得的分數。</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>登出</value>

@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rytmus je len o klikaní! Spolu s Quendan/EBA, Taikem a originálnými hernými módmi a plne funkčným level editorom.</value>
+    <value>g0v0! - Slobodný a otvorený rytmický zážitok! Spolu s Quendan/EBA, Taikem a originálnými hernými módmi a plne funkčným level editorom.</value>
   </data>
   <data name="header.users.show" xml:space="preserve">
     <value>informácie</value>
@@ -110,7 +110,7 @@
     <value>Zoznam beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Stiahnuť osu!</value>
+    <value>Stiahnuť g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Pomoc &amp; Komunita</value>

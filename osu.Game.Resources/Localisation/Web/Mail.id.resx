@@ -89,13 +89,13 @@
     <value>Apabila kamu memiliki pertanyaan atau saran lebih lanjut, jangan sungkan untuk membalas email ini; Saya akan menghubungimu kembali sesegera mungkin!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Berkat orang-orang sepertimu, osu! bisa menjaga permainan dan komunitasnya bebas dari iklan atau sistem pembayaran yang mengganggu.</value>
+    <value>Berkat orang-orang sepertimu, g0v0! bisa menjaga permainan dan komunitasnya bebas dari iklan atau sistem pembayaran yang mengganggu.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Dukunganmu membuat osu! terus berjalan selama sekitar {0}! Angka ini mungkin tidak terlihat besar, namun dukungan sekecil apa pun akan tetap berarti bagi kami :).</value>
+    <value>Dukunganmu membuat g0v0! terus berjalan selama sekitar {0}! Angka ini mungkin tidak terlihat besar, namun dukungan sekecil apa pun akan tetap berarti bagi kami :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Terima kasih, osu! mencintaimu</value>
+    <value>Terima kasih, g0v0! mencintaimu</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Sebagai bahan rujukan, tersedia terjemahan dari komunitas di bawah ini:</value>
@@ -107,7 +107,7 @@
     <value>Kamu sekarang akan bisa mengakses osu!direct dan berbagai keutamaan supporter lainnya selama {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Terima kasih banyak atas {0} yang kamu berikan kepada osu!.</value>
+    <value>Terima kasih banyak atas {0} yang kamu berikan kepada g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>dukungan</value>
@@ -119,7 +119,7 @@
     <value>Kami ingin memberitahukan kamu bahwa terdapat balasan baru pada "{0}" sejak kunjungan terakhirmu.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Balasan baru pada topik "{0}"</value>
+    <value>[g0v0!] Balasan baru pada topik "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Apabila kamu tidak lagi ingin mengikuti topik ini, kamu bisa mengeklik tombol "Berhenti Ikuti" yang terdapat pada tautan di atas, atau pada halaman daftar pengamatan berikut:</value>
@@ -209,7 +209,7 @@
     <value>Ubah preferensi penerimaan notifikasi:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Notifikasi osu! baru</value>
+    <value>Notifikasi g0v0! baru</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Email ini adalah bukti konfirmasi bahwa kata sandi akun osu! milikmu sudah diubah.</value>

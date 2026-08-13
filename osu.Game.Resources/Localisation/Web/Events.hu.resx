@@ -89,13 +89,13 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; elvesztette az első helyezését &lt;em&gt;{1}&lt;/em&gt; ({2}) beatmapen</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; újra úgy döntött, hogy osu! támogató lesz - köszönjük a nagylelkűségedet!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; újra úgy döntött, hogy g0v0! támogató lesz - köszönjük a nagylelkűségedet!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; osu! támogató lett - köszönjük a nagylelkűségedet!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; g0v0! támogató lett - köszönjük a nagylelkűségedet!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; osu! támogatót kapott ajándékba!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; g0v0! támogatót kapott ajándékba!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; megváltoztatta a felhasználónevét és mostmár &lt;strong&gt;&lt;em&gt;{1}&lt;/strong&gt;&lt;/em&gt;!</value>

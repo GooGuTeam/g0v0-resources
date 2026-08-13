@@ -80,7 +80,7 @@
     <value>o melhor jogo de ritmo gratuito</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>o ritmo está a um clique de distância</value>
+    <value>Uma experiência rítmica livre e aberta!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Pesquisa avançada</value>
@@ -308,10 +308,10 @@
     <value>redefine {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Baixar osu!</value>
+    <value>Baixar g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Apoie o osu!</value>
+    <value>Apoie o g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
     <value>osu!store</value>

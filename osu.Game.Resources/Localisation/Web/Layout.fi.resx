@@ -62,7 +62,7 @@
     <value>Toista seuraava kappale automaattisesti</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rytmi on vain klikkauksen päässä! Varustettuna Ouendan/EBA ja Taikosta tutuilla sekä alkuperäisillä pelimuodoilla ja täysin toiminnallisella tasoeditorilla.</value>
+    <value>g0v0! - Vapaa ja avoin rytmikokemus! Varustettuna Ouendan/EBA ja Taikosta tutuilla sekä alkuperäisillä pelimuodoilla ja täysin toiminnallisella tasoeditorilla.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>rytmikarttasetti</value>
@@ -185,7 +185,7 @@
     <value>Rytmikarttojen listaus</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Lataa osu!</value>
+    <value>Lataa g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Ohjeet &amp; Yhteisö</value>
@@ -302,7 +302,7 @@
     <value>Lataa</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Lataa osu! luodaksesi oman käyttäjätunnuksen!</value>
+    <value>Lataa g0v0! luodaksesi oman käyttäjätunnuksen!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Eikö sinulla ole vielä käyttäjää?</value>
@@ -317,10 +317,10 @@
     <value>Kaverit</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer-tila</value>
+    <value>g0v0!-tila</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer-tila näyttää uuden pisteytysalgoritmin avulla saadut tulokset</value>
+    <value>g0v0!-tila näyttää uuden pisteytysalgoritmin avulla saadut tulokset</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Kirjaudu ulos</value>

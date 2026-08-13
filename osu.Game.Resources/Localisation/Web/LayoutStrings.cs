@@ -15,9 +15,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString AudioAutoplay => new TranslatableString(getKey(@"audio.autoplay"), @"Play next track automatically");
 
         /// <summary>
-        /// "osu! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor."
+        /// "g0v0! - Free and open rhythm experience!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor."
         /// </summary>
-        public static LocalisableString DefaultsPageDescription => new TranslatableString(getKey(@"defaults.page_description"), @"osu! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.");
+        public static LocalisableString DefaultsPageDescription => new TranslatableString(getKey(@"defaults.page_description"), @"g0v0! - Free and open rhythm experience!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.");
 
         /// <summary>
         /// "beatmapset"
@@ -230,9 +230,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString FooterGeneralBeatmaps => new TranslatableString(getKey(@"footer.general.beatmaps"), @"Beatmap Listing");
 
         /// <summary>
-        /// "Download osu!"
+        /// "Download g0v0!"
         /// </summary>
-        public static LocalisableString FooterGeneralDownload => new TranslatableString(getKey(@"footer.general.download"), @"Download osu!");
+        public static LocalisableString FooterGeneralDownload => new TranslatableString(getKey(@"footer.general.download"), @"Download g0v0!");
 
         /// <summary>
         /// "Help &amp; Community"
@@ -460,9 +460,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString PopupLoginRegisterDownload => new TranslatableString(getKey(@"popup_login.register.download"), @"Download");
 
         /// <summary>
-        /// "Download osu! to create your own account!"
+        /// "Download g0v0! to create your own account!"
         /// </summary>
-        public static LocalisableString PopupLoginRegisterInfo => new TranslatableString(getKey(@"popup_login.register.info"), @"Download osu! to create your own account!");
+        public static LocalisableString PopupLoginRegisterInfo => new TranslatableString(getKey(@"popup_login.register.info"), @"Download g0v0! to create your own account!");
 
         /// <summary>
         /// "Don&#39;t have an account?"
@@ -490,14 +490,14 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString PopupUserLinksFriends => new TranslatableString(getKey(@"popup_user.links.friends"), @"Friends");
 
         /// <summary>
-        /// "Lazer mode"
+        /// "g0v0! mode"
         /// </summary>
-        public static LocalisableString PopupUserLinksLegacyScoreOnlyToggle => new TranslatableString(getKey(@"popup_user.links.legacy_score_only_toggle"), @"Lazer mode");
+        public static LocalisableString PopupUserLinksLegacyScoreOnlyToggle => new TranslatableString(getKey(@"popup_user.links.legacy_score_only_toggle"), @"g0v0! mode");
 
         /// <summary>
-        /// "Lazer mode shows scores set from lazer with a new scoring algorithm"
+        /// "g0v0! mode shows scores set from g0v0! with a new scoring algorithm"
         /// </summary>
-        public static LocalisableString PopupUserLinksLegacyScoreOnlyToggleTooltip => new TranslatableString(getKey(@"popup_user.links.legacy_score_only_toggle_tooltip"), @"Lazer mode shows scores set from lazer with a new scoring algorithm");
+        public static LocalisableString PopupUserLinksLegacyScoreOnlyToggleTooltip => new TranslatableString(getKey(@"popup_user.links.legacy_score_only_toggle_tooltip"), @"g0v0! mode shows scores set from g0v0! with a new scoring algorithm");
 
         /// <summary>
         /// "Sign Out"

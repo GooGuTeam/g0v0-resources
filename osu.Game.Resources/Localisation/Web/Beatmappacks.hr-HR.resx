@@ -74,7 +74,7 @@
     <value>PROČITAJ OVO PRIJE PREUZIMANJA</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Instalacija: Nakon što je paket preuzet, raspakiraj sadržaj paketa u svoju osu! Songs mapu i osu! će učiniti ostalo.</value>
+    <value>Instalacija: Nakon što je paket preuzet, raspakiraj sadržaj paketa u svoju g0v0! Songs mapu i g0v0! će učiniti ostalo.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>od {0}</value>

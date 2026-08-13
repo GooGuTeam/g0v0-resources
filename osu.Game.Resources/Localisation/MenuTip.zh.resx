@@ -124,9 +124,6 @@
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>你可以在歌曲选择界面按下 Ctrl-Enter 来观看自动游玩谱面！</value>
   </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>"Lazer" 并不是一个英文单词。激光正确的英文拼写是 "laser"。</value>
-  </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>开启多线程支持时，即使游戏帧率 (FPS) 很低，你的输入和判定也依旧精确！</value>
   </data>

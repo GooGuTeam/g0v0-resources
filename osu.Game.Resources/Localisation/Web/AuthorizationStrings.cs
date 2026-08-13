@@ -10,9 +10,9 @@ namespace osu.Game.Resources.Localisation.Web
         private const string prefix = @"osu.Game.Resources.Localisation.Web.Authorization";
 
         /// <summary>
-        /// "How about playing some osu! instead?"
+        /// "How about playing some g0v0! instead?"
         /// </summary>
-        public static LocalisableString PlayMore => new TranslatableString(getKey(@"play_more"), @"How about playing some osu! instead?");
+        public static LocalisableString PlayMore => new TranslatableString(getKey(@"play_more"), @"How about playing some g0v0! instead?");
 
         /// <summary>
         /// "Please sign in to proceed."

@@ -62,7 +62,7 @@
     <value>Jeg er overbevist! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>støtt osu!</value>
+    <value>støtt g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>eller gi support i gave til andre spillere</value>
@@ -71,13 +71,13 @@
     <value>klikk på hjerteknappen for å fortsette til osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Hvorfor bør jeg støtte osu!? Hvor går pengene hen?</value>
+    <value>Hvorfor bør jeg støtte g0v0!? Hvor går pengene hen?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Støtt skaperene</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>En liten gruppe mennesker utvikler osu! Din støtte hjelper dem med å, du vet.... overleve.</value>
+    <value>En liten gruppe mennesker utvikler g0v0! Din støtte hjelper dem med å, du vet.... overleve.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infrastruktur til servere</value>
@@ -89,13 +89,13 @@
     <value>Utvalgte artister</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Med din støtte kan vi oppsøke sende enda flere fantastiske artister og lisensiere mer utrolig musikk for bruk i osu!</value>
+    <value>Med din støtte kan vi oppsøke sende enda flere fantastiske artister og lisensiere mer utrolig musikk for bruk i g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Vis gjeldene artister &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Hold osu! selvstendig</value>
+    <value>Hold g0v0! selvstendig</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Bidragene dine hjelper med å holde spillet uavhengig og helt uten annonser og sponsorer.</value>
@@ -113,7 +113,7 @@
     <value>Program for åpen kildekode</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Støtt samfunnets bidragsytere som har gitt tid og krefter til å gjøre osu! bedre.</value>
+    <value>Støtt samfunnets bidragsytere som har gitt tid og krefter til å gjøre g0v0! bedre.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Les mer &amp;raquo;</value>

@@ -62,7 +62,7 @@
     <value>Αυτόματη αναπαραγωγή επόμενου κομματιού</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ο ρυθμός είναι μόνο ένα *κλικ* μακριά! Με Ouendan/EBA, Taiko και αυθεντικά gameplay modes, καθώς και έναν πλήρως λειτουργικό level editor.</value>
+    <value>g0v0! - Μια ελεύθερη και ανοιχτή ρυθμική εμπειρία! Με Ouendan/EBA, Taiko και αυθεντικά gameplay modes, καθώς και έναν πλήρως λειτουργικό level editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -185,7 +185,7 @@
     <value>Λίστα Beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Κατεβάστε το osu!</value>
+    <value>Κατεβάστε το g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Βοήθεια &amp; Κοινότητα</value>
@@ -320,10 +320,10 @@
     <value>Φίλοι</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Λειτουργία Lazer</value>
+    <value>Λειτουργία g0v0!</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Η λειτουργία Lazer εμφανίζει τις βαθμολογίες που έχουν οριστεί από το λέιζερ με έναν νέο αλγόριθμο βαθμολόγησης</value>
+    <value>Η λειτουργία g0v0! εμφανίζει τις βαθμολογίες που έχουν οριστεί από το λέιζερ με έναν νέο αλγόριθμο βαθμολόγησης</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Αποσύνδεση</value>

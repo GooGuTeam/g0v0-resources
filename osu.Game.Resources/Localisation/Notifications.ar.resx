@@ -80,7 +80,7 @@
     <value>لا يتوافق مود اللعب التلقائي مع مجموعة القواعد هذه!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>يبدو ان osu! لا تستطيع تشغيل الصوت بشكل جيد, \n\nيرجى تغيير اعدادات جهاز الصوت الى شيء افضل.</value>
+    <value>يبدو ان g0v0! لا تستطيع تشغيل الصوت بشكل جيد, \n\nيرجى تغيير اعدادات جهاز الصوت الى شيء افضل.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>نافذة النتائج معطلة حالياََ. تستطيع تشغيلها بضغط {0}.</value>
@@ -119,7 +119,7 @@
     <value>يبدو أن نسختك المحلية من خريطة إعادة العرض (المحاولة) هذه مختلفة عن المتوقع. قد تحتاج إلى تحديثها أو إعادة تحميلها.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>أنت الآن في osu!{0}
+    <value>أنت الآن في g0v0!{0}
 انقر لمعرفة الجديد!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

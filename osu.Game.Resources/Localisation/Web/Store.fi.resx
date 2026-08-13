@@ -146,7 +146,7 @@
     <value>Koska maksusi oli eCheck, anna maksimissaan 10 päivää että maksu pääsee PayPalin läpi!</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>Tämän tilauksen osu!tukijamerkkejä ei näytetä viimeaikaisessa toiminnassasi.</value>
+    <value>Tämän tilauksen g0v0!tukijamerkkejä ei näytetä viimeaikaisessa toiminnassasi.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Lähetetty kautta:</value>
@@ -167,7 +167,7 @@
     <value>Jos et pyytänyt peruutusta, ota yhteyttä {0} ja mainitse tilauksesi numero (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!kaupan tukeen</value>
+    <value>g0v0!kaupan tukeen</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Tilauksesi on toimitettu! Toivottavasti pidät siitä!</value>
@@ -176,7 +176,7 @@
     <value>Jos sinulla on ongelmia ostoksesi kanssa, ota yhteyttä {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!kaupan tukeen</value>
+    <value>g0v0!kaupan tukeen</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Tilaustasi valmistellaan!</value>
@@ -353,7 +353,7 @@
     <value>lisää omavalintainen viesti lahjaasi! (enintään {0} merkkiä)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Sinun pitää olla {0}, jotta voit hankkia osu!tukijamerkin!</value>
+    <value>Sinun pitää olla {0}, jotta voit hankkia g0v0!tukijamerkin!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>kirjautuneena sisään</value>

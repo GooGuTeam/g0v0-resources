@@ -62,7 +62,7 @@
     <value>Пустите следећу песму аутоматски</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ритам је увек удаљен за *један клик*! Са Ouendan/EBA, Taiko и оригиналним модовима, као и са тотално функционалним креатором нивоа.</value>
+    <value>g0v0! - Слободно и отворено ритмичко искуство! Са Ouendan/EBA, Taiko и оригиналним модовима, као и са тотално функционалним креатором нивоа.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>сет мапа</value>
@@ -185,7 +185,7 @@
     <value>Листинг мапа</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Преузмите osu!</value>
+    <value>Преузмите g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Помоћ &amp; Заједница</value>
@@ -302,7 +302,7 @@
     <value>Преузмите</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Преузмите osu! да би сте направили ваш налог!</value>
+    <value>Преузмите g0v0! да би сте направили ваш налог!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Немате налог?</value>
@@ -317,10 +317,10 @@
     <value>Пријатељи</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer мод</value>
+    <value>g0v0! мод</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer мод приказује резултате постављене из Lazer-а ​​​​са новим алгоритмом резултата</value>
+    <value>g0v0! мод приказује резултате постављене из g0v0!-а ​​​​са новим алгоритмом резултата</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Одјавите се</value>

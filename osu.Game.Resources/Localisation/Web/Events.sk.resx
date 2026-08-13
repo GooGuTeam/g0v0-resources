@@ -89,13 +89,13 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; stratil prvé miesto na &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; sa opäť rozhodol podporiť osu! - díky za tvoju štedrosť!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; sa opäť rozhodol podporiť g0v0! - díky za tvoju štedrosť!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; sa stal osu! podporovateľom - díky za tvoju štedrosť!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; sa stal g0v0! podporovateľom - díky za tvoju štedrosť!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; obdržal darček osu! podporovateľ!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; obdržal darček g0v0! podporovateľ!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; sa premenoval na &lt;strong&gt;&lt;em&gt;{1}&lt;/strong&gt;&lt;/em&gt;!</value>

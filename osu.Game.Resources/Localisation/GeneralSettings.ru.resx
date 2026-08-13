@@ -89,22 +89,16 @@
     <value>Проверка обновлений...</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Открыть папку osu!</value>
+    <value>Открыть папку g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Экспортировать логи</value>
   </data>
   <data name="change_folder_location" xml:space="preserve">
-    <value>Переместить папку с данными osu!...</value>
+    <value>Переместить папку с данными g0v0!...</value>
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Запустить мастер настройки</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Узнать больше о lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Ознакомиться со сравнением функций устаревшего и нового клиентов и FAQ</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Сообщить о проблеме</value>
@@ -122,6 +116,6 @@
     <value>Если у вас возникнут проблемы с запуском игры, установите последнюю версию с официального сайта для восстановления.</value>
   </data>
   <data name="running_latest_release" xml:space="preserve">
-    <value>Вы играете в последнюю версию osu! ({0})</value>
+    <value>Вы играете в последнюю версию g0v0! ({0})</value>
   </data>
 </root>

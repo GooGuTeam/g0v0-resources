@@ -62,7 +62,7 @@
     <value>Avtomatsko predvajaj naslednjo skladbo</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritem je samo *klik* stran!  Z Ouendan/EBA, Taiko in originalnimi igralnimi načini kot tudi polno funkcionalen urejevalnik.</value>
+    <value>g0v0! - Prosta in odprta ritmična izkušnja!  Z Ouendan/EBA, Taiko in originalnimi igralnimi načini kot tudi polno funkcionalen urejevalnik.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>zbirka beatmap</value>
@@ -185,7 +185,7 @@
     <value>Seznam beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Prenesi osu!</value>
+    <value>Prenesi g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Pomoč &amp; Skupnost</value>
@@ -302,7 +302,7 @@
     <value>Prenesi</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Prenesi osu!, da lahko ustvariš svoj račun!</value>
+    <value>Prenesi g0v0!, da lahko ustvariš svoj račun!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Še nimaš računa?</value>

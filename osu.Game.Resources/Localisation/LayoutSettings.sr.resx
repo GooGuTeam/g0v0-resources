@@ -62,7 +62,7 @@
     <value>Проверавам могућности целог екрана...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! ради ексклузивно преко целог екрана, гарантујући ниско кашњење!</value>
+    <value>g0v0! ради ексклузивно преко целог екрана, гарантујући ниско кашњење!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Није могуће покренути искључиво преко целог екрана. Можда ћете имати одређено кашњење у уносу.</value>

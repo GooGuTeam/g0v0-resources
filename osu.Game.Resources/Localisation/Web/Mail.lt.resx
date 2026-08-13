@@ -89,13 +89,13 @@
     <value>Jei turite kokių klausimų ar atsiliepimų, galite atsakyti į šį laišką. Atrašysiu artimiausiu galimu metu!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Dėka tokių žmonių kaip jūs osu! gali palaikyti žaidimo ir bendruomenės sklandų veikimą be reklamų ir priverstinių mokėjimų.</value>
+    <value>Dėka tokių žmonių kaip jūs g0v0! gali palaikyti žaidimo ir bendruomenės sklandų veikimą be reklamų ir priverstinių mokėjimų.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Jūsų parama palaiko osu! veikimą apie {0}! Gal neatrodo daug bet viskas susideda :).</value>
+    <value>Jūsų parama palaiko g0v0! veikimą apie {0}! Gal neatrodo daug bet viskas susideda :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Ačiū, osu! &lt;3 tave</value>
+    <value>Ačiū, g0v0! &lt;3 tave</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Bendruomenės pateiktas vertimas informaciniais tikslais:</value>
@@ -107,7 +107,7 @@
     <value>Dabar turėsite priėjimą prie osu!direct ir daugybės kitų rėmėjo privalumų {0} laikotarpiui.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Dėkojame už jūsų {0} į osu!.</value>
+    <value>Dėkojame už jūsų {0} į g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>paramą</value>
@@ -119,7 +119,7 @@
     <value>Tiesiog leidžiam žinoti, kad yra naujas atsakymas tarp "{0}" nuo jūsų paskutinio apsilankymo.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Naujas atsakymas temoje "{0}"</value>
+    <value>[g0v0!] Naujas atsakymas temoje "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Jeigu daugiau nebenorite prenumeruoti šios temos, paspauskite ant nuorodos "Atsisakyti temos" minėtoje temoje arba ant šios nuorodos:</value>
@@ -149,10 +149,10 @@
     <value>Pristatymas</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Mes gavome jūsų osu!parduotuvės užsakymą!</value>
+    <value>Mes gavome jūsų g0v0!parduotuvės užsakymą!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Dėkojame už jūsų užsakymą osu! parduotuvėje!</value>
+    <value>Dėkojame už jūsų užsakymą g0v0! parduotuvėje!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Iš viso</value>
@@ -164,19 +164,19 @@
     <value>Bet jūs tikriausiai jau žinote kas tai galėtu būti ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Jo ar jos dėka, jūs turite priėjimą prie osu!direct ir kitų osu!rėmėjo privalumų {0} laikotarpiui. </value>
+    <value>Jo ar jos dėka, jūs turite priėjimą prie osu!direct ir kitų g0v0!rėmėjo privalumų {0} laikotarpiui. </value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Daugiau informacijos apie šiuos privalumus galite rasti čia:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Kažkas jums padovanojo osu!rėmėjo žymą!</value>
+    <value>Kažkas jums padovanojo g0v0!rėmėjo žymą!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Asmuo padovanojęs jums šią žymą, paliko jums žinutę: </value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Jums buvo padovanota osu!rėmėjo žyma!</value>
+    <value>Jums buvo padovanota g0v0!rėmėjo žyma!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>Tai patvirtinimo laiškas informuojantis, kad jūsų osu! el. pašto adresas buvo pakeistas į "{0}".</value>
@@ -209,7 +209,7 @@
     <value>Keisti el. pašto pranešimų pasirinkimai:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nauji osu! pranešimai</value>
+    <value>Nauji g0v0! pranešimai</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Čia tik patvirtinimas, kad jūsų osu! paskyros slaptažodis buvo pakeistas.</value>

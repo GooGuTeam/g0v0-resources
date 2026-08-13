@@ -80,7 +80,7 @@
     <value>parastakin parempi ilmainen rytmipeli</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>rytmi on vain klikkauksen päässä</value>
+    <value>Vapaa ja avoin rytmikokemus!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Edistynyt haku</value>
@@ -308,13 +308,13 @@
     <value>nollautuu {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Lataa osu!</value>
+    <value>Lataa g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Tue osu!a</value>
+    <value>Tue g0v0!a</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!kauppa</value>
+    <value>g0v0!kauppa</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Suositeltu Livelähetys</value>

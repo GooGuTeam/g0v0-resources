@@ -62,7 +62,7 @@
     <value>新しいビートマップを探す</value>
   </data>
   <data name="changelog_description" xml:space="preserve">
-    <value>osu!エコシステムの開発者の最新情報を追跡する</value>
+    <value>g0v0!エコシステムの開発者の最新情報を追跡する</value>
   </data>
   <data name="dashboard_description" xml:space="preserve">
     <value>フレンドの情報を見る</value>
@@ -74,6 +74,6 @@
     <value>コミュニティの出来事について最新の情報を得る</value>
   </data>
   <data name="wiki_description" xml:space="preserve">
-    <value>osu!についての様々な情報を見る</value>
+    <value>g0v0!についての様々な情報を見る</value>
   </data>
 </root>

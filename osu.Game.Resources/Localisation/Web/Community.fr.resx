@@ -62,7 +62,7 @@
     <value>Je suis convaincu ! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>soutenez osu!</value>
+    <value>soutenez g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>ou offrez un osu!supporter à un autre joueur</value>
@@ -71,13 +71,13 @@
     <value>cliquez sur le cœur pour vous rendre dans l'osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Pourquoi devrais-je soutenir osu! ? Où va l'argent ?</value>
+    <value>Pourquoi devrais-je soutenir g0v0! ? Où va l'argent ?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Soutenir l'équipe</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Une petite équipe développe et fait fonctionner osu!. Votre soutien les aide à, vous savez... vivre.</value>
+    <value>Une petite équipe développe et fait fonctionner g0v0!. Votre soutien les aide à, vous savez... vivre.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infrastructure du serveur</value>
@@ -89,13 +89,13 @@
     <value>Featured Artists</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Avec votre soutien, nous pouvons réunir encore plus d'artistes géniaux et obtenir les droits de plus de musiques afin de les utiliser sur osu!</value>
+    <value>Avec votre soutien, nous pouvons réunir encore plus d'artistes géniaux et obtenir les droits de plus de musiques afin de les utiliser sur g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Voir la liste actuelle &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Permettre à osu! de rester auto-suffisant</value>
+    <value>Permettre à g0v0! de rester auto-suffisant</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Vos contributions aident à garder le jeu indépendant et totalement exempt d'annonces et de sponsors extérieurs.</value>
@@ -113,7 +113,7 @@
     <value>Programme de Bounty Open Source</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Soutenez les contributeurs communautaires qui ont donné leur temps et leurs efforts pour rendre osu! meilleur.</value>
+    <value>Soutenez les contributeurs communautaires qui ont donné leur temps et leurs efforts pour rendre g0v0! meilleur.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>En savoir plus &amp;raquo;</value>

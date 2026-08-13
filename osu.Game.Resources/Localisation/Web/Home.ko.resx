@@ -80,7 +80,7 @@
     <value>최고의 무료 리듬 게임</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>리듬은 이미, 그 손끝에</value>
+    <value>자유롭고 개방된 리듬 경험!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>고급 검색</value>
@@ -308,10 +308,10 @@
     <value>{0} 후에 초기화</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>osu! 다운로드</value>
+    <value>g0v0! 다운로드</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>osu! 지원하기</value>
+    <value>g0v0! 지원하기</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
     <value>osu!store</value>

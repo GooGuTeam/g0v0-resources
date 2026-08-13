@@ -89,7 +89,7 @@
     <value>Checking for updates</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Open osu! folder</value>
+    <value>Open g0v0! folder</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Export logs</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Run setup wizard</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Learn more about lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Check out the feature comparison and FAQ</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Report an issue</value>

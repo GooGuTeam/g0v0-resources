@@ -143,7 +143,7 @@
     <value>kemas kini</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Sekiranya anda penyumbang kepada gedung-gedung sumber terbuka osu!, anda akan mengaitkan entri log perubahan anda dengan profil osu! anda jika anda memaut akaun GitHub anda ke sini. Akaun GitHub tanpa sejarah sumbangan kepada osu! tidak boleh dipaut.</value>
+    <value>Sekiranya anda penyumbang kepada gedung-gedung sumber terbuka g0v0!, anda akan mengaitkan entri log perubahan anda dengan profil g0v0! anda jika anda memaut akaun GitHub anda ke sini. Akaun GitHub tanpa sejarah sumbangan kepada g0v0! tidak boleh dipaut.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Pautkan Akaun Github</value>
@@ -158,7 +158,7 @@
     <value>Akaun Github ini telah dipautkan dengan pengguna lain.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Tidak boleh pautkan akaun Github tanpa sejarah sumbangan dalam gedung osu!.</value>
+    <value>Tidak boleh pautkan akaun Github tanpa sejarah sumbangan dalam gedung g0v0!.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Sila sahkan e-mel utama anda di GitHub kemudian cuba pautkan akaun anda sekali lagi.</value>

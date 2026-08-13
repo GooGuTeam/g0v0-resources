@@ -12,8 +12,8 @@ jobs:
       -
         name: Submit pending deployment notification
         run: |
-          export TITLE="Pending osu-resources Production Deployment: $GITHUB_REF_NAME"
-          export URL="https://github.com/ppy/osu-resources/actions/runs/$GITHUB_RUN_ID"
+          export TITLE="Pending g0v0-resources Production Deployment: $GITHUB_REF_NAME"
+          export URL="https://github.com/GooGuTeam/g0v0-resources/actions/runs/$GITHUB_RUN_ID"
           export DESCRIPTION="Awaiting approval for building NuGet packages for tag $GITHUB_REF_NAME:
           [View Workflow Run]($URL)"
           export ACTOR_ICON="https://avatars.githubusercontent.com/u/$GITHUB_ACTOR_ID"
@@ -61,7 +61,7 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v7
         with:
-          name: osu-resources
+          name: g0v0-resources
           path: |
             ${{steps.artifactsPath.outputs.nuget_artifacts}}/*.nupkg
             ${{steps.artifactsPath.outputs.nuget_artifacts}}/*.snupkg

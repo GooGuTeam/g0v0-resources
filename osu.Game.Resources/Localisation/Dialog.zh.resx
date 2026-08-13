@@ -92,7 +92,7 @@
     <value>确定要中止当前进行中的对战吗？</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>你确定要退出 osu! 吗？</value>
+    <value>你确定要退出 g0v0! 吗？</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>最后的反悔机会</value>

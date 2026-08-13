@@ -80,7 +80,7 @@
     <value>permainan ritme free-to-win terbaik</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>rhythm is just a click away</value>
+    <value>Pengalaman ritme yang bebas dan terbuka!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Pencarian lanjutan</value>
@@ -206,7 +206,7 @@
     <value>untuk {0}</value>
   </data>
   <data name="download.macos-fallback" xml:space="preserve">
-    <value>osu! versi macOS</value>
+    <value>g0v0! versi macOS</value>
   </data>
   <data name="download.mirror" xml:space="preserve">
     <value>tautan alternatif</value>
@@ -224,7 +224,7 @@
     <value>panduan singkat</value>
   </data>
   <data name="download.stable_text" xml:space="preserve">
-    <value>atau apabila kamu mencari versi osu! yang lebih lawas</value>
+    <value>atau apabila kamu mencari versi g0v0! yang lebih lawas</value>
   </data>
   <data name="download.tagline_1" xml:space="preserve">
     <value>mari persiapkan</value>
@@ -308,10 +308,10 @@
     <value>berakhir {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Unduh osu!</value>
+    <value>Unduh g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Dukung osu!</value>
+    <value>Dukung g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
     <value>osu!store</value>

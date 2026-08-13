@@ -80,7 +80,7 @@
     <value>Ang kasalukuyang ruleset ay walang magagamit na autoplay na mod!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>Ang osu! ay mukhang hindi nakakapag-tugtog ng audio ng tama.
+    <value>Ang g0v0! ay mukhang hindi nakakapag-tugtog ng audio ng tama.
 
 Pakisubukang baguhin ang iyong audio device sa isang gumaganang setting.</value>
   </data>
@@ -121,7 +121,7 @@ Pakisubukang baguhin ang iyong audio device sa isang gumaganang setting.</value>
     <value>Ang iyong lokal na kopya ng beatmap para sa replay na ito ay mukhang iba kaysa sa inaasahan. Maaaring kailanganin mong i-update o muling i-download ito.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Tumatakbo ka na ngayon sa osu! {0}.
+    <value>Tumatakbo ka na ngayon sa g0v0! {0}.
 I-click para makita kung ano ang bago!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

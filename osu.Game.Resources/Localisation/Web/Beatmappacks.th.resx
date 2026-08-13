@@ -74,7 +74,7 @@
     <value>กรุณาอ่านก่อนทำการดาวน์โหลด</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>การติดตั้ง: หลังจากที่แพ็คเกจดาวน์โหลดเสร็จแล้ว แยกเนื้อหาในแพ็กเกจไปที่โฟลเดอร์ Songs ของ osu! และ osu! จะจัดการที่เหลือ</value>
+    <value>การติดตั้ง: หลังจากที่แพ็คเกจดาวน์โหลดเสร็จแล้ว แยกเนื้อหาในแพ็กเกจไปที่โฟลเดอร์ Songs ของ g0v0! และ g0v0! จะจัดการที่เหลือ</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>โดย {0}</value>

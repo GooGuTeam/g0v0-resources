@@ -80,7 +80,7 @@
     <value>Os modos de jogo atuais não têm uma modificação de reprodução automática disponível!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>O osu! parece não conseguir reproduzir áudio corretamente.
+    <value>O g0v0! parece não conseguir reproduzir áudio corretamente.
 
 Por favor, tente alterar o seu dispositivo de áudio para uma configuração funcional.</value>
   </data>
@@ -115,7 +115,7 @@ Por favor, tente alterar o seu dispositivo de áudio para uma configuração fun
     <value>A sua cópia local do mapa para esta repetição parece ser diferente do esperado. Pode ser necessário atualizá‑la ou voltar a transferi‑la.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Agora está a executar o osu! {0}.
+    <value>Agora está a executar o g0v0! {0}.
 Clique para ver o que há de novo!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -143,7 +143,7 @@ Clique para ver o que há de novo!</value>
     <value>Offline: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>A ligação aos serviços online foi interrompida. O osu! continuará a funcionar com funcionalidades limitadas.</value>
+    <value>A ligação aos serviços online foi interrompida. O g0v0! continuará a funcionar com funcionalidades limitadas.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>A sua sessão neste dispositivo foi terminada devido a um início de sessão da sua conta noutro dispositivo.</value>
@@ -170,13 +170,13 @@ Clique para ver o que há de novo!</value>
     <value>Este erro foi comunicado automaticamente à equipa de desenvolvimento.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>Foi encontrada uma versão mais recente do osu! ({0} → {1}).</value>
+    <value>Foi encontrada uma versão mais recente do g0v0! ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Clique aqui para transferir a nova versão, que pode ser instalada sobre a sua instalação atual.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Verifique o seu gestor de pacotes/fornecedor para atualizar o osu!!</value>
+    <value>Verifique o seu gestor de pacotes/fornecedor para atualizar o g0v0!!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>Uma ação foi interrompida devido à apresentação de uma caixa de diálogo.</value>
@@ -194,10 +194,10 @@ Clique para ver o que há de novo!</value>
     <value>Registos exportados! Clique para ver.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>Executar o osu! como {0} não melhora o desempenho, pode quebrar integrações e representa um risco de segurança. Execute o jogo como um utilizador normal.</value>
+    <value>Executar o g0v0! como {0} não melhora o desempenho, pode quebrar integrações e representa um risco de segurança. Execute o jogo como um utilizador normal.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>No macOS, instalar o osu! numa pasta diferente de /Aplicações ou {0}/Aplicações pode causar problemas ao atualizar o jogo. Mova a sua instalação para um destes locais.</value>
+    <value>No macOS, instalar o g0v0! numa pasta diferente de /Aplicações ou {0}/Aplicações pode causar problemas ao atualizar o jogo. Mova a sua instalação para um destes locais.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Captura de ecrã guardada! Clique para ver.

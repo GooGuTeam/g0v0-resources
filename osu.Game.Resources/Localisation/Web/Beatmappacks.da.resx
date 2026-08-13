@@ -74,7 +74,7 @@
     <value>LÆS DETTE FØR DU DOWNLOADER</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Installation: Når en pakke er blevet downloadet, udtrække indholdet af pakken i din osu! Sange mappe og osu! vil gøre resten.</value>
+    <value>Installation: Når en pakke er blevet downloadet, udtrække indholdet af pakken i din g0v0! Sange mappe og g0v0! vil gøre resten.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>af {0}</value>

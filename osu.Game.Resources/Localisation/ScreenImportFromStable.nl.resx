@@ -89,9 +89,9 @@
     <value>Lichtgewicht linken van bestanden wordt nog niet ondersteund op jouw besturingssysteem, dus er zal een kopie van alle bestanden gemaakt worden tijdens het importeren.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Een tweede kopie van alle bestanden zal gemaakt worden tijdens het importeren. Om dit te vermijden, zorg ervoor dat de lazer gegevensmap op dezelfde schijf als jouw vorige osu! Installatie staat (en dat het bestandssysteem NTFS is).</value>
+    <value>Een tweede kopie van alle bestanden zal gemaakt worden tijdens het importeren. Om dit te vermijden, zorg ervoor dat de g0v0 gegevensmap op dezelfde schijf als jouw vorige osu! Installatie staat (en dat het bestandssysteem NTFS is).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Een tweede kopie van alle bestanden zal gemaakt worden tijdens het importeren. Om dit te vermijden, zorg ervoor dat de lazer gegevensmap op dezelfde schijf als jouw vorige osu! Installatie staat (en dat het bestandssysteem hard links ondersteunt).</value>
+    <value>Een tweede kopie van alle bestanden zal gemaakt worden tijdens het importeren. Om dit te vermijden, zorg ervoor dat de g0v0 gegevensmap op dezelfde schijf als jouw vorige osu! Installatie staat (en dat het bestandssysteem hard links ondersteunt).</value>
   </data>
 </root>

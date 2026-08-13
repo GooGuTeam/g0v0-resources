@@ -62,7 +62,7 @@
     <value>تشغيل الأغنية التالية تلقائياً</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>!osu - الإيقاع على بُعد نقرة واحدة فقط! مع أنماط لعب متنوعة تشمل Ouendan/EBA وTaiko والنمط الأصلي، بالإضافة إلى محرر مستويات متكامل المزايا.</value>
+    <value>!g0v0 - تجربة إيقاعية حرة ومفتوحة! مع أنماط لعب متنوعة تشمل Ouendan/EBA وTaiko والنمط الأصلي، بالإضافة إلى محرر مستويات متكامل المزايا.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>حزمة الأغنية</value>
@@ -191,7 +191,7 @@
     <value>قائمة الخرائط</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>تحميل osu!</value>
+    <value>تحميل g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>المساعدة والمجتمع</value>
@@ -311,7 +311,7 @@
     <value>تحميل</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>حمّل osu! لإنشاء حسابك الخاص!</value>
+    <value>حمّل g0v0! لإنشاء حسابك الخاص!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>لا تملك حسابًا؟</value>
@@ -329,7 +329,7 @@
     <value>وضع ليزر</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>يُعرض وضع ليزر النتائج المسجّلة من (osu!(lazer باستخدام خوارزمية تسجيل جديدة</value>
+    <value>يُعرض وضع ليزر النتائج المسجّلة من (g0v0!(g0v0! باستخدام خوارزمية تسجيل جديدة</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>تسجيل الخروج</value>

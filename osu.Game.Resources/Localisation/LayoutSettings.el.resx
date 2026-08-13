@@ -62,7 +62,7 @@
     <value>Έλεγχος για δυνατότητες πλήρους οθόνης...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>Το osu! τρέχει σε αποκλειστική πλήρη οθόνη, εξασφαλίζοντας χαμηλή καθυστέρηση!</value>
+    <value>Το g0v0! τρέχει σε αποκλειστική πλήρη οθόνη, εξασφαλίζοντας χαμηλή καθυστέρηση!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Δεν είναι δυνατό να τρέξει σε αποκλειστική πλήρη οθόνη. Ενδέχεται να υπάρχει κάποια καθυστέρηση εισόδου.</value>

@@ -62,7 +62,7 @@
     <value>I'm convinced! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>support osu!</value>
+    <value>support g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>or gift supporter to other players</value>
@@ -71,13 +71,13 @@
     <value>click the heart button to proceed to the osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Why should I support osu!? Where does the money go?</value>
+    <value>Why should I support g0v0!? Where does the money go?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Support the Team</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>A small team develops and runs osu!. Your support helps them to, you know... live.</value>
+    <value>A small team develops and runs g0v0!. Your support helps them to, you know... live.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Server Infrastructure</value>
@@ -89,13 +89,13 @@
     <value>Featured Artists</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>With your support, we can approach even more awesome artists and license more great music for use in osu!</value>
+    <value>With your support, we can approach even more awesome artists and license more great music for use in g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>View the current roster &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Keep osu! self-sustaining</value>
+    <value>Keep g0v0! self-sustaining</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Your contributions help keep the game independent and completely free from ads and outside sponsors.</value>
@@ -113,7 +113,7 @@
     <value>Open Source Bounty Program</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Support the community contributors that have given their time and effort to help make osu! better.</value>
+    <value>Support the community contributors that have given their time and effort to help make g0v0! better.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Find out more &amp;raquo;</value>

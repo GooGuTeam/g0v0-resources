@@ -62,22 +62,22 @@
     <value>Έχω πειστεί! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>υποστηρίξτε το osu!</value>
+    <value>υποστηρίξτε το g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>ή δωρίστε σε άλλους παίκτες</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>κάντε κλικ στην καρδιά για να προχωρήσετε στο osu!κατάστημα</value>
+    <value>κάντε κλικ στην καρδιά για να προχωρήσετε στο g0v0!κατάστημα</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Γιατί πρέπει να υποστηρίξω το osu!? Πού πηγαίνουν τα χρήματα;</value>
+    <value>Γιατί πρέπει να υποστηρίξω το g0v0!? Πού πηγαίνουν τα χρήματα;</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Υποστηρίξτε την Ομάδα</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Μια μικρή ομάδα αναπτύσσεται και τρέχει osu!. Η υποστήριξή σας τους βοηθάει σε, ξέρεις... ζει.</value>
+    <value>Μια μικρή ομάδα αναπτύσσεται και τρέχει g0v0!. Η υποστήριξή σας τους βοηθάει σε, ξέρεις... ζει.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Υποδομή Διακομιστή</value>
@@ -89,13 +89,13 @@
     <value>Προτεινόμενοι Καλλιτέχνες</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Με την υποστήριξή σας, μπορούμε να προσεγγίσουμε ακόμα πιο φοβερό καλλιτέχνες και να αδειοδοτήσουμε πιο μεγάλη μουσική για χρήση σε osu!</value>
+    <value>Με την υποστήριξή σας, μπορούμε να προσεγγίσουμε ακόμα πιο φοβερό καλλιτέχνες και να αδειοδοτήσουμε πιο μεγάλη μουσική για χρήση σε g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Δείτε το τρέχον ρόστερ &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Συνέχισε το osu</value>
+    <value>Συνέχισε το g0v0</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Οι συνεισφορές σας βοηθούν να διατηρήσετε το παιχνίδι ανεξάρτητο και εντελώς απαλλαγμένο από διαφημίσεις και εξωτερικούς χορηγούς.</value>
@@ -113,7 +113,7 @@
     <value>Πρόγραμμα Bounty ανοιχτού κώδικα</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Υποστηρίξτε τους συνεισφέροντες της κοινότητας που έχουν δώσει το χρόνο και την προσπάθειά τους να βοηθήσουν το osu.</value>
+    <value>Υποστηρίξτε τους συνεισφέροντες της κοινότητας που έχουν δώσει το χρόνο και την προσπάθειά τους να βοηθήσουν το g0v0.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Μάθετε περισσότερα &amp;raquo;</value>

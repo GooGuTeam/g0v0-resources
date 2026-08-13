@@ -68,7 +68,7 @@
     <value>Controlla qui per maggiori dettagli.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Alcuni elementi contenuti in questa mappa sono stati rimossi dopo che sono stati giudicati non idonei per l'uso in osu!.</value>
+    <value>Alcuni elementi contenuti in questa mappa sono stati rimossi dopo che sono stati giudicati non idonei per l'uso in g0v0!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Beatmap eliminata</value>
@@ -299,7 +299,7 @@
     <value>Questa beatmap contiene video</value>
   </data>
   <data name="show.lazer_only.description" xml:space="preserve">
-    <value>A cause di meccaniche specifiche, questa beatmap può essere giocata solo su osu!lazer.</value>
+    <value>A cause di meccaniche specifiche, questa beatmap può essere giocata solo su g0v0!.</value>
   </data>
   <data name="show.nsfw_warning.details" xml:space="preserve">
     <value>Questa beatmap ha contenuti espliciti, offensivi o disturbanti. Vuoi vederla comunque?</value>

@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="page_description" xml:space="preserve">
-    <value>Επιλεγμένοι καλλιτέχνες στο osu!</value>
+    <value>Επιλεγμένοι καλλιτέχνες στο g0v0!</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>Επιλεγμένοι Kαλλιτέχνες</value>
@@ -77,13 +77,13 @@
     <value>Το πρότυπο του beatmap δεν είναι ακόμη διαθέσιμο</value>
   </data>
   <data name="index.description" xml:space="preserve">
-    <value>Οι επιλεγμένοι καλλιτέχνες είναι καλλιτέχνες με τους οποίους συνεργαζόμαστε για να φέρουμε νέα και πρωτότυπη μουσική στο osu!. Αυτοί οι καλλιτέχνες και κάποια απο τα κομμάτια τους έχουν επιλεχθεί ειδικά από την ομάδα του osu! ώστε να είναι ευχάριστα στην ακρόαση και ιδανικά για mapping. Κάποιοι από αυτούς τους καλλιτέχνες έχουν επίσης δημιουργήσει καινούργια κομμάτια αποκλειστικά για το osu!.&lt;br&gt;&lt;br&gt;Όλα τα τραγούδια σε αυτή την κατηγορία παρέχονται ως αρχεία .osz με προκαθορισμένο timing και επίσημα έχουν την άδεια να χρησιμοποιηθούν στο osu! και σε περιεχόμενο γύρω από αυτό.</value>
+    <value>Οι επιλεγμένοι καλλιτέχνες είναι καλλιτέχνες με τους οποίους συνεργαζόμαστε για να φέρουμε νέα και πρωτότυπη μουσική στο g0v0!. Αυτοί οι καλλιτέχνες και κάποια απο τα κομμάτια τους έχουν επιλεχθεί ειδικά από την ομάδα του g0v0! ώστε να είναι ευχάριστα στην ακρόαση και ιδανικά για mapping. Κάποιοι από αυτούς τους καλλιτέχνες έχουν επίσης δημιουργήσει καινούργια κομμάτια αποκλειστικά για το g0v0!.&lt;br&gt;&lt;br&gt;Όλα τα τραγούδια σε αυτή την κατηγορία παρέχονται ως αρχεία .osz με προκαθορισμένο timing και επίσημα έχουν την άδεια να χρησιμοποιηθούν στο g0v0! και σε περιεχόμενο γύρω από αυτό.</value>
   </data>
   <data name="links.beatmaps" xml:space="preserve">
-    <value>osu! Beatmaps</value>
+    <value>g0v0! Beatmaps</value>
   </data>
   <data name="links.osu" xml:space="preserve">
-    <value>osu! προφίλ</value>
+    <value>g0v0! προφίλ</value>
   </data>
   <data name="links.site" xml:space="preserve">
     <value>Επίσημη Ιστοσελίδα</value>
@@ -95,7 +95,7 @@
     <value>{0} τραγούδι|{0} τραγούδια</value>
   </data>
   <data name="songs.original" xml:space="preserve">
-    <value>osu! original</value>
+    <value>g0v0! original</value>
   </data>
   <data name="songs.original_badge" xml:space="preserve">
     <value>ΠΡΩΤΟΤΥΠΟ</value>
@@ -119,7 +119,7 @@
     <value>Όλα</value>
   </data>
   <data name="tracks.index.exclusive_only.exclusive_only" xml:space="preserve">
-    <value>osu! original</value>
+    <value>g0v0! original</value>
   </data>
   <data name="tracks.index.form.advanced" xml:space="preserve">
     <value>Σύνθετη Αναζήτηση</value>

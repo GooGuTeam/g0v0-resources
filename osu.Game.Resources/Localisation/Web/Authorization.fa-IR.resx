@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>چطوره که یکم osu! بازی کنید؟</value>
+    <value>چطوره که یکم g0v0! بازی کنید؟</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>لطفا برای ادامه وارد شوید.</value>
@@ -215,7 +215,7 @@
     <value>لطفا ابتدا سعی کنید قبل ارسال پست در انجمن بازی را (درست) انجام دهید! اگر با بازی کردن مشکل دارید، لطفا به انجمن کمک و پشتیبانی پست ارسال کنید.</value>
   </data>
   <data name="forum.post.store.too_many_help_posts" xml:space="preserve">
-    <value>شما باید کمی بیشتر بازی کنید قبل از این که بتوانید بیشتر از این کمک بخواهید. اگر مشکلی در بازی کردن osu! دارید به support@ppy.sh ایمیل بزنید</value>
+    <value>شما باید کمی بیشتر بازی کنید قبل از این که بتوانید بیشتر از این کمک بخواهید. اگر مشکلی در بازی کردن g0v0! دارید به support@ppy.sh ایمیل بزنید</value>
   </data>
   <data name="forum.topic.reply.double_post" xml:space="preserve">
     <value>لطفا بجای گذاشتن پست جدید، پست قبلی را ویرایش کنید.</value>
@@ -305,7 +305,7 @@
     <value>فقط میتوانید صفحه کاربری خودتان را ویرایش کنید.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>تگ حامی osu! نیاز است.</value>
+    <value>تگ حامی g0v0! نیاز است.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>این آدرس ایمیل قفل است</value>

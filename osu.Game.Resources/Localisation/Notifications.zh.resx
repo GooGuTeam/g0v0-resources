@@ -80,7 +80,7 @@
     <value>当前游戏模式无法使用 Autoplay 模组！</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! 似乎无法正确播放音频。
+    <value>g0v0! 似乎无法正确播放音频。
 
 请尝试更改音频设备的相关设置，使之恢复正常。</value>
   </data>
@@ -115,7 +115,7 @@
     <value>你拥有的本地谱面与回放所需的谱面不同，你可能需要更新或者重新下载。</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>osu! 已更新到版本： {0}。
+    <value>g0v0! 已更新到版本： {0}。
 点击这里查看更新说明！</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -143,7 +143,7 @@
     <value>已下线：{0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>与在线服务的连接被中断。osu! 将在功能受限的情况下运行。</value>
+    <value>与在线服务的连接被中断。g0v0! 将在功能受限的情况下运行。</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>由于您已经在另一台设备上登录，该设备已登出。</value>
@@ -170,13 +170,13 @@
     <value>此错误已自动报告给开发团队。</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>发现新的 osu! 版本 ({0} → {1})。</value>
+    <value>发现新的 g0v0! 版本 ({0} → {1})。</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>点击此处下载新版本，可直接覆盖安装。</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>使用软件包管理器更新 osu!</value>
+    <value>使用软件包管理器更新 g0v0!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>由于需要显示对话框，操作已被中断。</value>
@@ -194,10 +194,10 @@
     <value>已导出日志！点击此处以查看。</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>将 osu! 在 {0} 下运行并不会提升性能，可能会破坏集成并造成安全风险。请以普通用户身份运行游戏。</value>
+    <value>将 g0v0! 在 {0} 下运行并不会提升性能，可能会破坏集成并造成安全风险。请以普通用户身份运行游戏。</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>在 macOS 中，将 osu! 安装至 /Applications 或 {0}/Applications 以外的路径下，可能导致游戏在更新时出现异常。请将游戏移至上述任一目录下。</value>
+    <value>在 macOS 中，将 g0v0! 安装至 /Applications 或 {0}/Applications 以外的路径下，可能导致游戏在更新时出现异常。请将游戏移至上述任一目录下。</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>截图已保存！点此处查看： {0} </value>

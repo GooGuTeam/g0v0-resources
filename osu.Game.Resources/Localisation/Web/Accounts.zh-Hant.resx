@@ -143,7 +143,7 @@
     <value>更新</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>如果您是 osu! 開源專案儲存庫的貢獻者，在此連結您的 GitHub 帳號，即可將您的更新日誌項目與您的 osu! 個人檔案相關聯。若 GitHub 帳號沒有 osu! 的貢獻紀錄，則無法進行連結。</value>
+    <value>如果您是 g0v0! 開源專案儲存庫的貢獻者，在此連結您的 GitHub 帳號，即可將您的更新日誌項目與您的 g0v0! 個人檔案相關聯。若 GitHub 帳號沒有 g0v0! 的貢獻紀錄，則無法進行連結。</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>連結 GitHub 帳號</value>
@@ -158,7 +158,7 @@
     <value>這個 GitHub 帳號已經連結至另一位玩家的帳號上。</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>GitHub 帳號在 osu! 儲存庫中沒有任何貢獻紀錄，因此無法連結。</value>
+    <value>GitHub 帳號在 g0v0! 儲存庫中沒有任何貢獻紀錄，因此無法連結。</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>請先在 GitHub 上驗證您的主要電子郵件地址，然後再嘗試連結您的帳號。</value>
@@ -299,7 +299,7 @@
     <value>隱藏線上狀態</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>這會使你的帳號在 osu!lazer 中處於離線狀態</value>
+    <value>這會使你的帳號在 g0v0! 中處於離線狀態</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>隱私權政策</value>

@@ -143,7 +143,7 @@
     <value>aggiorna</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Se contribuisci nei repository open-source di osu!, puoi collegare qui il tuo account GitHub per associare le tue modifiche nel changelog al tuo profilo osu!. Gli account di GitHub che non hanno ancora contribuito con osu! non possono essere collegati.</value>
+    <value>Se contribuisci nei repository open-source di g0v0!, puoi collegare qui il tuo account GitHub per associare le tue modifiche nel changelog al tuo profilo g0v0!. Gli account di GitHub che non hanno ancora contribuito con g0v0! non possono essere collegati.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Collega account GitHub</value>
@@ -158,7 +158,7 @@
     <value>Questo account GitHub è già associato a un altro utente.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Non puoi collegare un account GitHub senza aver contribuito nei repository di osu!.</value>
+    <value>Non puoi collegare un account GitHub senza aver contribuito nei repository di g0v0!.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Verifica la tua email principale su GitHub, poi riprova a collegare il tuo account.</value>
@@ -299,7 +299,7 @@
     <value>nascondi il tuo stato online</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>su osu!lazer, funziona come l'opzione "Mostrati offline"</value>
+    <value>su g0v0!, funziona come l'opzione "Mostrati offline"</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Privacy</value>

@@ -62,7 +62,7 @@
     <value>נגן את השיר הבא אוטומטית</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - קצב הוא במרחק *לחיצה* אחת! עם Ouendan/EBA, Taiko ומצבי משחק מקוריים, בנוסף לעורך שלבים המתפקד במלואו.</value>
+    <value>g0v0! - חווית קצב חופשית ופתוחה! עם Ouendan/EBA, Taiko ומצבי משחק מקוריים, בנוסף לעורך שלבים המתפקד במלואו.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>מפות</value>
@@ -173,7 +173,7 @@
     <value>רשימת מפות</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>הורד את osu!</value>
+    <value>הורד את g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>עזרה &amp; קהילה</value>

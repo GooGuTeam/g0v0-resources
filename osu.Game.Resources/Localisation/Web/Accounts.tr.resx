@@ -143,7 +143,7 @@
     <value>güncelle</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Eğer osu!'nun açık kaynaklı repository'lerinde katkılıysanız, GitHub hesabınızı bağlamanız sizin değişim günlüğü girişleriniz, osu! profilinizle ilişkilendirilecektir. osu! repository'lerinde katkı geçmişi olmayan GitHub hesapları bağlanamaz.</value>
+    <value>Eğer g0v0!'nun açık kaynaklı repository'lerinde katkılıysanız, GitHub hesabınızı bağlamanız sizin değişim günlüğü girişleriniz, g0v0! profilinizle ilişkilendirilecektir. g0v0! repository'lerinde katkı geçmişi olmayan GitHub hesapları bağlanamaz.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>GitHub Hesabını Bağla</value>
@@ -158,7 +158,7 @@
     <value>Bu GitHub hesabı zaten başka bir kullanıcıya bağlı.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>osu! repository'lerinde katkı geçmişi olmayan GitHub hesabı bağlanamaz.</value>
+    <value>g0v0! repository'lerinde katkı geçmişi olmayan GitHub hesabı bağlanamaz.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Lütfen GitHub'daki ana e-postanızı doğrulayın, sonra hesabınızı tekrar bağlamayı deneyin.</value>
@@ -272,7 +272,7 @@
     <value>çevrimiçi durumunu gizle</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>bu osu!lazer'de "çevrimdışı olarak görün" modunu atayacak</value>
+    <value>bu g0v0!'de "çevrimdışı olarak görün" modunu atayacak</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Gizlilik</value>

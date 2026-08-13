@@ -89,7 +89,7 @@
     <value>正在檢查更新</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>開啟 osu! 資料夾</value>
+    <value>開啟 g0v0! 資料夾</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>匯出紀錄</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>執行設定精靈</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>深入了解 osu!lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>了解功能的差異及一些常見問題</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>回報問題</value>

@@ -59,10 +59,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="empty.active" xml:space="preserve">
-    <value>Şu anda devam eden hiçbir osu!(lazer) {0} oyununun içinde değilsin!</value>
+    <value>Şu anda devam eden hiçbir g0v0! {0} oyununun içinde değilsin!</value>
   </data>
   <data name="empty.ended" xml:space="preserve">
-    <value>Henüz tamamlanmış hiçbir osu!(lazer) {0} oyunun yok!</value>
+    <value>Henüz tamamlanmış hiçbir g0v0! {0} oyunun yok!</value>
   </data>
   <data name="empty.playlists" xml:space="preserve">
     <value>oynama listesi</value>

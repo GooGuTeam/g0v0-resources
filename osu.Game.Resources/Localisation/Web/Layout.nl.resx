@@ -62,7 +62,7 @@
     <value>Speel het volgende lied automatisch</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritme is slechts een *klik* verwijderd!  Met Ouendan/EBA, Taiko en originele spelmodi, en zelfs een volledig functionele level editor.</value>
+    <value>g0v0! - Een vrije en open ritme-ervaring!  Met Ouendan/EBA, Taiko en originele spelmodi, en zelfs een volledig functionele level editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -191,7 +191,7 @@
     <value>Beatmap Lijst</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Download osu!</value>
+    <value>Download g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Help &amp; Community</value>
@@ -311,7 +311,7 @@
     <value>Download</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Download osu! om een account aan te maken!</value>
+    <value>Download g0v0! om een account aan te maken!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Heb je geen account?</value>
@@ -326,10 +326,10 @@
     <value>Vrienden</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazermodus</value>
+    <value>g0v0!modus</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazermodus toont scores gezet op lazer met een nieuw scoringsalgoritme</value>
+    <value>g0v0!modus toont scores gezet op g0v0! met een nieuw scoringsalgoritme</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Log Uit</value>

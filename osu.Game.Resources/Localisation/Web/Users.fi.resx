@@ -233,7 +233,7 @@
     <value>Beta on tällä hetkellä käytössä vain siihen oikeutetuilla käyttäjillä.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!n tukijat tulevat kohta)</value>
+    <value>(g0v0!n tukijat tulevat kohta)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Aktiivinen</value>
@@ -338,10 +338,10 @@
     <value>Täällä alusta alkaen</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!n kehittäjä</value>
+    <value>g0v0!n kehittäjä</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!n tukija</value>
+    <value>g0v0!n tukija</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Liittyi: {0}</value>
@@ -449,7 +449,7 @@
     <value>Kuvien lähetys käytettävissä vain {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!tukijoille</value>
+    <value>g0v0!tukijoille</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>oletuspelimuoto</value>
@@ -467,7 +467,7 @@
     <value>Muokatut väriteemat saatavilla vain {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!tukijat</value>
+    <value>g0v0!tukijat</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>ei mitään</value>
@@ -776,7 +776,7 @@
     <value>Sinun täytyy olla {0} avataksesi tämän ominaisuuden.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!n tukija</value>
+    <value>g0v0!n tukija</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Mukana toiminnassa {0}</value>
@@ -866,7 +866,7 @@
     <value>rekisteröidy pelin kautta!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>suorita rekisteröinti käyttämällä osu! nettisivua</value>
+    <value>suorita rekisteröinti käyttämällä g0v0! nettisivua</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Käyttäjä luotu</value>

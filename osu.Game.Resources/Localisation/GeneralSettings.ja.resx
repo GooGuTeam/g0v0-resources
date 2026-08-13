@@ -83,7 +83,7 @@
     <value>アップデートの確認中</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>osu!のフォルダを開く</value>
+    <value>g0v0!のフォルダを開く</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>ログをエクスポート</value>
@@ -93,12 +93,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>セットアップ ウィザードを実行</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>lazerについてさらに知る</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>機能の比較とFAQをチェックしてください</value>
   </data>
   <data name="change_release_stream_package_warning" xml:space="preserve">
     <value>あなたのパッケージマネージャーで他のリリースストリームを確認してください。</value>

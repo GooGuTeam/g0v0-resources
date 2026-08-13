@@ -68,12 +68,12 @@
     <value>Ви тепер можете закрити вкладку або вікно</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>Верифікація клієнта osu! завершена</value>
+    <value>Верифікація клієнта g0v0! завершена</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Натисніть кнопку авторизації нижче, щоб закінчити верифікацію клієнта.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>підтвердження клієнта osu!</value>
+    <value>підтвердження клієнта g0v0!</value>
   </data>
 </root>

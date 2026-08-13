@@ -80,7 +80,7 @@
     <value>a legeslegjobb ingyen játszható ritmusjáték</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>a ritmus csak egy kattintásra van</value>
+    <value>Szabad és nyitott ritmusélmény!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Részletes keresés</value>
@@ -278,13 +278,13 @@
     <value>{0} által</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>osu! letöltése</value>
+    <value>g0v0! letöltése</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>osu! támogatása</value>
+    <value>g0v0! támogatása</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!bolt</value>
+    <value>g0v0!bolt</value>
   </data>
   <data name="user.show.admin.page" xml:space="preserve">
     <value>Admin konzol megnyitása</value>

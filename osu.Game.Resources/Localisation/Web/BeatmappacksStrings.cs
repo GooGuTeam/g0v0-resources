@@ -35,9 +35,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString IndexBlurbImportant => new TranslatableString(getKey(@"index.blurb.important"), @"READ THIS BEFORE DOWNLOADING");
 
         /// <summary>
-        /// "Installation: Once a pack has been downloaded, extract the contents of the pack into your osu! Songs directory and osu! will do the rest."
+        /// "Installation: Once a pack has been downloaded, extract the contents of the pack into your g0v0! Songs directory and g0v0! will do the rest."
         /// </summary>
-        public static LocalisableString IndexBlurbInstallInstruction => new TranslatableString(getKey(@"index.blurb.install_instruction"), @"Installation: Once a pack has been downloaded, extract the contents of the pack into your osu! Songs directory and osu! will do the rest.");
+        public static LocalisableString IndexBlurbInstallInstruction => new TranslatableString(getKey(@"index.blurb.install_instruction"), @"Installation: Once a pack has been downloaded, extract the contents of the pack into your g0v0! Songs directory and g0v0! will do the rest.");
 
         /// <summary>
         /// "by {0}"

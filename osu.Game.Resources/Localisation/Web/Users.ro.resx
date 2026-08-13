@@ -119,7 +119,7 @@
     <value>Deblochează</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>Oferă status de suporter osu! cadou</value>
+    <value>Oferă status de suporter g0v0! cadou</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>Se încarcă...</value>
@@ -233,7 +233,7 @@
     <value>Accesul beta este momentan limitat la utilizatorii autorizați.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(suporterii osu! vor primi acces curând)</value>
+    <value>(suporterii g0v0! vor primi acces curând)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Activ</value>
@@ -341,10 +341,10 @@
     <value>Aici încă de la început</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>dezvoltator osu!</value>
+    <value>dezvoltator g0v0!</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>suporter osu!</value>
+    <value>suporter g0v0!</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Înscris în {0}</value>
@@ -452,7 +452,7 @@
     <value>Încărcare disponibilă pentru {0} doar</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>suporteri osu!</value>
+    <value>suporteri g0v0!</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>mod de joc implicit</value>
@@ -470,7 +470,7 @@
     <value>Temele de culori personalizate sunt disponibile numai pentru {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>suporteri osu!</value>
+    <value>suporteri g0v0!</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>niciunul</value>
@@ -779,7 +779,7 @@
     <value>Trebuie să fii un {0} să deblochezi acest feature.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>suporter osu!</value>
+    <value>suporter g0v0!</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>A contribuit la {0}</value>
@@ -878,7 +878,7 @@
     <value>te rugăm să te înregistrezi prin intermediul jocului!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>te rugăm să finalizezi înregistrarea prin site-ul osu!</value>
+    <value>te rugăm să finalizezi înregistrarea prin site-ul g0v0!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Utilizator creat</value>

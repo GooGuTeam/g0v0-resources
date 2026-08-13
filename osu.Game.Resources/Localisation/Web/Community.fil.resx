@@ -62,7 +62,7 @@
     <value>Kumbinsido na ako! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>suportahan ang osu!</value>
+    <value>suportahan ang g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>o i-regalo sa ibang manlalaro</value>
@@ -71,13 +71,13 @@
     <value>i-click ang heart button para tumuloy sa osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Bakit ko kailangang umabuloy sa osu!? Saan pumupunta ang pera?</value>
+    <value>Bakit ko kailangang umabuloy sa g0v0!? Saan pumupunta ang pera?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Suportahan ang Team</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Isang maliit na grupo ang bumubuo at nagpapatakbo ng osu! Ang iyong suporta ay makatutulong sa kanila para, alam mo na... mabuhay.</value>
+    <value>Isang maliit na grupo ang bumubuo at nagpapatakbo ng g0v0! Ang iyong suporta ay makatutulong sa kanila para, alam mo na... mabuhay.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Server Infrastructure</value>
@@ -89,13 +89,13 @@
     <value>Mga Tampok na Artista</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Sa iyong tulong, makakaabot pa kami sa marami pang magagaling na artists at makaka-license ng marami pang mga magagandang musika na mai-dadagdag at gagamitin para sa osu!</value>
+    <value>Sa iyong tulong, makakaabot pa kami sa marami pang magagaling na artists at makaka-license ng marami pang mga magagandang musika na mai-dadagdag at gagamitin para sa g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Tignan ang kabuoang kasalukuyan  &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Tulungan ang osu! na tumayo sa sarili nitong mga paa</value>
+    <value>Tulungan ang g0v0! na tumayo sa sarili nitong mga paa</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Ang iyong mga kontribyusyon ay makatutulong maging malaya ang laro sa ads at mga sponsors.</value>
@@ -113,7 +113,7 @@
     <value>Open Source Bounty Program</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Suportahan ang mga community contributors na nagbigay ng kanilang oras at pagsisikap upang tulungan mapabuti ang osu!.</value>
+    <value>Suportahan ang mga community contributors na nagbigay ng kanilang oras at pagsisikap upang tulungan mapabuti ang g0v0!.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Alamin ang Higit pa &amp;raquo;</value>

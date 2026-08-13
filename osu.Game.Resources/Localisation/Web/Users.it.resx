@@ -353,7 +353,7 @@
     <value>Qui dall'inizio</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>sviluppatore di osu!</value>
+    <value>sviluppatore di g0v0!</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
     <value>osu!supporter</value>
@@ -899,7 +899,7 @@
     <value>registrati attraverso il gioco!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>si prega di completare la registrazione utilizzando il sito osu!</value>
+    <value>si prega di completare la registrazione utilizzando il sito g0v0!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Utente creato</value>

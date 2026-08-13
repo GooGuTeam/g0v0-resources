@@ -89,25 +89,25 @@
     <value>如有任何疑问或反馈，欢迎直接回复此邮件，我将尽快为您解答！</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>正是有您这样的玩家支持，osu! 才能在无广告干扰、无强制消费的情况下维持游戏与社区的良性运作！</value>
+    <value>正是有您这样的玩家支持，g0v0! 才能在无广告干扰、无强制消费的情况下维持游戏与社区的良性运作！</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>您的捐赠能够维持 osu! 服务器继续运行 {0}！虽然看起来不多，但是江海来源于小流，不是么。:)</value>
+    <value>您的捐赠能够维持 g0v0! 服务器继续运行 {0}！虽然看起来不多，但是江海来源于小流，不是么。:)</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>非常感谢， osu! 爱你哦~</value>
+    <value>非常感谢， g0v0! 爱你哦~</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>以下是社区提供的翻译，仅供参考：</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>您的好友赠礼对象将会享受到 osu!direct 及更多 osu! 支持者专属福利。</value>
+    <value>您的好友赠礼对象将会享受到 osu!direct 及更多 g0v0! 支持者专属福利。</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>您将会享受到 {0} 的 osu!direct 及更多 osu! 支持者专属福利。</value>
+    <value>您将会享受到 {0} 的 osu!direct 及更多 g0v0! 支持者专属福利。</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>感谢您对 osu! 付出的 {0}！</value>
+    <value>感谢您对 g0v0! 付出的 {0}！</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>支持</value>
@@ -119,7 +119,7 @@
     <value>提醒您，谱面 {0} 下的话题在您上次访问之后有新的回复。</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] 主题 "{0}" 有新回复</value>
+    <value>[g0v0!] 主题 "{0}" 有新回复</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>如果您不想再关注本主题，您可以点击主题页下面的 “取消关注该主题” 链接，或者从订阅管理页面中取消订阅。</value>
@@ -149,10 +149,10 @@
     <value>配送</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>我们已收到您的 osu! 商店订单！</value>
+    <value>我们已收到您的 g0v0! 商店订单！</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>感谢您在 osu! 商店的购买！</value>
+    <value>感谢您在 g0v0! 商店的购买！</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>总计</value>
@@ -164,19 +164,19 @@
     <value>话虽如此，不过您可能已经猜到是谁啦嘿嘿嘿~</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>因此，您可以在接下来的 {0} 内享受到 osu!direct 及更多 osu! 支持者专属福利。</value>
+    <value>因此，您可以在接下来的 {0} 内享受到 osu!direct 及更多 g0v0! 支持者专属福利。</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>您可以在此处找到更多关于专属福利的信息：</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>有人刚刚赠予您 osu! 支持者标签！</value>
+    <value>有人刚刚赠予您 g0v0! 支持者标签！</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>赠礼者为您留下了一条留言：</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>您收到了一个 osu! 支持者标签！</value>
+    <value>您收到了一个 g0v0! 支持者标签！</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>您 osu! 账户绑定的邮箱地址已被更改为 {0} 。</value>
@@ -209,7 +209,7 @@
     <value>更改邮件通知设置：</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>来自 osu! 的新通知</value>
+    <value>来自 g0v0! 的新通知</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>您的 osu! 账户密码已修改。</value>

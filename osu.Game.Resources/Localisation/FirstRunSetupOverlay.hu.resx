@@ -68,7 +68,7 @@
     <value>Első futtatású beállítás</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Állítsd be az osu!-t hogy megfeleljen neked</value>
+    <value>Állítsd be az g0v0!-t hogy megfeleljen neked</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Üdv</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Üdvözlünk az első futtatási beállítás útmutatójában!
 
-Az osu! egy nagyon testreszabható játék, és a beállításokba való elmerülés néha túlságosan megterhelő lehet. Ez az útmutató segít, hogy a fontos döntéseket elintézd, hogy biztos legyen a nagyszerű első élmény!</value>
+Az g0v0! egy nagyon testreszabható játék, és a beállításokba való elmerülés néha túlságosan megterhelő lehet. Ez az útmutató segít, hogy a fontos döntéseket elintézd, hogy biztos legyen a nagyszerű első élmény!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>Az osu! felhasználói felületének mérete tetszés szerint állítható.</value>
+    <value>Az g0v0! felhasználói felületének mérete tetszés szerint állítható.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Működés</value>
@@ -87,7 +87,7 @@ Az osu! egy nagyon testreszabható játék, és a beállításokba való elmerü
   <data name="behaviour_description" xml:space="preserve">
     <value>Néhány új alapértelmezett játékviselkedés lett implementálva a játékélmény javítása és mindenki számára elérhetőbbé tétele érdekében.
 
-Javasoljuk, hogy próbáld ki az új alapértelmezéseket, de ha azt szeretnéd, hogy a dolgok inkább az osu! klasszikus verzióihoz hasonlítsanak, az alábbiakban könnyedén alkalmazhatsz néhány józan alapértelmezést.</value>
+Javasoljuk, hogy próbáld ki az új alapértelmezéseket, de ha azt szeretnéd, hogy a dolgok inkább az g0v0! klasszikus verzióihoz hasonlítsanak, az alábbiakban könnyedén alkalmazhatsz néhány józan alapértelmezést.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Új alapértelmezések</value>

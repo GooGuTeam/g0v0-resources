@@ -25,9 +25,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString AvailabilityMoreInfo => new TranslatableString(getKey(@"availability.more-info"), @"Check here for more information.");
 
         /// <summary>
-        /// "Some assets contained within this map have been removed after being judged as not being suitable for use in osu!."
+        /// "Some assets contained within this map have been removed after being judged as not being suitable for use in g0v0!."
         /// </summary>
-        public static LocalisableString AvailabilityRuleViolation => new TranslatableString(getKey(@"availability.rule_violation"), @"Some assets contained within this map have been removed after being judged as not being suitable for use in osu!.");
+        public static LocalisableString AvailabilityRuleViolation => new TranslatableString(getKey(@"availability.rule_violation"), @"Some assets contained within this map have been removed after being judged as not being suitable for use in g0v0!.");
 
         /// <summary>
         /// "Deleted beatmap"
@@ -415,14 +415,14 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowInfoVideo => new TranslatableString(getKey(@"show.info.video"), @"This beatmap contains video");
 
         /// <summary>
-        /// "Lazer Only"
+        /// "g0v0! Only"
         /// </summary>
-        public static LocalisableString ShowLazerOnlyTitle => new TranslatableString(getKey(@"show.lazer_only.title"), @"Lazer Only");
+        public static LocalisableString ShowLazerOnlyTitle => new TranslatableString(getKey(@"show.lazer_only.title"), @"g0v0! Only");
 
         /// <summary>
-        /// "Due to specific mechanics, this beatmap can only be played on osu!lazer."
+        /// "Due to specific mechanics, this beatmap can only be played on g0v0!."
         /// </summary>
-        public static LocalisableString ShowLazerOnlyDescription => new TranslatableString(getKey(@"show.lazer_only.description"), @"Due to specific mechanics, this beatmap can only be played on osu!lazer.");
+        public static LocalisableString ShowLazerOnlyDescription => new TranslatableString(getKey(@"show.lazer_only.description"), @"Due to specific mechanics, this beatmap can only be played on g0v0!.");
 
         /// <summary>
         /// "{0} to view scores set on this beatmap."
@@ -430,9 +430,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowLazerOnlyScoreboardSwitchModeDefault(LocalisableString enableLink) => new TranslatableString(getKey(@"show.lazer_only.scoreboard_switch_mode._"), @"{0} to view scores set on this beatmap.", enableLink);
 
         /// <summary>
-        /// "Enable lazer mode"
+        /// "Enable g0v0! mode"
         /// </summary>
-        public static LocalisableString ShowLazerOnlyScoreboardSwitchModeEnableLink => new TranslatableString(getKey(@"show.lazer_only.scoreboard_switch_mode.enable_link"), @"Enable lazer mode");
+        public static LocalisableString ShowLazerOnlyScoreboardSwitchModeEnableLink => new TranslatableString(getKey(@"show.lazer_only.scoreboard_switch_mode.enable_link"), @"Enable g0v0! mode");
 
         /// <summary>
         /// "This beatmap contains explicit, offensive, or disturbing content. Would you like to view it anyway?"

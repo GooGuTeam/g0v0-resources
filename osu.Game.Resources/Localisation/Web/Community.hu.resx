@@ -62,22 +62,22 @@
     <value>Meggyőztél! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>osu! támogatása</value>
+    <value>g0v0! támogatása</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>vagy ajándékozz támogatói címet más játékosoknak</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>kattints a szívet ábrázoló gombra, hogy továbblépj az osu!boltba</value>
+    <value>kattints a szívet ábrázoló gombra, hogy továbblépj az g0v0!boltba</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Miért támogatnám az osu!-t? Hova megy a pénz?</value>
+    <value>Miért támogatnám az g0v0!-t? Hova megy a pénz?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Támogasd a Csapatot</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Egy kis csapat fejleszti és futtatja az osu!-t. A te támogatásod segíti őket, hogy, tudod... éljenek.</value>
+    <value>Egy kis csapat fejleszti és futtatja az g0v0!-t. A te támogatásod segíti őket, hogy, tudod... éljenek.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Szerver Infrastruktúra</value>
@@ -89,13 +89,13 @@
     <value>Kiemelt Előadók</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>A te támogatásoddal mégtöbb nagyszerű előadót érünk el és szerződtetünk le az osu!-hoz!</value>
+    <value>A te támogatásoddal mégtöbb nagyszerű előadót érünk el és szerződtetünk le az g0v0!-hoz!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Nézd meg a jelenlegi felállást &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Tartsd az osu!-t önfenntartóvá</value>
+    <value>Tartsd az g0v0!-t önfenntartóvá</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>A támogatásaid segítenek, hogy a játék teljesen független, és a szponzorokon kívül hirdetésmentes legyen.</value>
@@ -113,7 +113,7 @@
     <value>Nyílt forrású bounty program</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Támogasd a közösségi közreműködőket, akik idejükkel és erőfeszítéseikkel teszik jobbá az osu!-t.</value>
+    <value>Támogasd a közösségi közreműködőket, akik idejükkel és erőfeszítéseikkel teszik jobbá az g0v0!-t.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Tudj meg többet &amp;raquo;</value>

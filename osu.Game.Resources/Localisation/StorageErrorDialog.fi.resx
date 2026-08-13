@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>osu!-tallennusvirhe</value>
+    <value>g0v0!-tallennusvirhe</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Määritetty osu!-datasijainti ("{0}") ei ole saatavilla. Jos se on ulkoisella tallennuslaitteella, ole hyvä ja yhdistä laite uudelleen ja yritä uudestaan.</value>
+    <value>Määritetty g0v0!-datasijainti ("{0}") ei ole saatavilla. Jos se on ulkoisella tallennuslaitteella, ole hyvä ja yhdistä laite uudelleen ja yritä uudestaan.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>Määritetty osu!-datasijainti ("{0}") on tyhjä. Jos olet siirtänyt tiedostot, ole hyvä ja sulje osu! ja siirrä ne takaisin.</value>
+    <value>Määritetty g0v0!-datasijainti ("{0}") on tyhjä. Jos olet siirtänyt tiedostot, ole hyvä ja sulje g0v0! ja siirrä ne takaisin.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Yritä uudelleen</value>

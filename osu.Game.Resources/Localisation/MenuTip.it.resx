@@ -124,9 +124,6 @@
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>Ctrl-Invio in selezione brano avvierà una beatmap in modalità autoplay!</value>
   </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>"Lazer" non è un termine inglese o italiano. L'espressione corretta per il fascio di luce è "laser".</value>
-  </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>Il supporto multithreading significa che anche con "FPS" bassi i tui input e i giudizi saranno precisi!</value>
   </data>

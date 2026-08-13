@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Mit szólsz ahhoz, hogy ha egy kis osu!-t játszanál inkább?</value>
+    <value>Mit szólsz ahhoz, hogy ha egy kis g0v0!-t játszanál inkább?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Kérlek jelentkezz be a folytatáshoz.</value>
@@ -314,7 +314,7 @@
     <value>Csak a saját felhasználói oldaladat szerkesztheted.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>osu!támogatói cím szükséges.</value>
+    <value>g0v0!támogatói cím szükséges.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>email cím zárva</value>

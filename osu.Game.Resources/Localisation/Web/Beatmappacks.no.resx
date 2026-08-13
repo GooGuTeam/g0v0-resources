@@ -74,7 +74,7 @@
     <value>LES DETTE FØR NEDLASTING</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Installasjon: Når en pakke er lastet ned, pakk ut innholdet i pakken til osu! Sang mappen og osu! vil gjøre resten.</value>
+    <value>Installasjon: Når en pakke er lastet ned, pakk ut innholdet i pakken til g0v0! Sang mappen og g0v0! vil gjøre resten.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>av {0}</value>

@@ -89,13 +89,13 @@
     <value>Se tiver alguma dúvida ou sugestão, não hesite em responder a este e-mail; entrarei em contacto consigo assim que possível!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>É graças a pessoas como você que o osu! consegue manter o jogo e a comunidade a funcionar sem anúncios ou pagamentos obrigatórios.</value>
+    <value>É graças a pessoas como você que o g0v0! consegue manter o jogo e a comunidade a funcionar sem anúncios ou pagamentos obrigatórios.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>O seu apoio mantém o osu! a funcionar durante cerca de {0}! Pode parecer pouco, mas tudo conta :).</value>
+    <value>O seu apoio mantém o g0v0! a funcionar durante cerca de {0}! Pode parecer pouco, mas tudo conta :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Obrigado, o osu! &lt;3-o</value>
+    <value>Obrigado, o g0v0! &lt;3-o</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Segue‑se uma tradução fornecida pela comunidade apenas para fins informativos:</value>
@@ -107,7 +107,7 @@
     <value>Terá agora acesso ao osu!direct e a muitos outros benefícios de apoiantes durante {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Muito obrigado pelo seu {0} ao osu!.</value>
+    <value>Muito obrigado pelo seu {0} ao g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>apoio</value>
@@ -119,7 +119,7 @@
     <value>Apenas para informar que houve uma nova resposta em "{0}" desde a sua última visita.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nova resposta no tópico "{0}"</value>
+    <value>[g0v0!] Nova resposta no tópico "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Se já não deseja seguir este tópico, pode clicar na ligação "Cancelar subscrição do tópico", localizada no final do mesmo, ou fazê‑lo através da página de gestão de subscrições de tópicos:</value>
@@ -164,19 +164,19 @@
     <value>Mas provavelmente já sabe quem é ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Graças a essa pessoa, tem acesso ao osu!direct e a outros benefícios de apoiante do osu! durante os próximos {0}.</value>
+    <value>Graças a essa pessoa, tem acesso ao osu!direct e a outros benefícios de apoiante do g0v0! durante os próximos {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Pode encontrar mais detalhes sobre estas funcionalidades aqui:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Alguém acabou de lhe oferecer uma etiqueta de apoiante do osu!!</value>
+    <value>Alguém acabou de lhe oferecer uma etiqueta de apoiante do g0v0!!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>A pessoa que lhe ofereceu esta etiqueta deixou-lhe uma mensagem:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Recebeu uma etiqueta de apoiante do osu! de presente!</value>
+    <value>Recebeu uma etiqueta de apoiante do g0v0! de presente!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>Este é um e‑mail de confirmação para informar que o endereço de e‑mail da sua conta osu! foi alterado para: “{0}”.</value>
@@ -209,7 +209,7 @@
     <value>Alterar preferências de notificação por e‑mail:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Novas notificações do osu!</value>
+    <value>Novas notificações do g0v0!</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Esta é apenas uma confirmação de que a sua palavra‑passe do osu! foi alterada.</value>

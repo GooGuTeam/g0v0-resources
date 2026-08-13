@@ -68,7 +68,7 @@
     <value>Нажмите сюда, чтобы узнать подробности.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Некоторые части этой карты были удалены после того, как их посчитали неприемлемыми для osu!.</value>
+    <value>Некоторые части этой карты были удалены после того, как их посчитали неприемлемыми для g0v0!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Удалённая карта</value>
@@ -242,7 +242,7 @@
     <value>Если вы обнаружили проблему у этой карты, пожалуйста, дисквалифицируйте её {0}.</value>
   </data>
   <data name="show.hype.report._" xml:space="preserve">
-    <value>Если вы обнаружили проблему, связанную с этой картой, пожалуйста, сообщите об этом {0}, чтобы оповестить команду osu!.</value>
+    <value>Если вы обнаружили проблему, связанную с этой картой, пожалуйста, сообщите об этом {0}, чтобы оповестить команду g0v0!.</value>
   </data>
   <data name="show.hype.report.button" xml:space="preserve">
     <value>Сообщить о проблеме</value>

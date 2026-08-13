@@ -62,13 +62,13 @@
     <value>Sprawdzanie możliwości działania w trybie pełnoekranowym...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! działa w trybie pełnoekranowym, gwarantując niskie opóźnienie!</value>
+    <value>g0v0! działa w trybie pełnoekranowym, gwarantując niskie opóźnienie!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Nie udało się przejść do trybu pełnoekranowego. Pewne opóźnienie sterowania będzie odczuwalne.</value>
   </data>
   <data name="fullscreen_macos_note" xml:space="preserve">
-    <value>Korzystanie z trybu pełnoekranowego na urządzeniach z systemem macOS może sprawić, że interakcje z paskiem menu lub przestrzeniami nie będą działać poprawnie, a także doprowadzić do zawieszenia działania osu!, jeżeli pojawi się okno systemowe. Zaleca się używanie trybu w oknie bez ramek.</value>
+    <value>Korzystanie z trybu pełnoekranowego na urządzeniach z systemem macOS może sprawić, że interakcje z paskiem menu lub przestrzeniami nie będą działać poprawnie, a także doprowadzić do zawieszenia działania g0v0!, jeżeli pojawi się okno systemowe. Zaleca się używanie trybu w oknie bez ramek.</value>
   </data>
   <data name="scale_everything_excluding_overlays" xml:space="preserve">
     <value>Wszystko (poza nakładkami)</value>

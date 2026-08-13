@@ -80,7 +80,7 @@
     <value>ang pinaka-pinakanangungunang libre-para-panalunin na larong pangritmo</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>ang ritmo ay isang click nalang</value>
+    <value>Malaya at bukas na ritmikong karanasan!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Detalyadong paghanap</value>
@@ -275,10 +275,10 @@
     <value>ni {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>I-download ang osu!</value>
+    <value>I-download ang g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Suportahan ang osu!</value>
+    <value>Suportahan ang g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
     <value>osu!store</value>

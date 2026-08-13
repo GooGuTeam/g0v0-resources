@@ -62,7 +62,7 @@
     <value>Правяраем даступнасць поўнаэкраннага рэжыму...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! працуе у эксклюзіўным поўнаэкранным рэжыме, што гарантуе нізкую затрымку!</value>
+    <value>g0v0! працуе у эксклюзіўным поўнаэкранным рэжыме, што гарантуе нізкую затрымку!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Немагчыма запусціць эксклюзіўны поўнаэкранны рэжым. Вы можаце адчуць некаторую затрымку.</value>

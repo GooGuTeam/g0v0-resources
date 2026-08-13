@@ -68,12 +68,12 @@
     <value>Сада можете затворити овај прозор</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>верификација osu! клијента је успешна</value>
+    <value>верификација g0v0! клијента је успешна</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Кликните на "authorise" дугме испод да завршите верификацију клијента.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! верификација клијента</value>
+    <value>g0v0! верификација клијента</value>
   </data>
 </root>

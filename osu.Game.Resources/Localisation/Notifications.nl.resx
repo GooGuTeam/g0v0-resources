@@ -80,7 +80,7 @@
     <value>Er is geen autoplay-mod beschikbaar in de geselecteerde spelmodus!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! is niet in staat om audio af te spelen.\n\nProbeer je afspeelapparaat te wijzigen naar een werkende instelling.</value>
+    <value>g0v0! is niet in staat om audio af te spelen.\n\nProbeer je afspeelapparaat te wijzigen naar een werkende instelling.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>De score-overlay is momenteel uitgeschakeld. Je kan deze terug aanzetten met {0}.</value>

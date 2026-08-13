@@ -68,7 +68,7 @@
     <value>Қосымша ақпарат алу үшін мына жерге кіріңіз.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Осы картадағы кейбір ішіндегісілер osu!-де пайдалануға жарамсыз деп шешілгеннен кейін жойылды.</value>
+    <value>Осы картадағы кейбір ішіндегісілер g0v0!-де пайдалануға жарамсыз деп шешілгеннен кейін жойылды.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Жойылған карта</value>
@@ -290,7 +290,7 @@
     <value>Сіз алатын барлық керемет мүмкіндіктерді көру үшін &lt;a href="{0}"&gt;мына жерге&lt;/a&gt; басыңыз!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Досқа, елге немесе мод-арнайы рейтингтерге қол жеткізу үшін сіз osu! қолдаушысы болуыңыз керек!</value>
+    <value>Досқа, елге немесе мод-арнайы рейтингтерге қол жеткізу үшін сіз g0v0! қолдаушысы болуыңыз керек!</value>
   </data>
   <data name="show.scoreboard.title" xml:space="preserve">
     <value>Нәтиже тақтасы</value>

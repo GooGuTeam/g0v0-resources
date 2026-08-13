@@ -89,7 +89,7 @@
     <value>Güncellemeler denetleniyor</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>osu! klasörünü aç</value>
+    <value>g0v0! klasörünü aç</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Günlükleri dışarı aktar</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Kurulum sihirbazını çalıştır</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Lazer hakkında daha fazla bilgi edin</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Özellik karşılaştırması ve SSS'ye göz atın</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Bir sorun bildir</value>

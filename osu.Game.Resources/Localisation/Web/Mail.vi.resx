@@ -89,13 +89,13 @@
     <value>Nếu như bạn có bất kì thắc mắc hay ý kiến gì, đừng ngần ngại phản hồi email này; Tôi sẽ liên lạc lại với bạn sớm nhất có thể!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Nhờ có những người như bạn mà osu! có thể tiếp tục giữ cho game và cộng đồng hoạt động mà không có quảng cáo hay bất kì sự thu phí bắt buộc nào.</value>
+    <value>Nhờ có những người như bạn mà g0v0! có thể tiếp tục giữ cho game và cộng đồng hoạt động mà không có quảng cáo hay bất kì sự thu phí bắt buộc nào.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Sự ủng hộ của bạn giữ cho osu! hoạt động trong khoảng {0}! Nó trông có vẻ không nhiều lắm, nhưng cùng cộng của mọi người vào thì sẽ thành nhiều :).</value>
+    <value>Sự ủng hộ của bạn giữ cho g0v0! hoạt động trong khoảng {0}! Nó trông có vẻ không nhiều lắm, nhưng cùng cộng của mọi người vào thì sẽ thành nhiều :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Cảm ơn, osu! &lt;3 bạn</value>
+    <value>Cảm ơn, g0v0! &lt;3 bạn</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Dưới đây là một bản dịch được cung cấp bởi cộng đồng:</value>
@@ -107,7 +107,7 @@
     <value>Bạn bây giờ sẽ có quyền truy cập osu!direct và nhiều quyền lợi supporter khác trong vòng {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Cảm ơn rất nhiều vì {0} của bạn cho osu!.</value>
+    <value>Cảm ơn rất nhiều vì {0} của bạn cho g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>sự ủng hộ</value>
@@ -119,7 +119,7 @@
     <value>Có phản hồi mới cho "{0}" kể từ lần truy cập cuối cùng của bạn.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Có phản hồi mới cho đề tài "{0}"</value>
+    <value>[g0v0!] Có phản hồi mới cho đề tài "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Nếu như bạn không còn muốn theo dõi đề tài này, bạn có thể click vào link "Bỏ theo dõi đề tài" ở phía cuối của đề tài trên, hoặc từ trang quản lý theo dõi đề tài:</value>
@@ -209,7 +209,7 @@
     <value>Thay đổi tuỳ chọn thông báo email:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Thông báo osu! mới</value>
+    <value>Thông báo g0v0! mới</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Đây chỉ là một sự xác nhận rằng mật khẩu osu! của bạn đã được thay đổi.</value>

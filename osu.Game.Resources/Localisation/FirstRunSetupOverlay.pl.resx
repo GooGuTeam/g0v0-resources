@@ -68,7 +68,7 @@
     <value>Konfiguracja pierwszego uruchomienia</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Dostosuj osu! do swoich potrzeb</value>
+    <value>Dostosuj g0v0! do swoich potrzeb</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Witaj</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Witaj w przewodniku po konfiguracji pierwszego uruchomienia!
 
-osu! jest bardzo konfigurowalną grą, dlatego bezpośrednie przejście do ustawień może okazać się przytłaczające. Ten przewodnik pomoże ci podjąć ważne decyzje, aby zapewnić jak najlepsze doświadczenia w grze!</value>
+g0v0! jest bardzo konfigurowalną grą, dlatego bezpośrednie przejście do ustawień może okazać się przytłaczające. Ten przewodnik pomoże ci podjąć ważne decyzje, aby zapewnić jak najlepsze doświadczenia w grze!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>Rozmiar interfejsu użytkownika w osu! można dostosować do twoich potrzeb.</value>
+    <value>Rozmiar interfejsu użytkownika w g0v0! można dostosować do twoich potrzeb.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Zachowanie</value>
@@ -87,7 +87,7 @@ osu! jest bardzo konfigurowalną grą, dlatego bezpośrednie przejście do ustaw
   <data name="behaviour_description" xml:space="preserve">
     <value>Zaimplementowaliśmy nowe ustawienia domyślne, które modyfikują zachowanie gry w kilku miejscach. Ma to na celu usprawnienie rozgrywki i uczynienie gry bardziej przystępną dla wszystkich graczy.
 
-Zalecamy korzystanie z nowych ustawień, ale jeżeli preferujesz działanie poprzedniej wersji osu!, możesz łatwo dostosować zachowanie gry poniżej.</value>
+Zalecamy korzystanie z nowych ustawień, ale jeżeli preferujesz działanie poprzedniej wersji g0v0!, możesz łatwo dostosować zachowanie gry poniżej.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Nowe ustawienia domyślne</value>

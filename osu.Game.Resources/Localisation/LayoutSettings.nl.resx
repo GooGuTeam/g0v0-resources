@@ -62,7 +62,7 @@
     <value>Contoleren of systeem in staat is om volledig scherm te starten...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! wordt in exclusief volledig scherm uitgevoerd: lagere latency gegarandeerd!</value>
+    <value>g0v0! wordt in exclusief volledig scherm uitgevoerd: lagere latency gegarandeerd!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Niet in staat om exclusief volledig scherm te starten: hogere input latency mogelijk.</value>

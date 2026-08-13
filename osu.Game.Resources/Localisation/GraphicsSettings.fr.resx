@@ -146,7 +146,7 @@
     <value>Afin de changer le moteur de rendu, le jeu se fermera. Vous devrez alors l'ouvrir à nouveau.</value>
   </data>
   <data name="minimise_on_focus_loss" xml:space="preserve">
-    <value>Réduire la fenêtre d'osu! lors du passage à d'autres applications</value>
+    <value>Réduire la fenêtre d'g0v0! lors du passage à d'autres applications</value>
   </data>
   <data name="shrink_game_to_safe_area" xml:space="preserve">
     <value>Rétrécir le jeu pour éviter les caméras et les encoches</value>

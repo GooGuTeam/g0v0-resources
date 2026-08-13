@@ -353,10 +353,10 @@
     <value>Seit dem Anfang hier</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!-Entwickler</value>
+    <value>g0v0!-Entwickler</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!-Supporter</value>
+    <value>g0v0!-Supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>{0} beigetreten</value>
@@ -788,7 +788,7 @@
     <value>Profil bearbeiten</value>
   </data>
   <data name="show.page.description" xml:space="preserve">
-    <value>&lt;strong&gt;me!&lt;/strong&gt; ist ein persönlicher Bereich auf deinem osu!-Profil, den du nach deinem Belieben anpassen kannst.</value>
+    <value>&lt;strong&gt;me!&lt;/strong&gt; ist ein persönlicher Bereich auf deinem g0v0!-Profil, den du nach deinem Belieben anpassen kannst.</value>
   </data>
   <data name="show.page.edit_big" xml:space="preserve">
     <value>me! bearbeiten</value>
@@ -899,7 +899,7 @@
     <value>Bitte registriere dich stattdessen über den Spiel-Client!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>Bitte melde dich über die osu!-Webseite an</value>
+    <value>Bitte melde dich über die g0v0!-Webseite an</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Benutzer erstellt</value>

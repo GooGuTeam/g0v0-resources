@@ -89,7 +89,7 @@
     <value>Hledání aktualizací</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Otevřít složku osu!</value>
+    <value>Otevřít složku g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Exportovat logy</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Spustit průvodce spuštěním</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Více informací o lazeru</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Porovnání funkcí a často kladené dotazy</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Nahlásit problém</value>

@@ -62,22 +62,22 @@
     <value>Aš įtikintas! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>paremk osu!</value>
+    <value>paremk g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>arba padovanok kitiems žaidėjams</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>paspausk širdutę, kad nueitum į osu!parduotuvę</value>
+    <value>paspausk širdutę, kad nueitum į g0v0!parduotuvę</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Kodėl aš turėčiau paremti osu!? Kur mano pinigai keliaus?</value>
+    <value>Kodėl aš turėčiau paremti g0v0!? Kur mano pinigai keliaus?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Paremk Komandą</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Maža komanda kuria ir palaiko osu! Jūsų parama padės jiems žinote... pragyventi.</value>
+    <value>Maža komanda kuria ir palaiko g0v0! Jūsų parama padės jiems žinote... pragyventi.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Serverių Infrastruktūra</value>
@@ -89,13 +89,13 @@
     <value>Ryškieji Atlikėjai</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Su jūsų parama, mes galime susisiekti su daugiau šaunių atlikėjų ir licencijuoti daugiau geros muzikos osu! naudojimui!</value>
+    <value>Su jūsų parama, mes galime susisiekti su daugiau šaunių atlikėjų ir licencijuoti daugiau geros muzikos g0v0! naudojimui!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Rodyti dabartinį sąrašą &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Išlaikyk osu! savarankiška</value>
+    <value>Išlaikyk g0v0! savarankiška</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Jūsų įnašai padeda išlaikyti žaidimą savarankiška ir visiškai laisva nuo reklamų ir išorinių rėmėjų.</value>
@@ -113,7 +113,7 @@
     <value>Atviro Kodo Premijų Programa</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Paremk bendruomenės pagalbininkus, kurie panaudojo savo laiką ir pastangas, kad osu! būtu geresnis.</value>
+    <value>Paremk bendruomenės pagalbininkus, kurie panaudojo savo laiką ir pastangas, kad g0v0! būtu geresnis.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Sužinok daugiau &amp;raquo;</value>
@@ -239,13 +239,13 @@
     <value>Ačiū už jūsų tęsiamą rėmimą! Per šį laiką prisidėjote {0} kas yra verta {1} "Rėmėjo" žymos.</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>Jūs dar nesate turėjęs osu!rėmėjo žymos :(</value>
+    <value>Jūs dar nesate turėjęs g0v0!rėmėjo žymos :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>Jūsų osu!rėmėjo žyma galioja iki {0}!</value>
+    <value>Jūsų g0v0!rėmėjo žyma galioja iki {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>Jūsų osu!rėmėjo žyma buvo galiojanti {0}.</value>
+    <value>Jūsų g0v0!rėmėjo žyma buvo galiojanti {0}.</value>
   </data>
   <data name="support.supporter_status.gifted._" xml:space="preserve">
     <value>Iš jūsų viso prisidėjimo dovanota {0} kas yra verta {1}, tai apima {2}. Tai labai dosnu!</value>

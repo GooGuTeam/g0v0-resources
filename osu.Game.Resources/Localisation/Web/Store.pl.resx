@@ -107,7 +107,7 @@
     <value>Obecnie jesteśmy przeciążeni zamówieniami! Wciąż możesz złożyć swoje zamówienie, ale spodziewaj się **dodatkowego opóźnienia w postaci 1-2 tygodni**, dopóki istniejące zamówienia nie zostaną przetworzone.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Ukryj zakup wszystkich statusów donatora osu! z tego zamówienia w mojej aktywności</value>
+    <value>Ukryj zakup wszystkich statusów donatora g0v0! z tego zamówienia w mojej aktywności</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Zawartość twojego koszyka przedawniła się i została odświeżona, spróbuj ponownie.</value>
@@ -149,7 +149,7 @@
     <value>Płatność czekiem elektronicznym została odrzucona przez PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>Zakup statusów donatora osu! z tego zamówienia nie zostanie wyświetlony w twojej aktywności.</value>
+    <value>Zakup statusów donatora g0v0! z tego zamówienia nie zostanie wyświetlony w twojej aktywności.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Wysłane z:</value>
@@ -170,7 +170,7 @@
     <value>Jeżeli nie prosiłeś(-aś) o anulowanie tego zamówienia, skontaktuj się z {0}, uwzględniając numer zamówienia (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>zespołem sklepu osu!</value>
+    <value>zespołem sklepu g0v0!</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Twoje zamówienie zostało dostarczone! Mamy nadzieję, że Ci się spodoba!</value>
@@ -179,7 +179,7 @@
     <value>Jeżeli masz jakiekolwiek uwagi dotyczące tego zamówienia, skontaktuj się z {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>zespołem sklepu osu!</value>
+    <value>zespołem sklepu g0v0!</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Twoje zamówienie jest w trakcie realizacji!</value>
@@ -359,7 +359,7 @@
     <value>dołącz opcjonalną wiadomość do tego prezentu (do {0} znaków)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Aby uzyskać status donatora osu!, musisz się {0}!</value>
+    <value>Aby uzyskać status donatora g0v0!, musisz się {0}!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>zalogować</value>

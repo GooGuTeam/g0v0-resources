@@ -62,7 +62,7 @@
     <value>Kontroluji možnosti celé obrazovky...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! běží exkluzivně přes celou obrazovku. Nízka latence zaručena!</value>
+    <value>g0v0! běží exkluzivně přes celou obrazovku. Nízka latence zaručena!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Hra nemůže běžet exkluzivně přes celou obrazovku. Stále můžeš pociťovat určitou vstupní latenci.</value>

@@ -89,13 +89,13 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; 失去了 &lt;em&gt;{1}&lt;/em&gt;（{2}）的第一名</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; 又一次支持了 osu! - 感謝您的慷慨捐贈！</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; 又一次支持了 g0v0! - 感謝您的慷慨捐贈！</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; 成為了 osu! 贊助者 - 感謝您的慷慨捐贈！</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; 成為了 g0v0! 贊助者 - 感謝您的慷慨捐贈！</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; 成為了 osu! 贊助者 - 來自匿名玩家的贈禮！</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; 成為了 g0v0! 贊助者 - 來自匿名玩家的贈禮！</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; 將使用者名稱改為 &lt;strong&gt;&lt;em&gt;{1}&lt;/em&gt;&lt;/strong&gt;！</value>

@@ -62,7 +62,7 @@
     <value>Presvedčili ste ma! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>podpor osu!</value>
+    <value>podpor g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>alebo daruj supporter tag iným hráčom</value>
@@ -71,13 +71,13 @@
     <value>klikni na srdiečko pre presunutie do osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Prečo by som mal podporovať osu!? Kam peniaze idú?</value>
+    <value>Prečo by som mal podporovať g0v0!? Kam peniaze idú?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Podpor tím</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Malý tým vývojárov vyvíja osu!. Vaša podpora im pomáha... vieš... žiť.</value>
+    <value>Malý tým vývojárov vyvíja g0v0!. Vaša podpora im pomáha... vieš... žiť.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infraštruktúra Servera</value>
@@ -89,13 +89,13 @@
     <value>Významní umelci</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>S vašou podporou sa môžeme priblížiť k ešte viac úžasným umelcom a licencovať ešte viac skvelé hudby pre použitie v osu!</value>
+    <value>S vašou podporou sa môžeme priblížiť k ešte viac úžasným umelcom a licencovať ešte viac skvelé hudby pre použitie v g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Zobraziť aktuálny zoznam &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Pomôž osu!, aby zostalo sebestačné</value>
+    <value>Pomôž g0v0!, aby zostalo sebestačné</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Vaša pomoc pomáha udržiavať túto hru nezávislú, kompletne bez reklám a bez externých sponzorov.</value>
@@ -113,7 +113,7 @@
     <value>Podpora komunitných vývojárov </value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Podpor komunitnych vývojárov, ktorí venovali svoj voľný čas a úsilie, aby urobili osu! lepšie.</value>
+    <value>Podpor komunitnych vývojárov, ktorí venovali svoj voľný čas a úsilie, aby urobili g0v0! lepšie.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Zistiť viac o &amp;raquo;</value>

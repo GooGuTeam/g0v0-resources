@@ -89,13 +89,13 @@
     <value>Eğer herhangi bir sorunuz veya geribildiriminiz varsa, bu postaya cevap yazmaktan çekinmeyin; Size en kısa zamanda geri döneceğim!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Sizin gibi insanlar sayesinde osu!, oyunu ve topluluğu akıcı bir şekilde hiçbir reklam veya zorla ödeme olmadan oyunu devam ettirebiliyor.</value>
+    <value>Sizin gibi insanlar sayesinde g0v0!, oyunu ve topluluğu akıcı bir şekilde hiçbir reklam veya zorla ödeme olmadan oyunu devam ettirebiliyor.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Senin katkın osu!'yu {0} kadardır ayakta tutuyor. Fazla görünmüyor olabilir ama damlaya damlaya göl olur :).</value>
+    <value>Senin katkın g0v0!'yu {0} kadardır ayakta tutuyor. Fazla görünmüyor olabilir ama damlaya damlaya göl olur :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Teşekkürler, osu! sizi seviyor &lt;3</value>
+    <value>Teşekkürler, g0v0! sizi seviyor &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Metnin topluluk tarafından sağlanan bilgi amaçlı çevirisi aşağıdaki gibidir:</value>
@@ -107,7 +107,7 @@
     <value>Şu andan itibaren osu!direct ve diğer başka destekçi avantajlarına {0} kadar erişim hakkın vardır.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>osu!'ya vermiş olduğun {0} için çok teşekkür ederiz!</value>
+    <value>g0v0!'ya vermiş olduğun {0} için çok teşekkür ederiz!</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>destek</value>
@@ -119,7 +119,7 @@
     <value>Sadece sana son girdiğinden beri "{0}" sayfasında yeni bir cevap geldiğini bildiriyoruz.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] "{0}" başlığına yeni cevap</value>
+    <value>[g0v0!] "{0}" başlığına yeni cevap</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Eğer bu konuyu daha fazla gözlemlemek istemiyorsanız, üstteki konunun en alt kısmındaki linkten, ya da forum abonelikleri yönetme sayfasında bulunan "Abonelikten Çık" butonuna tıklayabilirsiniz:</value>
@@ -176,7 +176,7 @@
     <value>Bu etiketi hediye eden kişi size bir mesaj bıraktı:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Size bir osu! Destekçisi etiketi verildi!</value>
+    <value>Size bir g0v0! Destekçisi etiketi verildi!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>Bu, osu! e-posta adresinin "{0}" olarak değiştiğini bildiren bir doğrulama e-postasıdır.</value>
@@ -209,7 +209,7 @@
     <value>E-posta bildirim tercihlerini değiştirin:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Yeni osu! bildirimleri</value>
+    <value>Yeni g0v0! bildirimleri</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Bu sadece osu! şifrenin değiştiğine dair bir doğrulamadır.</value>

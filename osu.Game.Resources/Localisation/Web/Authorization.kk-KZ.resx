@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Оданша osu! ойнап көрсеңіз қалай?</value>
+    <value>Оданша g0v0! ойнап көрсеңіз қалай?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Жалғастыру үшін аккаунтыңызға кіріңіз.</value>
@@ -290,6 +290,6 @@
     <value>Тек жеке пайдаланушы бетін өзгертей алады.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>osu!қолдаушысы тегі қажет.</value>
+    <value>g0v0!қолдаушысы тегі қажет.</value>
   </data>
 </root>

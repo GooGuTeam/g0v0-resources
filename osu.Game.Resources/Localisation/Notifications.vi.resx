@@ -80,7 +80,7 @@
     <value>Ruleset hiện tại không có mod tự động!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! dường như không thể phát âm thanh một cách chính xác.
+    <value>g0v0! dường như không thể phát âm thanh một cách chính xác.
 
 Hãy thử thay đổi thiết bị âm thanh của bạn.</value>
   </data>
@@ -115,7 +115,7 @@ Hãy thử thay đổi thiết bị âm thanh của bạn.</value>
     <value>Bản sao beatmap cục bộ của bạn cho phát lại này có vẻ khác với mong đợi. Bạn có thể cần phải cập nhật hoặc tải lại nó.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Bạn đang chạy phiên bản osu! {0}.
+    <value>Bạn đang chạy phiên bản g0v0! {0}.
 Bấm vào đây để xem có gì mới!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -143,7 +143,7 @@ Bấm vào đây để xem có gì mới!</value>
     <value>Ngoại Tuyến: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>Kết nối tới dịch vụ trực tuyến đã bị gián đoạn. osu! sẽ hoạt động với chức năng hạn chế.</value>
+    <value>Kết nối tới dịch vụ trực tuyến đã bị gián đoạn. g0v0! sẽ hoạt động với chức năng hạn chế.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Bạn đã đăng xuất trên thiết bị này vì đã có lượt đăng nhập tài khoản của bạn trên thiết bị khác.</value>
@@ -170,13 +170,13 @@ Bấm vào đây để xem có gì mới!</value>
     <value>Lỗi này đã được tự động báo cáo tới đội phát triển.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>Đã phát hiện phiên bản osu! mới hơn ({0} → {1}).</value>
+    <value>Đã phát hiện phiên bản g0v0! mới hơn ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Nhấn vào đây để tải phiên bản mới, có thể cài đặt đè lên bản hiện tại.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Hãy kiểm tra trình quản lý gói / nhà cung cấp của bạn để cập nhật osu!</value>
+    <value>Hãy kiểm tra trình quản lý gói / nhà cung cấp của bạn để cập nhật g0v0!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>Một thao tác đã bị gián đoạn do đang hiển thị hộp thoại.</value>
@@ -194,10 +194,10 @@ Bấm vào đây để xem có gì mới!</value>
     <value>Đã xuất nhật ký! Nhấn để xem.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>Chạy osu! với quyền {0} không giúp cải thiện hiệu năng, có thể làm hỏng các tích hợp và gây rủi ro bảo mật. Vui lòng chạy game với quyền người dùng bình thường.</value>
+    <value>Chạy g0v0! với quyền {0} không giúp cải thiện hiệu năng, có thể làm hỏng các tích hợp và gây rủi ro bảo mật. Vui lòng chạy game với quyền người dùng bình thường.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>Trên macOS, việc cài đặt osu! vào thư mục khác với /Applications hoặc {0}/Applications có thể gây ra sự cố khi cập nhật trò chơi. Vui lòng di chuyển thư mục cài đặt trò chơi của bạn đến một trong những vị trí này.</value>
+    <value>Trên macOS, việc cài đặt g0v0! vào thư mục khác với /Applications hoặc {0}/Applications có thể gây ra sự cố khi cập nhật trò chơi. Vui lòng di chuyển thư mục cài đặt trò chơi của bạn đến một trong những vị trí này.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Đã lưu ảnh chụp màn hình! Nhấn để xem. {0}</value>

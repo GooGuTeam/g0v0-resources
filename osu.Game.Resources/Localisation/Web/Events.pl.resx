@@ -89,10 +89,10 @@
     <value>{0} traci pierwsze miejsce na beatmapie {1} ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>{0} decyduje się ponownie wspomóc osu! - dziękujemy za szczodrość!</value>
+    <value>{0} decyduje się ponownie wspomóc g0v0! - dziękujemy za szczodrość!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>{0} decyduje się wspomóc osu! - dziękujemy za szczodrość!</value>
+    <value>{0} decyduje się wspomóc g0v0! - dziękujemy za szczodrość!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
     <value>{0} otrzymuje prezent w postaci statusu donatora!</value>

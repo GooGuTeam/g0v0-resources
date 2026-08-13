@@ -68,7 +68,7 @@
     <value>Ensiasennus</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Määritä osu! itsellesi sopivaksi</value>
+    <value>Määritä g0v0! itsellesi sopivaksi</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Tervetuloa</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Tervetuloa ensiasennusoppaaseen!
 
-osu! on hyvin omaan makuun mukautettava peli, ja suora sukellus asetuksiin voi joskus tuntua ylivoimaiselta. Tämä opas auttaa sinua tekemään tärkeimmät valinnat pois tieltä, jotta ensikokemuksesi olisi mahdollisimman hyvä!</value>
+g0v0! on hyvin omaan makuun mukautettava peli, ja suora sukellus asetuksiin voi joskus tuntua ylivoimaiselta. Tämä opas auttaa sinua tekemään tärkeimmät valinnat pois tieltä, jotta ensikokemuksesi olisi mahdollisimman hyvä!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>osu!n käyttöliittymän voi säätää mieleisen kokoiseksi.</value>
+    <value>g0v0!n käyttöliittymän voi säätää mieleisen kokoiseksi.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Toimintatapa</value>
@@ -87,7 +87,7 @@ osu! on hyvin omaan makuun mukautettava peli, ja suora sukellus asetuksiin voi j
   <data name="behaviour_description" xml:space="preserve">
     <value>Pelin oletustoimintatapaan on tehty eräitä muutoksia, joiden tarkoituksena on parantaa pelikokemusta ja tehdä pelaamisesta saavutettavampaa kaikille.
 
-Suosittelemme, että kokeilet uusia oletusasetuksia, mutta jos haluaisit saada asiat tuntumaan enemmän kuten klassisilta osu!n versioilta, voit helposti valita järkeviä oletusarvoja alta.</value>
+Suosittelemme, että kokeilet uusia oletusasetuksia, mutta jos haluaisit saada asiat tuntumaan enemmän kuten klassisilta g0v0!n versioilta, voit helposti valita järkeviä oletusarvoja alta.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Uudet oletusarvot

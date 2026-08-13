@@ -140,7 +140,7 @@
     <value>aktualizovať</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Ak ste prispievateľom do úložisiek s otvoreným zdrojovým kódom osu!, prepojenie účtu GitHub tu priradí vaše záznamy z denníku zmien k vášmu osu! profilu. Účty GitHub bez histórie príspevkov do osu! nemožno prepojiť.</value>
+    <value>Ak ste prispievateľom do úložisiek s otvoreným zdrojovým kódom g0v0!, prepojenie účtu GitHub tu priradí vaše záznamy z denníku zmien k vášmu g0v0! profilu. Účty GitHub bez histórie príspevkov do g0v0! nemožno prepojiť.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Prepoj GitHub účet</value>
@@ -155,7 +155,7 @@
     <value>Tento GitHub účet je už prepojený na iného užívateľa.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>GitHub účet bez histórie príspevkov do úložisiek osu! nemožno prepojiť.</value>
+    <value>GitHub účet bez histórie príspevkov do úložisiek g0v0! nemožno prepojiť.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Prosím skontrolujte svoj primárny email v GitHub, potom skúste znova prepojiť svoj účet.</value>

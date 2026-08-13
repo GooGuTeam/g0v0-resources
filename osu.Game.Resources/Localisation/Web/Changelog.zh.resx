@@ -98,10 +98,10 @@
     <value>喜欢这次更新吗？</value>
   </data>
   <data name="support.text_1" xml:space="preserve">
-    <value>若想支持 osu! 的后续开发，请 {0} 吧！</value>
+    <value>若想支持 g0v0! 的后续开发，请 {0} 吧！</value>
   </data>
   <data name="support.text_1_link" xml:space="preserve">
-    <value>成为 osu! 支持者</value>
+    <value>成为 g0v0! 支持者</value>
   </data>
   <data name="support.text_2" xml:space="preserve">
     <value>您不仅能帮助推进开发，还能获得一些额外的功能，甚至个性化定制游戏界面！</value>

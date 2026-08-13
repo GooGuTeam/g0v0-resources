@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>ข้อผิดพลาดการจัดเก็บข้อมูล osu!</value>
+    <value>ข้อผิดพลาดการจัดเก็บข้อมูล g0v0!</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>ตำแหน่งข้อมูล osu! ที่ระบุ ('{0}') ไม่สามารถเข้าถึงได้. หากมันอยู่บนพื้นที่จัดเก็บภายนอก โปรดเชื่อมต่ออุปกรณ์อีกครั้งและลองใหม่.</value>
+    <value>ตำแหน่งข้อมูล g0v0! ที่ระบุ ('{0}') ไม่สามารถเข้าถึงได้. หากมันอยู่บนพื้นที่จัดเก็บภายนอก โปรดเชื่อมต่ออุปกรณ์อีกครั้งและลองใหม่.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>ตำแหน่งข้อมูล osu! ที่ระบุ ('{0}') ว่างเปล่า. หากคุณได้ย้ายไฟล์แล้ว โปรดปิด osu! และย้ายไฟล์กลับไป.</value>
+    <value>ตำแหน่งข้อมูล g0v0! ที่ระบุ ('{0}') ว่างเปล่า. หากคุณได้ย้ายไฟล์แล้ว โปรดปิด g0v0! และย้ายไฟล์กลับไป.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>กรุณาลองอีกครั้ง</value>

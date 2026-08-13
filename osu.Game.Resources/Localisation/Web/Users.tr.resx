@@ -353,7 +353,7 @@
     <value>Başlangıçtan beri burada</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!geliştiricisi</value>
+    <value>g0v0!geliştiricisi</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
     <value>osu!supporter</value>
@@ -899,7 +899,7 @@
     <value>lütfen bunun yerine oyun istemcisi ile kaydolun!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>lütfen kayıt işleminizi osu! web sitesinde tamamlayın</value>
+    <value>lütfen kayıt işleminizi g0v0! web sitesinde tamamlayın</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Kullanıcı oluşturuldu</value>

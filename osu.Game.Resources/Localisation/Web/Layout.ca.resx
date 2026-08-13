@@ -62,7 +62,7 @@
     <value>Reprodueix la següent pista automàticament</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - El ritme només a un sol *clic*! Amb Ouendan/EBA, Taiko i modes de joc originals, així com un editor de nivells totalment funcional.</value>
+    <value>g0v0! - Una experiència rítmica lliure i oberta! Amb Ouendan/EBA, Taiko i modes de joc originals, així com un editor de nivells totalment funcional.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>col·lecció de mapes</value>
@@ -191,7 +191,7 @@
     <value>Llistat de mapes</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Descarregar osu!</value>
+    <value>Descarregar g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Ajuda i comunitat</value>
@@ -314,7 +314,7 @@
     <value>Descarregar</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Descarrega osu! per crear el teu propi compte!</value>
+    <value>Descarrega g0v0! per crear el teu propi compte!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>No tens un compte?</value>
@@ -329,10 +329,10 @@
     <value>Amics</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Mode lazer</value>
+    <value>Mode g0v0!</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>El mode lazer mostra les puntuacions enviades des de lazer amb un nou algoritme de puntuació</value>
+    <value>El mode g0v0! mostra les puntuacions enviades des de g0v0! amb un nou algoritme de puntuació</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Tanca la sessió</value>

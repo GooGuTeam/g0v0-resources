@@ -89,9 +89,9 @@
     <value>Lightweight linkování souborů není zatím na vašem operačním systému podporováno, takže během importu bude provedena kopie všech souborů.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Druhá kopie všech souborů bude vytvořena během importu. Aby ses tomu vyhnul, ujisti se, že složka s daty lazeru je na stejném disku jako tvoje předchozí instalace osu! (a souborový systém je NTFS).</value>
+    <value>Druhá kopie všech souborů bude vytvořena během importu. Aby ses tomu vyhnul, ujisti se, že složka s daty g0v0u je na stejném disku jako tvoje předchozí instalace osu! (a souborový systém je NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Druhá kopie všech souborů bude vytvořena během importu. Aby ses tomu vyhnul, ujisti se, že složka s daty lazeru je na stejném disku jako tvoje předchozí instalace osu! (a souborový systém podporuje pevné odkazy).</value>
+    <value>Druhá kopie všech souborů bude vytvořena během importu. Aby ses tomu vyhnul, ujisti se, že složka s daty g0v0u je na stejném disku jako tvoje předchozí instalace osu! (a souborový systém podporuje pevné odkazy).</value>
   </data>
 </root>

@@ -62,7 +62,7 @@
     <value>Estou convencido! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>apoie o osu!</value>
+    <value>apoie o g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>ou ofereça a etiqueta de apoiante a outros jogadores</value>
@@ -71,13 +71,13 @@
     <value>clique no botão do coração para proceder à osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Porque é que deveria apoiar o osu!? Para onde vai o dinheiro?</value>
+    <value>Porque é que deveria apoiar o g0v0!? Para onde vai o dinheiro?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Apoiar a equipa</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Uma pequena equipa desenvolve e mantém o osu!. O seu apoio ajuda-os a, sabe... viver.</value>
+    <value>Uma pequena equipa desenvolve e mantém o g0v0!. O seu apoio ajuda-os a, sabe... viver.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infraestrutura do servidor</value>
@@ -89,13 +89,13 @@
     <value>Artistas destacados</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Com o seu apoio, podemos contactar ainda mais artistas incríveis e licenciar mais músicas fantásticas para usar no osu!!</value>
+    <value>Com o seu apoio, podemos contactar ainda mais artistas incríveis e licenciar mais músicas fantásticas para usar no g0v0!!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Ver a equipa atual &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Mantenha o osu! autossustentável</value>
+    <value>Mantenha o g0v0! autossustentável</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>As suas contribuições ajudam a manter o jogo independente e totalmente livre de anúncios e patrocinadores externos.</value>
@@ -113,7 +113,7 @@
     <value>Programa de reputação de código aberto</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Apoie os contribuidores da comunidade que dedicaram o seu tempo e esforço para ajudar a tornar o osu! melhor.</value>
+    <value>Apoie os contribuidores da comunidade que dedicaram o seu tempo e esforço para ajudar a tornar o g0v0! melhor.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Descubra mais &amp;raquo;</value>
@@ -227,7 +227,7 @@
     <value>Carregar mais mapas</value>
   </data>
   <data name="support.perks.more_beatmaps.description" xml:space="preserve">
-    <value>O número de mapas pendentes que pode ter ao mesmo tempo é calculado a partir de um valor base, mais um bónus adicional por cada mapa classificado que tenha (até um limite).&lt;br/&gt;&lt;br/&gt;Normalmente, este valor é {0} mais {1} por mapa classificado (até {2}). Com a etiqueta de apoiante do osu!, este aumenta para {3} mais {4} por mapa classificado (até {5}).</value>
+    <value>O número de mapas pendentes que pode ter ao mesmo tempo é calculado a partir de um valor base, mais um bónus adicional por cada mapa classificado que tenha (até um limite).&lt;br/&gt;&lt;br/&gt;Normalmente, este valor é {0} mais {1} por mapa classificado (até {2}). Com a etiqueta de apoiante do g0v0!, este aumenta para {3} mais {4} por mapa classificado (até {5}).</value>
   </data>
   <data name="support.perks.friend_filtering.title" xml:space="preserve">
     <value>Classificações de amigos</value>
@@ -236,16 +236,16 @@
     <value>Compita com os seus amigos e veja como se classifica contra eles!</value>
   </data>
   <data name="support.supporter_status.contribution_with_duration" xml:space="preserve">
-    <value>Obrigado pelo seu apoio contínuo! Até agora, contribuiu um total de {0}, o que lhe garantiu a etiqueta de apoiante do osu! por {1}.</value>
+    <value>Obrigado pelo seu apoio contínuo! Até agora, contribuiu um total de {0}, o que lhe garantiu a etiqueta de apoiante do g0v0! por {1}.</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>Nunca teve uma etiqueta de apoiante do osu! :(</value>
+    <value>Nunca teve uma etiqueta de apoiante do g0v0! :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>A sua etiqueta de apoiante do osu! é válida até {0}!</value>
+    <value>A sua etiqueta de apoiante do g0v0! é válida até {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>A sua etiqueta de apoiante do osu! foi válida até {0}.</value>
+    <value>A sua etiqueta de apoiante do g0v0! foi válida até {0}.</value>
   </data>
   <data name="support.supporter_status.gifted._" xml:space="preserve">
     <value>Das suas contribuições totais, ofereceu etiquetas no valor de {0} a {1}, cobrindo {2}. Isso é incrivelmente generoso!</value>

@@ -92,7 +92,7 @@
     <value>Oletko varma, että haluat keskeyttää pelin?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Haluatko varmasti sulkea osu!:n?</value>
+    <value>Haluatko varmasti sulkea g0v0!:n?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Viimeinen tilaisuus kääntyä takaisin</value>

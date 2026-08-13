@@ -1,3 +1,15 @@
+# g0v0!resources — dual-copyright notice
+
+This repository is a fork of [ppy/osu-resources](https://github.com/ppy/osu-resources) (osu!resources), rebranded as **g0v0!resources** for the g0v0! project.
+
+- Original content: Copyright (c) 2019 ppy Pty Ltd, licensed under CC-BY-NC 4.0.
+- Fork modifications: Copyright (c) 2026 GooGuTeam, licensed under CC-BY-NC 4.0.
+
+"osu!" and "ppy" are trademarks of ppy Pty Ltd. Any references to them within this repository (e.g. `osu!stable`, `osu!supporter`, `osu!direct`, `osu!store`, `osu! wiki`, game modes and the `.osu` file format) refer to the original osu! game and its services and are used nominatively. This project is not affiliated with or endorsed by ppy Pty Ltd.
+
+The full text of the CC-BY-NC 4.0 licence, under which both the original content and the fork modifications are distributed, follows below.
+
+---
 ## creative commons
 
 # Attribution-NonCommercial 4.0 International

@@ -89,13 +89,13 @@
     <value>Калі ў вас ёсць якія-небудзь пытанні ці водгукі, не саромейцеся адказваць на емэйл; Я звяжуся з вамі як мага хутчэй!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Дзякуючы такім людзям, як вы, osu! можа падтрымліваць працу гульні і супольнасці без рэкламы і прымусовых плацяжоў.</value>
+    <value>Дзякуючы такім людзям, як вы, g0v0! можа падтрымліваць працу гульні і супольнасці без рэкламы і прымусовых плацяжоў.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Ваша падтрымка працягвае жыццё osu! на {0}! Гэта можа здацца не так шмат многа, але ўсё складваецца :).</value>
+    <value>Ваша падтрымка працягвае жыццё g0v0! на {0}! Гэта можа здацца не так шмат многа, але ўсё складваецца :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Дзякуй, osu! &lt;3 вас</value>
+    <value>Дзякуй, g0v0! &lt;3 вас</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Пераклад, прадастаўлены супольнасцю ў інфармацыйных мэтах, наступны:</value>
@@ -107,7 +107,7 @@
     <value>Цяпер вы будзеце мець доступ да osu!direct і мноства іншых пераваг да {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Вялікі дзякуй за вашу {0} да osu!.</value>
+    <value>Вялікі дзякуй за вашу {0} да g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>падтрымка</value>
@@ -119,7 +119,7 @@
     <value>Проста паведамляю вам, што пасля вашага апошняга візіту ў "{0}" быў новы адказ.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Новы адказ у тэме «{0}»</value>
+    <value>[g0v0!] Новы адказ у тэме «{0}»</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Калі вы больш не хочаце глядзець за гэтай тэмай, вы можаце альбо націснуць спасылку "Адпісацца ад тэмы", якая знаходзіцца ўнізе раздзела вышэй, альбо на старонцы кіравання падпіскамі на тэмы:</value>
@@ -209,7 +209,7 @@
     <value>Змяніць параметры апавяшчэнняў па электроннай пошце:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Новыя апавяшчэнні osu!</value>
+    <value>Новыя апавяшчэнні g0v0!</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Гэта толькі пацверджанне таго, што ваш osu! пароль быў зменены.</value>

@@ -62,7 +62,7 @@
     <value>Következő zene automatikus lejátszása</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritmus csak egy *kattintásra*! Quendan/EBA, Taiko és más eredeti játékmódok, emellett egy teljes pálya szerkesztő.</value>
+    <value>g0v0! - Szabad és nyitott ritmusélmény! Quendan/EBA, Taiko és más eredeti játékmódok, emellett egy teljes pálya szerkesztő.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -185,7 +185,7 @@
     <value>Beatmap lista</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>osu! letöltése</value>
+    <value>g0v0! letöltése</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Segítség &amp; Közösség</value>
@@ -317,10 +317,10 @@
     <value>Barátok</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer mód</value>
+    <value>g0v0! mód</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>A Lazer mód a Lazer által beállított pontszámokat mutatja egy új pontozási algoritmussal</value>
+    <value>A g0v0! mód a g0v0! által beállított pontszámokat mutatja egy új pontozási algoritmussal</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Kijelentkezés</value>

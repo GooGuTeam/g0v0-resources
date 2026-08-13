@@ -500,7 +500,7 @@
     <value>Diğer Arama Seçenekleri</value>
   </data>
   <data name="listing.search.rank_filter_note" xml:space="preserve">
-    <value>Bu sayfada gösterilen profildeki en iyi derece sayıları ve sonuçları, beatmap’lerdeki en yüksek “standartlaştırılmış” (yani “lazer”) skorlarına dayanır.</value>
+    <value>Bu sayfada gösterilen profildeki en iyi derece sayıları ve sonuçları, beatmap’lerdeki en yüksek “standartlaştırılmış” (yani “g0v0!”) skorlarına dayanır.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
     <value>{0} ile filtrelemek için aktif bir osu!supporter etiketi gereklidir</value>

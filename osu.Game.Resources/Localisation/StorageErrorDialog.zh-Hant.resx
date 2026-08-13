@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>osu! 儲存空間錯誤</value>
+    <value>g0v0! 儲存空間錯誤</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>無法存取指定的 osu! 資料位置 ("{0}")。如果它位於外部儲存空間上，請在重新連接裝置後重試。</value>
+    <value>無法存取指定的 g0v0! 資料位置 ("{0}")。如果它位於外部儲存空間上，請在重新連接裝置後重試。</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>指定的 osu! 資料位置 ("{0}") 是空的。如果你已經移動了檔案，請關閉 osu!，並將那些檔案移回來。</value>
+    <value>指定的 g0v0! 資料位置 ("{0}") 是空的。如果你已經移動了檔案，請關閉 g0v0!，並將那些檔案移回來。</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>請重試</value>

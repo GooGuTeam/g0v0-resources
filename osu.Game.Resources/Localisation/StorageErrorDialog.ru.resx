@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>Ошибка хранилища osu!</value>
+    <value>Ошибка хранилища g0v0!</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Указанный путь к файлам osu! ("{0}") недоступен. Если файлы находятся на внешнем накопителе, пожалуйста, переподключите устройство и попробуйте ещё раз.</value>
+    <value>Указанный путь к файлам g0v0! ("{0}") недоступен. Если файлы находятся на внешнем накопителе, пожалуйста, переподключите устройство и попробуйте ещё раз.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>Указанный путь к файлам osu! ("{0}") пуст. Если вы переместили файлы, пожалуйста, закройте osu! и верните их.</value>
+    <value>Указанный путь к файлам g0v0! ("{0}") пуст. Если вы переместили файлы, пожалуйста, закройте g0v0! и верните их.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Проверить ещё раз</value>

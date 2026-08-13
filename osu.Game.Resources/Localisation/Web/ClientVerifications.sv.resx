@@ -68,12 +68,12 @@
     <value>Du kan stänga detta fönstret nu</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu! klientverifiering har slutförts</value>
+    <value>g0v0! klientverifiering har slutförts</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Klicka på knappen auktorisera nedan för att avsluta klientverifiering.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! klientverifiering</value>
+    <value>g0v0! klientverifiering</value>
   </data>
 </root>

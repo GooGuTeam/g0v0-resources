@@ -68,12 +68,12 @@
     <value>Вече може да затворите този раздел/прозорец</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>Потвърждението на osu! клиент е завършено</value>
+    <value>Потвърждението на g0v0! клиент е завършено</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Кликнете върху бутона за оторизиране, за да завършите потвърждението на клиента.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>потвърждение на osu! клиент</value>
+    <value>потвърждение на g0v0! клиент</value>
   </data>
 </root>

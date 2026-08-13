@@ -62,10 +62,10 @@
     <value>Pobieranie beatmap</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>„Beatmapami” nazywamy grywalne poziomy, w których obiekty ułożone są do rytmu muzyki. Nie są one pobierane w momencie instalacji osu!, dlatego ten etap przewodnika pomoże ci w zdobyciu beatmap do twojej kolekcji.</value>
+    <value>„Beatmapami” nazywamy grywalne poziomy, w których obiekty ułożone są do rytmu muzyki. Nie są one pobierane w momencie instalacji g0v0!, dlatego ten etap przewodnika pomoże ci w zdobyciu beatmap do twojej kolekcji.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
-    <value>Jeżeli jesteś nowym graczem, zalecamy przejście samouczka, aby zaznajomić się z rozgrywką w osu!.</value>
+    <value>Jeżeli jesteś nowym graczem, zalecamy przejście samouczka, aby zaznajomić się z rozgrywką w g0v0!.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
     <value>Pobierz samouczek osu!</value>

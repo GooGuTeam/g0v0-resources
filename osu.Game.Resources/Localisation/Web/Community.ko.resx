@@ -62,7 +62,7 @@
     <value>이제 납득했어요! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>osu! 후원하기</value>
+    <value>g0v0! 후원하기</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>또는 서포터 태그를 다른 플레이어들에게 선물하실 수도 있어요</value>
@@ -71,13 +71,13 @@
     <value>하트 버튼을 누르면 osu!store로 이동합니다.</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>왜 osu!에 후원해야 하나요? 그 후원금은 어디에 쓰이나요?</value>
+    <value>왜 g0v0!에 후원해야 하나요? 그 후원금은 어디에 쓰이나요?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>개발진 지원</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>작은 규모의 개발팀이 osu!를 개발하고 운영해요. 여러분의 후원은 이 분들을... 잘 아시겠지만, 살아갈 수 있도록 해준답니다.</value>
+    <value>작은 규모의 개발팀이 g0v0!를 개발하고 운영해요. 여러분의 후원은 이 분들을... 잘 아시겠지만, 살아갈 수 있도록 해준답니다.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>서버 인프라</value>
@@ -89,13 +89,13 @@
     <value>공식 아티스트</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>여러분의 후원은, osu!에 사용할 수 있는 양질의 음악을 위해 더 다양한 아티스트와 접촉하고, 라이센스 이용에 대한 협의를 할 수 있도록 해준답니다.</value>
+    <value>여러분의 후원은, g0v0!에 사용할 수 있는 양질의 음악을 위해 더 다양한 아티스트와 접촉하고, 라이센스 이용에 대한 협의를 할 수 있도록 해준답니다.</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>현재 아티스트 명단 보기 &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>osu!의 독립적인 운영을 유지</value>
+    <value>g0v0!의 독립적인 운영을 유지</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>여러분의 후원은 게임을 독립적이면서도 광고 또는 외부 스폰서로부터 완전히 자유롭게 해줍니다.</value>
@@ -113,7 +113,7 @@
     <value>오픈 소스 포상금 프로그램</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>osu!가 더 나아지도록 시간과 노력을 할애해 주시는 커뮤니티 기여자 여러분을 도울 수 있어요.</value>
+    <value>g0v0!가 더 나아지도록 시간과 노력을 할애해 주시는 커뮤니티 기여자 여러분을 도울 수 있어요.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>더 알아보기 &amp;raquo;</value>
@@ -239,13 +239,13 @@
     <value>지속적인 지원에 감사드려요! 지금까지, 총 {0} 을 후원해 주셨고, {1} 동안 "서포터" 태그를 유지하셨어요.</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>아직 osu! 서포터 태그를 가지신 적이 없으시네요 :(</value>
+    <value>아직 g0v0! 서포터 태그를 가지신 적이 없으시네요 :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
     <value>현재 osu!supporter 태그는 {0}까지 유효해요!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>지난 osu! 서포터 태그는 {0}까지 유효했습니다.</value>
+    <value>지난 g0v0! 서포터 태그는 {0}까지 유효했습니다.</value>
   </data>
   <data name="support.supporter_status.gifted._" xml:space="preserve">
     <value>회원님의 총 기부 이력을 살펴보니, {0}에게 총 {1}의 가치가 있는 {2} 기간의 태그를 선물하셨네요. 정말 대단하신데요!</value>

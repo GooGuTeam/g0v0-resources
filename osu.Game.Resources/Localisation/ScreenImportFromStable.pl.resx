@@ -89,9 +89,9 @@
     <value>Dowiązania lekkie plików nie są obsługiwane na Twoim systemie operacyjnym - podczas importu zostanie wykonana kopia wszystkich plików.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Podczas migracji zostanie wykonana druga kopia wszystkich plików. Aby tego uniknąć, upewnij się, że folder z danymi osu!lazer znajduje się na tym samym dysku co poprzednia wersja osu!, a system plików na dysku to NTFS.</value>
+    <value>Podczas migracji zostanie wykonana druga kopia wszystkich plików. Aby tego uniknąć, upewnij się, że folder z danymi g0v0 znajduje się na tym samym dysku co poprzednia wersja osu!, a system plików na dysku to NTFS.</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Podczas migracji zostanie wykonana druga kopia wszystkich plików. Aby tego uniknąć, upewnij się, że folder z danymi osu!lazer znajduje się na tym samym dysku co poprzednia wersja osu!, a system plików na dysku obsługuje dowiązania twarde.</value>
+    <value>Podczas migracji zostanie wykonana druga kopia wszystkich plików. Aby tego uniknąć, upewnij się, że folder z danymi g0v0 znajduje się na tym samym dysku co poprzednia wersja osu!, a system plików na dysku obsługuje dowiązania twarde.</value>
   </data>
 </root>

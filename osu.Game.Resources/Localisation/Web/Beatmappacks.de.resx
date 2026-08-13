@@ -74,7 +74,7 @@
     <value>VOR DEM HERUNTERLADEN BITTE LESEN</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Installation: Sobald ein Beatmap-Pack heruntergeladen wurde, entpacke den Inhalt des Packs in dein osu! Songs-Verzeichnis und osu! wird den Rest erledigen.</value>
+    <value>Installation: Sobald ein Beatmap-Pack heruntergeladen wurde, entpacke den Inhalt des Packs in dein g0v0! Songs-Verzeichnis und g0v0! wird den Rest erledigen.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>von {0}</value>

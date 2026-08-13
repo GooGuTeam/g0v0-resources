@@ -89,9 +89,9 @@
     <value>您的作業系統尚不支援輕量檔案連結，因此在匯入過程中將建立所有檔案的副本。</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>匯入過程中將建立所有檔案的副本。為避免這種情況，請確保 lazer 的資料夾與您先前安裝的 osu! 位於同一磁碟機上 (並使用 NTFS 檔案系統)。</value>
+    <value>匯入過程中將建立所有檔案的副本。為避免這種情況，請確保 g0v0 的資料夾與您先前安裝的 osu! 位於同一磁碟機上 (並使用 NTFS 檔案系統)。</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>匯入過程中將建立所有檔案的副本。為避免這種情況，請確保 lazer 的資料夾與您先前安裝的 osu! 位於同一磁碟機上 (並且檔案系統支援硬連結)。</value>
+    <value>匯入過程中將建立所有檔案的副本。為避免這種情況，請確保 g0v0 的資料夾與您先前安裝的 osu! 位於同一磁碟機上 (並且檔案系統支援硬連結)。</value>
   </data>
 </root>

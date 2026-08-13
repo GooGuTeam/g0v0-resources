@@ -89,7 +89,7 @@
     <value>A procurar atualizações</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Abrir a pasta do osu!</value>
+    <value>Abrir a pasta do g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Exportar registos</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Executar o assistente de configuração</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Saiba mais sobre o lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Consulte a comparação de funcionalidades e a secção de perguntas frequentes</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Reportar um problema</value>

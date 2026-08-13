@@ -80,7 +80,7 @@
     <value>The current ruleset doesn't have an autoplay mod available!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! doesn't seem to be able to play audio correctly.
+    <value>g0v0! doesn't seem to be able to play audio correctly.
 
 Please try changing your audio device to a working setting.</value>
   </data>
@@ -115,7 +115,7 @@ Please try changing your audio device to a working setting.</value>
     <value>Your local copy of the beatmap for this replay appears to be different than expected. You may need to update or re-download it.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>You are now running osu! {0}.
+    <value>You are now running g0v0! {0}.
 Click to see what's new!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -143,7 +143,7 @@ Click to see what's new!</value>
     <value>Offline: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>Connection to online services was interrupted. osu! will be operating with limited functionality.</value>
+    <value>Connection to online services was interrupted. g0v0! will be operating with limited functionality.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>You have been logged out on this device due to a login to your account on another device.</value>
@@ -170,13 +170,13 @@ Click to see what's new!</value>
     <value>This error has been automatically reported to the dev team.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>A newer release of osu! has been found ({0} → {1}).</value>
+    <value>A newer release of g0v0! has been found ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Click here to download the new version, which can be installed over the top of your existing installation.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Check with your package manager / provider to bring osu! up-to-date!</value>
+    <value>Check with your package manager / provider to bring g0v0! up-to-date!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>An action was interrupted due to a dialog being displayed.</value>
@@ -194,10 +194,10 @@ Click to see what's new!</value>
     <value>Exported logs! Click to view.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>Running osu! as {0} does not improve performance, may break integrations and poses a security risk. Please run the game as a normal user.</value>
+    <value>Running g0v0! as {0} does not improve performance, may break integrations and poses a security risk. Please run the game as a normal user.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>On macOS, installing osu! to a directory other than /Applications or {0}/Applications can cause issues with updating the game. Please move your game installation to one of these locations.</value>
+    <value>On macOS, installing g0v0! to a directory other than /Applications or {0}/Applications can cause issues with updating the game. Please move your game installation to one of these locations.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Screenshot saved! Click to view.

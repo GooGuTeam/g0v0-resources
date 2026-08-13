@@ -124,9 +124,6 @@
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>A dal kiválasztásakor a Ctrl-Enter billentyűkombinációval elindíthatod a beatmapet automatikus lejátszási módban!</value>
   </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>A "Lazer" nem angol szó. Az erős fényt jelölő szó helyes írásmódja "laser".</value>
-  </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>A többszálas feldolgozás támogatása azt jelenti, hogy még alacsony "FPS" mellett is pontosak lesznek a bevitelek és a döntéseid!</value>
   </data>

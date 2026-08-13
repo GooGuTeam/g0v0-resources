@@ -89,10 +89,10 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; hat den ersten Platz auf &lt;em&gt;{1}&lt;/em&gt; verloren ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; hat sich erneut dazu entschieden, g0v0! zu unterstützen - vielen Dank für deine Großzügigkeit!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; hat osu! unterstützt - vielen Dank für deine Großzügigkeit!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; hat g0v0! unterstützt - vielen Dank für deine Großzügigkeit!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; hat osu!supporter als Geschenk erhalten!</value>

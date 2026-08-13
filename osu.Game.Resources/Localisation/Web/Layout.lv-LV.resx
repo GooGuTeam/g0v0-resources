@@ -62,7 +62,7 @@
     <value>Spēlēt nākamo sarakstu automātiski</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritms ir tikai *klikšķa* attālumā! Ar Ouendan/EBA, Taiko un oriģināliem spēļu režīmiem, kā arī ar pilnveidotu, funkcionālu līmeņu rediģētāju.</value>
+    <value>g0v0! - Brīva un atvērta ritma pieredze! Ar Ouendan/EBA, Taiko un oriģināliem spēļu režīmiem, kā arī ar pilnveidotu, funkcionālu līmeņu rediģētāju.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>?</value>
@@ -188,7 +188,7 @@
     <value>Ritma-mapju Saraksts</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Lejupielādēt osu!</value>
+    <value>Lejupielādēt g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Palīdzība &amp; Kopiena</value>
@@ -308,7 +308,7 @@
     <value>Lejupielādēt</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Lejupielādēt osu!, lai izveidotu savu kontu!</value>
+    <value>Lejupielādēt g0v0!, lai izveidotu savu kontu!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Nav vēl konta?</value>
@@ -323,10 +323,10 @@
     <value>Draugi</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer režīms</value>
+    <value>g0v0! režīms</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer režīms rāda rezultātus, kuri ir uzstādīti no lazer ar jauno skaitīšanas algoritmu</value>
+    <value>g0v0! režīms rāda rezultātus, kuri ir uzstādīti no g0v0! ar jauno skaitīšanas algoritmu</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Iziet</value>

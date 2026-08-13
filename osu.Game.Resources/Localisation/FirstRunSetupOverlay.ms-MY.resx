@@ -68,7 +68,7 @@
     <value>Persediaan jalanan pertama</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Sediakan osu! sesuai dengan anda</value>
+    <value>Sediakan g0v0! sesuai dengan anda</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Selamat Datang</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Selamat datang ke panduan persediaan jalanan pertama!
 
-osu! ialah mainan yang amat mudah ditatarajah. Anda mungkin anda keliru jika terus ke tetapan. Panduan ini akan membantu anda mengurus pilihan penting dahulu untuk memastikan pengalaman pertama yang disukai!</value>
+g0v0! ialah mainan yang amat mudah ditatarajah. Anda mungkin anda keliru jika terus ke tetapan. Panduan ini akan membantu anda mengurus pilihan penting dahulu untuk memastikan pengalaman pertama yang disukai!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>Ukuran antara muka pengguna osu! boleh dilaraskan sesuka anda.</value>
+    <value>Ukuran antara muka pengguna g0v0! boleh dilaraskan sesuka anda.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Perilaku</value>
@@ -87,7 +87,7 @@ osu! ialah mainan yang amat mudah ditatarajah. Anda mungkin anda keliru jika ter
   <data name="behaviour_description" xml:space="preserve">
     <value>Beberapa asal baharu untuk perilaku mainan telah dilaksanakan dengan tujuan memperbaik pengalaman mainan dan ketercapaian untuk semua.
 
-Kami sarankan anda mencuba asal-asal baharu ini tetapi sekiranya anda lebih suka rasa klasik osu!, anda boleh terapkan asal-asal munasabah di bawah.</value>
+Kami sarankan anda mencuba asal-asal baharu ini tetapi sekiranya anda lebih suka rasa klasik g0v0!, anda boleh terapkan asal-asal munasabah di bawah.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Asal baharu</value>

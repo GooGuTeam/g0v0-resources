@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Cum ar fi să joci osu! în schimb?</value>
+    <value>Cum ar fi să joci g0v0! în schimb?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Te rugăm să te autentifici pentru a continua.</value>
@@ -323,7 +323,7 @@
     <value>Nu este membru al echipei.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>Statusul de suporter osu! este necesar pentru a crea o echipă.</value>
+    <value>Statusul de suporter g0v0! este necesar pentru a crea o echipă.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>Pagina de utilizator este blocată.</value>
@@ -332,7 +332,7 @@
     <value>Îți poți edita doar propria pagină de utilizator.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>Statusul de suporter osu! este necesar.</value>
+    <value>Statusul de suporter g0v0! este necesar.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>adresa de e-mail este blocată</value>

@@ -89,9 +89,9 @@
     <value>Sistem operasi kamu belum mendukung penautan berkas secara ringan (lightweight linking). Oleh karenanya, salinan dari semua berkas akan dibuat pada saat impor berlangsung.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Salinan kedua dari semua berkas akan dibuat pada saat impor berlangsung. Untuk mencegah hal ini, pastikan bahwa folder data lazer berada pada drive yang sama dengan instalasi osu! terdahulu yang kamu miliki (dan drive ini menggunakan sistem berkas NTFS).</value>
+    <value>Salinan kedua dari semua berkas akan dibuat pada saat impor berlangsung. Untuk mencegah hal ini, pastikan bahwa folder data g0v0 berada pada drive yang sama dengan instalasi osu! terdahulu yang kamu miliki (dan drive ini menggunakan sistem berkas NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Salinan kedua dari semua berkas akan dibuat pada saat impor berlangsung. Untuk mencegah hal ini, pastikan bahwa folder data lazer berada pada drive yang sama dengan instalasi osu! terdahulu yang kamu miliki (dan drive ini mendukung sistem hard link).</value>
+    <value>Salinan kedua dari semua berkas akan dibuat pada saat impor berlangsung. Untuk mencegah hal ini, pastikan bahwa folder data g0v0 berada pada drive yang sama dengan instalasi osu! terdahulu yang kamu miliki (dan drive ini mendukung sistem hard link).</value>
   </data>
 </root>

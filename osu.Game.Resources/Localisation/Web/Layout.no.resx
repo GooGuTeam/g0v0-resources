@@ -62,7 +62,7 @@
     <value>Spill neste spor automatisk</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rytmen er bare et *klikk* unna! Med Ouendan/EBA, Taiko og originale spillmoduser, samt en fullt funskjonell nivåredigerer.</value>
+    <value>g0v0! - En fri og åpen rytmeopplevelse! Med Ouendan/EBA, Taiko og originale spillmoduser, samt en fullt funskjonell nivåredigerer.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapsett</value>
@@ -185,7 +185,7 @@
     <value>Beatmapliste</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Last ned osu!</value>
+    <value>Last ned g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Hjelp &amp; Samfunn</value>
@@ -317,10 +317,10 @@
     <value>Venner</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer modus</value>
+    <value>g0v0! modus</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer modus viser scorer satt fra lazer med en ny scoringsalgoritme</value>
+    <value>g0v0! modus viser scorer satt fra g0v0! med en ny scoringsalgoritme</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Logg Ut</value>

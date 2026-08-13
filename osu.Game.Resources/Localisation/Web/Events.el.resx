@@ -89,13 +89,13 @@
     <value>O χρήστης &lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; έχασε την πρωτιά στο &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>Ο χρήστης &lt;strong&gt;{0}&lt;/strong&gt; επέλεξε για άλλη μια φορά να υποστηρίξει το osu! - ευχαριστούμε για τη γενναιοδωρία σου!</value>
+    <value>Ο χρήστης &lt;strong&gt;{0}&lt;/strong&gt; επέλεξε για άλλη μια φορά να υποστηρίξει το g0v0! - ευχαριστούμε για τη γενναιοδωρία σου!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>Ο χρήστης &lt;strong&gt;{0}&lt;/strong&gt; έγινε ένας osu! supporter - ευχαριστούμε για τη γενναιοδωρία σου!</value>
+    <value>Ο χρήστης &lt;strong&gt;{0}&lt;/strong&gt; έγινε ένας g0v0! supporter - ευχαριστούμε για τη γενναιοδωρία σου!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>Ο χρήστης &lt;strong&gt;{0}&lt;/strong&gt; έλαβε το δώρο του osu! supporter!</value>
+    <value>Ο χρήστης &lt;strong&gt;{0}&lt;/strong&gt; έλαβε το δώρο του g0v0! supporter!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>Ο χρήστης &lt;strong&gt;{0}&lt;/strong&gt; άλλαξε το όνομα χρήστη του σε &lt;strong&gt;&lt;em&gt;{1}&lt;/strong&gt;&lt;/em&gt;!</value>

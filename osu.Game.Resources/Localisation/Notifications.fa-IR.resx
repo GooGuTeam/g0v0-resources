@@ -80,7 +80,7 @@
     <value>رول‌ست فعلی ماد اجرای خودکار ندارد!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! ظاهرا قادر به پخش صحیح صدا نیست. لطفا خروجی صدای دستگاه خود را به تنظیماتی که کار کند تغییر دهید.</value>
+    <value>g0v0! ظاهرا قادر به پخش صحیح صدا نیست. لطفا خروجی صدای دستگاه خود را به تنظیماتی که کار کند تغییر دهید.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>پوشش امتیاز غیرفعال است. شما میتوانید آن را با فشردن {0} فعال کنید.</value>
@@ -95,7 +95,7 @@
     <value>تابلت را غیر فعال شده است جون از ارور (0)</value>
   </data>
   <data name="encountered_tablet_warning" xml:space="preserve">
-    <value>یک ارور با تابلیت خود آمده است. تابلیت شما شایدن درست کار نکند. اینجا  را کلیک کنید تا به همه ی تابلت هایی که کار نمی کند با osu.</value>
+    <value>یک ارور با تابلیت خود آمده است. تابلیت شما شایدن درست کار نکند. اینجا  را کلیک کنید تا به همه ی تابلت هایی که کار نمی کند با g0v0.</value>
   </data>
   <data name="unsupported_link_type" xml:space="preserve">
     <value>این طور لینک ها سپور نمی شود!</value>

@@ -143,7 +143,7 @@
     <value>perbarui</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Apabila kamu adalah kontributor repositori open-source osu!, kamu bisa menautkan akun GitHub kamu di sini untuk menghubungkan entri riwayat perubahanmu dengan profil osu! kamu. Akun GitHub yang tidak memiliki riwayat kontribusi terhadap osu! tidak bisa ditautkan.</value>
+    <value>Apabila kamu adalah kontributor repositori open-source g0v0!, kamu bisa menautkan akun GitHub kamu di sini untuk menghubungkan entri riwayat perubahanmu dengan profil g0v0! kamu. Akun GitHub yang tidak memiliki riwayat kontribusi terhadap g0v0! tidak bisa ditautkan.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Tautkan Akun GitHub</value>
@@ -158,7 +158,7 @@
     <value>Akun GitHub ini sudah terhubung ke pengguna lain.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Akun GitHub yang tidak memiliki riwayat kontribusi pada repositori osu! tidak bisa ditautkan.</value>
+    <value>Akun GitHub yang tidak memiliki riwayat kontribusi pada repositori g0v0! tidak bisa ditautkan.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Silakan verifikasi email utama kamu di GitHub, lalu cobalah untuk menghubungkan akunmu kembali.</value>
@@ -299,7 +299,7 @@
     <value>sembunyikan status onlinemu</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>pengaturan ini akan terhubung ke mode "tampil offline" di osu!lazer</value>
+    <value>pengaturan ini akan terhubung ke mode "tampil offline" di g0v0!</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Privasi</value>

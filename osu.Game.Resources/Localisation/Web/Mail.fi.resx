@@ -89,13 +89,13 @@
     <value>Jos sinulla on kysyttävää tai palautetta, älä epäröi vastata tähän sähköpostiin; Vastaan sinulle mahdollisimman pian!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Sinunlaisien henkilöiden ansiosta osu! pystyy pitämään pelin ja yhteisön sujuvasti käynnissä ilman mainoksia tai pakollisia maksuja.</value>
+    <value>Sinunlaisien henkilöiden ansiosta g0v0! pystyy pitämään pelin ja yhteisön sujuvasti käynnissä ilman mainoksia tai pakollisia maksuja.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Tukesi ansiosta osu! pysyy käynnissä noin {0}! Se ei ehkä tunnu paljolta, mutta pienistä puroista syntyy suuri joki :).</value>
+    <value>Tukesi ansiosta g0v0! pysyy käynnissä noin {0}! Se ei ehkä tunnu paljolta, mutta pienistä puroista syntyy suuri joki :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Kiitos, osu! &lt;3 sinua</value>
+    <value>Kiitos, g0v0! &lt;3 sinua</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Seuraava on yhteisön tuottama käännös tiedostusta varten:</value>
@@ -107,7 +107,7 @@
     <value>Saat nyt pääsyn osu!direct{0} ja moniin muihin tukija-etuihin {1} ajalle. </value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Kiitos paljon {0} osu!{1} kohtaan</value>
+    <value>Kiitos paljon {0} g0v0!{1} kohtaan</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>tuestasi</value>
@@ -119,7 +119,7 @@
     <value>Tiedoksesi vain, että "{0}" on saanut uuden vastauksen poissaolosi aikana.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Uusi vastaus aiheessa "{0}"</value>
+    <value>[g0v0!] Uusi vastaus aiheessa "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Jos et enää halua seurata tätä aihetta, voit napsauttaa "Lopeta aiheen seuraaminen" -linkkiä, joka löytyy ylhäällä olevan aiheen alareunasta tai aihe-tilausten hallintasivulta:</value>
@@ -149,10 +149,10 @@
     <value>Toimitetaan</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Vastaanotimme osu!kauppa-tilauksesi!</value>
+    <value>Vastaanotimme g0v0!kauppa-tilauksesi!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Kiitos osu!kauppa-tilauksestasi!</value>
+    <value>Kiitos g0v0!kauppa-tilauksestasi!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Yhteensä</value>
@@ -164,19 +164,19 @@
     <value>Mutta tiedät todennäköisesti jo, kuka hän on ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Kiitos hänen, sinulla on pääsy osu!directiin ja muihin osu!tukijaetuihin seuraavan {0} ajan.</value>
+    <value>Kiitos hänen, sinulla on pääsy osu!directiin ja muihin g0v0!tukijaetuihin seuraavan {0} ajan.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Voit saada lisätietoja näistä ominaisuuksista täältä:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Joku on juuri lahjoittanut sinulle osu!tukijamerkin!</value>
+    <value>Joku on juuri lahjoittanut sinulle g0v0!tukijamerkin!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Tämän merkin lahjoittanut henkilö jätti sinulle viestin:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Sinulle on lahjoitettu osu!tukijamerkki!</value>
+    <value>Sinulle on lahjoitettu g0v0!tukijamerkki!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>Tämä on vahvistussähköposti ilmoittaaksesi sinulle, että osu! -sähköpostiosoitteesi on muutettu osoitteeseen: "{0}".</value>
@@ -209,7 +209,7 @@
     <value>Muuta sähköposti-ilmoitusten asetuksia:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Uusia osu!-ilmoituksia</value>
+    <value>Uusia g0v0!-ilmoituksia</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Tämä on vain vahvistus siitä, että osu!-salasanasi on vaihdettu.</value>

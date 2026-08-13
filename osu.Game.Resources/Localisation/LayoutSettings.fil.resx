@@ -62,7 +62,7 @@
     <value>Sinusuri para sa mga kakayahan ng fullscreen...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! ay tumatakbo sa eksklusibong fullscreen, ginagarantiya na mababa ang latency!</value>
+    <value>g0v0! ay tumatakbo sa eksklusibong fullscreen, ginagarantiya na mababa ang latency!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Hindi magawang tumakbo sa eksklusibong fullscreen. Maaari kang makaranas ng ilang input latency.</value>

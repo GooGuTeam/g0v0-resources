@@ -140,7 +140,7 @@
     <value>بروز کردن</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>اگر در مخازن منبع باز osu مشارکت می کنید، با پیوند دادن حساب GitHub خود به اینجا، لاگ تغییرات شما به نمایه osu شما متصل می شود. نمایه حساب‌های GitHub که سابقه مشارکت در osu! ندارند را نمی توان پیوند داد.</value>
+    <value>اگر در مخازن منبع باز g0v0 مشارکت می کنید، با پیوند دادن حساب GitHub خود به اینجا، لاگ تغییرات شما به نمایه g0v0 شما متصل می شود. نمایه حساب‌های GitHub که سابقه مشارکت در g0v0! ندارند را نمی توان پیوند داد.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>پیوند دادن حساب GitHub</value>
@@ -155,7 +155,7 @@
     <value>این حساب گیت‌هاب به نمایه شخص دیگری متصل شده است.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>نمی توان حساب گیت‌هابی که سابقه کمک به مخازن osu! نداشته را متصل کرد.</value>
+    <value>نمی توان حساب گیت‌هابی که سابقه کمک به مخازن g0v0! نداشته را متصل کرد.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>لطفا اول ایمیل گیت‌هاب خود را وریفای کنید، بعد اکانتتان را لینک کنید.</value>

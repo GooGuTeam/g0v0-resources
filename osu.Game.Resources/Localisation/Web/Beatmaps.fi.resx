@@ -500,7 +500,7 @@
     <value>Lisää hakuvaihtoehtoja</value>
   </data>
   <data name="listing.search.rank_filter_note" xml:space="preserve">
-    <value>Profiilin huippusijoitusten määrät ja tällä sivulla näkyvät tulokset perustuvat korkeimpiin ”standardoituihin” (eli ”lazer”) tuloksiisi rytmikartoissa.</value>
+    <value>Profiilin huippusijoitusten määrät ja tällä sivulla näkyvät tulokset perustuvat korkeimpiin ”standardoituihin” (eli ”g0v0!”) tuloksiisi rytmikartoissa.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
     <value>Tunnisteella {0} rajaaminen vaatii aktiivisen osu!supporter-tagin</value>
@@ -572,7 +572,7 @@
     <value>Rajataksesi tunnisteella {0} sinulla on oltava aktiivinen {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!tukijamerkki</value>
+    <value>g0v0!tukijamerkki</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>selaa käyttäjätunnisteita</value>

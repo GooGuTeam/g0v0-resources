@@ -80,19 +80,13 @@
     <value>Preveri posodobitve</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Odpri osu! mapo</value>
+    <value>Odpri g0v0! mapo</value>
   </data>
   <data name="change_folder_location" xml:space="preserve">
     <value>Spremeni lokacijo mape...</value>
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Zaženi čarovnika za namestitev</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Izvedite več o laserju</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Oglejte si primerjavo funkcij in pogosta vprašanja</value>
   </data>
   <data name="running_latest_release" xml:space="preserve">
     <value>Uporabljaš najnovejšo različico ({0})</value>

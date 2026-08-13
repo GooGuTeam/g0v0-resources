@@ -143,7 +143,7 @@
     <value>actualitza</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Si ets un col·laborador dels repositoris de codi obert d'osu!, enllaçant el teu compte de GitHub aquí, s'associarà les entrades del registre de canvis amb el teu perfil d'osu!. Comptes de GitHub sense historial de contribucions a osu! no es poden enllaçar.</value>
+    <value>Si ets un col·laborador dels repositoris de codi obert d'g0v0!, enllaçant el teu compte de GitHub aquí, s'associarà les entrades del registre de canvis amb el teu perfil d'g0v0!. Comptes de GitHub sense historial de contribucions a g0v0! no es poden enllaçar.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Enllaça el compte de GitHub</value>
@@ -158,7 +158,7 @@
     <value>Aquest compte de GitHub ja està enllaçat a un usuari diferent.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>No es pot enllaçar el compte de GitHub sense cap historial de contribucions als repositoris d'osu!</value>
+    <value>No es pot enllaçar el compte de GitHub sense cap historial de contribucions als repositoris d'g0v0!</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Verifica el teu correu electrònic principal a GitHub i torna a provar d'enllaçar el teu compte.</value>
@@ -299,7 +299,7 @@
     <value>amaga la teva presència en línia</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>va relacionat amb el mode «Mostra'm desconnectat» a l'osu!lazer</value>
+    <value>va relacionat amb el mode «Mostra'm desconnectat» a l'g0v0!</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Privadesa</value>

@@ -80,7 +80,7 @@
     <value>משחק הקצב החינמי הטוב ביותר</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>קצב הוא רק במרחק לחיצה</value>
+    <value>חווית קצב חופשית ופתוחה!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>חיפוש מתקדם</value>
@@ -257,12 +257,12 @@
     <value>על ידי {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>הורד את osu!</value>
+    <value>הורד את g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>תמוך ב- osu!</value>
+    <value>תמוך ב- g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>חנות osu!</value>
+    <value>חנות g0v0!</value>
   </data>
 </root>

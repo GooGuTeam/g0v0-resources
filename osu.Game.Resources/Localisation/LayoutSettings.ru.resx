@@ -62,7 +62,7 @@
     <value>Проверка возможностей полноэкранного режима...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! работает в эксклюзивном полноэкранном режиме, гарантируя низкую задержку!</value>
+    <value>g0v0! работает в эксклюзивном полноэкранном режиме, гарантируя низкую задержку!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Невозможно запустить эксклюзивный полноэкранный режим. Вы можете ощущать небольшую задержку ввода.</value>

@@ -89,9 +89,9 @@
     <value>La vinculación ligera de archivos aún no es compatible con tu sistema operativo, por lo que se realizará una copia de todos los archivos durante la importación.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Durante la importación se realizará una segunda copia de todos los archivos. Para evitar esto, asegúrate de que la carpeta de datos de lazer esté en la misma unidad que tu instalación anterior de osu! (y que el sistema de archivos sea NTFS).</value>
+    <value>Durante la importación se realizará una segunda copia de todos los archivos. Para evitar esto, asegúrate de que la carpeta de datos de g0v0 esté en la misma unidad que tu instalación anterior de osu! (y que el sistema de archivos sea NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Durante la importación se realizará una segunda copia de todos los archivos. Para evitar esto, asegúrate de que la carpeta de datos de lazer esté en la misma unidad que tu instalación anterior de osu! (y que el sistema de archivos sea compatible con los enlaces duros).</value>
+    <value>Durante la importación se realizará una segunda copia de todos los archivos. Para evitar esto, asegúrate de que la carpeta de datos de g0v0 esté en la misma unidad que tu instalación anterior de osu! (y que el sistema de archivos sea compatible con los enlaces duros).</value>
   </data>
 </root>

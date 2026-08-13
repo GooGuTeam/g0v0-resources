@@ -62,7 +62,7 @@
     <value>Уверен сам! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>подржите osu!</value>
+    <value>подржите g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>или поклоните supporter другим играчима</value>
@@ -71,14 +71,14 @@
     <value>кликните на срце да би сте ушли у osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Зашто да подржавам osu!? Где иде новац?
+    <value>Зашто да подржавам g0v0!? Где иде новац?
 </value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Подржите тим</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Мали тим се развија и води osu!. Ваша подршка им помаже да, знате... живе.
+    <value>Мали тим се развија и води g0v0!. Ваша подршка им помаже да, знате... живе.
 </value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
@@ -92,13 +92,13 @@
     <value>Истакнути Уметници</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Уз вашу подршку, можемо приступити још сјајнијим уметницима и лиценцирати још сјајне музике за коришћење у osu!</value>
+    <value>Уз вашу подршку, можемо приступити још сјајнијим уметницима и лиценцирати још сјајне музике за коришћење у g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Погледајте тренутни списак &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Задржи osu! самоодрживи
+    <value>Задржи g0v0! самоодрживи
 </value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
@@ -118,7 +118,7 @@
     <value>Open Source Bounty Program</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Подржите особље заједнице које је уложило своје време и труд да помогну прављење osu! бољим.</value>
+    <value>Подржите особље заједнице које је уложило своје време и труд да помогну прављење g0v0! бољим.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Сазнајте више &amp;raquo;</value>

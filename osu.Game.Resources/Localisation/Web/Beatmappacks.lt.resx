@@ -74,7 +74,7 @@
     <value>PERSKAITYK PRIEŠ ATSISIŲSDAMAS</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Diegimas: Kai persisiųsi rinkinį, išskleisk rinkinio tūrinį į osu! dainų katalogą ir osu! padarys visą kitą.</value>
+    <value>Diegimas: Kai persisiųsi rinkinį, išskleisk rinkinio tūrinį į g0v0! dainų katalogą ir g0v0! padarys visą kitą.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>sukūrė {0}</value>

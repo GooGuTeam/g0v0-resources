@@ -353,7 +353,7 @@
     <value>Zde od počátku</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!vývojář</value>
+    <value>g0v0!vývojář</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
     <value>osu!supporter</value>
@@ -899,7 +899,7 @@
     <value>prosím, zaregistruj se přes herního klienta!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>prosím dokonči registraci na webové stránce osu!</value>
+    <value>prosím dokonči registraci na webové stránce g0v0!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Uživatelem vytvořen</value>

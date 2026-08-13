@@ -74,7 +74,7 @@
     <value>ПРОЧЕТИ ТОВА ПРЕДИ ИЗТЕГЛЯНЕ</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Инсталиране: след изтегляне на пакет с песни, разархивирайте съдържанието на файла във вашата osu! директория, папка Songs, и osu! ще свърши останалата работа. </value>
+    <value>Инсталиране: след изтегляне на пакет с песни, разархивирайте съдържанието на файла във вашата g0v0! директория, папка Songs, и g0v0! ще свърши останалата работа. </value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>от {0}</value>

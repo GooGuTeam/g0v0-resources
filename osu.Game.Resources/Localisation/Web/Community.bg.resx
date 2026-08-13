@@ -62,22 +62,22 @@
     <value>Убеден съм! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>подкрепи osu!</value>
+    <value>подкрепи g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
-    <value>или подари osu!support на друг играч</value>
+    <value>или подари g0v0!support на друг играч</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
     <value>кликни върху сърцето за продължаване към osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Защо да подкрепя osu!? Къде отиват парите?</value>
+    <value>Защо да подкрепя g0v0!? Къде отиват парите?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Подкрепяте нашия екип</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Малък екип от разработчици развиват и поддържат osu!. Вашата подкрепа им помага, нали знаете... да живеят.</value>
+    <value>Малък екип от разработчици развиват и поддържат g0v0!. Вашата подкрепа им помага, нали знаете... да живеят.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Сървърна инфраструктура</value>
@@ -89,13 +89,13 @@
     <value>Представени автори</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>С ваша подкрепа, може да се обърнем към страхотни изпълнители и лицензираме уникална музика за използване в osu!</value>
+    <value>С ваша подкрепа, може да се обърнем към страхотни изпълнители и лицензираме уникална музика за използване в g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Вижте текущия списък &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Вие издържате osu!</value>
+    <value>Вие издържате g0v0!</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Приносите помагат да запазим играта независима, без никакви реклами и външни спонсори.</value>
@@ -113,7 +113,7 @@
     <value>Open Source Bounty Program</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Подкрепяте сътрудниците на общността, които отделят своето време и усилия, да направят osu! по-добър.</value>
+    <value>Подкрепяте сътрудниците на общността, които отделят своето време и усилия, да направят g0v0! по-добър.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Разберете повече &amp;raquo;</value>
@@ -161,7 +161,7 @@
     <value>Ранен достъп</value>
   </data>
   <data name="support.perks.early_access.description" xml:space="preserve">
-    <value>Получи ранен достъп до нови osu! версии, с нови функции преди да станат публични!&lt;br/&gt;&lt;br/&gt;Това включва и нови функции в уебсайта!</value>
+    <value>Получи ранен достъп до нови g0v0! версии, с нови функции преди да станат публични!&lt;br/&gt;&lt;br/&gt;Това включва и нови функции в уебсайта!</value>
   </data>
   <data name="support.perks.customisation.title" xml:space="preserve">
     <value>Персонализация</value>

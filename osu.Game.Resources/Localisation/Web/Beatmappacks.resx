@@ -74,7 +74,7 @@
     <value>READ THIS BEFORE DOWNLOADING</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Installation: Once a pack has been downloaded, extract the contents of the pack into your osu! Songs directory and osu! will do the rest.</value>
+    <value>Installation: Once a pack has been downloaded, extract the contents of the pack into your g0v0! Songs directory and g0v0! will do the rest.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>by {0}</value>

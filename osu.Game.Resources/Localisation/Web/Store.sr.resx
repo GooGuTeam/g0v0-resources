@@ -171,7 +171,7 @@
 </value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>подршку osu!продавнице</value>
+    <value>подршку g0v0!продавнице</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Ваша поруџбина је испоручена! Надамо се да ћете уживати!</value>
@@ -180,7 +180,7 @@
     <value>Ако имате било каквих проблема са куповином, контактирајте {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>подршку osu!продавнице</value>
+    <value>подршку g0v0!продавнице</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Ваша поруџбина је спремна!</value>

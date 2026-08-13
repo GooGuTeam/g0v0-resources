@@ -89,9 +89,9 @@
     <value>Az operációs rendszered még nem támogatja a fájlok egyszerű összekapcsolását, ezért az importálás során minden fájlról másolat készül.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Az importálás során minden fájlról egy másolat készül. Ennek elkerülése érdekében győződj meg arról, hogy a Lazer adatmappa ugyanazon a meghajtón van, mint az előző osu! telepítésed (és a fájlrendszer NTFS).</value>
+    <value>Az importálás során minden fájlról egy másolat készül. Ennek elkerülése érdekében győződj meg arról, hogy a g0v0 adatmappa ugyanazon a meghajtón van, mint az előző osu! telepítésed (és a fájlrendszer NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Az importálás során minden fájlról egy másolat készül. Ennek elkerülése érdekében győződj meg arról, hogy a Lazer adatmappa ugyanazon a meghajtón van, mint az előző osu! telepítésed (és a fájlrendszered támogatja a kemény linkeket).</value>
+    <value>Az importálás során minden fájlról egy másolat készül. Ennek elkerülése érdekében győződj meg arról, hogy a g0v0 adatmappa ugyanazon a meghajtón van, mint az előző osu! telepítésed (és a fájlrendszered támogatja a kemény linkeket).</value>
   </data>
 </root>

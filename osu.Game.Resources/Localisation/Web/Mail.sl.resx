@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="beatmapset_update_notice.new" xml:space="preserve">
-    <value>V vednost, beatmapa "{0}" je pridobila novo posodobitev odkar si nazadnje obiskal osu!.</value>
+    <value>V vednost, beatmapa "{0}" je pridobila novo posodobitev odkar si nazadnje obiskal g0v0!.</value>
   </data>
   <data name="beatmapset_update_notice.subject" xml:space="preserve">
     <value>Nova posodobitev beatmape "{0}"</value>
@@ -89,13 +89,13 @@
     <value>Če imaš kakšno vprašanje ali povratno informacijo, lahko to storiš z odgovorom na to e-pošto; Odgovoril bom v najkrajšem možnem času!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>To je zahvala za osebe kot si ti, da lahko osu! in njegovo skupnost ohrani brez problemov in brez oglasov ali prisilnih plačil.</value>
+    <value>To je zahvala za osebe kot si ti, da lahko g0v0! in njegovo skupnost ohrani brez problemov in brez oglasov ali prisilnih plačil.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Tvoja podpora ohranja osu! delovati za približno {0}! Ne zgleda ravno veliko, ampak se vse skupaj sešteje :).</value>
+    <value>Tvoja podpora ohranja g0v0! delovati za približno {0}! Ne zgleda ravno veliko, ampak se vse skupaj sešteje :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Hvala, osu! te ima rad &lt;3</value>
+    <value>Hvala, g0v0! te ima rad &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Skupnostni prevod za informacijske namene:</value>
@@ -107,7 +107,7 @@
     <value>Sedaj boš imel dostop do osu!direct in veliko drugih podporniških ugodnosti za {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Najlepša hvala za tvojo {0} usmerjeno osu!.</value>
+    <value>Najlepša hvala za tvojo {0} usmerjeno g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>podporo</value>
@@ -116,10 +116,10 @@
     <value>nadaljevano podporo</value>
   </data>
   <data name="forum_new_reply.new" xml:space="preserve">
-    <value>V vednost, prejel si nov odgovor v "{0}", odkar si nazadnje obiskal osu!.</value>
+    <value>V vednost, prejel si nov odgovor v "{0}", odkar si nazadnje obiskal g0v0!.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nov odgovor za temo "{0}"</value>
+    <value>[g0v0!] Nov odgovor za temo "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Če ne želiš več slediti tej temi, lahko klikneš na "Izpis od teme" v obliki povezave spodaj pod temo zgoraj ali preko strani za upravljanje naročenih tem:</value>
@@ -209,7 +209,7 @@
     <value>Spremenite nastavitve e-poštnih obvestil:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nova osu! obvestila</value>
+    <value>Nova g0v0! obvestila</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>To je potrditvena e-pošta z informacijo, da se je tvoje osu! geslo spremenilo.</value>

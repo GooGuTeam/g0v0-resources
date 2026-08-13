@@ -235,7 +235,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>ベータアクセスは権限があるユーザーのみに付与されます。</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!サポーターはすぐ手に入ります)</value>
+    <value>(g0v0!サポーターはすぐ手に入ります)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>アクティブ</value>
@@ -356,10 +356,10 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>創設時からのメンバー</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!開発者</value>
+    <value>g0v0!開発者</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!サポーター</value>
+    <value>g0v0!サポーター</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>登録日 {0}</value>
@@ -467,7 +467,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>アップロードは {0} でのみ可能です</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!サポーター</value>
+    <value>g0v0!サポーター</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>メインのゲームモード</value>
@@ -803,7 +803,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>この機能を解除するには{0}する必要があります。</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!サポーター</value>
+    <value>g0v0!サポーター</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>フォーラム投稿数 {0}</value>
@@ -902,7 +902,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>代わりにゲームクライアントから登録してください！</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>osu!のウェブサイトで登録を完了してください</value>
+    <value>g0v0!のウェブサイトで登録を完了してください</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>ユーザーが作成されました</value>

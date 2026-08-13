@@ -233,7 +233,7 @@
     <value>Beta hozzáférés jelenleg csak kiváltságos felhasználóknak elérhető.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!támogatók hamarosan bejutnak)</value>
+    <value>(g0v0!támogatók hamarosan bejutnak)</value>
   </data>
   <data name="ogp.modding_description" xml:space="preserve">
     <value>Beatmapek: {0}</value>
@@ -332,10 +332,10 @@
     <value>Itt van a kezdetek óta</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!fejlesztő</value>
+    <value>g0v0!fejlesztő</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!támogató</value>
+    <value>g0v0!támogató</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Regisztrált: {0}</value>
@@ -443,7 +443,7 @@
     <value>Feltöltés csak {0} -hez elérhető</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!támogatók</value>
+    <value>g0v0!támogatók</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>alapértelmezett játékmód</value>
@@ -461,7 +461,7 @@
     <value>Egyéni színtémák csak {0} számára érhetőek el</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!támogatók</value>
+    <value>g0v0!támogatók</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>semmi</value>
@@ -770,7 +770,7 @@
     <value>Ennek a szolgáltatásnak a feloldásához egy linknek kell lennie. {0}.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!támogató</value>
+    <value>g0v0!támogató</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Hozzájárult {0}</value>
@@ -860,7 +860,7 @@
     <value>kérlek regisztrálj inkább a játék klienssel!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>kérlek fejezd be a regisztrációt az osu! weboldalon</value>
+    <value>kérlek fejezd be a regisztrációt az g0v0! weboldalon</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Felhasználó létrehozva</value>

@@ -68,12 +68,12 @@
     <value>你现在可以关闭本标签页/窗口了</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>已完成 osu! 客户端验证</value>
+    <value>已完成 g0v0! 客户端验证</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>点击下面的验证按钮来完成客户端验证。</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! 客户端验证</value>
+    <value>g0v0! 客户端验证</value>
   </data>
 </root>

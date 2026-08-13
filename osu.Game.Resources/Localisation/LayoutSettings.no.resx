@@ -62,7 +62,7 @@
     <value>Sjekker fullskjermsegenskaper... </value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! kjører i eksklusiv fullskjerm, med garanti for lav latency!</value>
+    <value>g0v0! kjører i eksklusiv fullskjerm, med garanti for lav latency!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Kan ikke kjøre i eksklusiv fullskjerm. Du kan oppleve en viss inndataforsinkelse.</value>

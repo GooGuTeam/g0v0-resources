@@ -10,14 +10,14 @@ namespace osu.Game.Resources.Localisation.Web
         private const string prefix = @"osu.Game.Resources.Localisation.Web.Multiplayer";
 
         /// <summary>
-        /// "Not currently in any in-progress osu!(lazer) {0} games!"
+        /// "Not currently in any in-progress g0v0! {0} games!"
         /// </summary>
-        public static LocalisableString EmptyActive(LocalisableString typeGroup) => new TranslatableString(getKey(@"empty.active"), @"Not currently in any in-progress osu!(lazer) {0} games!", typeGroup);
+        public static LocalisableString EmptyActive(LocalisableString typeGroup) => new TranslatableString(getKey(@"empty.active"), @"Not currently in any in-progress g0v0! {0} games!", typeGroup);
 
         /// <summary>
-        /// "Not in any completed osu!(lazer) {0} games yet!"
+        /// "Not in any completed g0v0! {0} games yet!"
         /// </summary>
-        public static LocalisableString EmptyEnded(LocalisableString typeGroup) => new TranslatableString(getKey(@"empty.ended"), @"Not in any completed osu!(lazer) {0} games yet!", typeGroup);
+        public static LocalisableString EmptyEnded(LocalisableString typeGroup) => new TranslatableString(getKey(@"empty.ended"), @"Not in any completed g0v0! {0} games yet!", typeGroup);
 
         /// <summary>
         /// "playlist"

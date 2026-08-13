@@ -68,7 +68,7 @@
     <value>Pirmojo paleidimo sąranka</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Nusistatyk osu! pagal savo poreikius</value>
+    <value>Nusistatyk g0v0! pagal savo poreikius</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Sveiki</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Sveiki atvykę į pirmojo paleidimo sąrankos gidą!
 
-osu! leidžia daug ką konfigūruoti, dėl to šokant į nustatymus gali būti sunku susigaudyti. Šis gidas jums susitvarkyti svarbius nustatymus ir užtikrinti gera pirmą patirtį!</value>
+g0v0! leidžia daug ką konfigūruoti, dėl to šokant į nustatymus gali būti sunku susigaudyti. Šis gidas jums susitvarkyti svarbius nustatymus ir užtikrinti gera pirmą patirtį!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>osu! naudotojo sąsajos dydis gali būti reguliuojmas pagal jūsų poreikį.</value>
+    <value>g0v0! naudotojo sąsajos dydis gali būti reguliuojmas pagal jūsų poreikį.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Veiksena</value>
@@ -87,7 +87,7 @@ osu! leidžia daug ką konfigūruoti, dėl to šokant į nustatymus gali būti s
   <data name="behaviour_description" xml:space="preserve">
     <value>Implementuoti keli nauji numatytieji nustatymai žaidimo veiksenai su tikslu pagerinti patirtį žaidime ir padaryti labiau prieinama visiems.
 
-Rekomenduojam išbandyti naujuosius numatytuosius nustatymus, bet jei norite, kad žaistusi labiau kaip klasikinė osu! versija, galite pritaikyti senuosius numatytuosius nustatymus.</value>
+Rekomenduojam išbandyti naujuosius numatytuosius nustatymus, bet jei norite, kad žaistusi labiau kaip klasikinė g0v0! versija, galite pritaikyti senuosius numatytuosius nustatymus.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Naujieji numatytieji</value>

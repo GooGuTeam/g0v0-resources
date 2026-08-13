@@ -62,7 +62,7 @@
     <value>Söker efter fullskärmsförmågor...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! körs exklusivt i fullskärm, vilket garanterar låg fördröjning!</value>
+    <value>g0v0! körs exklusivt i fullskärm, vilket garanterar låg fördröjning!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Det gick inte att köra exklusiv helskärm. Du kan uppleva viss fördröjning.</value>

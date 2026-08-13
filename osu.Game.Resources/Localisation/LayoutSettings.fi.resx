@@ -62,7 +62,7 @@
     <value>Tarkistetaan koko näytön tilan ominaisuuksia...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! käyttää eksklusiivista koko näytön tilaa, mikä takaa alhaisen viiveen!</value>
+    <value>g0v0! käyttää eksklusiivista koko näytön tilaa, mikä takaa alhaisen viiveen!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Eksklusiivista koko näytön tilaa ei pystytä käyttämään. Syötteessä saattaa tuntua hieman viivettä.</value>

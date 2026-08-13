@@ -107,7 +107,7 @@
     <value>現在注文が多く大変混雑しています。注文はまだ受け付けていますが、**１～２週間ほどの遅延**が発生する可能性があります。</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>この順序でosu!サポータータグをすべて非表示にする</value>
+    <value>この順序でg0v0!サポータータグをすべて非表示にする</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>あなたのカートは期限切れ、または再読み込みされたようです。再度お試しください。</value>
@@ -149,7 +149,7 @@
     <value>PayPal が eCheck によるお支払いを拒否しました。</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!サポータータグは最近のアクティビティには表示されません。</value>
+    <value>g0v0!サポータータグは最近のアクティビティには表示されません。</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>発送方法：</value>

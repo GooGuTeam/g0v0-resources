@@ -68,12 +68,12 @@
     <value>U kunt dit tabblad/venster nu sluiten</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu! clientverificatie is voltooid</value>
+    <value>g0v0! clientverificatie is voltooid</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Klik op de autorisatie-knop hieronder om de clientverificatie af te ronden.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! clientverificatie</value>
+    <value>g0v0! clientverificatie</value>
   </data>
 </root>

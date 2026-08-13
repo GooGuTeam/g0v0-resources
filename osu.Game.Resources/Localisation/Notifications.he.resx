@@ -80,7 +80,7 @@
     <value>אין מוד שיחוק אוטומטי זמין עבור סט החוקים הנוכחי!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>זה נראה ש-osu! אינו מצליח השמיע שמע באופן תקין.
+    <value>זה נראה ש-g0v0! אינו מצליח השמיע שמע באופן תקין.
 
 נסו לשנות את התקן השמע שלכם להגדרה עובדת.</value>
   </data>
@@ -121,7 +121,7 @@
     <value>זה נראה שההעתק המקומי של המפה שלכם שונה במעט מהמצופה עבור שידור חוזר זה. ייתכן ותצטרכו לעדכן אותה או להוריד אותה מחדש.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>אתם כעת מריצים את osu! {0}.
+    <value>אתם כעת מריצים את g0v0! {0}.
 לחצו כאן בשביל לראות מה חדש!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

@@ -500,10 +500,10 @@
     <value>검색 옵션 더 보기</value>
   </data>
   <data name="listing.search.rank_filter_note" xml:space="preserve">
-    <value>이 페이지에 표시된 프로필 상위 순위 수와 결과는 비트맵에서 가장 높은 "표준화"(일명 "lazer") 점수를 기반으로 해요.</value>
+    <value>이 페이지에 표시된 프로필 상위 순위 수와 결과는 비트맵에서 가장 높은 "표준화"(일명 "g0v0!") 점수를 기반으로 해요.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>{0}로 검색하려면 osu! 서포터 태그가 필요합니다.</value>
+    <value>{0}로 검색하려면 g0v0! 서포터 태그가 필요합니다.</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>결과 없음</value>
@@ -572,7 +572,7 @@
     <value>"{0}" 필터를 사용하시려면 {1}가 필요합니다.</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu! 서포터</value>
+    <value>g0v0! 서포터</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>사용자 태그 탐색</value>

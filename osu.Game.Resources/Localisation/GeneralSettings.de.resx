@@ -89,7 +89,7 @@
     <value>Suche nach Updates</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>osu!-Ordner öffnen</value>
+    <value>g0v0!-Ordner öffnen</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Logdateien exportieren</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Einrichtungsassistent starten</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Mehr über lazer erfahren</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Siehe dir den Feature-Vergleich und die FAQ an</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Ein Problem melden</value>

@@ -124,9 +124,6 @@
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>Ctrl-Enter va porni un beatmap în modul de redare automată!</value>
   </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>„Lazer” nu este un cuvânt în engleză. Modul de scriere corect pentru lumina puternică este „laser”.</value>
-  </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>Suportul pentru fire de execuție multiple înseamnă că și la un „FPS” scăzut apăsările tale vor fi precise!</value>
   </data>

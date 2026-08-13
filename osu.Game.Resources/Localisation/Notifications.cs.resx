@@ -80,7 +80,7 @@
     <value>V aktuálním rulesetu není dostupný autoplay mód!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! má potíže s přehráváním zvuku.
+    <value>g0v0! má potíže s přehráváním zvuku.
 
 Zkuste prosím změnit nastavení svého zvukového zařízení.</value>
   </data>
@@ -115,7 +115,7 @@ Zkuste prosím změnit nastavení svého zvukového zařízení.</value>
     <value>Tvoje místní kopie beatmapy pro tento záznam se zdá býti jiná, než se očekávalo. Možná ji bude třeba aktualizovat nebo znovu stáhnout.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Nyní používáš osu! {0}.
+    <value>Nyní používáš g0v0! {0}.
 Kliknutím zobrazíš, co je nového!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -143,7 +143,7 @@ Kliknutím zobrazíš, co je nového!</value>
     <value>Offline: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>Připojení k online službám bylo přerušeno. osu! bude fungovat s omezenou funkcionalitou.</value>
+    <value>Připojení k online službám bylo přerušeno. g0v0! bude fungovat s omezenou funkcionalitou.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Byl jsi odhlášen na tomto zařízení z důvodu přihlášení se k tvému účtu z jiného zařízení.</value>
@@ -170,13 +170,13 @@ Kliknutím zobrazíš, co je nového!</value>
     <value>Tato chyba byla automaticky nahlášena vývojářskému týmu.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>Bylo nalezeno novější vydání osu! ({0} → {1}).</value>
+    <value>Bylo nalezeno novější vydání g0v0! ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Klikni sem pro stažení nové verze, která může být nainstalována místo tvojí stávající instalace.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Zkonzultuj se svým správcem balíčků / poskytovatelem, abys zaktualizoval osu!</value>
+    <value>Zkonzultuj se svým správcem balíčků / poskytovatelem, abys zaktualizoval g0v0!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>Akce byla přerušena, neboť se zobrazovalo dialogové okno.</value>
@@ -194,10 +194,10 @@ Kliknutím zobrazíš, co je nového!</value>
     <value>Logy vyexportovány! Klikni pro zobrazení.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>Spuštění osu! jako {0} nezlepší výkon, může rozbít integrace a představuje bezpečnostní riziko. Spusť prosím hru jako normální uživatel.</value>
+    <value>Spuštění g0v0! jako {0} nezlepší výkon, může rozbít integrace a představuje bezpečnostní riziko. Spusť prosím hru jako normální uživatel.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>Instalování osu! na macOS do jiného adresáře než /Applications nebo {0}/Applications může způsobit problémy s aktualizováním hry. Přesuň prosím svou instalaci hri na jedno z těchto míst.</value>
+    <value>Instalování g0v0! na macOS do jiného adresáře než /Applications nebo {0}/Applications může způsobit problémy s aktualizováním hry. Přesuň prosím svou instalaci hri na jedno z těchto míst.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Snímek obrazovky uložen! Klikni pro zobrazení. {0}</value>

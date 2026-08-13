@@ -89,9 +89,9 @@
     <value>Lightweight linking of files is not supported on your operating system yet, so a copy of all files will be made during import.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>A second copy of all files will be made during import. To avoid this, please make sure the lazer data folder is on the same drive as your previous osu! install (and the file system is NTFS).</value>
+    <value>A second copy of all files will be made during import. To avoid this, please make sure the g0v0 data folder is on the same drive as your previous osu! install (and the file system is NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>A second copy of all files will be made during import. To avoid this, please make sure the lazer data folder is on the same drive as your previous osu! install (and the file system supports hard links).</value>
+    <value>A second copy of all files will be made during import. To avoid this, please make sure the g0v0 data folder is on the same drive as your previous osu! install (and the file system supports hard links).</value>
   </data>
 </root>

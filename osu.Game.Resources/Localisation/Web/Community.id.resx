@@ -62,7 +62,7 @@
     <value>Saya yakin! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>dukung osu!</value>
+    <value>dukung g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>atau hadiahkan tag supporter kepada pemain lain</value>
@@ -71,13 +71,13 @@
     <value>klik tombol hati di atas untuk melanjutkan ke osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Mengapa saya harus mendukung osu!? Ke mana saja uangnya akan disalurkan?</value>
+    <value>Mengapa saya harus mendukung g0v0!? Ke mana saja uangnya akan disalurkan?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Mendukung Tim Kami</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>osu! dikembangkan dan dikelola oleh tim yang kecil. Dukunganmu akan sangat membantu... keberlangsungan hidup mereka.</value>
+    <value>g0v0! dikembangkan dan dikelola oleh tim yang kecil. Dukunganmu akan sangat membantu... keberlangsungan hidup mereka.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Prasarana Server</value>
@@ -89,13 +89,13 @@
     <value>Featured Artist</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Berkat dukunganmu, kami bisa menghubungi lebih banyak musisi yang kece dan melisensi lebih banyak lagu untuk digunakan di osu!.</value>
+    <value>Berkat dukunganmu, kami bisa menghubungi lebih banyak musisi yang kece dan melisensi lebih banyak lagu untuk digunakan di g0v0!.</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Lihat daftar Featured Artist saat ini &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Membantu osu! Tetap Mandiri</value>
+    <value>Membantu g0v0! Tetap Mandiri</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Kontribusimu membantu menjaga permainan ini tetap mandiri dan sepenuhnya bebas dari iklan dan sponsor luar.</value>
@@ -113,7 +113,7 @@
     <value>Program Open Source Bounty</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Sebagian dari dana ini juga disalurkan kepada para kontributor komunitas yang sudah menyisihkan waktu dan upaya mereka demi membuat osu! menjadi lebih baik.</value>
+    <value>Sebagian dari dana ini juga disalurkan kepada para kontributor komunitas yang sudah menyisihkan waktu dan upaya mereka demi membuat g0v0! menjadi lebih baik.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Cari tahu lebih lanjut seputar program Open Source Bounty &amp;raquo;</value>
@@ -197,7 +197,7 @@
     <value>Elemen Skinning Tambahan</value>
   </data>
   <data name="support.perks.skinnables.description" xml:space="preserve">
-    <value>Buat tampilan osu! milikmu menjadi lebih personal dengan berbagai elemen tambahan yang bisa kamu kustomisasi sesuka hatimu, seperti latar menu utama.</value>
+    <value>Buat tampilan g0v0! milikmu menjadi lebih personal dengan berbagai elemen tambahan yang bisa kamu kustomisasi sesuka hatimu, seperti latar menu utama.</value>
   </data>
   <data name="support.perks.feature_votes.title" xml:space="preserve">
     <value>Hak Suara Ekstra</value>

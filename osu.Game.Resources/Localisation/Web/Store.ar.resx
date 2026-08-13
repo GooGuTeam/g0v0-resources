@@ -167,7 +167,7 @@
     <value>إذا لم تطلب إلغاء، يرجى الاتصال بـ {0} واقتبس رقم طلبك في الرسالة (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>دعم متجر osu!</value>
+    <value>دعم متجر g0v0!</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>لقد تم تسليم طلبك! نأمل أن تستمتع به!</value>
@@ -176,7 +176,7 @@
     <value>إذا كان لديك أي مشاكل في عملية الشراء الخاصة بك، يرجى الاتصال بـ {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>دعم متجر osu!</value>
+    <value>دعم متجر g0v0!</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>يتم إعداد طلبك!</value>

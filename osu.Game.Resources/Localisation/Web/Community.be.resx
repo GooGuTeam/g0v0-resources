@@ -62,7 +62,7 @@
     <value>Пераканаў цябе! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>падтрымаць osu!</value>
+    <value>падтрымаць g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>або падараваць падтрымку іншаму гульцу</value>
@@ -71,13 +71,13 @@
     <value>націсніце па кнопкі з сэрцам, каб перайсці да osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Навошта мне падтрымліваць osu!? Куда ідуць грошы?</value>
+    <value>Навошта мне падтрымліваць g0v0!? Куда ідуць грошы?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Падтрымайце каманду распрацоўкі</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>osu! распрацоўваецца невялікай камандай людзей. Вашая падтрымка дапаможа ім, ну, вы ведаеце... жыць.</value>
+    <value>g0v0! распрацоўваецца невялікай камандай людзей. Вашая падтрымка дапаможа ім, ну, вы ведаеце... жыць.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Серверная інфраструктура</value>
@@ -89,13 +89,13 @@
     <value>Ліцэнзаваныя мастакі</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>З вашай падтрымкай мы зможам звярнуцца да яшчэ больш дзіўных выканаўцаў і ліцэнзаваць больш выдатнай музыкі для выкарыстання ў osu!</value>
+    <value>З вашай падтрымкай мы зможам звярнуцца да яшчэ больш дзіўных выканаўцаў і ліцэнзаваць больш выдатнай музыкі для выкарыстання ў g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Паглядзець бягучы спіс &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Трымайце osu! незалежнасць</value>
+    <value>Трымайце g0v0! незалежнасць</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Вашы ўклады дапамагаюць захаваць гульню незалежнай і цалкам свабоднай ад рэкламы і знешніх спонсараў.</value>
@@ -113,7 +113,7 @@
     <value>Заахвочванне ўкладу ў адкрытым ПА</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Падтрымайце ўдзельнікаў супольнасці, якія аддалі свой час і намаганні, каб дапамагчы зрабіць osu! лепш.</value>
+    <value>Падтрымайце ўдзельнікаў супольнасці, якія аддалі свой час і намаганні, каб дапамагчы зрабіць g0v0! лепш.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Даведацца больш &amp;raquo;</value>
@@ -227,7 +227,7 @@
     <value>Можна выкласць яшчэ больш бітмап</value>
   </data>
   <data name="support.perks.more_beatmaps.description" xml:space="preserve">
-    <value>Максімальную колькасць нерейтинговых карт, якое Вы можаце дадаць, пачынаецца з аднаго значэння і павялічваецца па меры таго, як Вашы карты становяцца рэйтынгавымі (да пэўнага абмежавання). Звычайна гэта 4 карты першапачаткова, плюс адна за кожную рэйтынгавую (да двух). З osu! Supporter: 8 карт першапачаткова, плюс адна за кожную рэйтынгавую (да 12).</value>
+    <value>Максімальную колькасць нерейтинговых карт, якое Вы можаце дадаць, пачынаецца з аднаго значэння і павялічваецца па меры таго, як Вашы карты становяцца рэйтынгавымі (да пэўнага абмежавання). Звычайна гэта 4 карты першапачаткова, плюс адна за кожную рэйтынгавую (да двух). З g0v0! Supporter: 8 карт першапачаткова, плюс адна за кожную рэйтынгавую (да 12).</value>
   </data>
   <data name="support.perks.friend_filtering.title" xml:space="preserve">
     <value>Табліца лідэраў па сябрах</value>

@@ -68,12 +68,12 @@
     <value>이제 창을 닫으셔도 됩니다.</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu! 클라이언트 인증이 완료되었습니다.</value>
+    <value>g0v0! 클라이언트 인증이 완료되었습니다.</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>클라이언트 인증을 끝내시려면 아래 권한 부여 버튼을 눌러주세요.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! 클라이언트 인증</value>
+    <value>g0v0! 클라이언트 인증</value>
   </data>
 </root>

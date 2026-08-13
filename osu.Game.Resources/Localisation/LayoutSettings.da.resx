@@ -62,7 +62,7 @@
     <value>Kontrollerer for fuldskærmsegenskaber...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! kører eksklusiv fuldskærm, garanterer lav latency!</value>
+    <value>g0v0! kører eksklusiv fuldskærm, garanterer lav latency!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Kan ikke køre i eksklusiv fuldskærm. Du kan opleve nogle input latenstid.</value>

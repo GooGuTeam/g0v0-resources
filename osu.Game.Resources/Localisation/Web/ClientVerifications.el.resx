@@ -68,12 +68,12 @@
     <value>Μπορείτε να κλείσετε αυτήν την καρτέλα/παράθυρο τώρα</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>η επαλήθευση του osu! client έχει ολοκληρωθεί</value>
+    <value>η επαλήθευση του g0v0! client έχει ολοκληρωθεί</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Κάντε κλικ στο κουμπί εξουσιοδότησης παρακάτω για να ολοκληρώσετε την επαλήθευση του client.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! client επαλήθευση</value>
+    <value>g0v0! client επαλήθευση</value>
   </data>
 </root>

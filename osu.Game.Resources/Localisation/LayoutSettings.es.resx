@@ -62,7 +62,7 @@
     <value>Comprobando capacidades de pantalla completa...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! se ejecuta en modo exclusivo de pantalla completa, ¡garantizando una baja latencia!</value>
+    <value>g0v0! se ejecuta en modo exclusivo de pantalla completa, ¡garantizando una baja latencia!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>No se puede ejecutar en modo exclusivo de pantalla completa. Es posible que experimentes cierta latencia de entrada.</value>

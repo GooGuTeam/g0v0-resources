@@ -62,7 +62,7 @@
     <value>Checking for fullscreen capabilities...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! is running in exclusive fullscreen, guaranteeing low latency!</value>
+    <value>g0v0! is running in exclusive fullscreen, guaranteeing low latency!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Unable to run in exclusive fullscreen. You may experience some input latency.</value>

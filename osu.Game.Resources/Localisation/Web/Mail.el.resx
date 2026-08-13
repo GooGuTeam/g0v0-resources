@@ -89,13 +89,13 @@
     <value>Αν έχεις ερωτήσεις ή σχόλια, μην διστάζεις να απαντήσεις σε αυτό το email. Θα επικοινωνήσω μαζί σου το συντομότερο δυνατόν!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Είναι χάρη στους ανθρώπους σαν εσένα που το osu! μπορεί να κρατάει το παιχνίδι και την κοινότητα να τρέχουν ομαλά χωρίς διαφημίσεις ή αναγκαστικές πληρωμές. </value>
+    <value>Είναι χάρη στους ανθρώπους σαν εσένα που το g0v0! μπορεί να κρατάει το παιχνίδι και την κοινότητα να τρέχουν ομαλά χωρίς διαφημίσεις ή αναγκαστικές πληρωμές. </value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Η υποστήριξή σου κρατάει το osu! να τρέχει για {0}! Μπορεί να μην φαίνεται σαν κάτι τρελό, αλλά βοηθάει σε όλα :). </value>
+    <value>Η υποστήριξή σου κρατάει το g0v0! να τρέχει για {0}! Μπορεί να μην φαίνεται σαν κάτι τρελό, αλλά βοηθάει σε όλα :). </value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Ευχαριστούμε, το osu! σε &lt;3</value>
+    <value>Ευχαριστούμε, το g0v0! σε &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Μετάφραση που παρέχεται από την κοινότητα για ενημερωτικούς σκοπούς:</value>
@@ -107,7 +107,7 @@
     <value>Τώρα θα έχεις πρόσβαση στο osu!direct και σε πολλά άλλα οφέλη supporter για {0}</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Ευχαριστούμε πολύ για το {0} σας προς το osu!.</value>
+    <value>Ευχαριστούμε πολύ για το {0} σας προς το g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>υποστήριξη</value>
@@ -119,7 +119,7 @@
     <value>Απλά σε ενημερώνουμε πως υπήρξε μια νέα ενημέρωση στο beatmap "{0}" από την τελευταία σου επίσκεψη.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Νέα απάντηση για το θέμα "{0}"</value>
+    <value>[g0v0!] Νέα απάντηση για το θέμα "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Αν δεν θέλεις να παρακαλουθείς άλλο αυτό το θέμα, μπορείς είτε να κάνεις κλικ στο σύνδεσμο ''Κατάργηση εγγραφής'' που βρίσκεται στο κάτω μέρος του θέματος παραπάνω, ή από τη σελίδα διαχείρισης συνδρομών θεμάτων: </value>
@@ -152,7 +152,7 @@
     <value>Λάβαμε την παραγγελία σας από το osu!store!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Ευχαριστούμε για την παραγγελία σου στο osu!shop!</value>
+    <value>Ευχαριστούμε για την παραγγελία σου στο g0v0!shop!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Σύνολο</value>
@@ -209,7 +209,7 @@
     <value>Αλλαγή προτιμήσεων ειδοποίησης μέσω email:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Νέες ειδοποιήσεις osu!</value>
+    <value>Νέες ειδοποιήσεις g0v0!</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Αυτή είναι απλά μια επιβεβαίωση ότι ο κωδικός πρόσβασης του osu! σου έχει αλλάξει</value>

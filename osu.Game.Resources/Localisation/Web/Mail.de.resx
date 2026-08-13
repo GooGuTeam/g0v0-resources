@@ -89,13 +89,13 @@
     <value>Wenn du Fragen oder Anregungen hast, zögere nicht, auf diese Mail zu antworten; Ich melde mich so schnell wie möglich bei dir!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Es ist Menschen wie dir zu verdanken, dass osu! in der Lage ist, das Spiel und die Community ohne Werbung oder erzwungene Zahlungen am Laufen zu halten.</value>
+    <value>Es ist Menschen wie dir zu verdanken, dass g0v0! in der Lage ist, das Spiel und die Community ohne Werbung oder erzwungene Zahlungen am Laufen zu halten.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Deine Unterstützung hält osu! für ungefähr {0} am Laufen! Das klingt nicht nach viel, aber es kommt einiges zusammen :).</value>
+    <value>Deine Unterstützung hält g0v0! für ungefähr {0} am Laufen! Das klingt nicht nach viel, aber es kommt einiges zusammen :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Danke, osu! &lt;3 dich</value>
+    <value>Danke, g0v0! &lt;3 dich</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Es folgt eine von der Community bereitgestellte Übersetzung zu Informationszwecken:</value>
@@ -107,7 +107,7 @@
     <value>Du hast jetzt Zugriff auf osu!direct und viele weitere Supporter-Vorteile für {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Vielen Dank für deine {0} gegenüber osu!.</value>
+    <value>Vielen Dank für deine {0} gegenüber g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>Unterstützung</value>
@@ -119,7 +119,7 @@
     <value>Wir wollten dich nur eben wissen lassen, dass seit deinem letzten Besuch eine neue Antwort in "{0}" eingegangen ist.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Neue Antwort auf Thread "{0}"</value>
+    <value>[g0v0!] Neue Antwort auf Thread "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Wenn du dir diesen Beitrag nicht mehr merken möchtest, kannst du entweder auf den Link "Beitrag deabonnieren" am unteren Rand des obigen Beitrags oder auf der Verwaltungsseite für Beitragsabonnements klicken:</value>
@@ -209,7 +209,7 @@
     <value>E-Mail-Benachrichtigungseinstellungen ändern:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Neue osu!-Benachrichtigungen</value>
+    <value>Neue g0v0!-Benachrichtigungen</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Dies ist nur eine Bestätigung, dass dein osu!-Passwort geändert wurde.</value>

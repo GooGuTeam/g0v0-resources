@@ -62,7 +62,7 @@
     <value>Putar lagu berikutnya secara otomatis</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rhythm is just a *click* away! Dengan Ouendan/EBA, Taiko, dan berbagai mode permainan orisinal serta editor level yang sepenuhnya fungsional.</value>
+    <value>g0v0! - Pengalaman ritme yang bebas dan terbuka! Dengan Ouendan/EBA, Taiko, dan berbagai mode permainan orisinal serta editor level yang sepenuhnya fungsional.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>set beatmap</value>
@@ -191,7 +191,7 @@
     <value>Daftar Beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Unduh osu!</value>
+    <value>Unduh g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Bantuan &amp; Komunitas</value>
@@ -311,7 +311,7 @@
     <value>Unduh</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Unduh osu! untuk membuat akunmu!</value>
+    <value>Unduh g0v0! untuk membuat akunmu!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Belum memiliki akun?</value>
@@ -326,10 +326,10 @@
     <value>Teman</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Mode lazer</value>
+    <value>Mode g0v0!</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Mode lazer menampilkan skor yang diraih dari lazer dengan algoritma perhitungan skor baru</value>
+    <value>Mode g0v0! menampilkan skor yang diraih dari g0v0! dengan algoritma perhitungan skor baru</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Keluar</value>

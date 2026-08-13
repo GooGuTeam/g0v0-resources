@@ -89,9 +89,9 @@
     <value>您的操作系统不支持轻量文件链接，因此，导入时会生成一份所有文件的副本。</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>在导入时会复制并生成第二份文件。如果你想避免这种情况，请确保 lazer 数据文件夹和先前安装的 osu! 文件夹，在相同的逻辑驱动器内（即盘符完全一致，且使用 NTFS 文件系统）。</value>
+    <value>在导入时会复制并生成第二份文件。如果你想避免这种情况，请确保 g0v0 数据文件夹和先前安装的 osu! 文件夹，在相同的逻辑驱动器内（即盘符完全一致，且使用 NTFS 文件系统）。</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>在导入时会复制并生成第二份文件。如果你想避免这种情况，请确保 lazer 数据文件夹和先前安装的 osu! 文件夹，在相同的逻辑驱动器内（即盘符完全一致，且文件系统支持硬链接）。</value>
+    <value>在导入时会复制并生成第二份文件。如果你想避免这种情况，请确保 g0v0 数据文件夹和先前安装的 osu! 文件夹，在相同的逻辑驱动器内（即盘符完全一致，且文件系统支持硬链接）。</value>
   </data>
 </root>

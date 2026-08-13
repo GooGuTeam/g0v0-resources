@@ -62,7 +62,7 @@
     <value>Přehrát další skladbu automaticky</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rytmus je na dosah jen jednoho *kliknutí*! Spolu s Ouendan/EBA, Taikem, originálními herními módy a také plně funkčním level editorem.</value>
+    <value>g0v0! - Svobodný a otevřený rytmický zážitek! Spolu s Ouendan/EBA, Taikem, originálními herními módy a také plně funkčním level editorem.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -191,7 +191,7 @@
     <value>Seznam beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Stáhnout osu!</value>
+    <value>Stáhnout g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Nápověda &amp; Komunita</value>
@@ -311,7 +311,7 @@
     <value>Stáhnout</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Stáhněte si osu! pro vytvoření vlastního účtu!</value>
+    <value>Stáhněte si g0v0! pro vytvoření vlastního účtu!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Nemáte účet?</value>
@@ -326,10 +326,10 @@
     <value>Přátelé</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer režim</value>
+    <value>g0v0! režim</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer režim zobrazuje skóre zahraná na lazeru s novým skórovacím algoritmem</value>
+    <value>g0v0! režim zobrazuje skóre zahraná na g0v0!u s novým skórovacím algoritmem</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Odhlásit se</value>

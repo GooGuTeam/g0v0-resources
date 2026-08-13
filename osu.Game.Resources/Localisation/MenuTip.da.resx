@@ -124,9 +124,6 @@
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>Ctrl-Enter ved sangvalgt for at starte et beatmap i automatisk afspilningstilstand!</value>
   </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>"Lazer" er ikke et engelsk ord. Den korrekte stavemåde for det skarpe lys er "laser".</value>
-  </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>Understøttelse af flere tråde betyder at selv ved lav "FPS" kan dit input og vurderinger være præcise!</value>
   </data>

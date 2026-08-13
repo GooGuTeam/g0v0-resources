@@ -62,7 +62,7 @@
     <value>自动播放下一首</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - 节奏跃然指上！内含来自「押忍！战斗应援团」、「精英节拍特工」、「太鼓达人」及原创的 osu! 游戏玩法，更有全功能谱面编辑器等你来创作。</value>
+    <value>g0v0! - 自由开放的节奏体验！内含来自「押忍！战斗应援团」、「精英节拍特工」、「太鼓达人」及原创的 g0v0! 游戏玩法，更有全功能谱面编辑器等你来创作。</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>谱面集</value>
@@ -191,7 +191,7 @@
     <value>谱面列表</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>下载 osu!</value>
+    <value>下载 g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>帮助 &amp; 社区</value>
@@ -311,7 +311,7 @@
     <value>下载</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>立刻下载 osu! 并且注册账号吧！</value>
+    <value>立刻下载 g0v0! 并且注册账号吧！</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>没有账号？</value>
@@ -329,10 +329,10 @@
     <value>好友</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer 模式</value>
+    <value>g0v0! 模式</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer 模式使用来自 Lazer 客户端的新记分算法显示您的成绩</value>
+    <value>g0v0! 模式使用来自 g0v0! 客户端的新记分算法显示您的成绩</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>登出</value>

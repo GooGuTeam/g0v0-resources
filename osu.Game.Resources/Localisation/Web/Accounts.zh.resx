@@ -143,7 +143,7 @@
     <value>更新</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>如果你是 osu! 开源仓库的贡献者，在这里填写你 GitHub 的账号，可以将你的更新日志条目与 osu! 个人主页绑定起来。如果 GitHub 账号没有历史提交记录，则无法绑定。</value>
+    <value>如果你是 g0v0! 开源仓库的贡献者，在这里填写你 GitHub 的账号，可以将你的更新日志条目与 g0v0! 个人主页绑定起来。如果 GitHub 账号没有历史提交记录，则无法绑定。</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>绑定 GitHub 账号</value>
@@ -158,7 +158,7 @@
     <value>这个 GitHub 账号已经绑定到另一个玩家账号上。</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>无法绑定在 osu! 仓库中没有任何贡献记录的 GitHub 账号。</value>
+    <value>无法绑定在 g0v0! 仓库中没有任何贡献记录的 GitHub 账号。</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>请在你 GitHub 账号的首选邮箱中完成验证，然后重新绑定账号。</value>
@@ -305,7 +305,7 @@
     <value>隐藏在线状态</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>将同步到 osu!lazer 的隐身模式</value>
+    <value>将同步到 g0v0! 的隐身模式</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>隐私</value>

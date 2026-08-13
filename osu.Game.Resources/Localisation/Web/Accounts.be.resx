@@ -143,7 +143,7 @@
     <value>абнавіць</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Калі вы ўносіце ўклад у рэпазітар osu!, падлучэнне акаўнта GitHub дазволіць звязаць ваш нік у спісе змен з профілем osu!. Акаўнт GitHub без укладу ў osu! падлучыць нельга.</value>
+    <value>Калі вы ўносіце ўклад у рэпазітар g0v0!, падлучэнне акаўнта GitHub дазволіць звязаць ваш нік у спісе змен з профілем g0v0!. Акаўнт GitHub без укладу ў g0v0! падлучыць нельга.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Падключыць акаўнт GitHub</value>
@@ -158,7 +158,7 @@
     <value>Гэты акаўнт GitHub ужо звязаны з іншым карыстальнікам.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Немагчыма звязаць уліковы запіс GitHub без гісторыі ўкладаў у рэпазітары osu!.</value>
+    <value>Немагчыма звязаць уліковы запіс GitHub без гісторыі ўкладаў у рэпазітары g0v0!.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Калі ласка, пацвердзіце сваю асноўную электронную пошту на GitHub, потым паспрабуйце звязаць свой уліковы запіс яшчэ раз.</value>

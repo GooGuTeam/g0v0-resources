@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>σφάλμα osu! αποθηκευτικού χώρου</value>
+    <value>σφάλμα g0v0! αποθηκευτικού χώρου</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Η καθορισμένη θέση osu! δεδομένων ("{0}") δεν είναι προσβάσιμη. Αν είναι σε εξωτερικό χώρο αποθήκευσης, παρακαλώ επανασύνδεσε τη συσκευή και προσπάθησε ξανά.</value>
+    <value>Η καθορισμένη θέση g0v0! δεδομένων ("{0}") δεν είναι προσβάσιμη. Αν είναι σε εξωτερικό χώρο αποθήκευσης, παρακαλώ επανασύνδεσε τη συσκευή και προσπάθησε ξανά.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>Η καθορισμένη θέση osu! δεδομένων ("{0}") είναι κενή. Αν έχεις μετακινήσει τα αρχεία, παρακαλώ κλείσε το osu! και μετακίνησε τα πίσω.</value>
+    <value>Η καθορισμένη θέση g0v0! δεδομένων ("{0}") είναι κενή. Αν έχεις μετακινήσει τα αρχεία, παρακαλώ κλείσε το g0v0! και μετακίνησε τα πίσω.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Προσπαθήστε ξανά</value>

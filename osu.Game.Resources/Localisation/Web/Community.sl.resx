@@ -62,7 +62,7 @@
     <value>Sem zainteresiran! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>podpri osu!</value>
+    <value>podpri g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>ali podari supporter drugemu igralcu</value>
@@ -71,13 +71,13 @@
     <value>klikni na srce za nadaljevanje v osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Zakaj bi podprl osu!? Kam gre donirani denar?</value>
+    <value>Zakaj bi podprl g0v0!? Kam gre donirani denar?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Podpri Ekipo</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Majhna ekipa razvija in poganja osu!. Tvoja podpora pomaga njim, saj veste... živeti.</value>
+    <value>Majhna ekipa razvija in poganja g0v0!. Tvoja podpora pomaga njim, saj veste... živeti.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infrastruktura Strežnika</value>
@@ -89,13 +89,13 @@
     <value>Predstavljeni Ustvarjalci</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>S tvojo podporo se lahko približamo še bolj super ustvarjalcem in licensiramo več super glasbe za uporabo v osu!</value>
+    <value>S tvojo podporo se lahko približamo še bolj super ustvarjalcem in licensiramo več super glasbe za uporabo v g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Poglej trenutni seznam &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Ohrani osu!, da bo ostal samooskrben</value>
+    <value>Ohrani g0v0!, da bo ostal samooskrben</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Tvoji prispevki pomagajo igro ohraniti samostojno in popolnoma brez oglasov in zunanjih sponzorjev.</value>
@@ -113,7 +113,7 @@
     <value>Odprtokodni Program Nagrad</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Podpri prostovoljce skupnosti, ki so dali svoj čas in trud, da postane osu! boljši.</value>
+    <value>Podpri prostovoljce skupnosti, ki so dali svoj čas in trud, da postane g0v0! boljši.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Izvedi več &amp;raquo;</value>

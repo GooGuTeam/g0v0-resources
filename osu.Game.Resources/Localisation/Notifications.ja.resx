@@ -80,7 +80,7 @@
     <value>現在のルールセットにオートプレイmodはありません！</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu!はオーディオを正しく再生できないようです。
+    <value>g0v0!はオーディオを正しく再生できないようです。
 
 お使いのオーディオデバイスを動作中の設定に変更してみてください。</value>
   </data>
@@ -121,7 +121,7 @@
     <value>このリプレイのビートマップのローカルコピーが通常とは異なっているようです。更新するか、再ダウンロードする必要があるかもしれません。</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>現在、osu! {0}を実行しています。
+    <value>現在、g0v0! {0}を実行しています。
 クリックして新着情報を確認してください!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

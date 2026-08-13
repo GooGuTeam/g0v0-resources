@@ -80,7 +80,7 @@
     <value>Mevcut kural setinde otomatik oynatma modu mevcut değil!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! sesi doğru şekilde çalamıyor gibi görünüyor.\n\nLütfen ses cihazınızı çalışan bir ayara değiştirmeyi deneyin.</value>
+    <value>g0v0! sesi doğru şekilde çalamıyor gibi görünüyor.\n\nLütfen ses cihazınızı çalışan bir ayara değiştirmeyi deneyin.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>Skor arayüzü şu anda devre dışıdır. Bunu {0} tuşuna basarak değiştirebilirsiniz.</value>
@@ -113,7 +113,7 @@
     <value>Bu geri oynatım için olan beatmap'in yerel kopyası, beklenenden farklı çıktı. Güncellemeniz veya tekrar yüklemeniz gerekebilir.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Şu anda osu!'nun {0} sürümündesin.
+    <value>Şu anda g0v0!'nun {0} sürümündesin.
 Yenilikleri görmek için tıkla!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -138,7 +138,7 @@ Yenilikleri görmek için tıkla!</value>
     <value>Çevrimdışı: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>Çevrimiçi servislerde bağlantı kesildi. osu! sınırlı işlevlerle çalışacak.</value>
+    <value>Çevrimiçi servislerde bağlantı kesildi. g0v0! sınırlı işlevlerle çalışacak.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Hesabınıza başka bir cihazdan giriş yapıldığı için bu cihazda hesabınızdan çıkış yapıldı.</value>
@@ -165,13 +165,13 @@ Yenilikleri görmek için tıkla!</value>
     <value>Bu hata otomatik olarak geliştiricilere bildirildi.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>osu!'nun daha yeni bir sürümü bulundu ({0} → {1})</value>
+    <value>g0v0!'nun daha yeni bir sürümü bulundu ({0} → {1})</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Yeni sürümü indirmek için tıklayın. Varolan yüklemenizin üzerine yüklenecektir.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>osu!'yu güncellemek için paket yöneticisini / sağlayıcısını kontrol edin!</value>
+    <value>g0v0!'yu güncellemek için paket yöneticisini / sağlayıcısını kontrol edin!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>Bir diyalog görüntülendiği için bir işlem yarıda kesildi.</value>
@@ -189,10 +189,10 @@ Yenilikleri görmek için tıkla!</value>
     <value>Günlükler dışarı aktarıldı! Görüntülemek için tıklayın</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>osu!'yu {0} olarak çalıştırmak performansı iyileştırmez, entegrasyonları bozabilir ve güvenlik riski oluşturur. Lütfen oyunu normal kullanıcı olarak çalıştırın.</value>
+    <value>g0v0!'yu {0} olarak çalıştırmak performansı iyileştırmez, entegrasyonları bozabilir ve güvenlik riski oluşturur. Lütfen oyunu normal kullanıcı olarak çalıştırın.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>macOS’ta osu!’yu /Applications veya {0}/Applications dışındaki bir dizine kurmak, oyunu güncellerken sorunlara yol açabilir. Lütfen oyun kurulumunu bu konumlardan birine taşı.</value>
+    <value>macOS’ta g0v0!’yu /Applications veya {0}/Applications dışındaki bir dizine kurmak, oyunu güncellerken sorunlara yol açabilir. Lütfen oyun kurulumunu bu konumlardan birine taşı.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Ekran görüntüsü kaydedildi! Görüntülemek için tıklayın.

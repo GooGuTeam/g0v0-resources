@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>代わりにosu!で遊んでみてはどうですか？</value>
+    <value>代わりにg0v0!で遊んでみてはどうですか？</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>続行するにはログインが必要です。</value>
@@ -332,7 +332,7 @@
     <value>自分のユーザーページのみ編集できます。</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>osu!サポータータグが必要です。</value>
+    <value>g0v0!サポータータグが必要です。</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>メールアドレスがロックされています</value>

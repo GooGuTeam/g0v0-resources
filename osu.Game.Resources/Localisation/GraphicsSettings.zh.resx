@@ -146,7 +146,7 @@
     <value>游戏将关闭以应用渲染器修改，请重新启动游戏。</value>
   </data>
   <data name="minimise_on_focus_loss" xml:space="preserve">
-    <value>切换到其他应用时最小化 osu!</value>
+    <value>切换到其他应用时最小化 g0v0!</value>
   </data>
   <data name="shrink_game_to_safe_area" xml:space="preserve">
     <value>缩小游戏画面以避免被摄像头或屏幕刘海遮挡</value>

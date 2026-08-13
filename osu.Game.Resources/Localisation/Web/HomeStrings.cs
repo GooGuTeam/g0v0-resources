@@ -45,9 +45,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString LandingSloganMain => new TranslatableString(getKey(@"landing.slogan.main"), @"the bestest free-to-win rhythm game");
 
         /// <summary>
-        /// "rhythm is just a click away"
+        /// "Free and open rhythm experience!"
         /// </summary>
-        public static LocalisableString LandingSloganSub => new TranslatableString(getKey(@"landing.slogan.sub"), @"rhythm is just a click away");
+        public static LocalisableString LandingSloganSub => new TranslatableString(getKey(@"landing.slogan.sub"), @"Free and open rhythm experience!");
 
         /// <summary>
         /// "Advanced search"
@@ -425,14 +425,14 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UserBeatmapsResets(LocalisableString ends) => new TranslatableString(getKey(@"user.beatmaps.resets"), @"resets {0}", ends);
 
         /// <summary>
-        /// "Download osu!"
+        /// "Download g0v0!"
         /// </summary>
-        public static LocalisableString UserButtonsDownload => new TranslatableString(getKey(@"user.buttons.download"), @"Download osu!");
+        public static LocalisableString UserButtonsDownload => new TranslatableString(getKey(@"user.buttons.download"), @"Download g0v0!");
 
         /// <summary>
-        /// "Support osu!"
+        /// "Support g0v0!"
         /// </summary>
-        public static LocalisableString UserButtonsSupport => new TranslatableString(getKey(@"user.buttons.support"), @"Support osu!");
+        public static LocalisableString UserButtonsSupport => new TranslatableString(getKey(@"user.buttons.support"), @"Support g0v0!");
 
         /// <summary>
         /// "osu!store"

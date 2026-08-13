@@ -170,7 +170,7 @@
     <value>Ja tu nepieprasīji atcelšanu, lūdzu sazināties ar {0} citējot savu pasūtIjuma nummuru (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!veikala atbalsts</value>
+    <value>g0v0!veikala atbalsts</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Tavs pasūtījums tika piegādāts! Mēc ceram, ka tu to izbaudi!</value>
@@ -179,7 +179,7 @@
     <value>Ja tev ir jebkādas problēmas ar savu pasūtījmu, lūdzam sazināties ar {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!veikala atbalsts</value>
+    <value>g0v0!veikala atbalsts</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Jūsu pasūtījums tiek sagatavots!</value>

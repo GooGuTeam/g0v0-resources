@@ -74,7 +74,7 @@
     <value>LEIA ISTO ANTES DE TRANSFERIR</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Instalação: Assim que um pacote for transferido, extraia o seu conteúdo para a pasta Songs do osu! e o jogo tratará do resto.</value>
+    <value>Instalação: Assim que um pacote for transferido, extraia o seu conteúdo para a pasta Songs do g0v0! e o jogo tratará do resto.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>criado por {0}</value>

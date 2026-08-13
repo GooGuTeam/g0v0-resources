@@ -119,7 +119,7 @@
     <value>解除封鎖</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>贈送 osu! 贊助者標籤</value>
+    <value>贈送 g0v0! 贊助者標籤</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>載入中...</value>
@@ -233,7 +233,7 @@
     <value>Beta 版僅限於特定使用者存取</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!贊助者將在不久後開放)</value>
+    <value>(g0v0!贊助者將在不久後開放)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>活躍中</value>
@@ -353,10 +353,10 @@
     <value>元老玩家</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu! 開發者</value>
+    <value>g0v0! 開發者</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu! 贊助者</value>
+    <value>g0v0! 贊助者</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>註冊時間：{0}</value>
@@ -464,7 +464,7 @@
     <value>僅有 {0} 可上傳自訂圖片</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu! 贊助者</value>
+    <value>g0v0! 贊助者</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>預設遊戲模式</value>
@@ -473,7 +473,7 @@
     <value>設定 {0} 為個人檔案預設的遊戲模式</value>
   </data>
   <data name="show.edit.hue.reset_no_supporter" xml:space="preserve">
-    <value>重設顏色？改變顏色將會需要 osu! 贊助者。</value>
+    <value>重設顏色？改變顏色將會需要 g0v0! 贊助者。</value>
   </data>
   <data name="show.edit.hue.title" xml:space="preserve">
     <value>顏色</value>
@@ -482,7 +482,7 @@
     <value>自訂色彩主題只對 {0} 開放</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu! 贊助者</value>
+    <value>g0v0! 贊助者</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>無</value>
@@ -800,7 +800,7 @@
     <value>你需要成為一個 {0} 解鎖此功能。</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu! 贊助者</value>
+    <value>g0v0! 贊助者</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>發表 {0}</value>
@@ -899,7 +899,7 @@
     <value>請透過遊戲客戶端註冊!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>請於osu!網站完成註冊</value>
+    <value>請於g0v0!網站完成註冊</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>帳號已註冊</value>

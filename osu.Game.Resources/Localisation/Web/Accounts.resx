@@ -149,7 +149,7 @@
     <value>update</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>If you're a contributor to osu!'s open-source repositories, linking your GitHub account here will associate your changelog entries with your osu! profile. GitHub accounts with no contribution history to osu! cannot be linked.</value>
+    <value>If you're a contributor to g0v0!'s open-source repositories, linking your GitHub account here will associate your changelog entries with your g0v0! profile. GitHub accounts with no contribution history to g0v0! cannot be linked.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Link GitHub Account</value>
@@ -164,7 +164,7 @@
     <value>This GitHub account is already linked to a different user.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Cannot link GitHub account without any contribution history in osu! repositories.</value>
+    <value>Cannot link GitHub account without any contribution history in g0v0! repositories.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Please verify your primary email on GitHub, then try linking your account again.</value>
@@ -311,7 +311,7 @@
     <value>hide your online presence</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>this maps to the "appear offline" mode in osu!lazer</value>
+    <value>this maps to the "appear offline" mode in g0v0!</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Privacy</value>

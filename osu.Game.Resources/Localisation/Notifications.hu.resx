@@ -80,7 +80,7 @@
     <value>A jelenlegi ruleszet nem rendelkezik automatikus lejátszási móddal!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! úgy tűnik, hogy nem tudja megfelelően lejátszani a hangot.\n\nKérjük, módosítsa az audioeszközt működő beállításra.</value>
+    <value>g0v0! úgy tűnik, hogy nem tudja megfelelően lejátszani a hangot.\n\nKérjük, módosítsa az audioeszközt működő beállításra.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>A pontszámfedvény jelenleg le van tiltva. Ezt a {0} gomb megnyomásával válthatod.</value>
@@ -119,7 +119,7 @@
     <value>A beatmap helyi változata ehhez a visszajátszáshoz más, mint elvárt. Lehet, hogy frissítened vagy újra le kell töltened.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Mostantól osu! {0} futtatod.
+    <value>Mostantól g0v0! {0} futtatod.
 Kattints, hogy lásd az újdonságokat!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

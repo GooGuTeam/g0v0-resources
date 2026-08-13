@@ -68,7 +68,7 @@
     <value>Configurare de început</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Configurează osu! după preferințele tale</value>
+    <value>Configurează g0v0! după preferințele tale</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Bine ai venit</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Bine ai venit la ghidul de configurare de început!
 
-osu! este un joc foarte configurabil, iar descoperirea setărilor poate fi uneori copleșitoare. Acest ghid te va ajuta să faci alegerile corecte pentru a asigura o experiență grozavă de început!</value>
+g0v0! este un joc foarte configurabil, iar descoperirea setărilor poate fi uneori copleșitoare. Acest ghid te va ajuta să faci alegerile corecte pentru a asigura o experiență grozavă de început!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>Dimensiunea interfeței de utilizator osu! poate fi ajustată după preferințele tale.</value>
+    <value>Dimensiunea interfeței de utilizator g0v0! poate fi ajustată după preferințele tale.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Comportament</value>
@@ -87,7 +87,7 @@ osu! este un joc foarte configurabil, iar descoperirea setărilor poate fi uneor
   <data name="behaviour_description" xml:space="preserve">
     <value>Au fost puse în aplicare unele noi valori implicite pentru comportamentul jocurilor, cu scopul de a îmbunătăți experiența jocului și de a o face mai accesibilă tuturor.
 
-Vă recomandăm să încercați noile valori implicite, dar dacă doriți ca lucrurile să se simtă mai degrabă ca versiunile clasice de osu! poți aplica cu ușurință niște valori implicite normale mai jos.</value>
+Vă recomandăm să încercați noile valori implicite, dar dacă doriți ca lucrurile să se simtă mai degrabă ca versiunile clasice de g0v0! poți aplica cu ușurință niște valori implicite normale mai jos.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Valori implicite noi</value>

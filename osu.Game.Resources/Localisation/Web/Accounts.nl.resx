@@ -143,7 +143,7 @@
     <value>bijwerken</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Als je een bijdrager bent aan osu!'s open-source repositories, door het koppelen van je GitHub account hier zal je changelog items koppelen aan je osu! profiel. GitHub accounts zonder bijdrage geschiedenis aan osu! kunnen niet worden gekoppeld.</value>
+    <value>Als je een bijdrager bent aan g0v0!'s open-source repositories, door het koppelen van je GitHub account hier zal je changelog items koppelen aan je g0v0! profiel. GitHub accounts zonder bijdrage geschiedenis aan g0v0! kunnen niet worden gekoppeld.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>GitHub-account koppelen</value>
@@ -158,7 +158,7 @@
     <value>Dit GitHub account is al gekoppeld aan een andere gebruiker.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Kan GitHub account niet koppelen zonder bijdragegeschiedenis in osu! repositories.</value>
+    <value>Kan GitHub account niet koppelen zonder bijdragegeschiedenis in g0v0! repositories.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Verifieer je primaire e-mailadres op GitHub, probeer dan je account opnieuw te koppelen.</value>
@@ -299,7 +299,7 @@
     <value>verberg je online aanwezigheid</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>Deze maps naar de "verschijnen offline" in osu!lazer</value>
+    <value>Deze maps naar de "verschijnen offline" in g0v0!</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Privacy</value>

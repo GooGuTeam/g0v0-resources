@@ -62,7 +62,7 @@
     <value>בודק יכולות מסך מלא...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! כרגע רץ במצב מסך מלא בלעדי, דבר המבטיח עיכוב זמן נמוך!</value>
+    <value>g0v0! כרגע רץ במצב מסך מלא בלעדי, דבר המבטיח עיכוב זמן נמוך!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>אין יכולת לרוץ במצב מסך מלא בלעדי. ייתכן ותחוו מעט עיכוב זמן.</value>

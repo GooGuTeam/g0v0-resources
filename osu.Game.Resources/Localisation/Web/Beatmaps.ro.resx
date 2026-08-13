@@ -500,7 +500,7 @@
     <value>Mai multe opțiuni de căutare</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Trebuie să fii un suporter osu! pentru a putea filtra prin {0}</value>
+    <value>Trebuie să fii un suporter g0v0! pentru a putea filtra prin {0}</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>niciun rezultat</value>
@@ -569,7 +569,7 @@
     <value>Ai nevoie de un {0} activ pentru a filtra prin {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>status de suporter osu!</value>
+    <value>status de suporter g0v0!</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Include beatmap-uri convertite</value>

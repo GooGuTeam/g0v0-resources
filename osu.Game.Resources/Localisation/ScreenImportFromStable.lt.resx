@@ -89,9 +89,9 @@
     <value>Paprastieji failų susiejimai nėra palaikomi jusų operacinėje sistemoje, dėl to importuojant bus sukurta visų failų kopija.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Importavimo metu bus sukurta antra visų failų kopija. Kad išvengti šito, užtikrinkite kad lazer duomenų aplanklas yra tame pačiame diske kaip ir jūsų ankstesnis osu! diegimas (ir failų sistema yra NTFS).</value>
+    <value>Importavimo metu bus sukurta antra visų failų kopija. Kad išvengti šito, užtikrinkite kad g0v0 duomenų aplanklas yra tame pačiame diske kaip ir jūsų ankstesnis osu! diegimas (ir failų sistema yra NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Importavimo metu bus sukurta antra visų failų kopija. Kad išvengti šito, užtikrinkite kad lazer duomenų aplanklas yra tame pačiame diske kaip ir jūsų ankstesnis osu! diegimas (ir failų sistema palaiko kietąsias nuorodas).</value>
+    <value>Importavimo metu bus sukurta antra visų failų kopija. Kad išvengti šito, užtikrinkite kad g0v0 duomenų aplanklas yra tame pačiame diske kaip ir jūsų ankstesnis osu! diegimas (ir failų sistema palaiko kietąsias nuorodas).</value>
   </data>
 </root>

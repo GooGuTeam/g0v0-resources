@@ -80,7 +80,7 @@
     <value>เกมดนตรีเล่นฟรีที่เริศที่สุดในสามโลก</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>จังหวะเป็นเพียงไม่กี่คลิก</value>
+    <value>ประสบการณ์จังหวะที่เสรีและเปิดกว้าง!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>การค้นหาขั้นสูง</value>
@@ -224,7 +224,7 @@
     <value>คู่มือการใช้งานเริ่มต้น</value>
   </data>
   <data name="download.stable_text" xml:space="preserve">
-    <value>หากคุณกำลังหา osu! แบบเก่าอยู่</value>
+    <value>หากคุณกำลังหา g0v0! แบบเก่าอยู่</value>
   </data>
   <data name="download.tagline_1" xml:space="preserve">
     <value>งั้นก็</value>
@@ -308,13 +308,13 @@
     <value>รีเซ็ต {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>ดาวน์โหลด osu!</value>
+    <value>ดาวน์โหลด g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>สนับสนุน osu!</value>
+    <value>สนับสนุน g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!ร้านค้า</value>
+    <value>g0v0!ร้านค้า</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>ไลฟ์สตรีมแนะนำ</value>

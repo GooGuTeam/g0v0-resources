@@ -59,10 +59,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="empty.active" xml:space="preserve">
-    <value>目前沒有任何進行中的 osu!(lazer) {0} 遊戲！</value>
+    <value>目前沒有任何進行中的 g0v0! {0} 遊戲！</value>
   </data>
   <data name="empty.ended" xml:space="preserve">
-    <value>不在任何已結束的 osu!(lazer) {0} 遊戲內！</value>
+    <value>不在任何已結束的 g0v0! {0} 遊戲內！</value>
   </data>
   <data name="empty.playlists" xml:space="preserve">
     <value>歌單</value>

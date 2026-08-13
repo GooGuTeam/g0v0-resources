@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>不如馬上玩點 osu! 吧？</value>
+    <value>不如馬上玩點 g0v0! 吧？</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>登入以繼續。</value>
@@ -332,7 +332,7 @@
     <value>只能編輯自己的個人頁面。</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>需要成為 osu! 贊助者。</value>
+    <value>需要成為 g0v0! 贊助者。</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>電子郵件地址已鎖定</value>

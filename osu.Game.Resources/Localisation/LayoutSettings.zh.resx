@@ -62,7 +62,7 @@
     <value>正在检查全屏模式兼容性...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! 正运行在全屏独占模式下，您可以享受到低延迟的游戏体验！</value>
+    <value>g0v0! 正运行在全屏独占模式下，您可以享受到低延迟的游戏体验！</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>无法开启全屏独占模式。您在游玩时可能会感知到输入延迟。</value>

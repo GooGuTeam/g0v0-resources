@@ -539,7 +539,7 @@
     <value>prośbą o nową funkcjonalność</value>
   </data>
   <data name="topics.show.feature_vote.info.supporters" xml:space="preserve">
-    <value>donatorzy osu!</value>
+    <value>donatorzy g0v0!</value>
   </data>
   <data name="topics.show.feature_vote.user.count" xml:space="preserve">
     <value>{0} 0 głosów|{1} {0} głos|[2,4] {0} głosy|{5,*} {0} głosów</value>

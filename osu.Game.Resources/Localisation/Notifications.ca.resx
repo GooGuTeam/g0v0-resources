@@ -80,7 +80,7 @@
     <value>El ruleset actual no té un mod de joc automàtic disponible!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>Sembla que l'osu! no pot reproduir l'àudio correctament.\n\nIntenteu canviar la configuració del dispositiu d'àudio.</value>
+    <value>Sembla que l'g0v0! no pot reproduir l'àudio correctament.\n\nIntenteu canviar la configuració del dispositiu d'àudio.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>La superposició de puntuacions està actualment deshabilitada. Podeu commutar-ho prement {0}.</value>
@@ -113,7 +113,7 @@
     <value>La teva còpia local del mapa per a aquesta repetició sembla ser diferent del que s'esperava. És possible que hagis d'actualitzar-lo o tornar-lo a baixar.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Estàs executant osu! {0}.
+    <value>Estàs executant g0v0! {0}.
 Fes clic per veure que hi ha de nou!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -141,7 +141,7 @@ Fes clic per veure que hi ha de nou!</value>
     <value>Desconnectat: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>La connexió al servidor online s'ha interrumput. osu! funcionarà amb funcions limitades.</value>
+    <value>La connexió al servidor online s'ha interrumput. g0v0! funcionarà amb funcions limitades.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Has estat desconectat en aquest dispositiu a causa d'un inici de sessió a un altre dispositiu.</value>
@@ -168,13 +168,13 @@ Fes clic per veure que hi ha de nou!</value>
     <value>Aquest error s'ha enviat automàticament a l'equip de desenvolupadors.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>S'ha trobat una versió nova de l'osu! ({0}→{1}).</value>
+    <value>S'ha trobat una versió nova de l'g0v0! ({0}→{1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Feu clic aquí per a descarregar la nova versió, que es pot instal·lar a sobre de la versió existent.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Comproveu el vostre gestor de paquets per a actualitzar l'osu!</value>
+    <value>Comproveu el vostre gestor de paquets per a actualitzar l'g0v0!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>S'ha interromput una acció perquè es mostrava un diàleg.</value>
@@ -192,10 +192,10 @@ Fes clic per veure que hi ha de nou!</value>
     <value>Registres exportats! Feu-hi clic per a veure'ls.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>L'execució de l'osu! com a {0} no millora el rendiment, pot trencar integracions i suposa un risc de seguretat. Executeu el joc com a usuari normal.</value>
+    <value>L'execució de l'g0v0! com a {0} no millora el rendiment, pot trencar integracions i suposa un risc de seguretat. Executeu el joc com a usuari normal.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>Al macOS, si s'instal·la l'osu! en una carpeta diferent de /Applications or {0}/Applications pot provocar problemes amb les actualitzacions del joc. Moveu la instal·lació del joc a un d'aquests llocs.</value>
+    <value>Al macOS, si s'instal·la l'g0v0! en una carpeta diferent de /Applications or {0}/Applications pot provocar problemes amb les actualitzacions del joc. Moveu la instal·lació del joc a un d'aquests llocs.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Captura de pantalla guardada! Feu-hi clic per a veure-la.

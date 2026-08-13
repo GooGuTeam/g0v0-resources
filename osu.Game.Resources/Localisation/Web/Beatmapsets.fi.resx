@@ -68,7 +68,7 @@
     <value>Klikkaa nähdäksesi lisätietoja.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Osa tämän rytmikartan sisältämistä resursseista on poistettu, koska on katsottu, että ne eivät sovi osu!ssa käytettäväksi.</value>
+    <value>Osa tämän rytmikartan sisältämistä resursseista on poistettu, koska on katsottu, että ne eivät sovi g0v0!ssa käytettäväksi.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Poistettu rytmikartta</value>
@@ -332,7 +332,7 @@
     <value>Klikkaa &lt;a href="{0}"&gt;tästä&lt;/a&gt; nähdäksesi kaikki hienot ominaisuudet mitä saat!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Sinun täytyy olla osu!n tukija nähdäksesi kaveri-, maa- ja muunnelmakohtaiset sijoitukset!</value>
+    <value>Sinun täytyy olla g0v0!n tukija nähdäksesi kaveri-, maa- ja muunnelmakohtaiset sijoitukset!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Tiimin Sijoitukset</value>

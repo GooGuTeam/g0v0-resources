@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Kā būtu, ja tā vietā tu nedaudz paspēlētu osu!?</value>
+    <value>Kā būtu, ja tā vietā tu nedaudz paspēlētu g0v0!?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Lūdzu, pieraksties, lai turpinātu.</value>
@@ -323,7 +323,7 @@
     <value>Nav komandas dalībnieks.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>osu!atbalsītājs ir nepieciešams, lai izveidotu komandu.</value>
+    <value>g0v0!atbalsītājs ir nepieciešams, lai izveidotu komandu.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>Lietotāja lapa ir slēgta.</value>
@@ -332,7 +332,7 @@
     <value>Rediģēt var tikai savu lietotāja lapu.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>osu!atbalsītājs ir nepieciešams.</value>
+    <value>g0v0!atbalsītājs ir nepieciešams.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>e-pasta adrese ir slēgta</value>

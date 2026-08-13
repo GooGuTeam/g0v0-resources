@@ -170,7 +170,7 @@
     <value>Ако не сте заявили отмяна, молим да се свържете с {0} като съобщите вашия номер на поръчка (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>поддръжката на osu!магазин</value>
+    <value>поддръжката на g0v0!магазин</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Поръчката ви беше доставена! Надяваме се че и се радвате!</value>
@@ -179,7 +179,7 @@
     <value>При затруднения с вашите поръчки, моля свържете се с {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>поддръжката на osu!магазин</value>
+    <value>поддръжката на g0v0!магазин</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Поръчката ви се подготвя!</value>

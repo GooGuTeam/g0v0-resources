@@ -62,13 +62,13 @@
     <value>אני משוכנע! D:</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>תמוך ב- osu!</value>
+    <value>תמוך ב- g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>או תרום מתנה לשחקנים אחרים</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>לחץ על כפתור הלב כדי להמשיך לחנות osu!</value>
+    <value>לחץ על כפתור הלב כדי להמשיך לחנות g0v0!</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
     <value>למה כדאי לנו לתמוך באוסו?! לאן כל הכסף שלנו הולך?</value>
@@ -89,13 +89,13 @@
     <value>אמנים מומלצים</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>בזכות תרומתך, אנו יכולים לקבל יותר רשיונות לשירים ולגייס יותר יוצרי תוכן על מנת שימושם ב !osu</value>
+    <value>בזכות תרומתך, אנו יכולים לקבל יותר רשיונות לשירים ולגייס יותר יוצרי תוכן על מנת שימושם ב !g0v0</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>צפה בצוות הנוכחי&amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>השאר את !osu בתור פרויקט עצמי</value>
+    <value>השאר את !g0v0 בתור פרויקט עצמי</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>תרומתך עוזרת למשחק להמשיך להתקיים מבלי ספונסרים ופרסומות חוץ.</value>

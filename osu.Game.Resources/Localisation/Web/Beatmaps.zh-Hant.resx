@@ -500,7 +500,7 @@
     <value>更多搜尋選項</value>
   </data>
   <data name="listing.search.rank_filter_note" xml:space="preserve">
-    <value>個人資料的最佳評分數和該頁面上顯示的成績是根據你在圖譜上取得的最高 "標準化" (又稱為 "lazer") 分數來決定的。</value>
+    <value>個人資料的最佳評分數和該頁面上顯示的成績是根據你在圖譜上取得的最高 "標準化" (又稱為 "g0v0!") 分數來決定的。</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
     <value>使用 {0} 進行篩選需要有效的 osu!supporter 標籤</value>
@@ -572,7 +572,7 @@
     <value>使用 {0} 進行篩選需要有效的 {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu! 贊助者標籤</value>
+    <value>g0v0! 贊助者標籤</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>搜尋玩家標籤</value>

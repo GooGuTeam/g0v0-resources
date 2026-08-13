@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>osu! krātuves kļūda</value>
+    <value>g0v0! krātuves kļūda</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Norādītā osu! datu atrašanās vieta ("{0}") nav pieejama. Ja tā atrodas ārējā krātuvē, lūdzu, atkārtoti pievienojiet ierīci un mēģiniet vēlreiz.</value>
+    <value>Norādītā g0v0! datu atrašanās vieta ("{0}") nav pieejama. Ja tā atrodas ārējā krātuvē, lūdzu, atkārtoti pievienojiet ierīci un mēģiniet vēlreiz.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>Norādītā osu! datu atrašanās vieta ("{0}") ir tukša. Ja esat pārvietojis failus, lūdzu, aizveriet osu! un pārvietojiet tos atpakaļ.</value>
+    <value>Norādītā g0v0! datu atrašanās vieta ("{0}") ir tukša. Ja esat pārvietojis failus, lūdzu, aizveriet g0v0! un pārvietojiet tos atpakaļ.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Mēģini vēlreiz</value>

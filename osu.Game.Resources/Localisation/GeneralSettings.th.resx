@@ -89,7 +89,7 @@
     <value>กำลังตรวจหาอัปเดต</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>เปิดโฟลเดอร์ osu!</value>
+    <value>เปิดโฟลเดอร์ g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>ส่งออก log</value>
@@ -100,12 +100,6 @@
   <data name="run_setup_wizard" xml:space="preserve">
     <value>เปิดตัวช่วยการตั้งค่า</value>
   </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>เรียนรู้เพิ่มเติมเกี่ยวกับ lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>ตรวจสอบการเปรียบเทียบคุณสมบัติและคำถามที่พบบ่อย</value>
-  </data>
   <data name="report_issue" xml:space="preserve">
     <value>รายงานปัญหา</value>
   </data>
@@ -113,7 +107,7 @@
     <value>รายงานปัญหากับผู้พัฒนา</value>
   </data>
   <data name="change_release_stream_package_warning" xml:space="preserve">
-    <value>โหลด osu! เวอร์ชั่นอื่นผ่านที่ที่คุณโหลดมา!</value>
+    <value>โหลด g0v0! เวอร์ชั่นอื่นผ่านที่ที่คุณโหลดมา!</value>
   </data>
   <data name="change_release_stream_confirmation" xml:space="preserve">
     <value>คุณแน่ใจหรือไม่ว่าจะใช้เวอร์ชั่นของเกมที่อาจจะไม่เสถียร?</value>

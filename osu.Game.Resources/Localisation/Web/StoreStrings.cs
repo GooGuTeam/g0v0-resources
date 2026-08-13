@@ -555,9 +555,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UsernameChangeRequireLoginLinkText => new TranslatableString(getKey(@"username_change.require_login.link_text"), @"signed in");
 
         /// <summary>
-        /// "Xsolla is an authorised&lt;br&gt;global distributor of osu!"
+        /// "Xsolla is an authorised&lt;br&gt;global distributor of g0v0!"
         /// </summary>
-        public static LocalisableString XsollaDistributor => new TranslatableString(getKey(@"xsolla.distributor"), @"Xsolla is an authorised<br>global distributor of osu!");
+        public static LocalisableString XsollaDistributor => new TranslatableString(getKey(@"xsolla.distributor"), @"Xsolla is an authorised<br>global distributor of g0v0!");
 
         private static string getKey(string key) => $@"{prefix}:{key}";
     }

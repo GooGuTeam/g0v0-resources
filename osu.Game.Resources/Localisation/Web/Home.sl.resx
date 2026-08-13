@@ -80,7 +80,7 @@
     <value>najboljša brezplačna ritmična igra</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>ritem je le en klik stran</value>
+    <value>Prosta in odprta ritmična izkušnja!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Napredno iskanje</value>
@@ -275,10 +275,10 @@
     <value>od {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Prenesi osu!</value>
+    <value>Prenesi g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Podpri osu!</value>
+    <value>Podpri g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
     <value>osu!store</value>

@@ -80,7 +80,7 @@
     <value>Ruleset-ul actual nu are un mod de redare automată valabil!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>Se pare că osu! nu poate reda audio corect.\n\nVă rugăm să încercați să schimbați dispozitivul audio într-unul funcțional din setări.</value>
+    <value>Se pare că g0v0! nu poate reda audio corect.\n\nVă rugăm să încercați să schimbați dispozitivul audio într-unul funcțional din setări.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>Overlay-ul pentru scor este momentan inactiv. Puteți comuta acest lucru apăsând {0}.</value>
@@ -113,7 +113,7 @@
     <value>Versiunea ta locală a beatmap-ului pentru această reluare pare să fie diferită. S-ar putea să fie nevoie să o actualizezi sau să o redescarci.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Acum rulezi osu! {0}.
+    <value>Acum rulezi g0v0! {0}.
 Click pentru a vedea ce este nou!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -141,7 +141,7 @@ Click pentru a vedea ce este nou!</value>
     <value>Offline: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>Conexiunea la serviciile online a fost întreruptă. osu! va funcționa cu funcționalitate limitată.</value>
+    <value>Conexiunea la serviciile online a fost întreruptă. g0v0! va funcționa cu funcționalitate limitată.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Ați fost deconectat de pe acest dispozitiv din cauza unei autentificări pe contul dvs. de pe un alt dispozitiv.</value>
@@ -168,13 +168,13 @@ Click pentru a vedea ce este nou!</value>
     <value>Această eroare a fost raportată automat echipei de dezvoltatori.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>O nouă versiune de osu! a fost găsită ({0} → {1}).</value>
+    <value>O nouă versiune de g0v0! a fost găsită ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Click aici pentru a descărca noua versiune, care poate fi instalată peste instalarea existentă.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Bifați cu managerul / furnizorul dvs. de pachete pentru a aduce osu! la zi!</value>
+    <value>Bifați cu managerul / furnizorul dvs. de pachete pentru a aduce g0v0! la zi!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>O acțiune a fost întreruptă din cauza unui dialog care a fost afișat.</value>
@@ -192,10 +192,10 @@ Click pentru a vedea ce este nou!</value>
     <value>Jurnale exportate! Click pentru a vizualiza.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>Rularea osu! ca {0} nu îmbunătățește performanța, poate strica integrările și prezintă un risc de securitate. Vă rugăm să rulați jocul ca utilizator normal.</value>
+    <value>Rularea g0v0! ca {0} nu îmbunătățește performanța, poate strica integrările și prezintă un risc de securitate. Vă rugăm să rulați jocul ca utilizator normal.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>Pe macOS, instalarea osu! într-un alt director decât /Applications sau {0}/Applications poate provoca probleme cu actualizarea jocului. Vă rugăm să mutați instalarea jocului în una dintre aceste locații.</value>
+    <value>Pe macOS, instalarea g0v0! într-un alt director decât /Applications sau {0}/Applications poate provoca probleme cu actualizarea jocului. Vă rugăm să mutați instalarea jocului în una dintre aceste locații.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Captură de ecran salvată! Click pentru vizualizare.

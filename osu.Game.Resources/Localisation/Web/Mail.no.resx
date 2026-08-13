@@ -89,13 +89,13 @@
     <value>Viss du har noen spørsmål eller tilbakemeldinger, ikke nøl med å svare på denne mailen; Vi svarer deg så fort som mulig!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Det er takkket være folk som deg at osu! har muligheten til å beholde spillet og samfunnet sitt kjørende smooth uten reklame eller betalinger.</value>
+    <value>Det er takkket være folk som deg at g0v0! har muligheten til å beholde spillet og samfunnet sitt kjørende smooth uten reklame eller betalinger.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Din støtte får osu! til å kjøre for rundt {0}! det virker kanskje ikke som mye, men det legges fort opp :).</value>
+    <value>Din støtte får g0v0! til å kjøre for rundt {0}! det virker kanskje ikke som mye, men det legges fort opp :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Takk, osu! &lt;3 deg</value>
+    <value>Takk, g0v0! &lt;3 deg</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>En bruker sørget for å oversette for informasjons grunnlag som følger: </value>
@@ -107,7 +107,7 @@
     <value>Du vil nå ha tilgang til osu!direct og mange andre supporter fordeler i {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Tusen takk for din {0} mot osu!.</value>
+    <value>Tusen takk for din {0} mot g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>support
@@ -120,7 +120,7 @@
     <value>Bare så du vet det så har det vært et nytt svar i "{0}" siden ditt siste besøk.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nytt svar for emnet "{0}"</value>
+    <value>[g0v0!] Nytt svar for emnet "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Viss du ikke lenger ønske å følge dette emnet, så kan du enten klikke "Unsubscribe topic" lenken funnet på bunnen av emnet ovenfor, eller på fulgte emner oversikts siden:</value>
@@ -150,7 +150,7 @@
     <value>Frakt</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>We har mottatt din osu!butikk ordre!</value>
+    <value>We har mottatt din g0v0!butikk ordre!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
     <value>Takk for din osu!store order!</value>
@@ -210,7 +210,7 @@
     <value>Endre preferanser for e-postmeldinger:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Ny osu! varsler</value>
+    <value>Ny g0v0! varsler</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Dette er bare en bekreftelse på at osu!-passordet ditt er endret.</value>

@@ -89,7 +89,7 @@
     <value>{0} が {1} の1位を失いました・・・  ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>{0} が再び osu! をサポートすることを選びました - あなたの寛大さに感謝します！</value>
+    <value>{0} が再び g0v0! をサポートすることを選びました - あなたの寛大さに感謝します！</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
     <value>{0} は osu!supporter になりました - あなたの寛大さに感謝します！</value>

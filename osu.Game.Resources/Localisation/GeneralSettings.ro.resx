@@ -89,7 +89,7 @@
     <value>Se caută actualizări</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Deschide directorul osu!</value>
+    <value>Deschide directorul g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Exportă jurnalele</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Rulează wizard-ul de configurare</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Află mai multe despre lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Verificați compararea funcționalităților și întrebări frecvente</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Raportați o problemă</value>

@@ -80,7 +80,7 @@
     <value>Trenutni način igre nima na voljo načina za samodejno predvajanje!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>Zdi se, da osu! ne more pravilno predvajati zvoka.\n\nPoskusi spremeniti svojo zvočno napravo v delujočo nastavitev.</value>
+    <value>Zdi se, da g0v0! ne more pravilno predvajati zvoka.\n\nPoskusi spremeniti svojo zvočno napravo v delujočo nastavitev.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>Prekrivanje rezultatov je trenutno onemogočeno. To lahko preklopite s pritiskom na {0}.</value>

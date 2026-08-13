@@ -89,25 +89,25 @@
     <value>Jeżeli masz jakieś pytania lub chcesz przekazać nam swoją opinię, odpowiedz na ten e-mail. Odpiszemy jak to najszybciej możliwe!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Dzięki Tobie osu! jest w stanie utrzymać się bez żadnych reklam czy wymuszanych płatności.</value>
+    <value>Dzięki Tobie g0v0! jest w stanie utrzymać się bez żadnych reklam czy wymuszanych płatności.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Twoje wsparcie utrzymuje osu! przez około {0}! Może nie wydaje się to zbyt wiele, ale to wszystko się dodaje. :)</value>
+    <value>Twoje wsparcie utrzymuje g0v0! przez około {0}! Może nie wydaje się to zbyt wiele, ale to wszystko się dodaje. :)</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Dziękujemy, osu! cię &lt;3</value>
+    <value>Dziękujemy, g0v0! cię &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Poniżej zawarliśmy tłumaczenie dla celów informacyjnych:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Odbiorca(-y) Twojego zakupu otrzymają dostęp do osu!direct i innych korzyści wynikających z posiadania statusu donatora osu!.</value>
+    <value>Odbiorca(-y) Twojego zakupu otrzymają dostęp do osu!direct i innych korzyści wynikających z posiadania statusu donatora g0v0!.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Otrzymasz dostęp do osu!direct i innych korzyści wynikających z posiadania statusu donatora osu! na {0}.</value>
+    <value>Otrzymasz dostęp do osu!direct i innych korzyści wynikających z posiadania statusu donatora g0v0! na {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Dziękujemy za {0} osu!.</value>
+    <value>Dziękujemy za {0} g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>wsparcie</value>
@@ -119,7 +119,7 @@
     <value>W obserwowanym przez ciebie wątku („{0}”) pojawiła się nowa odpowiedź.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nowa odpowiedź dla wątku „{0}”</value>
+    <value>[g0v0!] Nowa odpowiedź dla wątku „{0}”</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Jeżeli nie chcesz już obserwować tego wątku, możesz kliknąć przycisk „Nie subskrybuj” w dolnej części strony wątku lub zrobić to z poziomu strony subskrybcji wątków:</value>
@@ -149,10 +149,10 @@
     <value>Wysyłka</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Otrzymaliśmy Twoje zamówienie ze sklepu osu!</value>
+    <value>Otrzymaliśmy Twoje zamówienie ze sklepu g0v0!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Dziękujemy za Twoje zamówienie w sklepie osu!</value>
+    <value>Dziękujemy za Twoje zamówienie w sklepie g0v0!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Suma</value>
@@ -164,19 +164,19 @@
     <value>Chociaż najpewniej wiesz, kto to był. ;)</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Dzięki tej osobie otrzymasz dostęp do osu!direct i innych korzyści przeznaczonych dla donatorów osu! przez następne {0}.</value>
+    <value>Dzięki tej osobie otrzymasz dostęp do osu!direct i innych korzyści przeznaczonych dla donatorów g0v0! przez następne {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
-    <value>Więcej informacji na temat korzyści wynikających z posiadania statusu donatora osu! znajdziesz tutaj:</value>
+    <value>Więcej informacji na temat korzyści wynikających z posiadania statusu donatora g0v0! znajdziesz tutaj:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Ktoś podarował Ci status donatora osu!</value>
+    <value>Ktoś podarował Ci status donatora g0v0!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Użytkownik, który podarował Ci ten status donatora, pozostawił następującą wiadomość:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Otrzymujesz status donatora osu!</value>
+    <value>Otrzymujesz status donatora g0v0!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>Ten e-mail jest tylko potwierdzeniem, że Twój adres e-mail w osu! został zmieniony na „{0}”.</value>

@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="page_description" xml:space="preserve">
-    <value>Artiști oficiali în osu!</value>
+    <value>Artiști oficiali în g0v0!</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>Artiști Oficiali</value>
@@ -77,13 +77,13 @@
     <value>șablonul pentru beatmap nu este încă disponibil</value>
   </data>
   <data name="index.description" xml:space="preserve">
-    <value>Artiștii oficiali sunt cei care muncesc în colaborare cu noi pentru a aduce muzică nouă și originală în osu!. Acești artiști și lista lor de melodii au fost selecționate manual de către echipa osu! fiind speciale și potrivite pentru crearea de beatmap-uri. Unii dintre acești artiști oficiali, de asemenea, au creat melodii exclusive noi pentru a le folosi in osu!.&lt;br&gt;&lt;br&gt;Toate melodiile din această categorie au asigurate fișiere .osz cu măsura prestabilită și sunt licențiate în mod oficial pentru a fi utilizate în osu! și în conținut legat de osu!.</value>
+    <value>Artiștii oficiali sunt cei care muncesc în colaborare cu noi pentru a aduce muzică nouă și originală în g0v0!. Acești artiști și lista lor de melodii au fost selecționate manual de către echipa g0v0! fiind speciale și potrivite pentru crearea de beatmap-uri. Unii dintre acești artiști oficiali, de asemenea, au creat melodii exclusive noi pentru a le folosi in g0v0!.&lt;br&gt;&lt;br&gt;Toate melodiile din această categorie au asigurate fișiere .osz cu măsura prestabilită și sunt licențiate în mod oficial pentru a fi utilizate în g0v0! și în conținut legat de g0v0!.</value>
   </data>
   <data name="links.beatmaps" xml:space="preserve">
-    <value>Beatmap-uri osu!</value>
+    <value>Beatmap-uri g0v0!</value>
   </data>
   <data name="links.osu" xml:space="preserve">
-    <value>Profilul osu!</value>
+    <value>Profilul g0v0!</value>
   </data>
   <data name="links.site" xml:space="preserve">
     <value>Site-ul oficial</value>
@@ -95,7 +95,7 @@
     <value>o melodie|{0} melodii|{0} de melodii</value>
   </data>
   <data name="songs.original" xml:space="preserve">
-    <value>original osu!</value>
+    <value>original g0v0!</value>
   </data>
   <data name="songs.original_badge" xml:space="preserve">
     <value>ORIGINAL</value>
@@ -119,7 +119,7 @@
     <value>Toate</value>
   </data>
   <data name="tracks.index.exclusive_only.exclusive_only" xml:space="preserve">
-    <value>creat pentru osu!</value>
+    <value>creat pentru g0v0!</value>
   </data>
   <data name="tracks.index.form.advanced" xml:space="preserve">
     <value>Căutare Avansată</value>

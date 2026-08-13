@@ -146,7 +146,7 @@
     <value>หากต้องการเปลี่ยนเรนเดอเรอร์ เกมจะปิดลง กรุณาเปิดอีกครั้ง</value>
   </data>
   <data name="minimise_on_focus_loss" xml:space="preserve">
-    <value>ย่อ osu! ลงเมื่อสลับไปแอพอื่น</value>
+    <value>ย่อ g0v0! ลงเมื่อสลับไปแอพอื่น</value>
   </data>
   <data name="shrink_game_to_safe_area" xml:space="preserve">
     <value>ปรับเกมเพื่อหลีกเลี่ยงกล้องหน้า</value>

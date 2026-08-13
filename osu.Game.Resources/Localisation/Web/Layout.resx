@@ -62,7 +62,7 @@
     <value>Play next track automatically</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.</value>
+    <value>g0v0! - Free and open rhythm experience!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -191,7 +191,7 @@
     <value>Beatmap Listing</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Download osu!</value>
+    <value>Download g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Help &amp; Community</value>
@@ -329,7 +329,7 @@
     <value>Download</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Download osu! to create your own account!</value>
+    <value>Download g0v0! to create your own account!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Don't have an account?</value>
@@ -347,10 +347,10 @@
     <value>Friends</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer mode</value>
+    <value>g0v0! mode</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer mode shows scores set from lazer with a new scoring algorithm</value>
+    <value>g0v0! mode shows scores set from g0v0! with a new scoring algorithm</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Sign Out</value>

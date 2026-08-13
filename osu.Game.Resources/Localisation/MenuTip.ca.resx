@@ -124,9 +124,6 @@
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>Ctrl-Retorn al selector de cançons iniciarà el mapa amb el mode autoplay!</value>
   </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>«Lazer» no és una paraula correcta en català. La manera correcta d'escriure un raig de llum brillant és «làser».</value>
-  </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>El suport multifilament significa que tenint fins i tot pocs "FPS"  les teves entrades i judicis seran precisos!</value>
   </data>

@@ -62,7 +62,7 @@
     <value>در حال بررسی توانایی های تمام صفحه...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! در حال اجرا روی حالت تمام صفحه دربست است که کمترین تاخیر را تصمین می کند! </value>
+    <value>g0v0! در حال اجرا روی حالت تمام صفحه دربست است که کمترین تاخیر را تصمین می کند! </value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>نتوانستیم در حالت تمام صفحه ی دربست اجرا کنیم. شما ممکن است مقداری تاخیر ورودی را تجربه کنید.</value>

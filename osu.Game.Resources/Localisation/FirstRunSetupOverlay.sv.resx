@@ -68,7 +68,7 @@
     <value>Installationsguide</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Ställ in osu! för att passa dig</value>
+    <value>Ställ in g0v0! för att passa dig</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Välkommen</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Välkommen till den första installationsguiden!
 
-osu! är ett väldigt konfigurerbart spel, och att dyka rakt in i inställningarna kan ibland vara överväldigande. Den här guiden kommer att hjälpa dig att få de viktiga valen ur vägen för att säkerställa en grym första upplevelse!</value>
+g0v0! är ett väldigt konfigurerbart spel, och att dyka rakt in i inställningarna kan ibland vara överväldigande. Den här guiden kommer att hjälpa dig att få de viktiga valen ur vägen för att säkerställa en grym första upplevelse!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>Storleken på användargränssnittet i osu! kan anpassas efter hur du vill ha det.</value>
+    <value>Storleken på användargränssnittet i g0v0! kan anpassas efter hur du vill ha det.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Beteende</value>
@@ -87,7 +87,7 @@ osu! är ett väldigt konfigurerbart spel, och att dyka rakt in i inställningar
   <data name="behaviour_description" xml:space="preserve">
     <value>Vissa nya standardinställningar för spelbeteenden har implementerats i syfte att förbättra spelupplevelsen och göra den mer tillgänglig för alla.
 
-Vi rekommenderar att du ger de nya standardinställningarna ett försök, men om du vill få saker att kännas mer som klassiska versioner av osu! kan du tillämpa några standardinställningar nedan.</value>
+Vi rekommenderar att du ger de nya standardinställningarna ett försök, men om du vill få saker att kännas mer som klassiska versioner av g0v0! kan du tillämpa några standardinställningar nedan.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Nya standardinställningar</value>

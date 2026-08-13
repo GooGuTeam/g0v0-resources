@@ -143,7 +143,7 @@
     <value>ažuriraj</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Ako doprinosiš osu! open-source repozitorijima, povezivanjem svojeg GitHub računa ovdje ćeš asocirati svoje dnevnike promjena sa svojim osu! profilom. GitHub računi sa praznom povijesti doprinosa za osu! se ne mogu povezati.</value>
+    <value>Ako doprinosiš g0v0! open-source repozitorijima, povezivanjem svojeg GitHub računa ovdje ćeš asocirati svoje dnevnike promjena sa svojim g0v0! profilom. GitHub računi sa praznom povijesti doprinosa za g0v0! se ne mogu povezati.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Poveži GitHub Račun</value>
@@ -158,7 +158,7 @@
     <value>Ovaj GitHub račun je već povezan s drugim korisnikom.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Nije moguće povezati GitHub račun bez povijesti doprinosa u osu! repozitoriju.</value>
+    <value>Nije moguće povezati GitHub račun bez povijesti doprinosa u g0v0! repozitoriju.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Molimo te povrdi svoj glavni email na GitHubu te zatim pokušaj ponovo povezati račun.</value>

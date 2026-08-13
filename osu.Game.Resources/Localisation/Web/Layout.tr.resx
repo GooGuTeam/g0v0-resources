@@ -62,7 +62,7 @@
     <value>Sıradaki parçayı otomatik oynat</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritim sadece bir *tık* uzakta! Ouendan/EBA, Taiko ve orijinal oyun modlarıyla, hem de tamamiyle işlevsel seviye editörüyle beraber.</value>
+    <value>g0v0! - Özgür ve açık ritim deneyimi! Ouendan/EBA, Taiko ve orijinal oyun modlarıyla, hem de tamamiyle işlevsel seviye editörüyle beraber.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmap seti</value>
@@ -188,7 +188,7 @@
     <value>Beatmap Kataloğu</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>osu!'yu indir!</value>
+    <value>g0v0!'yu indir!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Yardım &amp; Topluluk</value>
@@ -308,7 +308,7 @@
     <value>İndir</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Hesabınızı oluşturmak için osu!'yu indirin!</value>
+    <value>Hesabınızı oluşturmak için g0v0!'yu indirin!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Hesabın yok mu?</value>
@@ -323,10 +323,10 @@
     <value>Arkadaşlar</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer modu</value>
+    <value>g0v0! modu</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer modu yeni bir puanlama algoritmasıyla lazerden belirnenen skorları gösterir</value>
+    <value>g0v0! modu yeni bir puanlama algoritmasıyla g0v0!den belirnenen skorları gösterir</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Çıkış Yap</value>

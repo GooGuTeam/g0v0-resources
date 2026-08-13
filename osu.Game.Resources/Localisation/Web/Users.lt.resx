@@ -233,7 +233,7 @@
     <value>Šiuo metu beta prieiga galima tik išskirtiniams vartotojams.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu! rėmėjai bus įleisti greitu metu)</value>
+    <value>(g0v0! rėmėjai bus įleisti greitu metu)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Aktyvus</value>
@@ -353,10 +353,10 @@
     <value>Čia nuo pat pradžių</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!programuotojas</value>
+    <value>g0v0!programuotojas</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!rėmėjas</value>
+    <value>g0v0!rėmėjas</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Prisijungė {0}</value>
@@ -464,7 +464,7 @@
     <value>Įkelti gali tik {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!rėmėjai</value>
+    <value>g0v0!rėmėjai</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>pagrindinis žaidimo rėžimas</value>
@@ -482,7 +482,7 @@
     <value>Spalvų pasirinkimas galimas tik {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!rėmėjai</value>
+    <value>g0v0!rėmėjai</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>nėra</value>
@@ -791,7 +791,7 @@
     <value>Tu turi būti {0}, kad atrakinti šia funkciją.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!rėmėjas</value>
+    <value>g0v0!rėmėjas</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Indėlis {0}</value>

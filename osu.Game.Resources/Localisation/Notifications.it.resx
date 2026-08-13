@@ -80,7 +80,7 @@
     <value>La modalità attuale non ha una mod autoplay disponibile!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! non sembra essere in grado di riprodurre correttamente l'audio.\n\nProva a cambiare il tuo dispositivo audio ad un'impostazione funzionante.</value>
+    <value>g0v0! non sembra essere in grado di riprodurre correttamente l'audio.\n\nProva a cambiare il tuo dispositivo audio ad un'impostazione funzionante.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>L'overlay del punteggio è attualmente disabilitato. Puoi attivarlo premendo {0}.</value>
@@ -113,7 +113,7 @@
     <value>La tua copia della beatmap per questo replay sembra essere diversa da quella prevista. Potresti aver bisogno di aggiornarla oppure riscaricarla.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Ora stai giocando osu! {0}.
+    <value>Ora stai giocando g0v0! {0}.
 Clicca per vedere cosa c'è di nuovo!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
@@ -141,7 +141,7 @@ Clicca per vedere cosa c'è di nuovo!</value>
     <value>Offline: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>La connessione verso i servizi online è stata interrotta. osu! funzionerà in maniera limitata.</value>
+    <value>La connessione verso i servizi online è stata interrotta. g0v0! funzionerà in maniera limitata.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Sei stato disconnesso su questo dispositivo a causa di un accesso al tuo account su un altro dispositivo.</value>
@@ -168,13 +168,13 @@ Clicca per vedere cosa c'è di nuovo!</value>
     <value>Questo errore è appena stato inviato al team di sviluppo.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>È stata trovata una nuova versione di osu! ({0} → {1}).</value>
+    <value>È stata trovata una nuova versione di g0v0! ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Clicca qui per scaricare la nuova versione, che può essere installata al di sopra di quella esistente.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Controlla il tuo gestore di pacchetti o fornitore per aggiornare osu! all'ultima versione!</value>
+    <value>Controlla il tuo gestore di pacchetti o fornitore per aggiornare g0v0! all'ultima versione!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>È stata interrotta un'azione per poter mostrare una finestra di dialogo.</value>
@@ -192,10 +192,10 @@ Clicca per vedere cosa c'è di nuovo!</value>
     <value>Log esportati! Clicca per visualizzare.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>L'esecuzione di osu! come {0} non migliora le prestazioni, potrebbe rompere integrazioni e comportare rischi per la sicurezza. Dovresti eseguire il gioco come utente normale.</value>
+    <value>L'esecuzione di g0v0! come {0} non migliora le prestazioni, potrebbe rompere integrazioni e comportare rischi per la sicurezza. Dovresti eseguire il gioco come utente normale.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>Su macOS, installare osu! in una cartella diversa da /Applications o {0}/Applications può causare problemi per gli aggiornamenti del gioco. Dovresti spostare l'installazione su una di queste due posizioni.</value>
+    <value>Su macOS, installare g0v0! in una cartella diversa da /Applications o {0}/Applications può causare problemi per gli aggiornamenti del gioco. Dovresti spostare l'installazione su una di queste due posizioni.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Screenshot salvato! Clicca per vederlo.

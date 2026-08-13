@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="page_description" xml:space="preserve">
-    <value>osu!'daki Seçkin sanatçılar</value>
+    <value>g0v0!'daki Seçkin sanatçılar</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>Featured Artist'ler</value>
@@ -77,13 +77,13 @@
     <value>Beatmap Taslağı henüz mevcut değil</value>
   </data>
   <data name="index.description" xml:space="preserve">
-    <value>Featured Artist'ler osu!'ya yeni ve orijinal müzik getirmek için beraber çalıştığımız sanatçılardır. Bu sanatçılar ve onların seçilmiş şarkıları osu! team tarafından kendi elleriyle aşırı iyi ve maplenmeye uygun oldukları için seçildi. Bu featured artist'lerin bazıları osu!'ya özel başka hiçbir yerde olmayan şarkılar da hazırladı. &lt;br&gt;&lt;br&gt;Bu bölümdeki tüm şarkılar önceden zamanlanmış .osz dosyaları ile beraber gelir ve osu! ile alakalı içeriklerde kullanılması amacıyla lisanslıdır.</value>
+    <value>Featured Artist'ler g0v0!'ya yeni ve orijinal müzik getirmek için beraber çalıştığımız sanatçılardır. Bu sanatçılar ve onların seçilmiş şarkıları g0v0! team tarafından kendi elleriyle aşırı iyi ve maplenmeye uygun oldukları için seçildi. Bu featured artist'lerin bazıları g0v0!'ya özel başka hiçbir yerde olmayan şarkılar da hazırladı. &lt;br&gt;&lt;br&gt;Bu bölümdeki tüm şarkılar önceden zamanlanmış .osz dosyaları ile beraber gelir ve g0v0! ile alakalı içeriklerde kullanılması amacıyla lisanslıdır.</value>
   </data>
   <data name="links.beatmaps" xml:space="preserve">
-    <value>osu! beatmapleri</value>
+    <value>g0v0! beatmapleri</value>
   </data>
   <data name="links.osu" xml:space="preserve">
-    <value>osu! profili</value>
+    <value>g0v0! profili</value>
   </data>
   <data name="links.site" xml:space="preserve">
     <value>Resmi Website</value>
@@ -95,7 +95,7 @@
     <value>{0} şarkı|{0} şarkı</value>
   </data>
   <data name="songs.original" xml:space="preserve">
-    <value>osu! orijinal</value>
+    <value>g0v0! orijinal</value>
   </data>
   <data name="songs.original_badge" xml:space="preserve">
     <value>ORJİNAL</value>
@@ -119,7 +119,7 @@
     <value>Hepsi</value>
   </data>
   <data name="tracks.index.exclusive_only.exclusive_only" xml:space="preserve">
-    <value>osu! orijinal</value>
+    <value>g0v0! orijinal</value>
   </data>
   <data name="tracks.index.form.advanced" xml:space="preserve">
     <value>Gelişmiş Arama</value>

@@ -89,13 +89,13 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; prarado pirmą vietą ant &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; vėl nusprendė būti osu!rėmėjas - dėkojame už jūsų dosnumą!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; vėl nusprendė būti g0v0!rėmėjas - dėkojame už jūsų dosnumą!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; tapo osu!rėmėjas - dėkojame už jūsų dosnumą!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; tapo g0v0!rėmėjas - dėkojame už jūsų dosnumą!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; gavo osu!rėmėjo dovaną!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; gavo g0v0!rėmėjo dovaną!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; pakeitė savo vardą į &lt;strong&gt;&lt;em&gt;{1}&lt;/em&gt;&lt;/strong&gt;!</value>

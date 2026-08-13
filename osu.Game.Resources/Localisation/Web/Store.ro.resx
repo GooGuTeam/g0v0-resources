@@ -107,7 +107,7 @@
     <value>În prezent suntem copleșiți de comenzi! Ești binevenit să-ți plasezi comanda, dar te rugăm să aștepți **o întârziere de 1-2 săptămâni suplimentară** în timp ce prindem din urmă comenzile existente.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Ascunde toate statusurile de suporter osu! din această comandă din activitatea mea</value>
+    <value>Ascunde toate statusurile de suporter g0v0! din această comandă din activitatea mea</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Coșul tău pare a fi expirat și a fost reîncărcat, te rugăm să încerci din nou.</value>
@@ -149,7 +149,7 @@
     <value>Plata eCheck a fost respinsă de către PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>Statusul de suporter osu! din această comandă nu sunt afișate în activitățile tale recente.</value>
+    <value>Statusul de suporter g0v0! din această comandă nu sunt afișate în activitățile tale recente.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Trimis Prin:</value>
@@ -170,7 +170,7 @@
     <value>Dacă nu ai solicitat o anulare, te rugăm să contactezi {0} precizând numărul comenzii tale (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>echipa de suport pentru magazinul osu!</value>
+    <value>echipa de suport pentru magazinul g0v0!</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Comanda ta a fost livrată! Sperăm că vă bucurați de ea!</value>
@@ -179,7 +179,7 @@
     <value>Dacă întâmpini probleme cu achiziția ta, te rugăm să contactați {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>echipa de suport pentru magazinul osu!</value>
+    <value>echipa de suport pentru magazinul g0v0!</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Comanda ta este în curs de pregătire!</value>
@@ -359,7 +359,7 @@
     <value>adaugă un mesaj opțional la cadoul tău! (până la {0} caractere)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Trebuie să fii {0} pentru a obține statusul de suporter osu!</value>
+    <value>Trebuie să fii {0} pentru a obține statusul de suporter g0v0!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>conectat</value>

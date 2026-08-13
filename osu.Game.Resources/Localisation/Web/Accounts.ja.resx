@@ -143,7 +143,7 @@
     <value>更新</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>osu! のオープンソースリポジトリへのコントリビューターであれば、ここでGitHubアカウントをリンクすると、更新ログエントリがosu! プロフィールに関連付けられます。 osu! への貢献履歴がないGitHubアカウントはリンクできません。</value>
+    <value>g0v0! のオープンソースリポジトリへのコントリビューターであれば、ここでGitHubアカウントをリンクすると、更新ログエントリがg0v0! プロフィールに関連付けられます。 g0v0! への貢献履歴がないGitHubアカウントはリンクできません。</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>GitHubアカウントをリンク</value>
@@ -158,7 +158,7 @@
     <value>この GitHub アカウントはすでに別のユーザにリンクされています。</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>osu!リポジトリにコントリビューション履歴がなければGitHubアカウントをリンクできません。</value>
+    <value>g0v0!リポジトリにコントリビューション履歴がなければGitHubアカウントをリンクできません。</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>GitHubでEメールを確認してから、もう一度アカウントをリンクしてみてください。</value>
@@ -299,7 +299,7 @@
     <value>オンライン状態を隠す</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>これはosu!lazerの「オフラインで表示する」にマップされます</value>
+    <value>これはg0v0!の「オフラインで表示する」にマップされます</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>プライバシー</value>

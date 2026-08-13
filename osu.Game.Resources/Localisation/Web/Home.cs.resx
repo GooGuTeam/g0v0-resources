@@ -80,7 +80,7 @@
     <value>nejlepšejší free-to-win rytmická hra</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>rytmus je na dosah jen jednoho kliknutí</value>
+    <value>Svobodný a otevřený rytmický zážitek!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Pokročilé vyhledávání</value>
@@ -308,10 +308,10 @@
     <value>obnoví se {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Stáhnout osu!</value>
+    <value>Stáhnout g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Podpoř osu!</value>
+    <value>Podpoř g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
     <value>osu!store</value>

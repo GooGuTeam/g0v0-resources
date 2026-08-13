@@ -89,9 +89,9 @@
     <value>Lettvektig sammenkobling av filer støttes ikke på operativsystemet ditt enda, så en kopi av alle filene vil bli gjort under import.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>En annen kopi av alle filene vil bli gjort under import. For å unngå dette må du sørge for at datamappen til lazer er på samme disk som din tidligere osu! installasjon (og filsystemet er NTFS).</value>
+    <value>En annen kopi av alle filene vil bli gjort under import. For å unngå dette må du sørge for at datamappen til g0v0 er på samme disk som din tidligere osu! installasjon (og filsystemet er NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>En annen kopi av alle filene vil bli gjort under import. For å unngå dette må du sørge for at datamappen til lazer er på samme disk som din tidligere osu! installasjon (og filsystemet støtter harde lenker).</value>
+    <value>En annen kopi av alle filene vil bli gjort under import. For å unngå dette må du sørge for at datamappen til g0v0 er på samme disk som din tidligere osu! installasjon (og filsystemet støtter harde lenker).</value>
   </data>
 </root>

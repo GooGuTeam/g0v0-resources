@@ -80,7 +80,7 @@
     <value>darmowa gra rytmiczna</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>rytm jest tylko o klik stąd</value>
+    <value>Wolne i otwarte rytmiczne doświadczenie!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Zaawansowane wyszukiwanie</value>
@@ -308,13 +308,13 @@
     <value>zakończy się {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Pobierz osu!</value>
+    <value>Pobierz g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Wspomóż osu!</value>
+    <value>Wspomóż g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>Sklep osu!</value>
+    <value>Sklep g0v0!</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Wyróżniona transmisja na żywo</value>

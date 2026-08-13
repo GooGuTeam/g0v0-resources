@@ -233,7 +233,7 @@
     <value>Beta-åtkomst är för nuvarande begränsad till privilegierade användare.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supportrar kommer att komma in snart)</value>
+    <value>(g0v0!supportrar kommer att komma in snart)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Aktiv</value>
@@ -464,7 +464,7 @@
     <value>Uppladdning tillgänglig för {0} enbart</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supportrar</value>
+    <value>g0v0!supportrar</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>standardspelläge</value>
@@ -482,7 +482,7 @@
     <value>Anpassade färgteman endast tillgängliga för {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supportrar</value>
+    <value>g0v0!supportrar</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>ingen</value>
@@ -893,7 +893,7 @@
     <value>vänligen registrera dig via spelklienten istället!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>var snäll och slutför registreringen med hjälp av osu! webbplatsen</value>
+    <value>var snäll och slutför registreringen med hjälp av g0v0! webbplatsen</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Användare skapad</value>

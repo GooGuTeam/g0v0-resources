@@ -506,7 +506,7 @@
     <value>更多搜索选项</value>
   </data>
   <data name="listing.search.rank_filter_note" xml:space="preserve">
-    <value>本页面显示的个人资料最高排名计数和结果，基于你在谱面中获得的最高“标准化”分数（即 “lazer” 分数）。</value>
+    <value>本页面显示的个人资料最高排名计数和结果，基于你在谱面中获得的最高“标准化”分数（即 “g0v0!” 分数）。</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
     <value>需要成为支持者才能按 {0} 筛选</value>

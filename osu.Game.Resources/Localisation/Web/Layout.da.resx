@@ -62,7 +62,7 @@
     <value>Afspil næste sang automatisk</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rytme er kun et *klik* væk!  Med Ouendan/EBA, Taiko og originale spil-modes, såvel som en fuld funktionel level-editor.</value>
+    <value>g0v0! - Fri og åben rytmeoplevelse!  Med Ouendan/EBA, Taiko og originale spil-modes, såvel som en fuld funktionel level-editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -191,7 +191,7 @@
     <value>Beatmap Lister</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Download osu!</value>
+    <value>Download g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Hjælp og Fællesskab</value>
@@ -326,10 +326,10 @@
     <value>Venner</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>Lazer tilstand</value>
+    <value>g0v0! tilstand</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Lazer tilstand viser scores sat fra lazer med en ny scoringsalgoritme</value>
+    <value>g0v0! tilstand viser scores sat fra g0v0! med en ny scoringsalgoritme</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Log ud</value>

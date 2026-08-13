@@ -80,9 +80,9 @@
     <value>Ruleset yang saat ini dimainkan tidak memiliki mod autoplay!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! sepertinya tidak bisa memutar audio yang ada dengan benar.
+    <value>g0v0! sepertinya tidak bisa memutar audio yang ada dengan benar.
 
-Silakan sesuaikan perangkat audiomu ke pengaturan yang dapat digunakan oleh osu!.</value>
+Silakan sesuaikan perangkat audiomu ke pengaturan yang dapat digunakan oleh g0v0!.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>Overlay skor sedang dinonaktifkan. Kamu bisa mengaktifkannya kembali dengan menekan {0}.</value>
@@ -115,14 +115,14 @@ Silakan sesuaikan perangkat audiomu ke pengaturan yang dapat digunakan oleh osu!
     <value>Salinan lokal beatmap yang kamu miliki sepertinya tidak sesuai untuk tayangan ulang ini. Kamu mungkin perlu untuk memperbarui atau mengunduh ulang beatmap yang bersangkutan.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Kamu sedang menjalankan osu! versi {0}.
+    <value>Kamu sedang menjalankan g0v0! versi {0}.
 Klik untuk melihat apa-apa saja yang baru!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
     <value>Pembaruan siap dipasang. Klik untuk memulai ulang aplikasi!</value>
   </data>
   <data name="not_official_build" xml:space="preserve">
-    <value>Versi osu! ini bukan versi osu! yang resmi. Skor yang diraih tidak akan dikirim dan sistem online lainnya bisa tidak berfungsi sebagaimana mestinya.</value>
+    <value>Versi g0v0! ini bukan versi g0v0! yang resmi. Skor yang diraih tidak akan dikirim dan sistem online lainnya bisa tidak berfungsi sebagaimana mestinya.</value>
   </data>
   <data name="downloading_update" xml:space="preserve">
     <value>Mengunduh pembaruan...</value>
@@ -143,7 +143,7 @@ Klik untuk melihat apa-apa saja yang baru!</value>
     <value>Offline: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>Koneksi ke layanan online terganggu. osu! akan berjalan dengan kinerja yang terbatas.</value>
+    <value>Koneksi ke layanan online terganggu. g0v0! akan berjalan dengan kinerja yang terbatas.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Kamu sudah dikeluarkan dari perangkat ini karena entri masuk ke akunmu pada perangkat lain.</value>
@@ -170,13 +170,13 @@ Klik untuk melihat apa-apa saja yang baru!</value>
     <value>Kesalahan ini sudah dilaporkan secara otomatis kepada tim pengembang.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>Versi rilis osu! yang lebih baru ditemukan ({0} → {1}).</value>
+    <value>Versi rilis g0v0! yang lebih baru ditemukan ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
-    <value>Klik di sini untuk mengunduh versi baru ini, yang bisa dipasang di atas instalasi osu! yang sudah kamu miliki.</value>
+    <value>Klik di sini untuk mengunduh versi baru ini, yang bisa dipasang di atas instalasi g0v0! yang sudah kamu miliki.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Periksalah dengan pengelola / penyedia paket yang kamu gunakan untuk memperbarui osu! ke versi terbaru!</value>
+    <value>Periksalah dengan pengelola / penyedia paket yang kamu gunakan untuk memperbarui g0v0! ke versi terbaru!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>Suatu tindakan terganggu akibat munculnya kotak dialog.</value>
@@ -194,10 +194,10 @@ Klik untuk melihat apa-apa saja yang baru!</value>
     <value>Log diekspor! Klik untuk melihat ekspor ini.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>Menjalankan osu! sebagai {0} tidak meningkatkan performa, bisa merusak integrasi aplikasi, serta berpotensi menimbulkan resiko keamanan. Silakan jalankan osu! sebagai pengguna biasa.</value>
+    <value>Menjalankan g0v0! sebagai {0} tidak meningkatkan performa, bisa merusak integrasi aplikasi, serta berpotensi menimbulkan resiko keamanan. Silakan jalankan g0v0! sebagai pengguna biasa.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>Pada macOS, memasang osu! di direktori selain /Applications atau {0}/Applications bisa menyebabkan masalah dengan memperbarui permainan. Silakan pindahkan instalasi permainanmu ke salah satu lokasi ini.</value>
+    <value>Pada macOS, memasang g0v0! di direktori selain /Applications atau {0}/Applications bisa menyebabkan masalah dengan memperbarui permainan. Silakan pindahkan instalasi permainanmu ke salah satu lokasi ini.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Tangkapan layar disimpan! Klik untuk melihat tangkapan layar ini.

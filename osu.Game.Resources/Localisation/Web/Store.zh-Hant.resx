@@ -107,7 +107,7 @@
     <value>感謝您的訂購，由於近期湧入訂單過多，故該訂單恐將**延後1~2週的時間**</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>不要在最近活動中顯示這項 osu! 贊助者標籤訂單</value>
+    <value>不要在最近活動中顯示這項 g0v0! 贊助者標籤訂單</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>您的購物車已過期，請重試。</value>
@@ -149,7 +149,7 @@
     <value>您的電子支票付款已被 PayPal 拒絕。</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>這項 osu! 贊助者訂單未在您的最近活動中顯示。</value>
+    <value>這項 g0v0! 贊助者訂單未在您的最近活動中顯示。</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>透過:</value>
@@ -359,7 +359,7 @@
     <value>為這份禮物寫些留言吧！ (最多 {0} 個字符)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>您需要 {0} 以獲得 osu!贊助者標籤！</value>
+    <value>您需要 {0} 以獲得 g0v0!贊助者標籤！</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>已登入</value>

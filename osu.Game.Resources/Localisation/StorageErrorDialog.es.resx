@@ -62,10 +62,10 @@
     <value>Error de almacenamiento</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>No se puede acceder a la ubicación de datos de osu! especificada («{0}»). Si está en un almacenamiento externo, vuelve a conectar el dispositivo e inténtalo nuevamente.</value>
+    <value>No se puede acceder a la ubicación de datos de g0v0! especificada («{0}»). Si está en un almacenamiento externo, vuelve a conectar el dispositivo e inténtalo nuevamente.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>La ubicación de datos de osu! especificada («{0}») está vacía. Si has movido los archivos, cierra osu! y vuelve a moverlos.</value>
+    <value>La ubicación de datos de g0v0! especificada («{0}») está vacía. Si has movido los archivos, cierra g0v0! y vuelve a moverlos.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Intentar de nuevo</value>

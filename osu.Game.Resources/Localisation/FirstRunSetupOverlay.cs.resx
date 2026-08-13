@@ -76,7 +76,7 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Vítej v průvodci nastavením prvního spuštění!
 
-osu! je velmi nastavitelná hra a přechod přímo do nastavení může být někdy trošku ohromující. Tento průvodce ti pomůže dostat důležitá rozhodnutí z cesty k zajištění perfektní první zkušenosti!</value>
+g0v0! je velmi nastavitelná hra a přechod přímo do nastavení může být někdy trošku ohromující. Tento průvodce ti pomůže dostat důležitá rozhodnutí z cesty k zajištění perfektní první zkušenosti!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
     <value>Velikost uživatelského rozhraní může být upravena podle tvého přání.</value>
@@ -87,7 +87,7 @@ osu! je velmi nastavitelná hra a přechod přímo do nastavení může být ně
   <data name="behaviour_description" xml:space="preserve">
     <value>Byly implementovány nové výchozí hodnoty pro nastavení s cílem zlepšit herní zážitek a udělat hru více přístupnou pro všechny.
 
-Doporučujeme vyzkoušet nová výchozí nastavení, ale pokud raději chceš mít nastavení více jako v klasické verzi osu!, můžeš snadno použít klasická nastavení níže.</value>
+Doporučujeme vyzkoušet nová výchozí nastavení, ale pokud raději chceš mít nastavení více jako v klasické verzi g0v0!, můžeš snadno použít klasická nastavení níže.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Nová výchozí nastavení</value>

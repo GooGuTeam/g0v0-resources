@@ -68,7 +68,7 @@
     <value>İlk kurulum</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>osu!'yu kendinize göre ayarlayın</value>
+    <value>g0v0!'yu kendinize göre ayarlayın</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Hoşgeldiniz</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>İlk çalıştırma kurulum kılavuzuna hoş geldiniz!
 
- osu! çok yapılandırılabilir bir oyundur ve doğrudan ayarlara dalmak bazen bunaltıcı olabilir. Bu kılavuz, harika bir ilk deneyim sağlamak için önemli seçimleri aradan çıkarmanıza yardımcı olacak!</value>
+ g0v0! çok yapılandırılabilir bir oyundur ve doğrudan ayarlara dalmak bazen bunaltıcı olabilir. Bu kılavuz, harika bir ilk deneyim sağlamak için önemli seçimleri aradan çıkarmanıza yardımcı olacak!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>osu! kullanıcı arayüzünün büyüklüğü kendi isteğinize göre ayarlanabilir.</value>
+    <value>g0v0! kullanıcı arayüzünün büyüklüğü kendi isteğinize göre ayarlanabilir.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Davranış</value>
@@ -87,7 +87,7 @@
   <data name="behaviour_description" xml:space="preserve">
     <value>Oyun deneyimini geliştirmek ve herkes için daha erişilebilir kılmak amacıyla oyun davranışları için bazı yeni varsayılanlar uygulandı.
 
-Yeni varsayılanları denemenizi öneririz, ancak daha çok osu!'nun klasik sürümlerini kullanıyor gibi hissetmek istiyorsanız, aşağıda bazı makul varsayılanları kolayca uygulayabilirsiniz.</value>
+Yeni varsayılanları denemenizi öneririz, ancak daha çok g0v0!'nun klasik sürümlerini kullanıyor gibi hissetmek istiyorsanız, aşağıda bazı makul varsayılanları kolayca uygulayabilirsiniz.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Yeni varsayılanlar</value>

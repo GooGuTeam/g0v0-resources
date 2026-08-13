@@ -62,7 +62,7 @@
     <value>Kiểm tra khả năng toàn màn hình... </value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! đang chạy toàn màn hình riêng biệt, đảm bảo độ trễ thấp! </value>
+    <value>g0v0! đang chạy toàn màn hình riêng biệt, đảm bảo độ trễ thấp! </value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Không thể chạy toàn màn hình riêng biệt. Bạn sẽ vẫn gặp một số độ trễ đầu vào. </value>

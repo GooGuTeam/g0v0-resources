@@ -59,10 +59,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="empty.active" xml:space="preserve">
-    <value>Inte i någon pågående osu!(laser) {0} spel!</value>
+    <value>Inte i någon pågående g0v0!(laser) {0} spel!</value>
   </data>
   <data name="empty.ended" xml:space="preserve">
-    <value>Inte i någon färdig osu!(laser) {0} spel ännu!</value>
+    <value>Inte i någon färdig g0v0!(laser) {0} spel ännu!</value>
   </data>
   <data name="empty.playlists" xml:space="preserve">
     <value>spellista</value>

@@ -68,7 +68,7 @@
     <value>Nastavitev za prvo uporabo</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Nastavi osu! po svojih željah</value>
+    <value>Nastavi g0v0! po svojih željah</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Dobrodošli</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Dobrodošli v vodniku za prvo nastavitev!
 
-Igra osu! je zelo prilagodljiva in potopitev v nastavitve je lahko včasih zelo težavna. Ta vodnik ti bo pomagal odpraviti pomembne izbire in ti zagotovil odlično prvo izkušnjo!</value>
+Igra g0v0! je zelo prilagodljiva in potopitev v nastavitve je lahko včasih zelo težavna. Ta vodnik ti bo pomagal odpraviti pomembne izbire in ti zagotovil odlično prvo izkušnjo!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>Velikost uporabniškega vmesnika osu! lahko prilagodiš po svojih željah.</value>
+    <value>Velikost uporabniškega vmesnika g0v0! lahko prilagodiš po svojih željah.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Vedenje</value>
@@ -87,7 +87,7 @@ Igra osu! je zelo prilagodljiva in potopitev v nastavitve je lahko včasih zelo 
   <data name="behaviour_description" xml:space="preserve">
     <value>Uvedenih je bilo nekaj novih privzetih nastavitev za obnašanje v igri, da bi izboljšali igralno izkušnjo in jo naredili dostopnejšo za vse.
 
-Priporočamo ti, da preizkusiš nove privzete nastavitve, če pa želiš, da stvari funkcionirajo bolj kot v klasičnih različicah igre osu!, lahko spodaj preprosto uporabiš nekaj razumnih privzetih nastavitev.</value>
+Priporočamo ti, da preizkusiš nove privzete nastavitve, če pa želiš, da stvari funkcionirajo bolj kot v klasičnih različicah igre g0v0!, lahko spodaj preprosto uporabiš nekaj razumnih privzetih nastavitev.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Novo privzeto</value>

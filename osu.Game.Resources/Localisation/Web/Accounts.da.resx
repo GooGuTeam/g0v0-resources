@@ -143,7 +143,7 @@
     <value>opdater</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Hvis du er bidragsyder til osu!'s open source repositories, vil en forbindelse til din GitHub konto her forbinde dine bidrag til din osu! profil. GitHub konti uden bidragshistorik til osu! kan ikke tilknyttes.</value>
+    <value>Hvis du er bidragsyder til g0v0!'s open source repositories, vil en forbindelse til din GitHub konto her forbinde dine bidrag til din g0v0! profil. GitHub konti uden bidragshistorik til g0v0! kan ikke tilknyttes.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Tilknyt GitHub konto</value>
@@ -158,7 +158,7 @@
     <value>Denne GitHub konto er allerede tilknyttet en anden bruger.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Kan ikke linke GitHub-konto uden bidragshistorik i osu!-repositories.</value>
+    <value>Kan ikke linke GitHub-konto uden bidragshistorik i g0v0!-repositories.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Venligst bekræft din primære email på GitHub, og efterfølgende prøv at tilknytte din konto igen.</value>
@@ -272,7 +272,7 @@
     <value>skjul din online status</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>dette mapper til "fremstå offline"-tilstanden i osu!lazer</value>
+    <value>dette mapper til "fremstå offline"-tilstanden i g0v0!</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Privatliv</value>

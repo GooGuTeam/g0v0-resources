@@ -89,13 +89,13 @@
     <value>Se você tiver quaisquer perguntas ou comentários, não hesite em responder a este email; vou entrar em contato com você o mais rápido possível!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>É graças a pessoas como você que o osu! consegue manter o jogo e a comunidade funcionando sem qualquer anúncio ou pagamentos forçados.</value>
+    <value>É graças a pessoas como você que o g0v0! consegue manter o jogo e a comunidade funcionando sem qualquer anúncio ou pagamentos forçados.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Seu apoio mantém o osu! funcionando por cerca de {0}! Pode não parecer muito, mas ajuda :).</value>
+    <value>Seu apoio mantém o g0v0! funcionando por cerca de {0}! Pode não parecer muito, mas ajuda :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Obrigado, osu! &lt;3 você</value>
+    <value>Obrigado, g0v0! &lt;3 você</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Uma tradução fornecida pela comunidade para fins informativos:</value>
@@ -107,7 +107,7 @@
     <value>Agora você terá acesso ao osu!direct e muitos outros benefícios do suporte por {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Muito obrigado pelo seu {0} ao osu!.</value>
+    <value>Muito obrigado pelo seu {0} ao g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>apoio</value>
@@ -119,7 +119,7 @@
     <value>Só informando que houve uma nova resposta em "{0}" desde a sua última visita.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nova resposta no tópico "{0}"</value>
+    <value>[g0v0!] Nova resposta no tópico "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Se você não deseja mais ser notificado sobre este tópico, você pode clicar no link "Cancelar Inscrição" encontrado na parte inferior do tópico acima, ou da página de gerenciamento de inscrições de fórum:</value>
@@ -209,7 +209,7 @@
     <value>Alterar preferências de notificação de email:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Novas notificações de osu!</value>
+    <value>Novas notificações de g0v0!</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Esta é apenas uma confirmação de que sua senha do osu! foi alterada.</value>

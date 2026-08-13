@@ -59,10 +59,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="empty.active" xml:space="preserve">
-    <value>Not currently in any in-progress osu!(lazer) {0} games!</value>
+    <value>Not currently in any in-progress g0v0! {0} games!</value>
   </data>
   <data name="empty.ended" xml:space="preserve">
-    <value>Not in any completed osu!(lazer) {0} games yet!</value>
+    <value>Not in any completed g0v0! {0} games yet!</value>
   </data>
   <data name="empty.playlists" xml:space="preserve">
     <value>playlist</value>

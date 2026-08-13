@@ -68,12 +68,12 @@
     <value>You can close this tab/window now</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu! client verification has been completed</value>
+    <value>g0v0! client verification has been completed</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Click on authorise button below to finish client verification.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! client verification</value>
+    <value>g0v0! client verification</value>
   </data>
 </root>

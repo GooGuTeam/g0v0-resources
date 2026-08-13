@@ -89,10 +89,10 @@
     <value>{0} ha perso il primo posto su {1} ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>{0} ha scelto ancora una volta di sostenere osu! - grazie per la tua generosità!</value>
+    <value>{0} ha scelto ancora una volta di sostenere g0v0! - grazie per la tua generosità!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>{0} ha supportato osu! - grazie per la tua generosità!</value>
+    <value>{0} ha supportato g0v0! - grazie per la tua generosità!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
     <value>{0} ha ricevuto un osu!supporter in regalo!</value>

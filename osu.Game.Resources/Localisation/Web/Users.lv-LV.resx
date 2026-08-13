@@ -233,7 +233,7 @@
     <value>Beta piekļuve šobrīd ir pieejama tikai privileģētiem profiliem.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!atbalstītāji drīz pienāks klāt)</value>
+    <value>(g0v0!atbalstītāji drīz pienāks klāt)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Aktīvs</value>
@@ -353,10 +353,10 @@
     <value>Šeit kopš paša sākuma</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!izstrādātājs</value>
+    <value>g0v0!izstrādātājs</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!atbalstītājs</value>
+    <value>g0v0!atbalstītājs</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Pievienojās {0}</value>
@@ -464,7 +464,7 @@
     <value>Augšupielāde pieejama tikai priekš {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!atbalstītāji</value>
+    <value>g0v0!atbalstītāji</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>noklusējuma spēles režīms</value>
@@ -482,7 +482,7 @@
     <value>Personalizējami krāsu dizaini ir pieejami tikai {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!atbalstītāji</value>
+    <value>g0v0!atbalstītāji</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>neviens</value>
@@ -890,7 +890,7 @@
     <value>lūdzu tā vietā reğistrējies ar spēles klijentu!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>lūdzu pabeidz reğistrāciju izmantojot osu! mājaslapu</value>
+    <value>lūdzu pabeidz reğistrāciju izmantojot g0v0! mājaslapu</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Lietotājs izveidots</value>

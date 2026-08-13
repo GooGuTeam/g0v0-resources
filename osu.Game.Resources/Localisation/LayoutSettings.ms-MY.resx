@@ -62,7 +62,7 @@
     <value>Memeriksa kemampuan layar penuh...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! sedang berjalan dalam mod layar penuh eksklusif yang menjamin pendaman rendah!</value>
+    <value>g0v0! sedang berjalan dalam mod layar penuh eksklusif yang menjamin pendaman rendah!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Mod layar penuh eksklusif gagal dijalankan. Anda mungkin akan mengalami sedikit pendaman masukan.</value>

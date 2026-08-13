@@ -143,7 +143,7 @@
     <value>ενημέρωση</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Αν συνεισφέρεται στα repositories ανοικτού κώδικα της osu!, με την σύνδεση του λογαριασμού GitHub σας θα συσχετίσετε τις καταχωρίσεις αλλαγών σας με το osu! προφίλ σας. Οι λογαριασμοί GitHub με κανένα ιστορικό συνεισφοράς στο osu! δεν μπορούν να συνδεθούν. </value>
+    <value>Αν συνεισφέρεται στα repositories ανοικτού κώδικα της g0v0!, με την σύνδεση του λογαριασμού GitHub σας θα συσχετίσετε τις καταχωρίσεις αλλαγών σας με το g0v0! προφίλ σας. Οι λογαριασμοί GitHub με κανένα ιστορικό συνεισφοράς στο g0v0! δεν μπορούν να συνδεθούν. </value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Σύνδεση λογαριασμού GitHub</value>
@@ -158,7 +158,7 @@
     <value>Αυτός ο λογαριασμός GitHub είναι ήδη συνδεδεμένος με διαφορετικό χρήστη.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Αδύνατη η σύνδεση του λογαριασμού GitHub χωρίς κανένα ιστορικό συνεισφοράς στο osu! repositories.</value>
+    <value>Αδύνατη η σύνδεση του λογαριασμού GitHub χωρίς κανένα ιστορικό συνεισφοράς στο g0v0! repositories.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Σας παρακαλούμε να επαληθεύστε το κύριο email σας στο GitHub, και έπειτα προσπαθήστε να συνδέσετε τον λογαριασμό σας ξανά. </value>

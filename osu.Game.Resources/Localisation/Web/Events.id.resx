@@ -89,13 +89,13 @@
     <value>{0} telah kehilangan peringkat pertama pada {1} ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>{0} telah memutuskan untuk kembali mendukung osu! - terima kasih atas kemurahan hatimu!</value>
+    <value>{0} telah memutuskan untuk kembali mendukung g0v0! - terima kasih atas kemurahan hatimu!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>{0} telah mendukung osu! - terima kasih atas kemurahan hatimu!</value>
+    <value>{0} telah mendukung g0v0! - terima kasih atas kemurahan hatimu!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>{0} telah menerima hadiah osu! supporter!</value>
+    <value>{0} telah menerima hadiah g0v0! supporter!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>{0} telah mengubah nama penggunanya menjadi {1}!</value>

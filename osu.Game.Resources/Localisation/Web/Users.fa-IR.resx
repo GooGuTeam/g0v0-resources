@@ -200,7 +200,7 @@
     <value>دسترسی بتا در حال حاضر به کاربران خاص محدود شده است.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(حمایت کننده های osu! به زودی وارد خواهند شد)</value>
+    <value>(حمایت کننده های g0v0! به زودی وارد خواهند شد)</value>
   </data>
   <data name="posts.title" xml:space="preserve">
     <value>پست های {0}</value>
@@ -281,10 +281,10 @@
     <value>از آغاز اینحاست</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>توسعه دهنده osu!</value>
+    <value>توسعه دهنده g0v0!</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>حامی osu!</value>
+    <value>حامی g0v0!</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>پیوسته در {0}</value>
@@ -350,7 +350,7 @@
     <value>بارگذاری فقط برای {0} در دسترس است</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>حامیان osu!</value>
+    <value>حامیان g0v0!</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>حالت بازی پیشفرض</value>
@@ -659,7 +659,7 @@
     <value>شما به یک {0} برای باز کردن این قابلیت نیاز دارید.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>حامی osu!</value>
+    <value>حامی g0v0!</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>مشارکت کرده {0}</value>

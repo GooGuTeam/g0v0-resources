@@ -68,7 +68,7 @@
     <value>Ersteinrichtung</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Richte osu! passend für dich ein</value>
+    <value>Richte g0v0! passend für dich ein</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Willkommen</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Willkommen zum Einrichtungsassistenten!
 
-osu! ist ein sehr anpassbares Spiel, daher können die Einstellungen am Anfang etwas überfordernd sein. Dieser Assistent wird Dir helfen, die wichtigsten Entscheidungen aus dem Weg zu räumen, um eine gute erste Erfahrung sicherzustellen!</value>
+g0v0! ist ein sehr anpassbares Spiel, daher können die Einstellungen am Anfang etwas überfordernd sein. Dieser Assistent wird Dir helfen, die wichtigsten Entscheidungen aus dem Weg zu räumen, um eine gute erste Erfahrung sicherzustellen!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>Die Größe der osu!-Benutzeroberfläche kann nach deinen Vorlieben angepasst werden.</value>
+    <value>Die Größe der g0v0!-Benutzeroberfläche kann nach deinen Vorlieben angepasst werden.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Verhalten</value>
@@ -87,7 +87,7 @@ osu! ist ein sehr anpassbares Spiel, daher können die Einstellungen am Anfang e
   <data name="behaviour_description" xml:space="preserve">
     <value>Einige neue Standardwerte für das Spielverhalten wurden eingeführt mit dem Ziel, die Spielerfahrung zu verbessern und das Spiel zugänglicher zu machen.
 
-Wir empfehlen dir, den neuen Standardwerten eine Chance zu geben, aber wenn du möchtest, dass sich die Dinge mehr wie die klassische Version von osu! anfühlen, kannst du unten leicht ein paar vernünftige Standardwerte setzen.</value>
+Wir empfehlen dir, den neuen Standardwerten eine Chance zu geben, aber wenn du möchtest, dass sich die Dinge mehr wie die klassische Version von g0v0! anfühlen, kannst du unten leicht ein paar vernünftige Standardwerte setzen.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Neue Standardwerte</value>

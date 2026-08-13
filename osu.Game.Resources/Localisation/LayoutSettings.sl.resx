@@ -62,7 +62,7 @@
     <value>Preverjanje možnosti celozaslonskega prikazovanja...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! deluje v ekskluzivnem celozaslonskem načinu, ki zagotavlja nizko latenco!</value>
+    <value>g0v0! deluje v ekskluzivnem celozaslonskem načinu, ki zagotavlja nizko latenco!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Ni mogoče zagnati v ekskluzivnem celozaslonskem načinu. Morda se lahkopojavi nekaj zakasnitev pri vnosu.</value>

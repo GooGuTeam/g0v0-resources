@@ -62,7 +62,7 @@
     <value>Esmu pārliecināts! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>atbalstīt osu!</value>
+    <value>atbalstīt g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>vai dāvināt supporter citiem spēlētājiem</value>
@@ -71,13 +71,13 @@
     <value>noklikšķiniet uz sirds pogas, lai dotos uz osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Kāpēc man vajadzētu atbalstīt osu!? Kur aiziet nauda?</value>
+    <value>Kāpēc man vajadzētu atbalstīt g0v0!? Kur aiziet nauda?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Atbalstīt Komandu</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Neliela komanda izstrādā un attīsta osu! darbību. Jūsu atbalsts palīdz viņiem, kā zināt... izdzīvot.</value>
+    <value>Neliela komanda izstrādā un attīsta g0v0! darbību. Jūsu atbalsts palīdz viņiem, kā zināt... izdzīvot.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Serveru Infrastruktūra</value>
@@ -89,13 +89,13 @@
     <value>Kontraktētie Mākslinieki</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Ar jūsu atbalstu mēs varam uzrunāt vēl vairāk lieliskus māksliniekus, kā arī licencēt vairāk lielisku mūziku priekš osu!</value>
+    <value>Ar jūsu atbalstu mēs varam uzrunāt vēl vairāk lieliskus māksliniekus, kā arī licencēt vairāk lielisku mūziku priekš g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Skatīt pašreizējo klāstu &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Uzturiet osu! pašpietiekamu</value>
+    <value>Uzturiet g0v0! pašpietiekamu</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Jūsu dotie ieguldījumi palīdz saglabāt spēli neatkarīgu un pilnīgi brīvu no reklāmām un ārējiem sponsoriem.</value>
@@ -113,7 +113,7 @@
     <value>Atvērtā Pirmkoda Atlīdzību Programma</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Atbalstiet kopienas atbalstītājus, kuri ir ieguldījši savu laiku un pūles, lai palīdzētu padarīt osu! labāku.</value>
+    <value>Atbalstiet kopienas atbalstītājus, kuri ir ieguldījši savu laiku un pūles, lai palīdzētu padarīt g0v0! labāku.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Uzziniet vairāk &amp;raquo;</value>

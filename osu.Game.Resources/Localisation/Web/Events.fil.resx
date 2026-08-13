@@ -89,13 +89,13 @@
     <value>Si &lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; ay nawala sa unang rank sa &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>Si &lt;strong&gt;{0}&lt;/strong&gt; ay nagsuporta muli ang osu! - salamat sa iyong henerosidad!</value>
+    <value>Si &lt;strong&gt;{0}&lt;/strong&gt; ay nagsuporta muli ang g0v0! - salamat sa iyong henerosidad!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; ay sumuporta sa osu! - salamat sa iyong henerosidad!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; ay sumuporta sa g0v0! - salamat sa iyong henerosidad!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>Natanggap ni &lt;strong&gt;{0}&lt;/strong&gt; ang regalo ng osu! supporter!</value>
+    <value>Natanggap ni &lt;strong&gt;{0}&lt;/strong&gt; ang regalo ng g0v0! supporter!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>Pinalitan ni &lt;strong&gt;{0}&lt;/strong&gt; ang username niya sa &lt;strong&gt;&lt;em&gt;{1}&lt;/strong&gt;&lt;/em&gt;!</value>

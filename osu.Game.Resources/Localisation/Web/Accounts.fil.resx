@@ -145,7 +145,7 @@
     <value>i-update</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Kung isa kang kontribyutor sa mga open-source na repository ng osu!, ang pag-link ng iyong GitHub account dito ay iuugnay ang iyong mga changelog entries sa iyong osu! profile. Mga GitHub account na walang history ng kontribusyon sa osu! ay hindi ma-link.</value>
+    <value>Kung isa kang kontribyutor sa mga open-source na repository ng g0v0!, ang pag-link ng iyong GitHub account dito ay iuugnay ang iyong mga changelog entries sa iyong g0v0! profile. Mga GitHub account na walang history ng kontribusyon sa g0v0! ay hindi ma-link.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>I-link ang GitHub Account</value>
@@ -160,7 +160,7 @@
     <value>Ang GitHub account na ito ay naka-link na sa ibang user.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Hindi ma-link ang GitHub account nang walang anumang kasaysayan ng kontribusyon sa mga repositoryo ng osu. </value>
+    <value>Hindi ma-link ang GitHub account nang walang anumang kasaysayan ng kontribusyon sa mga repositoryo ng g0v0. </value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Paki-verify ng iyong pangunahing email sa GitHub, pagkatapos ay subukang i-link muli ang iyong account.</value>

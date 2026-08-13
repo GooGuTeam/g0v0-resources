@@ -62,7 +62,7 @@
     <value>เล่นเพลงถัดไปโดยอัตโนมัติ</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - จังหวะนั้นอยู่ห่างแค่คลิกเดียว! ด้วย Ouendan/EBA, Taiko และเกมโหมดดั้งเดิมอีกมากมาย พร้อมทั้งหน้าต่างแก้ไขที่ใช้งานได้อย่างสมบูรณ์</value>
+    <value>g0v0! - ประสบการณ์จังหวะที่เสรีและเปิดกว้าง! ด้วย Ouendan/EBA, Taiko และเกมโหมดดั้งเดิมอีกมากมาย พร้อมทั้งหน้าต่างแก้ไขที่ใช้งานได้อย่างสมบูรณ์</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>บีทแมพเซ็ท</value>
@@ -188,7 +188,7 @@
     <value>รายการบีทแมพ</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>ดาวน์โหลด osu!</value>
+    <value>ดาวน์โหลด g0v0!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>ความช่วยเหลือและชุมชน</value>
@@ -308,7 +308,7 @@
     <value>ดาวน์โหลด</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>ดาวน์โหลด osu! เพื่อสร้างบัญชีของคุณ!</value>
+    <value>ดาวน์โหลด g0v0! เพื่อสร้างบัญชีของคุณ!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>ยังไม่มีมีบัญชีเหรอ?</value>
@@ -323,10 +323,10 @@
     <value>เพื่อน</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
-    <value>โหมด Lazer</value>
+    <value>โหมด g0v0!</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>โหมด Lazer แสดงเซ็ตคะแนนจาก Lazer ด้วยอัลกอริธึมการให้คะแนนใหม่</value>
+    <value>โหมด g0v0! แสดงเซ็ตคะแนนจาก g0v0! ด้วยอัลกอริธึมการให้คะแนนใหม่</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>ออกจากระบบ</value>

@@ -74,7 +74,7 @@
     <value>İNDİRMEDEN ÖNCE OKUYUN</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Kurulum: Bir paket indirildikten sonra, paketin içeriğini osu! Şarkılar dizinine çıkartın osu! gerisini yapacaktır.</value>
+    <value>Kurulum: Bir paket indirildikten sonra, paketin içeriğini g0v0! Şarkılar dizinine çıkartın g0v0! gerisini yapacaktır.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>{0} tarafından</value>

@@ -80,7 +80,7 @@
     <value>تحقق من التحديثات</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>فتح مجلد osu!</value>
+    <value>فتح مجلد g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>تصدير السجلات</value>
@@ -90,12 +90,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>تشغيل معالج الإعداد</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>اعرف المزيد عن lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>تحقق من مميزات lazer مقارنة بالأجزاء الأخرى والأسئلة الشائعة</value>
   </data>
   <data name="running_latest_release" xml:space="preserve">
     <value>أنت تستخدم أحدث إصدار ({0})</value>

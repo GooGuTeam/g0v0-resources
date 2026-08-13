@@ -62,7 +62,7 @@
     <value>¡Me has convencido! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>apoyar a osu!</value>
+    <value>apoyar a g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>o regalar supporter a otros jugadores</value>
@@ -71,13 +71,13 @@
     <value>haz clic al botón del corazón para proceder a la osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>¿Por qué debería apoyar a osu!? ¿A dónde va el dinero?</value>
+    <value>¿Por qué debería apoyar a g0v0!? ¿A dónde va el dinero?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Apoyar al equipo</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Un pequeño equipo desarrolla y mantiene osu!. Vuestro apoyo les ayuda a, ya sabes... vivir.</value>
+    <value>Un pequeño equipo desarrolla y mantiene g0v0!. Vuestro apoyo les ayuda a, ya sabes... vivir.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infraestructura del servidor</value>
@@ -89,13 +89,13 @@
     <value>Artistas destacados</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Con tu apoyo, podemos acercarnos a artistas aún más impresionantes y licenciar más música para su uso en osu!</value>
+    <value>Con tu apoyo, podemos acercarnos a artistas aún más impresionantes y licenciar más música para su uso en g0v0!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Ver la lista actual &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Mantener osu! autosuficiente</value>
+    <value>Mantener g0v0! autosuficiente</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Vuestras contribuciones ayudan a mantener el juego independiente y completamente libre de anuncios y patrocinadores externos.</value>
@@ -113,7 +113,7 @@
     <value>Programa de recompensas de código abierto</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Apoya a los contribuidores de la comunidad que han dado su tiempo y esfuerzo para ayudar a hacer que osu! sea mejor.</value>
+    <value>Apoya a los contribuidores de la comunidad que han dado su tiempo y esfuerzo para ayudar a hacer que g0v0! sea mejor.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Descubre más &amp;raquo;</value>

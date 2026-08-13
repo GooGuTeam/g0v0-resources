@@ -143,7 +143,7 @@
     <value>обнови</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Ако сте сътрудник в хранилищата с отворен код на osu!, свързването на вашия GitHub профил ще асоцира приносите ви от списъка с промени към вашия osu! профил. GitHub профилите без история за допринасяне към osu! не могат да бъдат свързани.</value>
+    <value>Ако сте сътрудник в хранилищата с отворен код на g0v0!, свързването на вашия GitHub профил ще асоцира приносите ви от списъка с промени към вашия g0v0! профил. GitHub профилите без история за допринасяне към g0v0! не могат да бъдат свързани.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Свържете GitHub профил</value>
@@ -158,7 +158,7 @@
     <value>Този GitHub профил е свързан към друг потребител.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Не може да добавите GitHub профил без никакъв принос в osu! хранилищата.</value>
+    <value>Не може да добавите GitHub профил без никакъв принос в g0v0! хранилищата.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Потвърдете основния ви имейл в GitHub, след това опитайте да свържете профила отново.</value>

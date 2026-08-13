@@ -75,7 +75,7 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportHeading => new TranslatableString(getKey(@"support.heading"), @"Love this update?");
 
         /// <summary>
-        /// "Support further development of osu! and {0} today!"
+        /// "Support further development of g0v0! and {0} today!"
         /// </summary>
         public static LocalisableString SupportText1(LocalisableString link) => new TranslatableString(getKey(@"support.text_1"), @"Support further development of osu! and {0} today!", link);
 

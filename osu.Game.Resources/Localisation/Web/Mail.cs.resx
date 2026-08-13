@@ -89,13 +89,13 @@
     <value>Pokud máš jakékoliv dotazy nebo zpětnou vazbu, neváhej se odpovědět na tento e-mail; ozvu se ti zpátky co nejdříve co můžu!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Je to díky lidem jako jsti ty, proč osu! může běžet hladce bez jakýkoliv reklam nebo nucených plateb.</value>
+    <value>Je to díky lidem jako jsti ty, proč g0v0! může běžet hladce bez jakýkoliv reklam nebo nucených plateb.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Tvoje podpora udržuje osu! po dobu {0}! Možná se to nezdá jako mnoho, ale to všechno se sčítá :).</value>
+    <value>Tvoje podpora udržuje g0v0! po dobu {0}! Možná se to nezdá jako mnoho, ale to všechno se sčítá :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Díky, osu! tě &lt;3luje</value>
+    <value>Díky, g0v0! tě &lt;3luje</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Překlad poskytovaný komunitou pro informační účely takto:</value>
@@ -107,7 +107,7 @@
     <value>Nyní máte přístup k osu!direct a mnoha dalším výhodám supporter tagu, po dobu {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Mnohokrát děkujeme za {0} vůči osu!.</value>
+    <value>Mnohokrát děkujeme za {0} vůči g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>podpora</value>
@@ -119,7 +119,7 @@
     <value>Jen vám chceme dát vědět, že od vaší poslední návštěvy byla nová odpověď v "{0}".</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nová odpověd téma "{0}"</value>
+    <value>[g0v0!] Nová odpověd téma "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Pokud již nechcete sledovat toto téma, můžete kliknout na odkaz "Odhlásit téma" nalezený v dolní části tématu výše, nebo ze stránky pro správu předplatného tématu:</value>
@@ -176,7 +176,7 @@
     <value>K tomuto dárku byla napsaná tato zpráva:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Dostal si status osu!podporovatele jako dárek!</value>
+    <value>Dostal si status g0v0!podporovatele jako dárek!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>Toto je potvrzovací e-mail, který vás informuje, že vaše osu! e-mailová adresa byla změněna na: "{0}".</value>
@@ -209,7 +209,7 @@
     <value>Změnit předvolby e-mailových oznámení:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nová osu! oznámení</value>
+    <value>Nová g0v0! oznámení</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Toto je pouze potvrzení toho, že od Vašeho osu! účtu bylo změněno heslo.</value>

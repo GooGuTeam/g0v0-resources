@@ -62,7 +62,7 @@
     <value>Tikrina viso ekrano galimybes...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! leidžiamas tik viso ekrano režimu, garantuodamas žemą gaišties laiką!</value>
+    <value>g0v0! leidžiamas tik viso ekrano režimu, garantuodamas žemą gaišties laiką!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Negali leisti tik viso ekrano režimu. Patirsite šiokias įvesties gaišties problemas.</value>

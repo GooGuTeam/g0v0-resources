@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="page_description" xml:space="preserve">
-    <value>Vybraní umelci v osu!</value>
+    <value>Vybraní umelci v g0v0!</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>Vybraní umelci</value>
@@ -77,13 +77,13 @@
     <value>Beatmapová šablóna zatiaľ nie je dostupná</value>
   </data>
   <data name="index.description" xml:space="preserve">
-    <value>Vybraní umelci sú umelci, s ktorými spolupracujeme, aby sme priniesli novú a originálnu hudbu do osu!. Títo umelci a výber ich skladieb boli ručne vybrané osu! teamom vďaka tomu, že boli úžasné a vhodné pre mapovanie. Niektorí z týchto vybraných umelcov taktiež vytvorili exkluzívne skladby pre použitie v osu!.&lt;br&gt;&lt;br&gt;Všetky skladby v tejto sekcii sú poskytnuté ako predom načasované .osz súbory a boli oficiálne licencované pre použitie v osu! a obsahu súvisiacom s osu!.</value>
+    <value>Vybraní umelci sú umelci, s ktorými spolupracujeme, aby sme priniesli novú a originálnu hudbu do g0v0!. Títo umelci a výber ich skladieb boli ručne vybrané g0v0! teamom vďaka tomu, že boli úžasné a vhodné pre mapovanie. Niektorí z týchto vybraných umelcov taktiež vytvorili exkluzívne skladby pre použitie v g0v0!.&lt;br&gt;&lt;br&gt;Všetky skladby v tejto sekcii sú poskytnuté ako predom načasované .osz súbory a boli oficiálne licencované pre použitie v g0v0! a obsahu súvisiacom s g0v0!.</value>
   </data>
   <data name="links.beatmaps" xml:space="preserve">
-    <value>osu! Beatmapy</value>
+    <value>g0v0! Beatmapy</value>
   </data>
   <data name="links.osu" xml:space="preserve">
-    <value>osu! profil</value>
+    <value>g0v0! profil</value>
   </data>
   <data name="links.site" xml:space="preserve">
     <value>Oficiálna Webstránka</value>
@@ -95,7 +95,7 @@
     <value>{0} skladba|{0} skladby</value>
   </data>
   <data name="songs.original" xml:space="preserve">
-    <value>osu! originál</value>
+    <value>g0v0! originál</value>
   </data>
   <data name="songs.original_badge" xml:space="preserve">
     <value>ORIGINÁL</value>

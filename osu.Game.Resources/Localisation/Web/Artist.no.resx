@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="page_description" xml:space="preserve">
-    <value>Utvalgte artister på osu!</value>
+    <value>Utvalgte artister på g0v0!</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>Utvalgte Artister</value>
@@ -77,13 +77,13 @@
     <value>Beatmapmalen er ikke tilgjengelig ennå</value>
   </data>
   <data name="index.description" xml:space="preserve">
-    <value>Featured artists er artister som vi samarbeider med for å bringe ny og original musikk til osu!. Disse artistene og et utvalg av deres sanger har blitt håndplukket av osu! teamet, ettersom de er imponerende og tilpasset til mapping. Noen av disse artistene fra "featured artists" har også laget nye og eksklusive sanger til bruk i osu!.&lt;br&gt;&lt;br&gt;Alle sangene i denne seksjonen tilbys som forhåndstrimmet .osz filer og har offisielt blitt lisensiert for bruk i osu! og osu! relatert innhold.</value>
+    <value>Featured artists er artister som vi samarbeider med for å bringe ny og original musikk til g0v0!. Disse artistene og et utvalg av deres sanger har blitt håndplukket av g0v0! teamet, ettersom de er imponerende og tilpasset til mapping. Noen av disse artistene fra "featured artists" har også laget nye og eksklusive sanger til bruk i g0v0!.&lt;br&gt;&lt;br&gt;Alle sangene i denne seksjonen tilbys som forhåndstrimmet .osz filer og har offisielt blitt lisensiert for bruk i g0v0! og g0v0! relatert innhold.</value>
   </data>
   <data name="links.beatmaps" xml:space="preserve">
-    <value>osu! Beatmaps</value>
+    <value>g0v0! Beatmaps</value>
   </data>
   <data name="links.osu" xml:space="preserve">
-    <value>osu! profil</value>
+    <value>g0v0! profil</value>
   </data>
   <data name="links.site" xml:space="preserve">
     <value>Offisielt nettsted</value>
@@ -95,7 +95,7 @@
     <value>{0} sang|{0} sanger</value>
   </data>
   <data name="songs.original" xml:space="preserve">
-    <value>osu! original</value>
+    <value>g0v0! original</value>
   </data>
   <data name="songs.original_badge" xml:space="preserve">
     <value>ORIGINAL</value>
@@ -119,7 +119,7 @@
     <value>Alle</value>
   </data>
   <data name="tracks.index.exclusive_only.exclusive_only" xml:space="preserve">
-    <value>osu! original
+    <value>g0v0! original
 </value>
   </data>
   <data name="tracks.index.form.advanced" xml:space="preserve">

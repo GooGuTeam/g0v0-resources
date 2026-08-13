@@ -89,9 +89,9 @@
     <value>아직 사용 중이신 운영체제에서 파일의 경량 링크를 지원하지 않는 이유로, 가져오는 중에 모든 파일의 복사본이 만들어집니다.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>가져오는 중에 두 번째 사본이 만들어집니다. 이를 피하려면 lazer 데이터 폴더가 이전 osu! 설치본의 폴더와 같은 드라이브 상에 위치해야 합니다. (그리고 파일 시스템은 NTFS여야 합니다).</value>
+    <value>가져오는 중에 두 번째 사본이 만들어집니다. 이를 피하려면 g0v0 데이터 폴더가 이전 osu! 설치본의 폴더와 같은 드라이브 상에 위치해야 합니다. (그리고 파일 시스템은 NTFS여야 합니다).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>가져오는 중에 두 번째 사본이 만들어집니다. 이를 피하려면 lazer 데이터 폴더가 이전 osu! 설치본의 폴더와 같은 드라이브 상에 위치해야 합니다. (그리고 파일 시스템이 하드 링크를 지원해야 합니다).</value>
+    <value>가져오는 중에 두 번째 사본이 만들어집니다. 이를 피하려면 g0v0 데이터 폴더가 이전 osu! 설치본의 폴더와 같은 드라이브 상에 위치해야 합니다. (그리고 파일 시스템이 하드 링크를 지원해야 합니다).</value>
   </data>
 </root>

@@ -89,7 +89,7 @@
     <value>Tjekker for nye opdateringer</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Åben osu!-mappen</value>
+    <value>Åben g0v0!-mappen</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Eksportér logfiler</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Kør opsætningsguide</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Lær mere om lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Tjek funktionssammenligningen og Ofte Stillede Spørgsmål</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Rapportér et problem</value>

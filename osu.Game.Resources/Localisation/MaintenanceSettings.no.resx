@@ -83,7 +83,7 @@
     <value>Det ser ut som at den velgte mappen allerede har en osu!-installasjon. Vil du bruke denne dataen istedet?</value>
   </data>
   <data name="restart_and_re_open_required_for_completion" xml:space="preserve">
-    <value>For å fullføre denne operasjonen, så vil osu lukke. Vennligst åpne spillet igjen for å bruke din nye filmappe.</value>
+    <value>For å fullføre denne operasjonen, så vil g0v0 lukke. Vennligst åpne spillet igjen for å bruke din nye filmappe.</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>Slett ALLE beatmaps</value>

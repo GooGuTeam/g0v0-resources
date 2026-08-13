@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>eroare de stocare osu!</value>
+    <value>eroare de stocare g0v0!</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Locația datelor osu! ("{0}") nu este accesibilă. Dacă este pe un dispozitiv de stocare extern, reconectați-l și încercați din nou.</value>
+    <value>Locația datelor g0v0! ("{0}") nu este accesibilă. Dacă este pe un dispozitiv de stocare extern, reconectați-l și încercați din nou.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>Locația datelor osu! ("{0}") este goală. Dacă ați mutat fișierele, închideți osu! și mutați-le înapoi.</value>
+    <value>Locația datelor g0v0! ("{0}") este goală. Dacă ați mutat fișierele, închideți g0v0! și mutați-le înapoi.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Încearcă din nou</value>

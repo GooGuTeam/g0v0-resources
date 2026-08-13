@@ -455,7 +455,7 @@
     <value>Daugiau Paieškos Pasirinkimų</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Rūšiavimas pagal {0} reikalauja aktyvios osu!rėmėjo žymos</value>
+    <value>Rūšiavimas pagal {0} reikalauja aktyvios g0v0!rėmėjo žymos</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>nėra rezultatų</value>
@@ -524,7 +524,7 @@
     <value>Rūšiavimas pagal {0} reikalauja aktyvios {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!rėmėjo žymos</value>
+    <value>g0v0!rėmėjo žymos</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Įtraukti konvertuotus beatmap'us</value>

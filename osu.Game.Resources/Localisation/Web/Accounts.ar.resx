@@ -143,7 +143,7 @@
     <value>تحديث</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>إذا كنت من مساهمي مستودعات osu! مفتوحة المصدر، فإن ربط حساب GitHub الخاص بك هنا سيربط إدخالات سجل التغييرات مع ملفك الشخصي على osu! لا يمكن ربط حسابات GitHub التي لم تساهم قبلًا في osu!.</value>
+    <value>إذا كنت من مساهمي مستودعات g0v0! مفتوحة المصدر، فإن ربط حساب GitHub الخاص بك هنا سيربط إدخالات سجل التغييرات مع ملفك الشخصي على g0v0! لا يمكن ربط حسابات GitHub التي لم تساهم قبلًا في g0v0!.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>ربط حساب GitHub</value>
@@ -158,7 +158,7 @@
     <value>حساب GitHub هذا مرتبط بالفعل بمستخدم مختلف.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>لا يمكن ربط حساب GitHub بلا أي مساهمات مسبقة في مستودعات osu!.</value>
+    <value>لا يمكن ربط حساب GitHub بلا أي مساهمات مسبقة في مستودعات g0v0!.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>الرجاء تأكيد بريدك الإلكتروني الأساسي على GitHub، ثم محاولة ربط حسابك مرة أخرى.</value>
@@ -269,7 +269,7 @@
     <value>إخفاء وجودك على الموقع</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>هذا يرتبط بوضع "الظهور دون اتصال" في osu!lazer</value>
+    <value>هذا يرتبط بوضع "الظهور دون اتصال" في g0v0!</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>الخصوصية</value>

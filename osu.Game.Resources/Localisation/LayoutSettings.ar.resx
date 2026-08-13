@@ -62,7 +62,7 @@
     <value>جارِ التحقق من قدرات ملء الشاشة...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! تقوم بتشغيل ملء الشاشة الحصري, مما يضمن تأخير منخفض!</value>
+    <value>g0v0! تقوم بتشغيل ملء الشاشة الحصري, مما يضمن تأخير منخفض!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>غير قادر على تشغيل ملء الشاشة الحصري. ستظل تواجه بعض التأخير عند الإدخال.</value>

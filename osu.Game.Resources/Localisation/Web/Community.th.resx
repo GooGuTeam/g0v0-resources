@@ -62,22 +62,22 @@
     <value>โอเค จัดไป {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>สนับสนุน osu!</value>
+    <value>สนับสนุน g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>หรือให้แท็กสนับสนุนแก่ผู้เล่นอื่น ๆ</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>คลิกที่ปุ่มหัวใจเพื่อดำเนินต่อไปที่ร้านของ osu!</value>
+    <value>คลิกที่ปุ่มหัวใจเพื่อดำเนินต่อไปที่ร้านของ g0v0!</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>ทำไมจึงควรสนับสนุน osu! และเงินที่ให้จะไปไหนบ้าง</value>
+    <value>ทำไมจึงควรสนับสนุน g0v0! และเงินที่ให้จะไปไหนบ้าง</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>ช่วยเหลือทีมงาน</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>ทีมงานที่คอยพัฒนา osu! การช่วยเหลือก็..ตามนั้นแหละ..ค่ากินค่าอยู่อะนะ</value>
+    <value>ทีมงานที่คอยพัฒนา g0v0! การช่วยเหลือก็..ตามนั้นแหละ..ค่ากินค่าอยู่อะนะ</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>เซิร์ฟเวอร์และโครงสร้างพื้นฐาน</value>
@@ -89,13 +89,13 @@
     <value>ศิลปินโดดเด่น</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>ด้วยการสนับสนุนของคุณ ทางเราจะสามารถซื้อสิทธิ์จากค่ายเพลงสุดมันส์มาใช้ใน osu! ได้มากขึ้น</value>
+    <value>ด้วยการสนับสนุนของคุณ ทางเราจะสามารถซื้อสิทธิ์จากค่ายเพลงสุดมันส์มาใช้ใน g0v0! ได้มากขึ้น</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>ดูรายการค่ายเพลงปัจจุบันที่ทางเราซื้อสิทธิ์มาอย่างถูกต้อง &amp;raquo; </value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>ช่วยให้ osu! อยู่ได้</value>
+    <value>ช่วยให้ g0v0! อยู่ได้</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>ความช่วยเหลือของคุณช่วยให้เกมนี้ไม่พึ่งพาใคร และไร้โฆษณาจากคนภายนอก</value>
@@ -113,7 +113,7 @@
     <value>โครงการเขียนโค้ดล่ารางวัล</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>ช่วยเหลือนักพัฒนาที่สละเวลาเพื่อให้ osu! ดีขึ้น</value>
+    <value>ช่วยเหลือนักพัฒนาที่สละเวลาเพื่อให้ g0v0! ดีขึ้น</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>อ่านเพิ่มเติม &amp;raquo;</value>

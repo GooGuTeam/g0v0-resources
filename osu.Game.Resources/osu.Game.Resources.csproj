@@ -3,20 +3,20 @@
     <TargetFramework>net8.0</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);1591</NoWarn>
-    <Title>osu!resources</Title>
-    <Product>osu!resources</Product>
-    <Company>ppy Pty Ltd</Company>
+    <Title>g0v0!resources</Title>
+    <Product>g0v0!resources</Product>
+    <Company>GooGuTeam; ppy Pty Ltd (original)</Company>
   </PropertyGroup>
   <PropertyGroup Label="Nuget">
-    <Title>osu!resources</Title>
+    <Title>g0v0!resources</Title>
     <PackageId>ppy.osu.Game.Resources</PackageId>
-    <Authors>ppy Pty Ltd</Authors>
-    <PackageLicenseUrl>https://github.com/ppy/osu-resources/blob/master/LICENCE.md</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/ppy/osu-resources</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/ppy/osu-resources</RepositoryUrl>
+    <Authors>GooGuTeam; ppy Pty Ltd</Authors>
+    <PackageLicenseUrl>https://github.com/GooGuTeam/g0v0-resources/blob/master/LICENCE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/GooGuTeam/g0v0-resources</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/GooGuTeam/g0v0-resources</RepositoryUrl>
     <PackageReleaseNotes>Automated release.</PackageReleaseNotes>
-    <copyright>Copyright (c) 2019 ppy Pty Ltd</copyright>
-    <PackageTags>osu game resources</PackageTags>
+    <copyright>Copyright (c) 2019 ppy Pty Ltd; Copyright (c) 2026 GooGuTeam</copyright>
+    <PackageTags>g0v0 game resources</PackageTags>
   </PropertyGroup>
   <ItemGroup>
     <EmbeddedResource Include="Beatmaps\**\*" />

@@ -89,13 +89,13 @@
     <value>หากคุณมีคำถามหรือข้อเสนอแนะอย่าลังเลที่จะตอบกลับอีเมลนี้ ฉันจะตอบกลับไปหาคุณโดยเร็วที่สุด!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>ขอบคุณคนอย่างคุณ osu! สามารถทำให้เกมและชุมชนทำงานได้อย่างราบรื่นโดยที่ไม่ต้องมีโฆษณาหรือบังคับให้จ่ายเงิน</value>
+    <value>ขอบคุณคนอย่างคุณ g0v0! สามารถทำให้เกมและชุมชนทำงานได้อย่างราบรื่นโดยที่ไม่ต้องมีโฆษณาหรือบังคับให้จ่ายเงิน</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>คุณช่วยต่ออายุให้ osu! อีกประมาณ {0} นาที ดูเหมือนไม่มากแต่ก็ช่วยได้เยอะนะ</value>
+    <value>คุณช่วยต่ออายุให้ g0v0! อีกประมาณ {0} นาที ดูเหมือนไม่มากแต่ก็ช่วยได้เยอะนะ</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>ขอบคุณมาก osu! &lt;3 คุณ</value>
+    <value>ขอบคุณมาก g0v0! &lt;3 คุณ</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>การแปลโดยชุมชนเพื่อวัตถุประสงค์ในการให้ข้อมูลดังต่อไปนี้:</value>
@@ -108,7 +108,7 @@
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
     <value>
-ขอบคุณมากๆ สำหรับ{0}ของคุณต่อ osu!.</value>
+ขอบคุณมากๆ สำหรับ{0}ของคุณต่อ g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>การสนับสนุน</value>
@@ -120,7 +120,7 @@
     <value>ขอแจ้งให้คุณทราบว่ามีการตอบกลับใหม่ใน "{0}" ตั้งแต่การเข้าชมครั้งล่าสุดของคุณ</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] มีการตอบกลับใหม่ใน "{0}"</value>
+    <value>[g0v0!] มีการตอบกลับใหม่ใน "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>หากคุณไม่ต้องการดูหัวข้อนี้อีก คุณสามารถคลิกลิงก์  "ยกเลิกหัวข้อการสมัครรับข้อมูล" ที่ด้านล่างของหัวข้อด้านบนหรือจากหน้าการจัดการการหัวข้อการสมัครสมาชิก</value>
@@ -155,7 +155,7 @@
     <value>เราได้รับคำสั่งซื้อ osu!store ของคุณแล้ว!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>ขอบคุณสำหรับคำสั่งซื้อของ osu! store!</value>
+    <value>ขอบคุณสำหรับคำสั่งซื้อของ g0v0! store!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>รวมยอดทั้งหมด</value>
@@ -212,7 +212,7 @@
     <value>เปลี่ยนการตั้งค่าการแจ้งเตือนทาง email</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>การแจ้งเตือน osu! ใหม่</value>
+    <value>การแจ้งเตือน g0v0! ใหม่</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>นี่เป็นการยืนยันว่ารหัสผ่าน osu! ของคุณถูกเปลี่ยน</value>

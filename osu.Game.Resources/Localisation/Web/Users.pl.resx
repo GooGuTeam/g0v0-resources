@@ -170,7 +170,7 @@
     <value>Istnieje kilka powodów, przez które Twoje konto mogło zostać zdezaktywowane:</value>
   </data>
   <data name="disabled.reasons.tos._" xml:space="preserve">
-    <value>Złamałeś(-aś) {0} lub {1} osu!.</value>
+    <value>Złamałeś(-aś) {0} lub {1} g0v0!.</value>
   </data>
   <data name="disabled.reasons.tos.community_rules" xml:space="preserve">
     <value>zasady społeczności</value>
@@ -233,7 +233,7 @@
     <value>Beta jest obecnie dostępna tylko dla wybranych użytkowników.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(donatorzy osu! otrzymają ją wkrótce)</value>
+    <value>(donatorzy g0v0! otrzymają ją wkrótce)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Aktywne</value>
@@ -353,13 +353,13 @@
     <value>Od samego początku</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>programista osu!</value>
+    <value>programista g0v0!</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>donator osu!</value>
+    <value>donator g0v0!</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
-    <value>Na osu! od {0}</value>
+    <value>Na g0v0! od {0}</value>
   </data>
   <data name="show.lastvisit" xml:space="preserve">
     <value>Ostatnio online {0}</value>
@@ -464,7 +464,7 @@
     <value>Tylko {0} mogą przesyłać pliki</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>donatorzy osu!</value>
+    <value>donatorzy g0v0!</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>domyślny tryb gry</value>
@@ -473,7 +473,7 @@
     <value>ustaw {0} jako domyślny tryb gry</value>
   </data>
   <data name="show.edit.hue.reset_no_supporter" xml:space="preserve">
-    <value>Czy na pewno chcesz przywrócić domyślny kolor profilu? Ponowna zmiana koloru będzie wymagała aktywnego statusu donatora osu!.</value>
+    <value>Czy na pewno chcesz przywrócić domyślny kolor profilu? Ponowna zmiana koloru będzie wymagała aktywnego statusu donatora g0v0!.</value>
   </data>
   <data name="show.edit.hue.title" xml:space="preserve">
     <value>Kolor</value>
@@ -482,7 +482,7 @@
     <value>Zmiana koloru profilu wymaga aktywnego statusu {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>donatora osu!</value>
+    <value>donatora g0v0!</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>brak</value>
@@ -800,7 +800,7 @@
     <value>Musisz być {0}, by odblokować tę funkcję.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>donatorem osu!</value>
+    <value>donatorem g0v0!</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>{0}</value>
@@ -899,7 +899,7 @@
     <value>zarejestruj się poprzez klient gry!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>ukończ proces rejestracji poprzez stronę osu!</value>
+    <value>ukończ proces rejestracji poprzez stronę g0v0!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Utworzono użytkownika</value>

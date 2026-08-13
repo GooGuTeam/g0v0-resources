@@ -80,7 +80,7 @@
     <value>Dette rulesettet har ikke en autoplay mod tilgjengelig!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>Det ser ut som at osu! ikke klarer å lage lyd. Vennligst prøv å endre lyd-enhet til en fungerende innstilling.</value>
+    <value>Det ser ut som at g0v0! ikke klarer å lage lyd. Vennligst prøv å endre lyd-enhet til en fungerende innstilling.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>Rekord-overlayet er deaktivert. Du kan slå den på ved å trykke på {0}.</value>
@@ -119,7 +119,7 @@
     <value>Din lokale kopi av beatmappet for denne reprisen ser ut til å være annerledes enn forventet. Du må kanskje oppdatere eller laste ned beatmappet på nytt.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Du kjører nå osu! {0}.
+    <value>Du kjører nå g0v0! {0}.
 Klikk for å se hva som er nytt!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

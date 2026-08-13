@@ -80,7 +80,7 @@
     <value>بررسی برای بروزرسانی</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>باز کردن فولتر osu!</value>
+    <value>باز کردن فولتر g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>صادر لاگ ها</value>
@@ -90,12 +90,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>اجرای راهنمای نصب</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>در مورد lazer بیشتر بدانید</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>مقایسه ها و سوالات متداول را بررسی کنید</value>
   </data>
   <data name="running_latest_release" xml:space="preserve">
     <value>شما در حال اجرای آخرین نگارش هستید ({0})</value>

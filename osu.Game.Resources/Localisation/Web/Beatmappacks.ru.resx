@@ -74,7 +74,7 @@
     <value>ПРОЧТИТЕ ЭТО ПЕРЕД ЗАГРУЗКОЙ</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Процесс установки: после загрузки сборки распакуйте её содержимое в папку Songs директории osu! — всё остальное сделает игра.</value>
+    <value>Процесс установки: после загрузки сборки распакуйте её содержимое в папку Songs директории g0v0! — всё остальное сделает игра.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>от {0}</value>

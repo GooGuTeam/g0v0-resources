@@ -354,10 +354,10 @@
     <value>อยู่ตั้งแต่โอสุเริ่มต้น</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>ผู้พัฒนา osu!</value>
+    <value>ผู้พัฒนา g0v0!</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>ผู้สนับสนุน osu!</value>
+    <value>ผู้สนับสนุน g0v0!</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>เข้าร่วมเมื่อ {0}</value>
@@ -465,7 +465,7 @@
     <value>อัพโหลดได้เฉพาะ {0} เท่านั้น</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>ผู้สนับสนุน osu!</value>
+    <value>ผู้สนับสนุน g0v0!</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>เกมโหมดหลัก</value>
@@ -483,7 +483,7 @@
     <value>ธีมสีที่กำหนดเองมีให้เฉพาะสำหรับ {0} เท่านั้น</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>ผู้สนับสนุน osu!</value>
+    <value>ผู้สนับสนุน g0v0!</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>ไม่มี</value>
@@ -798,7 +798,7 @@
     <value>คุณจำเป็นจะต้อง {0} เพื่อที่จะปลดล็อกสิ่งนี้</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>ผู้สนับสนุน osu!</value>
+    <value>ผู้สนับสนุน g0v0!</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>การมีส่วนร่วม {0}</value>
@@ -897,7 +897,7 @@
     <value>โปรดลงทะเบียนผ่านในเกมแทน!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>กรุณาลงทะเบียนโดยใช้เว็บไซต์ osu! </value>
+    <value>กรุณาลงทะเบียนโดยใช้เว็บไซต์ g0v0! </value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>ผู้ใช้ถูกสร้างขึ้น</value>

@@ -89,7 +89,7 @@
     <value>Tarkistetaan päivityksiä</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Avaa osu!-kansio</value>
+    <value>Avaa g0v0!-kansio</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Vie lokitiedot</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Avaa ensiasennusopas</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Lue lisää lazerista</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Tutustu ominaisuuksien vertailuun ja usein kysyttyihin kysymyksiin</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Ilmoita ongelmasta</value>

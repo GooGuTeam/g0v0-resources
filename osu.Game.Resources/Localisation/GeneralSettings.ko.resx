@@ -89,7 +89,7 @@
     <value>업데이트 확인 중</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>osu! 폴더 열기</value>
+    <value>g0v0! 폴더 열기</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>로그 내보내기</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>설정 마법사 실행</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>lazer에 대해 자세히 알아보기</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>기능 비교와 자주 묻는 질문을 확인해보세요</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>문제 제보하기</value>

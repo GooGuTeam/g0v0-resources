@@ -80,7 +80,7 @@
     <value>найкраща безкоштовна ритм-гра</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>ритм усього лиш в кліці від вас</value>
+    <value>Вільний і відкритий ритмічний досвід!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Розширений пошук</value>
@@ -308,13 +308,13 @@
     <value>скидується {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Завантажити osu!</value>
+    <value>Завантажити g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Підтримати osu!</value>
+    <value>Підтримати g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>Магазин osu!</value>
+    <value>Магазин g0v0!</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Пряма трансляція</value>

@@ -80,7 +80,7 @@
     <value>en en iyi free-to-win ritim oyunu</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>ritim yalnızca bir tık uzakta</value>
+    <value>Özgür ve açık ritim deneyimi!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Gelişmiş arama</value>
@@ -308,10 +308,10 @@
     <value>{0} tarihinde sıfırlanır</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>osu!'yu indir</value>
+    <value>g0v0!'yu indir</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>osu!'yu destekle</value>
+    <value>g0v0!'yu destekle</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
     <value>osu!store</value>

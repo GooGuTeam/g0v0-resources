@@ -89,9 +89,9 @@
     <value>Pemautan ringan fail belum disokong pada tatanan pengendalian anda lagi jadi salinan semua fail akan dibuat semasa import.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Semua fail akan dipenduakan semasa import. Untuk mengelakkan hal ini, sila pastikan folder data lazer berada pada pemacu yang sama dengan pemasangan osu! anda yang sebelumnya (dan pastikan tatanan fail adalah NTFS).</value>
+    <value>Semua fail akan dipenduakan semasa import. Untuk mengelakkan hal ini, sila pastikan folder data g0v0 berada pada pemacu yang sama dengan pemasangan osu! anda yang sebelumnya (dan pastikan tatanan fail adalah NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Semua fail akan dipenduakan semasa import. Untuk mengelakkan hal ini, sila pastikan folder data lazer berada pada pemacu yang sama dengan pemasangan osu! anda yang sebelumnya (dan pastikan pautan keras disokong tatanan fail).</value>
+    <value>Semua fail akan dipenduakan semasa import. Untuk mengelakkan hal ini, sila pastikan folder data g0v0 berada pada pemacu yang sama dengan pemasangan osu! anda yang sebelumnya (dan pastikan pautan keras disokong tatanan fail).</value>
   </data>
 </root>

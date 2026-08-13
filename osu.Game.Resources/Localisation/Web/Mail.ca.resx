@@ -89,13 +89,13 @@
     <value>Si tens preguntes o vols donar-nos comentaris, no dubtis en respondre a aquest correu. Ens posarem en contacte amb tu tan ràpid com ens sigui possible!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>És gràcies a gent com tu que osu! pot mantenir el joc i la comunitat en servei sense anuncis o pagaments forçosos.</value>
+    <value>És gràcies a gent com tu que g0v0! pot mantenir el joc i la comunitat en servei sense anuncis o pagaments forçosos.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>El vostre suport manté a osu! funcionant durant {0}! Potser no sembla gaire, però tot suma :).</value>
+    <value>El vostre suport manté a g0v0! funcionant durant {0}! Potser no sembla gaire, però tot suma :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Gràcies, l'osu! et &lt;3</value>
+    <value>Gràcies, l'g0v0! et &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>A continuació hi ha una traducció feta per la comunitat:</value>
@@ -107,7 +107,7 @@
     <value>Ara tindràs accés a osu!direct i a altres beneficis d'osu!supporter durant {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Gràcies pel teu {0} a osu!.</value>
+    <value>Gràcies pel teu {0} a g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>suport</value>
@@ -119,7 +119,7 @@
     <value>Et fem saber que hi ha noves respostes a «{0}» des de la teva última visita.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nova resposta al tema "{0}"</value>
+    <value>[g0v0!] Nova resposta al tema "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Si ja no vols seguir aquest tema, pot clicar l'enllaç "Deixa de seguir el tema" al final del tema de sobre, o bé des de la pàgina de gestió de suscripcions a temes:</value>
@@ -191,7 +191,7 @@
     <value>confirmació del canvi d'adreça de correu d'osu!</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
-    <value>Sospitem que el teu compte d'osu! ha estat compromès, o té activitat sospitosa decent o una contrasenya molt dèbil. Així, et requerim que estableixis una nova contrasenya. Assegura't d'elegir una contrasenya segura.</value>
+    <value>Sospitem que el teu compte d'g0v0! ha estat compromès, o té activitat sospitosa decent o una contrasenya molt dèbil. Així, et requerim que estableixis una nova contrasenya. Assegura't d'elegir una contrasenya segura.</value>
   </data>
   <data name="user_force_reactivation.perform_reset" xml:space="preserve">
     <value>La pots restablir des de {0}</value>
@@ -209,7 +209,7 @@
     <value>Canvia les preferències de notificacions per correu:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Noves notificacions d'osu!</value>
+    <value>Noves notificacions d'g0v0!</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Aquest correu és una confirmació sobre el canvi de la teva contrasenya d'osu!</value>
@@ -227,7 +227,7 @@
     <value>Altrament també pots visitar aquest enllaç per a finalitzar la verificació:</value>
   </data>
   <data name="user_verification.report" xml:space="preserve">
-    <value>Si no has demanat això, respon IMMEDIATAMENT, ja que el teu compte d'osu! pot estar en perill.</value>
+    <value>Si no has demanat això, respon IMMEDIATAMENT, ja que el teu compte d'g0v0! pot estar en perill.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
     <value>verificació del compte d'osu!</value>

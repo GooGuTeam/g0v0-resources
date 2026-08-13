@@ -68,7 +68,7 @@
     <value>Žiūrėk čia dėl papildomos informacijos.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Kai kurie elementai buvo pašalinti iš šio bitmapo, įvertinus juos kaip netinkamus naudojimui tarp osu!.</value>
+    <value>Kai kurie elementai buvo pašalinti iš šio bitmapo, įvertinus juos kaip netinkamus naudojimui tarp g0v0!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Ištrintas beatmap'as</value>
@@ -311,7 +311,7 @@
     <value>Spausk &lt;a href="{0}"&gt;čia&lt;/a&gt;, kad pamatytum visus privalomus, kuriuos gausi!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Tu turi būti osu!rėmėjas, kad pasiektum draugų, šalių ar konkrečių modų rezultatus!</value>
+    <value>Tu turi būti g0v0!rėmėjas, kad pasiektum draugų, šalių ar konkrečių modų rezultatus!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Komandos Rezultatai</value>

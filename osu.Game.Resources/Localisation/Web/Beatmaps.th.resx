@@ -500,7 +500,7 @@
     <value>ตัวเลือกการค้นหาเพิ่มเติม</value>
   </data>
   <data name="listing.search.rank_filter_note" xml:space="preserve">
-    <value>จำนวนแรงค์สูงสุดและผลลัพธ์ในหน้านี้ขึ้นอยู่กับ "คะแนน Standardized" (หรือก็คือ "คะแนน lazer") ที่คุณทำได้</value>
+    <value>จำนวนแรงค์สูงสุดและผลลัพธ์ในหน้านี้ขึ้นอยู่กับ "คะแนน Standardized" (หรือก็คือ "คะแนน g0v0!") ที่คุณทำได้</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
     <value>การกรองด้วย {0} จำเป็นต้องมีแท็กผู้สนับสนุนที่ทำงานอยู่</value>
@@ -572,7 +572,7 @@
     <value>กรองโดย {0} ต้องมี {1} ทำงานอยู่</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>แท็กผู้สนับสนุน osu!</value>
+    <value>แท็กผู้สนับสนุน g0v0!</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>รวมบีทแมพที่แปลงแล้ว</value>

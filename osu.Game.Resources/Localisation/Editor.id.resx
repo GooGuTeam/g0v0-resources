@@ -140,7 +140,7 @@
     <value>Sembunyikan panel samping pada saat tidak dilayangi oleh kursor</value>
   </data>
   <data name="must_be_in_editor_to_handle_links" xml:space="preserve">
-    <value>osu! harus berada pada mode edit untuk menangani tautan editor</value>
+    <value>g0v0! harus berada pada mode edit untuk menangani tautan editor</value>
   </data>
   <data name="failed_to_parse_edtior_link" xml:space="preserve">
     <value>Tautan editor gagal diurai</value>

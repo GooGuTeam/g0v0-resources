@@ -68,7 +68,7 @@
     <value>Configurazione iniziale</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Imposta osu! come meglio credi</value>
+    <value>Imposta g0v0! come meglio credi</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Benvenuto</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Benvenuto nella guida per la configurazione iniziale!
 
-osu! è un gioco estremamente configurabile, quindi dirigersi a modificare le impostazioni può risultare opprimente certe volte. Questa guida ti aiuterà con le scelte importanti per garantirti un'esperienza iniziale coi fiocchi!</value>
+g0v0! è un gioco estremamente configurabile, quindi dirigersi a modificare le impostazioni può risultare opprimente certe volte. Questa guida ti aiuterà con le scelte importanti per garantirti un'esperienza iniziale coi fiocchi!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>La dimensione dell'interfaccia utente di osu! può essere regolata a proprio piacimento.</value>
+    <value>La dimensione dell'interfaccia utente di g0v0! può essere regolata a proprio piacimento.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Comportamento</value>
@@ -87,7 +87,7 @@ osu! è un gioco estremamente configurabile, quindi dirigersi a modificare le im
   <data name="behaviour_description" xml:space="preserve">
     <value>Alcune nuove impostazioni predefinite per i comportamenti di gioco sono state implementate, con l'obiettivo di migliorare l'esperienza di gioco e renderla più accessibile a tutti.
 
-Ti consigliamo di provare i nuovi valori predefiniti, ma se vuoi che le cose siano come nella versione classica di osu! puoi facilmente applicare alcuni sani valori predefiniti qui sotto.</value>
+Ti consigliamo di provare i nuovi valori predefiniti, ma se vuoi che le cose siano come nella versione classica di g0v0! puoi facilmente applicare alcuni sani valori predefiniti qui sotto.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Nuovi valori predefiniti</value>

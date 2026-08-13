@@ -62,7 +62,7 @@
     <value>Verificando por capacidades de tela cheia...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! está rodando em tela cheia exclusiva, garantindo baixa latência!</value>
+    <value>g0v0! está rodando em tela cheia exclusiva, garantindo baixa latência!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Não foi possível executar em tela cheia exclusiva. Você talvez experiencie alguma latência de entrada.</value>

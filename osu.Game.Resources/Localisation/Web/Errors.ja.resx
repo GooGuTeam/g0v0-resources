@@ -71,7 +71,7 @@
     <value>{0}パラメータは最大{1}個の項目を持つことができます|{0}パラメータは最大{1}個の項目を持つことができます</value>
   </data>
   <data name="supporter_only" xml:space="preserve">
-    <value>osu!サポーター限定の機能です。</value>
+    <value>g0v0!サポーター限定の機能です。</value>
   </data>
   <data name="unknown" xml:space="preserve">
     <value>不明のエラーが発生しました。</value>

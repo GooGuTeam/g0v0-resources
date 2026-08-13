@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>osu! depolama hatası</value>
+    <value>g0v0! depolama hatası</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>Belirtilen osu! veri konumuna ("{0}") erişilemiyor. Harici depolama alanındaysa, lütfen cihazı yeniden bağla ve tekrar dene.</value>
+    <value>Belirtilen g0v0! veri konumuna ("{0}") erişilemiyor. Harici depolama alanındaysa, lütfen cihazı yeniden bağla ve tekrar dene.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>Belirtilen osu! veri konumu ("{0}") boş. Eğer dosyaları taşıdıysan, lütfen osu!'yu kapat ve dosyaları geri taşı.</value>
+    <value>Belirtilen g0v0! veri konumu ("{0}") boş. Eğer dosyaları taşıdıysan, lütfen g0v0!'yu kapat ve dosyaları geri taşı.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Tekrar dene</value>

@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="storage_error" xml:space="preserve">
-    <value>Erro de armazenamento do osu!</value>
+    <value>Erro de armazenamento do g0v0!</value>
   </data>
   <data name="location_is_not_accessible" xml:space="preserve">
-    <value>A localização de dados do osu! especificada ("{0}") não está acessível. Se estiver num armazenamento externo, por favor, volte a ligar o dispositivo e tente novamente.</value>
+    <value>A localização de dados do g0v0! especificada ("{0}") não está acessível. Se estiver num armazenamento externo, por favor, volte a ligar o dispositivo e tente novamente.</value>
   </data>
   <data name="location_is_empty" xml:space="preserve">
-    <value>A localização de dados do osu! especificada ("{0}") está vazia. Se moveu os ficheiros, por favor, feche o osu! e volte a colocá‑los no local original.</value>
+    <value>A localização de dados do g0v0! especificada ("{0}") está vazia. Se moveu os ficheiros, por favor, feche o g0v0! e volte a colocá‑los no local original.</value>
   </data>
   <data name="try_again" xml:space="preserve">
     <value>Tente novamente</value>

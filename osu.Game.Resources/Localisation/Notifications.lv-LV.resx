@@ -80,7 +80,7 @@
     <value>Pašreizējam spēles režīmam nav pieejams automātiskās atskaņošanas mods!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! nespēj pareizi atskaņot audio.\n\nPamēģiniet nomainīt audio ierīci uz darbojošos iestatījumu.</value>
+    <value>g0v0! nespēj pareizi atskaņot audio.\n\nPamēģiniet nomainīt audio ierīci uz darbojošos iestatījumu.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>Rezultātu pārklājums pašlaik ir atspējots. To var pārslēgt, nospiežot {0}.</value>
@@ -113,7 +113,7 @@
     <value>Tavi lokālais ritma-mapes atkārtojums izskatās citādāk nekā paredzēts. Tev iespējams to vajag atjaunināt vai atkārtoti to lejupielādēt.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Tu tagad esi palaidis osu! {0}.
+    <value>Tu tagad esi palaidis g0v0! {0}.
 Uzspied lai apskatītu kas ir jauns!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

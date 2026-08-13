@@ -89,9 +89,9 @@
     <value>Tava operācijas sistēma neatbalsta vieglsvara failu sasaisti, tā kā importēšanas laikā tiks izveidota kopija ar visiem failiem.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Otra kopija ar visiem failiem tiks izveidota importēšanas laikā. Lai izvairītos no tā, pārliecinies ka lazer datu mape ir tajā pašā diskā kur tava iepriekšējā osu! instalizācija (un ka tava failu sistēma ir NTFS).</value>
+    <value>Otra kopija ar visiem failiem tiks izveidota importēšanas laikā. Lai izvairītos no tā, pārliecinies ka g0v0 datu mape ir tajā pašā diskā kur tava iepriekšējā osu! instalizācija (un ka tava failu sistēma ir NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Otra kopija ar visiem failiem tiks izveidota importēšanas laikā. Lai izvairītos no tā, pārliecinies ka lazer datu mape ir tajā pašā diskā kur tava iepriekšējā osu! instalizācija (un ka tava failu sistēma atbalsta cietas saites).</value>
+    <value>Otra kopija ar visiem failiem tiks izveidota importēšanas laikā. Lai izvairītos no tā, pārliecinies ka g0v0 datu mape ir tajā pašā diskā kur tava iepriekšējā osu! instalizācija (un ka tava failu sistēma atbalsta cietas saites).</value>
   </data>
 </root>

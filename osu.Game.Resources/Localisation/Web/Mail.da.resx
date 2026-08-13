@@ -89,13 +89,13 @@
     <value>Hvis du har nogen spørgsmål så tøv ikke med at svare på denne mail; Jeg vil vende tilbage til dem snarest muligt!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Det er takket være folk som dig at osu! kan blive ved med at holde spillet og fællesskabet kørende uden problemer eller nogen former for betaling.</value>
+    <value>Det er takket være folk som dig at g0v0! kan blive ved med at holde spillet og fællesskabet kørende uden problemer eller nogen former for betaling.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Din støtte holder osu! kørende for omtrent {0}! Det ser måske ikke ud af meget, men hver en krone hjælper :).</value>
+    <value>Din støtte holder g0v0! kørende for omtrent {0}! Det ser måske ikke ud af meget, men hver en krone hjælper :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Tak, osu! elsker dig! &lt;3</value>
+    <value>Tak, g0v0! elsker dig! &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>En oversættelse lavet af frivillige følger:</value>
@@ -107,7 +107,7 @@
     <value>Du har nu adgang til osu!direct samt mange andre supporter fordele i {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Mange tak for din {0} til osu!.</value>
+    <value>Mange tak for din {0} til g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>support</value>
@@ -119,7 +119,7 @@
     <value>Der har været et nyt svar i "{0}" siden dit sidste besøg.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nyt svar for emne "{0}"</value>
+    <value>[g0v0!] Nyt svar for emne "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Hvis du ikke længere ønsker at følge dette emne kan du enten klikke på "Følg ikke emne" linket fundet nederst på ovenstående emner, eller fra emne følgesiden:</value>
@@ -209,7 +209,7 @@
     <value>Skift e-mail notifikationer præferencer:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nye osu! notifikationer</value>
+    <value>Nye g0v0! notifikationer</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Dette er en bekræftekse på, at din osu! adgangskode er blevet ændret.</value>

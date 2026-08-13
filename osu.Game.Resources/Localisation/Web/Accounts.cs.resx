@@ -143,7 +143,7 @@
     <value>aktualizovat</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Pokud jste přispěvatelem do repozitářů s otevřeným zdrojovým kódem osu!, propojením vašeho účtu GitHub zde budou vaše záznamy změn spojeny s vaším osu! profilem. Účty GitHub bez historie příspěvků s osu! nelze propojit.</value>
+    <value>Pokud jste přispěvatelem do repozitářů s otevřeným zdrojovým kódem g0v0!, propojením vašeho účtu GitHub zde budou vaše záznamy změn spojeny s vaším g0v0! profilem. Účty GitHub bez historie příspěvků s g0v0! nelze propojit.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Připojit GitHub účet</value>
@@ -158,7 +158,7 @@
     <value>Tento GitHub účet je již propojen s jiným uživatelem.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Nelze propojit GitHub účet bez historie příspěvků v osu! repozitářích.</value>
+    <value>Nelze propojit GitHub účet bez historie příspěvků v g0v0! repozitářích.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Ověřte prosím svůj primární e-mail na GitHubu a pak zkuste znovu propojit svůj účet.</value>
@@ -299,7 +299,7 @@
     <value>skrýt tvůj online status</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>toto je stejné, jako "neviditelný" režim v osu!lazer</value>
+    <value>toto je stejné, jako "neviditelný" režim v g0v0!</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Soukromí</value>

@@ -89,9 +89,9 @@
     <value>Lättviktslänkning av filer stöds inte av ditt operativsystem ännu, så en kopia av alla filer kommer att göras under importen.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>En ytterligare kopia av alla filer kommer att göras under importeringen. För att undvika detta, var god och se till att lazer datamappen är på samma enhet som din föregående osu! installation (och att filsystemet är NTFS).</value>
+    <value>En ytterligare kopia av alla filer kommer att göras under importeringen. För att undvika detta, var god och se till att g0v0 datamappen är på samma enhet som din föregående osu! installation (och att filsystemet är NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>En ytterligare kopia av alla filer kommer att göras under importeringen. För att undvika detta, var god och se till att lazer datamappen är på samma enhet som din föregående osu! installation (och att filsystemet stöder hårda länkar).</value>
+    <value>En ytterligare kopia av alla filer kommer att göras under importeringen. För att undvika detta, var god och se till att g0v0 datamappen är på samma enhet som din föregående osu! installation (och att filsystemet stöder hårda länkar).</value>
   </data>
 </root>

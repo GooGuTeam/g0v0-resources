@@ -80,7 +80,7 @@
     <value>افضل لعبة ايقاع مجانية</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>الإيقاع على بُعد نقرة واحدة فقط</value>
+    <value>تجربة إيقاعية حرة ومفتوحة!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>البحث المتقدم</value>
@@ -309,13 +309,13 @@
     <value>إعادة تعيين {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>حَمِّل osu!</value>
+    <value>حَمِّل g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>ادعم osu!</value>
+    <value>ادعم g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>متجر!osu</value>
+    <value>متجر!g0v0</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>البث المباشر المميّز</value>

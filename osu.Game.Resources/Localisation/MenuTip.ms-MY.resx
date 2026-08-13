@@ -68,7 +68,7 @@
     <value>Semua tetapan adalah dinamik dan berkesan langsung. Cuba ubah rupa sambil menonton automain!</value>
   </data>
   <data name="new_features_are_coming_online" xml:space="preserve">
-    <value>Ciri-ciri baharu dimuat naik setiap pengemaskinian. Pastikan osu! selalu dikemas kini!</value>
+    <value>Ciri-ciri baharu dimuat naik setiap pengemaskinian. Pastikan g0v0! selalu dikemas kini!</value>
   </data>
   <data name="ui_scaling_settings" xml:space="preserve">
     <value>Sekiranya UI tampak terlalu besar atau kecil untuk anda, cuba laraskan skala UI dalam tetapan!</value>
@@ -123,9 +123,6 @@
   </data>
   <data name="autoplay_beatmap_shortcut" xml:space="preserve">
     <value>Ctrl-Enter di pemilih lagu akan memulakan peta rentak dalam mod automain!</value>
-  </data>
-  <data name="lazer_is_not_a_word" xml:space="preserve">
-    <value>"Lazer" tidak wujud dalam Kamus Dewan. Perkataan untuk pemancar cahaya dieja "laser".</value>
   </data>
   <data name="multithreading_support" xml:space="preserve">
     <value>Sokongan multipembenangan bermakna penilaian dan masukan anda akan jitu dengan "FPS" rendah sekalipun!</value>

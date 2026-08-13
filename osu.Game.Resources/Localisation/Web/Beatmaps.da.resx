@@ -500,10 +500,10 @@
     <value>Flere Søgefunktioner</value>
   </data>
   <data name="listing.search.rank_filter_note" xml:space="preserve">
-    <value>Profilens højeste rangerings-tællinger og resultater er vist på denne side baseret på din højeste "standardiserede" (aka "lazer") scores på beatmaps.</value>
+    <value>Profilens højeste rangerings-tællinger og resultater er vist på denne side baseret på din højeste "standardiserede" (aka "g0v0!") scores på beatmaps.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrering af {0} kræver et aktivt osu! supporter tag</value>
+    <value>Filtrering af {0} kræver et aktivt g0v0! supporter tag</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>ingen resultater</value>

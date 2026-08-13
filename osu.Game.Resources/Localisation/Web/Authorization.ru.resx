@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Может, лучше в osu! поиграете?</value>
+    <value>Может, лучше в g0v0! поиграете?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Войдите, чтобы продолжить.</value>
@@ -215,10 +215,10 @@
     <value>Нельзя редактировать пост в закрытой теме.</value>
   </data>
   <data name="forum.post.store.play_more" xml:space="preserve">
-    <value>Пожалуйста, поиграйте в osu!, прежде чем начать создавать темы! Если у вас возникли проблемы, попробуйте сообщить об этом уже в существующей теме "Вопросы и проблемы" на форуме "Русский".</value>
+    <value>Пожалуйста, поиграйте в g0v0!, прежде чем начать создавать темы! Если у вас возникли проблемы, попробуйте сообщить об этом уже в существующей теме "Вопросы и проблемы" на форуме "Русский".</value>
   </data>
   <data name="forum.post.store.too_many_help_posts" xml:space="preserve">
-    <value>Поиграйте в osu! ещё немного, прежде чем снова публиковать посты. Если вы всё еще испытываете проблемы с игрой, напишите на почту support@ppy.sh</value>
+    <value>Поиграйте в g0v0! ещё немного, прежде чем снова публиковать посты. Если вы всё еще испытываете проблемы с игрой, напишите на почту support@ppy.sh</value>
   </data>
   <data name="forum.topic.reply.double_post" xml:space="preserve">
     <value>Пожалуйста, отредактируйте ваш последний пост, не создавайте новый.</value>

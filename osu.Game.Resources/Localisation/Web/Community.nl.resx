@@ -62,7 +62,7 @@
     <value>Ik ben overtuigd! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>steun osu!</value>
+    <value>steun g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>of geef supporter als geschenk aan andere spelers</value>
@@ -71,13 +71,13 @@
     <value>klik op het hartje om naar de osu!store te gaan</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Waarom zou ik osu! steunen? Waar gaat het geld naartoe?</value>
+    <value>Waarom zou ik g0v0! steunen? Waar gaat het geld naartoe?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Steun het team</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Een klein team zorgt voor het onderhoud en de ontwikkeling van osu!. Jouw steun helpt hen, wel... te leven.</value>
+    <value>Een klein team zorgt voor het onderhoud en de ontwikkeling van g0v0!. Jouw steun helpt hen, wel... te leven.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Serverinfrastructuur</value>
@@ -89,16 +89,16 @@
     <value>Uitgelichte artiesten</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Met de hulp van jouw steun kunnen we nóg meer geweldige artiesten aanspreken. Dit laat ons toe licenties voor het gebruik van hun muziek in osu! te bemachtigen.</value>
+    <value>Met de hulp van jouw steun kunnen we nóg meer geweldige artiesten aanspreken. Dit laat ons toe licenties voor het gebruik van hun muziek in g0v0! te bemachtigen.</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Huidige artiestenlijst verkennen &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Houd osu! zelfvoorzienend</value>
+    <value>Houd g0v0! zelfvoorzienend</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
-    <value>Jouw bijdragen helpen het spel onafhankelijk te houden. Dit betekent dat er geen advertenties of externe sponsors te bespeuren (zullen) zijn in osu!.</value>
+    <value>Jouw bijdragen helpen het spel onafhankelijk te houden. Dit betekent dat er geen advertenties of externe sponsors te bespeuren (zullen) zijn in g0v0!.</value>
   </data>
   <data name="support.why-support.tournaments.title" xml:space="preserve">
     <value>Officiële toernooien</value>
@@ -113,7 +113,7 @@
     <value>Open source beloningsprogramma </value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Geef de communityleden die hun tijd en moeite hebben gegeven om osu! beter te maken een duwtje in de rug.</value>
+    <value>Geef de communityleden die hun tijd en moeite hebben gegeven om g0v0! beter te maken een duwtje in de rug.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Meer lezen &amp;raquo;</value>

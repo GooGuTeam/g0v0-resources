@@ -80,10 +80,10 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;{1}&lt;/em&gt; ({2}) картасында бірінші орынды жоғалтты</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; тағы да osu!-ды қолдады - колдауыңызға рахмет!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; тағы да g0v0!-ды қолдады - колдауыңызға рахмет!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; osu!-ды қолдады - қолдауыңызға рахмет!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; g0v0!-ды қолдады - қолдауыңызға рахмет!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; osu!supporter сыйлық ретінде алды!</value>

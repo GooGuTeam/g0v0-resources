@@ -80,7 +80,7 @@
     <value>permainan irama percuma terpaling baik</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>irama tinggal seketik saja</value>
+    <value>Pengalaman irama yang bebas dan terbuka!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Carian lanjutan</value>
@@ -293,10 +293,10 @@
     <value>tetap semula {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Muat turun osu!</value>
+    <value>Muat turun g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Sokong osu!</value>
+    <value>Sokong g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
     <value>osu!store</value>

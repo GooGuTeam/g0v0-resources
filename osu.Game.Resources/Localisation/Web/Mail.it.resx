@@ -89,13 +89,13 @@
     <value>Se hai domande o vuoi lasciare un feedback, non esitare a rispondere a questa mail; ti risponderò il prima possibile!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>È grazie a persone come te che osu! è in grado di gestire il gioco e la comunità senza problemi, senza pubblicità o pagamenti forzati.</value>
+    <value>È grazie a persone come te che g0v0! è in grado di gestire il gioco e la comunità senza problemi, senza pubblicità o pagamenti forzati.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Il tuo supporto mantiene funzionante osu! per circa {0}! Potrebbe non sembrare molto, ma ha il suo valore :).</value>
+    <value>Il tuo supporto mantiene funzionante g0v0! per circa {0}! Potrebbe non sembrare molto, ma ha il suo valore :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Grazie, osu! ti ama &lt;3</value>
+    <value>Grazie, g0v0! ti ama &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Ecco una traduzione fornita dalla comunità per scopi informativi:</value>
@@ -107,7 +107,7 @@
     <value>Ora hai accesso ad osu!direct e ad altri benefici da supporter per {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Grazie mille per il tuo {0} verso osu!.</value>
+    <value>Grazie mille per il tuo {0} verso g0v0!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>supporto</value>
@@ -119,7 +119,7 @@
     <value>Vogliamo solo farti sapere che c'è stata una nuova risposta in "{0}" dopo la tua ultima visita.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nuova risposta dal topic "{0}"</value>
+    <value>[g0v0!] Nuova risposta dal topic "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Se non desideri più seguire questo topic, puoi cliccare il link "Annulla iscrizione al topic" presente in fondo al topic, o tramite la pagina di gestione dei topic a cui sei iscritto:</value>
@@ -209,7 +209,7 @@
     <value>Per cambiare le preferenze di notifica sull'email:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nuove notifiche di osu!</value>
+    <value>Nuove notifiche di g0v0!</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Questa è solo una conferma che la tua password di osu! è stata cambiata.</value>

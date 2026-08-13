@@ -62,7 +62,7 @@
     <value>Prüfe Vollbildfunktionen...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! läuft im exklusiven Vollbildmodus, was eine niedrige Latenz garantiert!</value>
+    <value>g0v0! läuft im exklusiven Vollbildmodus, was eine niedrige Latenz garantiert!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Nicht in der Lage auf den exklusiven Vollbildmodus zu wechseln. Es kann zu einer gewissen Eingabeverzögerung kommen.</value>

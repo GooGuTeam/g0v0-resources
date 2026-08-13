@@ -62,22 +62,22 @@
     <value>Zachęciłeś mnie! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>wspomóż osu!</value>
+    <value>wspomóż g0v0!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>lub podaruj status donatora innemu graczowi</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>kliknij ikonę serca, aby przejść do sklepu osu!</value>
+    <value>kliknij ikonę serca, aby przejść do sklepu g0v0!</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Dlaczego warto wspomóc osu!? Na co są przeznaczane pieniądze?</value>
+    <value>Dlaczego warto wspomóc g0v0!? Na co są przeznaczane pieniądze?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Wynagrodzenie dla zespołu</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>osu! jest prowadzone i rozwijane przez mały zespół. Twoje wsparcie pomaga im, no wiesz, żyć.</value>
+    <value>g0v0! jest prowadzone i rozwijane przez mały zespół. Twoje wsparcie pomaga im, no wiesz, żyć.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infrastruktura serwerowa</value>
@@ -89,7 +89,7 @@
     <value>Wyróżnieni artyści</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Dzięki twojemu wsparciu możemy kontaktować się ze świetnymi artystami, aby osu! zyskało jeszcze więcej niesamowitej licencjonowanej muzyki!</value>
+    <value>Dzięki twojemu wsparciu możemy kontaktować się ze świetnymi artystami, aby g0v0! zyskało jeszcze więcej niesamowitej licencjonowanej muzyki!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Pokaż aktualną listę artystów &amp;raquo;</value>
@@ -98,7 +98,7 @@
     <value>Samowystarczalność</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
-    <value>Twoje wsparcie pozwala utrzymać osu! wolne od reklam i zewnętrznych sponsorów.</value>
+    <value>Twoje wsparcie pozwala utrzymać g0v0! wolne od reklam i zewnętrznych sponsorów.</value>
   </data>
   <data name="support.why-support.tournaments.title" xml:space="preserve">
     <value>Oficjalne turnieje</value>
@@ -113,7 +113,7 @@
     <value>Program nagradzania ochotników</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Wspomóż ochotników, którzy poświęcają swój czas, aby uczynić osu! lepszą grą.</value>
+    <value>Wspomóż ochotników, którzy poświęcają swój czas, aby uczynić g0v0! lepszą grą.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Dowiedz się więcej &amp;raquo;</value>
@@ -227,7 +227,7 @@
     <value>Zwiększony limit przesyłanych beatmap</value>
   </data>
   <data name="support.perks.more_beatmaps.description" xml:space="preserve">
-    <value>Maksymalna liczba posiadanych beatmap nierankingowych jest obliczana na podstawie wartości bazowej, do której dolicza się premię za każdą rankingową beatmapę, jaką masz na koncie (do pewnej granicy).&lt;br/&gt;&lt;br/&gt;Zazwyczaj jest to {0} plus {1} (maks. {2}). Dla donatorów osu! ta wartość jest zwiększona do {3} plus {4} (maks. {5}).</value>
+    <value>Maksymalna liczba posiadanych beatmap nierankingowych jest obliczana na podstawie wartości bazowej, do której dolicza się premię za każdą rankingową beatmapę, jaką masz na koncie (do pewnej granicy).&lt;br/&gt;&lt;br/&gt;Zazwyczaj jest to {0} plus {1} (maks. {2}). Dla donatorów g0v0! ta wartość jest zwiększona do {3} plus {4} (maks. {5}).</value>
   </data>
   <data name="support.perks.friend_filtering.title" xml:space="preserve">
     <value>Rankingi znajomych</value>
@@ -236,10 +236,10 @@
     <value>Rywalizuj ze swoimi znajomymi i zobacz, jak ci idzie!</value>
   </data>
   <data name="support.supporter_status.contribution_with_duration" xml:space="preserve">
-    <value>Dziękujemy za ciągłe wsparcie! Przeznaczyłeś(-aś) łącznie {0} na status donatora osu! przez okres {1}.</value>
+    <value>Dziękujemy za ciągłe wsparcie! Przeznaczyłeś(-aś) łącznie {0} na status donatora g0v0! przez okres {1}.</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>Nie masz jeszcze statusu donatora osu! :(</value>
+    <value>Nie masz jeszcze statusu donatora g0v0! :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
     <value>Twój status donatora przestanie być aktywny {0}!</value>

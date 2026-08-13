@@ -89,7 +89,7 @@
     <value>Buscando actualizaciones</value>
   </data>
   <data name="open_osu_folder" xml:space="preserve">
-    <value>Abrir la carpeta de osu!</value>
+    <value>Abrir la carpeta de g0v0!</value>
   </data>
   <data name="export_logs" xml:space="preserve">
     <value>Exportar registros</value>
@@ -99,12 +99,6 @@
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Ejecutar el asistente de configuración</value>
-  </data>
-  <data name="learn_more_about_lazer" xml:space="preserve">
-    <value>Más información sobre lazer</value>
-  </data>
-  <data name="check_out_the_feature_comparison" xml:space="preserve">
-    <value>Echa un vistazo a la comparación de funciones y a las preguntas frecuentes</value>
   </data>
   <data name="report_issue" xml:space="preserve">
     <value>Reportar un problema</value>

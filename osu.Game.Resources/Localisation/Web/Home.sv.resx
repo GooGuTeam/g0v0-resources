@@ -80,7 +80,7 @@
     <value>det bästaste gratis-att-vinna-rytmspelet</value>
   </data>
   <data name="landing.slogan.sub" xml:space="preserve">
-    <value>rytmen är bara ett klick bort</value>
+    <value>En fri och öppen rytmupplevelse!</value>
   </data>
   <data name="search.advanced_link" xml:space="preserve">
     <value>Avancerad sökning</value>
@@ -305,10 +305,10 @@
     <value>återställer {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Ladda ner osu!</value>
+    <value>Ladda ner g0v0!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Stötta osu!</value>
+    <value>Stötta g0v0!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
     <value>osu!store</value>

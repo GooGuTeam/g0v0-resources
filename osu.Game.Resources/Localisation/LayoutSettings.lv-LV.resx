@@ -62,7 +62,7 @@
     <value>Pārbauda pilnekrāna iespējas...</value>
   </data>
   <data name="osu_is_running_exclusive_fullscreen" xml:space="preserve">
-    <value>osu! darbojas ekskluzīvā pilnekrāna režīmā, garantējot zemu aizkavi!</value>
+    <value>g0v0! darbojas ekskluzīvā pilnekrāna režīmā, garantējot zemu aizkavi!</value>
   </data>
   <data name="unable_to_run_exclusive_fullscreen" xml:space="preserve">
     <value>Nevar palaist ekskluzīvā pilnekrāna režīmā. Var rasties zināma ievades aizkave.</value>

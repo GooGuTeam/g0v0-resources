@@ -95,7 +95,7 @@
     <value>A te támogatásod tartja az osut! jól működővé {0}! Ez nem tűnik soknak, de ez nekünk sokat számit :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Köszi, az osu! &lt;3 téged</value>
+    <value>Köszi, az g0v0! &lt;3 téged</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>A közösség által biztosított fordítási információk a következők:</value>
@@ -107,7 +107,7 @@
     <value>Most már hozzáférésed van az osu!direct-hez és még több, csak támogatóknak szóló előnyökhöz egészen {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Köszönjük a nagylelkű támogatásod az osu felé!</value>
+    <value>Köszönjük a nagylelkű támogatásod az g0v0 felé!</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>támogatás</value>
@@ -119,7 +119,7 @@
     <value>Értesíts, ha a legutóbbi látogatásom óta, új hozzászolás történt ezen a mapon: "{0}".</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Új válasz a "{0}" témában</value>
+    <value>[g0v0!] Új válasz a "{0}" témában</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Ha már nem szeretnéd nézni ezt a témát, kattints a "leiratkozás a témáról" linkre a téma felett, vagy a feliratkozott oldalak kezelése oldalról:</value>
@@ -149,10 +149,10 @@
     <value>Szállítás</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Megkaptuk az osu!boltban elhelyezett rendelésed!</value>
+    <value>Megkaptuk az g0v0!boltban elhelyezett rendelésed!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Köszönjük a vásárlásodat az osu!boltban!</value>
+    <value>Köszönjük a vásárlásodat az g0v0!boltban!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Összesen</value>
@@ -170,13 +170,13 @@
     <value>További adatokat itt találhatsz:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Valaki ajándékba adott egy osu!támogatói címet!</value>
+    <value>Valaki ajándékba adott egy g0v0!támogatói címet!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Az ajándékozód ezt az üzenetet hagyta: </value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>osu!támogatói címet kaptál!</value>
+    <value>g0v0!támogatói címet kaptál!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
     <value>Ez egy megerősítő email, hogy az osu!-s email címed erre változott meg:"{0}".</value>
@@ -209,7 +209,7 @@
     <value>Értesítési preferenciák megváltoztatása:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Új osu! értesítések</value>
+    <value>Új g0v0! értesítések</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
     <value>Ez csak egy megerősítés, hogy az osu! jelszód megváltozott.</value>

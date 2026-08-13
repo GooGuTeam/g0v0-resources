@@ -59,10 +59,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="empty.active" xml:space="preserve">
-    <value>Hiện không tham gia ván osu!(lazer) {0} nào!</value>
+    <value>Hiện không tham gia ván g0v0! {0} nào!</value>
   </data>
   <data name="empty.ended" xml:space="preserve">
-    <value>Chưa hoàn thành ván osu!(lazer) {0} nào!</value>
+    <value>Chưa hoàn thành ván g0v0! {0} nào!</value>
   </data>
   <data name="empty.playlists" xml:space="preserve">
     <value>danh sách phát</value>

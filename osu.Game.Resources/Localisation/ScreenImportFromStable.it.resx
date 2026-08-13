@@ -89,9 +89,9 @@
     <value>Il tuo sistema operativo non supporta ancora un collegamento alleggerito dei file, quindi una copia di tutti i file sarà fatta durante l'importazione.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Una seconda copia di tutti i file sarà fatta durante l'importazione. Per evitare ciò, assicurati che la cartella dei dati di lazer si trovi sulla stessa unità dell'installazione precedente di osu! (e che il file system sia NTFS).</value>
+    <value>Una seconda copia di tutti i file sarà fatta durante l'importazione. Per evitare ciò, assicurati che la cartella dei dati di g0v0 si trovi sulla stessa unità dell'installazione precedente di osu! (e che il file system sia NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Una seconda copia di tutti i file sarà fatta durante l'importazione. Per evitare ciò, assicurati che la cartella dei dati di lazer si trovi sulla stessa unità dell'installazione precedente di osu! (e che il file system supporti gli hard link).</value>
+    <value>Una seconda copia di tutti i file sarà fatta durante l'importazione. Per evitare ciò, assicurati che la cartella dei dati di g0v0 si trovi sulla stessa unità dell'installazione precedente di osu! (e che il file system supporti gli hard link).</value>
   </data>
 </root>

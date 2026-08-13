@@ -68,7 +68,7 @@
     <value>First-run setup</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Set up osu! para maging angkop sa iyo</value>
+    <value>Set up g0v0! para maging angkop sa iyo</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Maligayang pagdating</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Maligayang pagdating sa first-run setup na patnubay!
 
-osu! ay isang napaka-configurable na laro, at ang pag-dive ng diretso sa mga setting ay minsan ay nakakapanghina. Ang gabay na ito ay tutulong sa iyo na makuha ang mahahalagang pagpipilian upang matiyak ang isang mahusay na unang karanasan!</value>
+g0v0! ay isang napaka-configurable na laro, at ang pag-dive ng diretso sa mga setting ay minsan ay nakakapanghina. Ang gabay na ito ay tutulong sa iyo na makuha ang mahahalagang pagpipilian upang matiyak ang isang mahusay na unang karanasan!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>Ang laki ng osu! user interface ay maaaring iakma ayon sa gusto mo.</value>
+    <value>Ang laki ng g0v0! user interface ay maaaring iakma ayon sa gusto mo.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Pag-uugali</value>
@@ -87,7 +87,7 @@ osu! ay isang napaka-configurable na laro, at ang pag-dive ng diretso sa mga set
   <data name="behaviour_description" xml:space="preserve">
     <value>Ang ilang mga bagong default para sa mga gawi ng laro ay ipinatupad, na may layuning pahusayin ang karanasan sa laro at gawin itong mas naa-access sa lahat.
 
-Inirerekomenda namin na subukan mo ang mga bagong default, ngunit kung gusto mong magkaroon ng mga bagay na parang mga klasikong bersyon ng osu!, madali kang makakapaglapat ng ilang matinong mga default sa ibaba.</value>
+Inirerekomenda namin na subukan mo ang mga bagong default, ngunit kung gusto mong magkaroon ng mga bagay na parang mga klasikong bersyon ng g0v0!, madali kang makakapaglapat ng ilang matinong mga default sa ibaba.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>Bagong mga default</value>

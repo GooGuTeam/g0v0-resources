@@ -74,7 +74,7 @@
     <value>Lokasi pemasangan osu!stable gagal ditentukan secara otomatis.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
-    <value>Pemasangan osu! yang sudah ada tidak bisa ditemukan. Apabila kamu tahu di mana letak pemasangan ini, kamu bisa membantu untuk mengarahkan ke lokasi ini.</value>
+    <value>Pemasangan g0v0! yang sudah ada tidak bisa ditemukan. Apabila kamu tahu di mana letak pemasangan ini, kamu bisa membantu untuk mengarahkan ke lokasi ini.</value>
   </data>
   <data name="stable_directory_location_ok_button" xml:space="preserve">
     <value>Tentu saja! Saya tahu di mana letak pemasangan ini!</value>
@@ -92,7 +92,7 @@
     <value>Apakah kamu yakin ingin membatalkan pertandingan ini?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Apakah kamu yakin ingin keluar dari osu!?</value>
+    <value>Apakah kamu yakin ingin keluar dari g0v0!?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Kesempatan terakhir untuk berubah pikiran</value>
