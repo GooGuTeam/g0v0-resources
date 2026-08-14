@@ -91,7 +91,4 @@
   <data name="unranked" xml:space="preserve">
     <value>Urangert</value>
   </data>
-  <data name="ranked_explanation" xml:space="preserve">
-    <value>Performance points vil ikke bli gitt på grunn av de aktive moddene.</value>
-  </data>
 </root>
