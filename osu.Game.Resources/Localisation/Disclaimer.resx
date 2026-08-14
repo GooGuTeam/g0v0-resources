@@ -132,7 +132,7 @@
     <value>if you have any issue, please report at our GitHub:</value>
   </data>
   <data name="title_part" xml:space="preserve">
-    <value>this is</value>
+    <value>this is </value>
     <comment>Goes before "g0v0!".</comment>
   </data>
 </root>
