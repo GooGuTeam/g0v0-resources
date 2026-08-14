@@ -20,4 +20,4 @@ Copyright in the original content remains with ppy Pty Ltd; fork modifications a
 
 Some fonts have separate licencing; please ensure to check their local licence files before distributing them.
 
-Please note that this *does not cover* the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact us](mailto:contact@ppy.sh).
+Please note that this *does not cover* the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact ppy Pth Ltd](mailto:contact@ppy.sh).
