@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="adaptive_speed_description" xml:space="preserve">
+    <value>让曲速适应你。</value>
+  </data>
+  <data name="autoplay_description" xml:space="preserve">
+    <value>来看看精彩绝伦的自动表演。</value>
+  </data>
+  <data name="accuracy_challenge_description" xml:space="preserve">
+    <value>准度过低即失败！</value>
+  </data>
+  <data name="barrel_roll_description" xml:space="preserve">
+    <value>整个游玩区域都转起来了！</value>
+  </data>
+  <data name="classic_description" xml:space="preserve">
+    <value>想 Stable 了嘛？</value>
+  </data>
+  <data name="cinema_description" xml:space="preserve">
+    <value>专心看视频，没有其他东西干扰。</value>
+  </data>
+  <data name="constant_speed_description" xml:space="preserve">
+    <value>棘手的变速不存在了！</value>
+  </data>
+  <data name="daycore_description" xml:space="preserve">
+    <value>呜啊啊...</value>
+  </data>
+  <data name="difficulty_adjust_description" xml:space="preserve">
+    <value>覆写谱面的难度设定。</value>
+  </data>
+  <data name="double_time_description" xml:space="preserve">
+    <value>加&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;速...</value>
+  </data>
+  <data name="flashlight_description" xml:space="preserve">
+    <value>限制视野。</value>
+  </data>
+  <data name="half_time_description" xml:space="preserve">
+    <value>减&lt;&lt;&lt;&lt;&lt;&lt;速...</value>
+  </data>
+  <data name="hard_rock_description" xml:space="preserve">
+    <value>各方面的难度都增加一点...</value>
+  </data>
+  <data name="muted_description" xml:space="preserve">
+    <value>没有音乐，你还能感知到节奏吗？</value>
+  </data>
+  <data name="nightcore_description" xml:space="preserve">
+    <value>洞次打次洞次打次...</value>
+  </data>
+  <data name="no_fail_description" xml:space="preserve">
+    <value>不管怎么样，你都失败不了。</value>
+  </data>
+  <data name="no_mod_description" xml:space="preserve">
+    <value>不使用模组。</value>
+  </data>
+  <data name="perfect_description" xml:space="preserve">
+    <value>不 SS，便失败。</value>
+  </data>
+  <data name="score_v2_description" xml:space="preserve">
+    <value>使用旧版本 V2 计分算法获得的分数。</value>
+  </data>
+  <data name="sudden_death_description" xml:space="preserve">
+    <value>不全连，便失败。</value>
+  </data>
+  <data name="synesthesia_description" xml:space="preserve">
+    <value>按节奏给物件上色。</value>
+  </data>
+  <data name="touch_device_description" xml:space="preserve">
+    <value>使用触摸屏游玩时自动添加。</value>
+  </data>
+  <data name="unknown_mod_description" xml:space="preserve">
+    <value>无法解析该模组。</value>
+  </data>
+  <data name="wind_down_description" xml:space="preserve">
+    <value>慢——下——来...</value>
+  </data>
+  <data name="wind_up_description" xml:space="preserve">
+    <value>你能跟上吗？</value>
+  </data>
+  <data name="initial_rate_label" xml:space="preserve">
+    <value>初始速率</value>
+  </data>
+  <data name="initial_rate_description" xml:space="preserve">
+    <value>音乐开始时的速度</value>
+  </data>
+  <data name="adjust_pitch_label" xml:space="preserve">
+    <value>调节音调</value>
+  </data>
+  <data name="adjust_pitch_description" xml:space="preserve">
+    <value>依照所选速度更改音频频率</value>
+  </data>
+  <data name="minimum_accuracy_label" xml:space="preserve">
+    <value>最低准确率</value>
+  </data>
+  <data name="minimum_accuracy_description" xml:space="preserve">
+    <value>当准确率低于该数值时触发失败。</value>
+  </data>
+  <data name="accuracy_mode_label" xml:space="preserve">
+    <value>准确率模式</value>
+  </data>
+  <data name="accuracy_mode_description" xml:space="preserve">
+    <value>准确率触发失败的方式。</value>
+  </data>
+  <data name="roll_speed_label" xml:space="preserve">
+    <value>滚动速度</value>
+  </data>
+  <data name="roll_speed_description" xml:space="preserve">
+    <value>每分钟转速</value>
+  </data>
+  <data name="direction_label" xml:space="preserve">
+    <value>方向</value>
+  </data>
+  <data name="direction_description" xml:space="preserve">
+    <value>旋转方向</value>
+  </data>
+  <data name="speed_decrease_label" xml:space="preserve">
+    <value>速度减慢</value>
+  </data>
+  <data name="speed_decrease_description" xml:space="preserve">
+    <value>实际减小的速度</value>
+  </data>
+  <data name="hp_drain_description" xml:space="preserve">
+    <value>覆盖谱面 HP 值。</value>
+  </data>
+  <data name="accuracy_description" xml:space="preserve">
+    <value>覆盖谱面 OD 值。</value>
+  </data>
+  <data name="extended_limits_label" xml:space="preserve">
+    <value>扩展限制</value>
+  </data>
+  <data name="extended_limits_description" xml:space="preserve">
+    <value>允许将难度调节出正常限制。</value>
+  </data>
+  <data name="speed_increase_label" xml:space="preserve">
+    <value>速度加快</value>
+  </data>
+  <data name="speed_increase_description" xml:space="preserve">
+    <value>实际增加的速度</value>
+  </data>
+  <data name="extra_lives_label" xml:space="preserve">
+    <value>额外生命数</value>
+  </data>
+  <data name="extra_lives_description" xml:space="preserve">
+    <value>额外生命的数目</value>
+  </data>
+  <data name="restart_on_fail_label" xml:space="preserve">
+    <value>失败时重试</value>
+  </data>
+  <data name="restart_on_fail_description" xml:space="preserve">
+    <value>失败时自动重试谱面。</value>
+  </data>
+  <data name="flashlight_size_label" xml:space="preserve">
+    <value>手电筒区域大小</value>
+  </data>
+  <data name="flashlight_size_description" xml:space="preserve">
+    <value>应用到默认手电筒区域大小的倍率。</value>
+  </data>
+  <data name="flashlight_change_size_based_on_combo_label" xml:space="preserve">
+    <value>基于连击数改变大小</value>
+  </data>
+  <data name="flashlight_change_size_based_on_combo_description" xml:space="preserve">
+    <value>随连击数增加减小手电筒区域大小。</value>
+  </data>
+  <data name="start_muted_label" xml:space="preserve">
+    <value>开始时静音</value>
+  </data>
+  <data name="start_muted_description" xml:space="preserve">
+    <value>音量随连击累积而增加。</value>
+  </data>
+  <data name="enable_metronome_label" xml:space="preserve">
+    <value>启用节拍器</value>
+  </data>
+  <data name="enable_metronome_description" xml:space="preserve">
+    <value>添加节拍器音效，让你能跟上节奏。</value>
+  </data>
+  <data name="final_volume_at_combo_label" xml:space="preserve">
+    <value>最终音量连击数</value>
+  </data>
+  <data name="final_volume_at_combo_description" xml:space="preserve">
+    <value>达到最终音量时所处的连击数。</value>
+  </data>
+  <data name="mute_hit_sounds_label" xml:space="preserve">
+    <value>音效静音</value>
+  </data>
+  <data name="mute_hit_sounds_description" xml:space="preserve">
+    <value>将音效连着音乐一同静音。</value>
+  </data>
+  <data name="always_muted_label" xml:space="preserve">
+    <value>一直静音</value>
+  </data>
+  <data name="hidden_at_combo_label" xml:space="preserve">
+    <value>隐藏于连击数</value>
+  </data>
+  <data name="hidden_at_combo_description" xml:space="preserve">
+    <value>光标完全隐藏时的连击数</value>
+  </data>
+  <data name="always_hidden_label" xml:space="preserve">
+    <value>一直隐藏</value>
+  </data>
+  <data name="speed_change_label" xml:space="preserve">
+    <value>速度改变</value>
+  </data>
+  <data name="seed_label" xml:space="preserve">
+    <value>种子</value>
+  </data>
+  <data name="seed_description" xml:space="preserve">
+    <value>使用指定的而非随机种子。</value>
+  </data>
+  <data name="final_rate_label" xml:space="preserve">
+    <value>最终速率</value>
+  </data>
+  <data name="final_rate_description" xml:space="preserve">
+    <value>调整的最终速度</value>
+  </data>
+  <data name="circle_size_description" xml:space="preserve">
+    <value>覆盖谱面 CS 值。</value>
+  </data>
+  <data name="approach_rate_description" xml:space="preserve">
+    <value>覆盖谱面 AR 值。</value>
+  </data>
+  <data name="on_state_label" xml:space="preserve">
+    <value>开</value>
+  </data>
+  <data name="off_state_label" xml:space="preserve">
+    <value>关</value>
+  </data>
+</root>

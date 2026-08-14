@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="easy_description" xml:space="preserve"><value>Beats move slower, and less accuracy required!</value></data>
+  <data name="hidden_description" xml:space="preserve"><value>Beats fade out before you hit them!</value></data>
+  <data name="random_description" xml:space="preserve"><value>Shuffle around the colours!</value></data>
+  <data name="relax_description" xml:space="preserve"><value>No need to remember which key is correct anymore!</value></data>
+  <data name="single_tap_description" xml:space="preserve"><value>One key for dons, one key for kats.</value></data>
+  <data name="simplified_rhythm_description" xml:space="preserve"><value>Simplify tricky rhythms!</value></data>
+  <data name="swap_description" xml:space="preserve"><value>Dons become kats, kats become dons</value></data>
+  <data name="difficulty_adjust_scroll_speed_label" xml:space="preserve"><value>Scroll Speed</value></data>
+  <data name="difficulty_adjust_scroll_speed_description" xml:space="preserve"><value>Adjust a beatmap's set scroll speed</value></data>
+  <data name="simplified_rhythm_1_3_to_1_2_conversion_label" xml:space="preserve"><value>1/3 to 1/2 conversion</value></data>
+  <data name="simplified_rhythm_1_3_to_1_2_conversion_description" xml:space="preserve"><value>Converts 1/3 patterns to 1/2 rhythm.</value></data>
+  <data name="simplified_rhythm_1_6_to_1_4_conversion_label" xml:space="preserve"><value>1/6 to 1/4 conversion</value></data>
+  <data name="simplified_rhythm_1_6_to_1_4_conversion_description" xml:space="preserve"><value>Converts 1/6 patterns to 1/4 rhythm.</value></data>
+  <data name="simplified_rhythm_1_8_to_1_4_conversion_label" xml:space="preserve"><value>1/8 to 1/4 conversion</value></data>
+  <data name="simplified_rhythm_1_8_to_1_4_conversion_description" xml:space="preserve"><value>Converts 1/8 patterns to 1/4 rhythm.</value></data>
+</root>

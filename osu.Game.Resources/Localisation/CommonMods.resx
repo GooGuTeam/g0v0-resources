@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="adaptive_speed_description" xml:space="preserve"><value>Let track speed adapt to you.</value></data>
+  <data name="autoplay_description" xml:space="preserve"><value>Watch a perfect automated play through the song.</value></data>
+  <data name="accuracy_challenge_description" xml:space="preserve"><value>Fail if your accuracy drops too low!</value></data>
+  <data name="barrel_roll_description" xml:space="preserve"><value>The whole playfield is on a wheel!</value></data>
+  <data name="classic_description" xml:space="preserve"><value>Feeling nostalgic?</value></data>
+  <data name="cinema_description" xml:space="preserve"><value>Watch the video without visual distractions.</value></data>
+  <data name="constant_speed_description" xml:space="preserve"><value>No more tricky speed changes!</value></data>
+  <data name="daycore_description" xml:space="preserve"><value>Whoaaaaa...</value></data>
+  <data name="difficulty_adjust_description" xml:space="preserve"><value>Override a beatmap's difficulty settings.</value></data>
+  <data name="double_time_description" xml:space="preserve"><value>Zoooooooooom...</value></data>
+  <data name="flashlight_description" xml:space="preserve"><value>Restricted view area.</value></data>
+  <data name="half_time_description" xml:space="preserve"><value>Less zoom...</value></data>
+  <data name="hard_rock_description" xml:space="preserve"><value>Everything just got a bit harder...</value></data>
+  <data name="muted_description" xml:space="preserve"><value>Can you still feel the rhythm without music?</value></data>
+  <data name="nightcore_description" xml:space="preserve"><value>Uguuuuuuuu...</value></data>
+  <data name="no_fail_description" xml:space="preserve"><value>You can't fail, no matter what.</value></data>
+  <data name="no_mod_description" xml:space="preserve"><value>No mods applied.</value></data>
+  <data name="perfect_description" xml:space="preserve"><value>SS or quit.</value></data>
+  <data name="score_v2_description" xml:space="preserve"><value>Score set on earlier g0v0! versions with the V2 scoring algorithm active.</value></data>
+  <data name="sudden_death_description" xml:space="preserve"><value>Miss and fail.</value></data>
+  <data name="synesthesia_description" xml:space="preserve"><value>Colours hit objects based on the rhythm.</value></data>
+  <data name="touch_device_description" xml:space="preserve"><value>Automatically applied to plays on devices with a touchscreen.</value></data>
+  <data name="unknown_mod_description" xml:space="preserve"><value>This mod could not be resolved by the game.</value></data>
+  <data name="wind_down_description" xml:space="preserve"><value>Sloooow doooown...</value></data>
+  <data name="wind_up_description" xml:space="preserve"><value>Can you keep up?</value></data>
+  <data name="initial_rate_label" xml:space="preserve"><value>Initial rate</value></data>
+  <data name="initial_rate_description" xml:space="preserve"><value>The starting speed of the track</value></data>
+  <data name="adjust_pitch_label" xml:space="preserve"><value>Adjust pitch</value></data>
+  <data name="adjust_pitch_description" xml:space="preserve"><value>Should pitch be adjusted with speed</value></data>
+  <data name="minimum_accuracy_label" xml:space="preserve"><value>Minimum accuracy</value></data>
+  <data name="minimum_accuracy_description" xml:space="preserve"><value>Trigger a failure if your accuracy goes below this value.</value></data>
+  <data name="accuracy_mode_label" xml:space="preserve"><value>Accuracy mode</value></data>
+  <data name="accuracy_mode_description" xml:space="preserve"><value>The mode of accuracy that will trigger failure.</value></data>
+  <data name="roll_speed_label" xml:space="preserve"><value>Roll speed</value></data>
+  <data name="roll_speed_description" xml:space="preserve"><value>Rotations per minute</value></data>
+  <data name="direction_label" xml:space="preserve"><value>Direction</value></data>
+  <data name="direction_description" xml:space="preserve"><value>The direction of rotation</value></data>
+  <data name="speed_decrease_label" xml:space="preserve"><value>Speed decrease</value></data>
+  <data name="speed_decrease_description" xml:space="preserve"><value>The actual decrease to apply</value></data>
+  <data name="hp_drain_description" xml:space="preserve"><value>Override a beatmap's set HP.</value></data>
+  <data name="accuracy_description" xml:space="preserve"><value>Override a beatmap's set OD.</value></data>
+  <data name="extended_limits_label" xml:space="preserve"><value>Extended Limits</value></data>
+  <data name="extended_limits_description" xml:space="preserve"><value>Adjust difficulty beyond sane limits.</value></data>
+  <data name="speed_increase_label" xml:space="preserve"><value>Speed increase</value></data>
+  <data name="speed_increase_description" xml:space="preserve"><value>The actual increase to apply</value></data>
+  <data name="extra_lives_label" xml:space="preserve"><value>Extra Lives</value></data>
+  <data name="extra_lives_description" xml:space="preserve"><value>Number of extra lives</value></data>
+  <data name="restart_on_fail_label" xml:space="preserve"><value>Restart on fail</value></data>
+  <data name="restart_on_fail_description" xml:space="preserve"><value>Automatically restarts when failed.</value></data>
+  <data name="flashlight_size_label" xml:space="preserve"><value>Flashlight size</value></data>
+  <data name="flashlight_size_description" xml:space="preserve"><value>Multiplier applied to the default flashlight size.</value></data>
+  <data name="flashlight_change_size_based_on_combo_label" xml:space="preserve"><value>Change size based on combo</value></data>
+  <data name="flashlight_change_size_based_on_combo_description" xml:space="preserve"><value>Decrease the flashlight size as combo increases.</value></data>
+  <data name="start_muted_label" xml:space="preserve"><value>Start muted</value></data>
+  <data name="start_muted_description" xml:space="preserve"><value>Increase volume as combo builds.</value></data>
+  <data name="enable_metronome_label" xml:space="preserve"><value>Enable metronome</value></data>
+  <data name="enable_metronome_description" xml:space="preserve"><value>Add a metronome beat to help you keep track of the rhythm.</value></data>
+  <data name="final_volume_at_combo_label" xml:space="preserve"><value>Final volume at combo</value></data>
+  <data name="final_volume_at_combo_description" xml:space="preserve"><value>The combo count at which point the track reaches its final volume.</value></data>
+  <data name="mute_hit_sounds_label" xml:space="preserve"><value>Mute hit sounds</value></data>
+  <data name="mute_hit_sounds_description" xml:space="preserve"><value>Hit sounds are also muted alongside the track.</value></data>
+  <data name="always_muted_label" xml:space="preserve"><value>always muted</value></data>
+  <data name="hidden_at_combo_label" xml:space="preserve"><value>Hidden at combo</value></data>
+  <data name="hidden_at_combo_description" xml:space="preserve"><value>The combo count at which the cursor becomes completely hidden</value></data>
+  <data name="always_hidden_label" xml:space="preserve"><value>always hidden</value></data>
+  <data name="speed_change_label" xml:space="preserve"><value>Speed change</value></data>
+  <data name="seed_label" xml:space="preserve"><value>Seed</value></data>
+  <data name="seed_description" xml:space="preserve"><value>Use a custom seed instead of a random one</value></data>
+  <data name="final_rate_label" xml:space="preserve"><value>Final rate</value></data>
+  <data name="final_rate_description" xml:space="preserve"><value>The final speed to ramp to</value></data>
+  <data name="circle_size_description" xml:space="preserve"><value>Override a beatmap's set CS.</value></data>
+  <data name="approach_rate_description" xml:space="preserve"><value>Override a beatmap's set AR.</value></data>
+  <data name="on_state_label" xml:space="preserve"><value>On</value></data>
+  <data name="off_state_label" xml:space="preserve"><value>Off</value></data>
+</root>

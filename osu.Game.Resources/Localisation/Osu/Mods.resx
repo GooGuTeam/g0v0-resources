@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="alternate_description" xml:space="preserve">
+    <value>Don't use the same key twice in a row!</value>
+  </data>
+  <data name="approach_different_description" xml:space="preserve">
+    <value>Never trust the approach circles...</value>
+  </data>
+  <data name="autopilot_description" xml:space="preserve">
+    <value>Automatic cursor movement - just follow the rhythm.</value>
+  </data>
+  <data name="blinds_description" xml:space="preserve">
+    <value>Play with blinds on your screen.</value>
+  </data>
+  <data name="bloom_description" xml:space="preserve">
+    <value>The cursor blooms into.. a larger cursor!</value>
+  </data>
+  <data name="bubbles_description" xml:space="preserve">
+    <value>Don't let their popping distract you!</value>
+  </data>
+  <data name="depth_description" xml:space="preserve">
+    <value>3D. Almost.</value>
+  </data>
+  <data name="easy_description" xml:space="preserve">
+    <value>Larger circles, more forgiving HP drain, less accuracy required, and extra lives!</value>
+  </data>
+  <data name="freeze_frame_description" xml:space="preserve">
+    <value>Burn the notes into your memory.</value>
+  </data>
+  <data name="hidden_description" xml:space="preserve">
+    <value>Play with no approach circles and fading circles/sliders.</value>
+  </data>
+  <data name="magnetised_description" xml:space="preserve">
+    <value>No need to chase the circles – your cursor is a magnet!</value>
+  </data>
+  <data name="mirror_description" xml:space="preserve">
+    <value>Flip objects on the chosen axes.</value>
+  </data>
+  <data name="no_scope_description" xml:space="preserve">
+    <value>Where's the cursor?</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>It never gets boring!</value>
+  </data>
+  <data name="relax_description" xml:space="preserve">
+    <value>You don't need to click. Give your clicking/tapping fingers a break from the heat of things.</value>
+  </data>
+  <data name="single_tap_description" xml:space="preserve">
+    <value>You must only use one key!</value>
+  </data>
+  <data name="spin_in_description" xml:space="preserve">
+    <value>Circles spin in. No approach circles.</value>
+  </data>
+  <data name="spun_out_description" xml:space="preserve">
+    <value>Spinners will be automatically completed.</value>
+  </data>
+  <data name="strict_tracking_description" xml:space="preserve">
+    <value>Once you start a slider, follow precisely or get a miss.</value>
+  </data>
+  <data name="target_practice_description" xml:space="preserve">
+    <value>Practice keeping up with the beat of the song.</value>
+  </data>
+  <data name="traceable_description" xml:space="preserve">
+    <value>Put your faith in the approach circles...</value>
+  </data>
+  <data name="transform_description" xml:space="preserve">
+    <value>Everything rotates. EVERYTHING.</value>
+  </data>
+  <data name="wiggle_description" xml:space="preserve">
+    <value>They just won't stay still...</value>
+  </data>
+  <data name="object_scale_tween_description" xml:space="preserve">
+    <value>Hit them at the right size!</value>
+  </data>
+  <data name="repel_description" xml:space="preserve">
+    <value>Hit objects run away!</value>
+  </data>
+  <data name="approach_different_initial_size_label" xml:space="preserve">
+    <value>Initial size</value>
+  </data>
+  <data name="approach_different_initial_size_description" xml:space="preserve">
+    <value>Change the initial size of the approach circle, relative to hit circles.</value>
+  </data>
+  <data name="approach_different_style_label" xml:space="preserve">
+    <value>Style</value>
+  </data>
+  <data name="approach_different_style_description" xml:space="preserve">
+    <value>Change the animation style of the approach circles.</value>
+  </data>
+  <data name="bloom_max_size_at_combo_label" xml:space="preserve">
+    <value>Max size at combo</value>
+  </data>
+  <data name="bloom_max_size_at_combo_description" xml:space="preserve">
+    <value>The combo count at which the cursor reaches its maximum size</value>
+  </data>
+  <data name="bloom_final_size_multiplier_label" xml:space="preserve">
+    <value>Final size multiplier</value>
+  </data>
+  <data name="bloom_final_size_multiplier_description" xml:space="preserve">
+    <value>The multiplier applied to cursor size when combo reaches maximum</value>
+  </data>
+  <data name="classic_no_slider_head_accuracy_requirement_label" xml:space="preserve">
+    <value>No slider head accuracy requirement</value>
+  </data>
+  <data name="classic_no_slider_head_accuracy_requirement_description" xml:space="preserve">
+    <value>Scores sliders proportionally to the number of ticks hit.</value>
+  </data>
+  <data name="classic_apply_note_lock_label" xml:space="preserve">
+    <value>Apply classic note lock</value>
+  </data>
+  <data name="classic_apply_note_lock_description" xml:space="preserve">
+    <value>Applies note lock to the full hit window.</value>
+  </data>
+  <data name="classic_always_play_slider_tail_sample_label" xml:space="preserve">
+    <value>Always play a slider's tail sample</value>
+  </data>
+  <data name="classic_always_play_slider_tail_sample_description" xml:space="preserve">
+    <value>Always plays a slider's tail sample regardless of whether it was hit or not.</value>
+  </data>
+  <data name="classic_fade_out_hit_circles_earlier_label" xml:space="preserve">
+    <value>Fade out hit circles earlier</value>
+  </data>
+  <data name="classic_fade_out_hit_circles_earlier_description" xml:space="preserve">
+    <value>Make hit circles fade out into a miss, rather than after it.</value>
+  </data>
+  <data name="classic_health_label" xml:space="preserve">
+    <value>Classic health</value>
+  </data>
+  <data name="classic_health_description" xml:space="preserve">
+    <value>More closely resembles the original HP drain mechanics.</value>
+  </data>
+  <data name="depth_maximum_depth_label" xml:space="preserve">
+    <value>Maximum depth</value>
+  </data>
+  <data name="depth_maximum_depth_description" xml:space="preserve">
+    <value>How far away objects appear.</value>
+  </data>
+  <data name="depth_show_approach_circles_label" xml:space="preserve">
+    <value>Show Approach Circles</value>
+  </data>
+  <data name="depth_show_approach_circles_description" xml:space="preserve">
+    <value>Whether approach circles should be visible.</value>
+  </data>
+  <data name="flashlight_follow_delay_label" xml:space="preserve">
+    <value>Follow delay</value>
+  </data>
+  <data name="flashlight_follow_delay_description" xml:space="preserve">
+    <value>Milliseconds until the flashlight reaches the cursor</value>
+  </data>
+  <data name="hidden_only_fade_approach_circles_label" xml:space="preserve">
+    <value>Only fade approach circles</value>
+  </data>
+  <data name="hidden_only_fade_approach_circles_description" xml:space="preserve">
+    <value>The main object body will not fade when enabled.</value>
+  </data>
+  <data name="magnetised_attraction_strength_label" xml:space="preserve">
+    <value>Attraction strength</value>
+  </data>
+  <data name="magnetised_attraction_strength_description" xml:space="preserve">
+    <value>How strong the pull is.</value>
+  </data>
+  <data name="mirror_flipped_axes_label" xml:space="preserve">
+    <value>Flipped axes</value>
+  </data>
+  <data name="object_scale_tween_starting_size_label" xml:space="preserve">
+    <value>Starting Size</value>
+  </data>
+  <data name="object_scale_tween_starting_size_description" xml:space="preserve">
+    <value>The initial size multiplier applied to all objects.</value>
+  </data>
+  <data name="random_angle_sharpness_label" xml:space="preserve">
+    <value>Angle sharpness</value>
+  </data>
+  <data name="random_angle_sharpness_description" xml:space="preserve">
+    <value>How sharp angles should be</value>
+  </data>
+  <data name="repel_repulsion_strength_label" xml:space="preserve">
+    <value>Repulsion strength</value>
+  </data>
+  <data name="repel_repulsion_strength_description" xml:space="preserve">
+    <value>How strong the repulsion is.</value>
+  </data>
+  <data name="sudden_death_also_fail_slider_tail_label" xml:space="preserve">
+    <value>Also fail when missing a slider tail</value>
+  </data>
+  <data name="target_practice_metronome_ticks_label" xml:space="preserve">
+    <value>Metronome ticks</value>
+  </data>
+  <data name="target_practice_metronome_ticks_description" xml:space="preserve">
+    <value>Whether a metronome beat should play in the background</value>
+  </data>
+  <data name="wiggle_strength_label" xml:space="preserve">
+    <value>Strength</value>
+  </data>
+  <data name="wiggle_strength_description" xml:space="preserve">
+    <value>Multiplier applied to the wiggling strength.</value>
+  </data>
+</root>
