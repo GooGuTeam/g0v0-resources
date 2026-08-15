@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="alternate_description" xml:space="preserve">
+    <value>不要连按同一个键！</value>
+  </data>
+  <data name="approach_different_description" xml:space="preserve">
+    <value>永远别相信缩圈...</value>
+  </data>
+  <data name="autopilot_description" xml:space="preserve">
+    <value>光标会自动移动，跟着节奏点就好。</value>
+  </data>
+  <data name="blinds_description" xml:space="preserve">
+    <value>在屏幕上添加盲区。</value>
+  </data>
+  <data name="bloom_description" xml:space="preserve">
+    <value>光标开花了...更大的光标！</value>
+  </data>
+  <data name="bubbles_description" xml:space="preserve">
+    <value>别被爆开的它们分了心！</value>
+  </data>
+  <data name="depth_description" xml:space="preserve">
+    <value>3D。基本上如此。</value>
+  </data>
+  <data name="easy_description" xml:space="preserve">
+    <value>更大的圈，掉血更慢，准度要求更低，还有三条命！</value>
+  </data>
+  <data name="freeze_frame_description" xml:space="preserve">
+    <value>牢牢记住这些物件。</value>
+  </data>
+  <data name="hidden_description" xml:space="preserve">
+    <value>没有缩圈，圆圈与滑条渐隐。</value>
+  </data>
+  <data name="magnetised_description" xml:space="preserve">
+    <value>不必追着圈跑了——你的光标就是磁铁！</value>
+  </data>
+  <data name="mirror_description" xml:space="preserve">
+    <value>物件绕所选轴翻转。</value>
+  </data>
+  <data name="no_scope_description" xml:space="preserve">
+    <value>光标到哪去了？</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>从不会无聊！</value>
+  </data>
+  <data name="relax_description" xml:space="preserve">
+    <value>你不用点击，只需移动。让你点击/敲击用的手指放松一下。</value>
+  </data>
+  <data name="single_tap_description" xml:space="preserve">
+    <value>只能用一个键！</value>
+  </data>
+  <data name="spin_in_description" xml:space="preserve">
+    <value>圆圈旋转进入。没有缩圈。</value>
+  </data>
+  <data name="spun_out_description" xml:space="preserve">
+    <value>转盘会自动完成。</value>
+  </data>
+  <data name="strict_tracking_description" xml:space="preserve">
+    <value>点击滑条后，没跟上便 Miss。</value>
+  </data>
+  <data name="target_practice_description" xml:space="preserve">
+    <value>练习跟上歌曲的节拍。</value>
+  </data>
+  <data name="traceable_description" xml:space="preserve">
+    <value>相信缩圈...</value>
+  </data>
+  <data name="transform_description" xml:space="preserve">
+    <value>一切都在转。一切。</value>
+  </data>
+  <data name="wiggle_description" xml:space="preserve">
+    <value>它们就是不能定住不动...</value>
+  </data>
+  <data name="object_scale_tween_description" xml:space="preserve">
+    <value>在大小正好的时候点击它们！</value>
+  </data>
+  <data name="repel_description" xml:space="preserve">
+    <value>物件出逃中！</value>
+  </data>
+  <data name="approach_different_initial_size_label" xml:space="preserve">
+    <value>初始大小</value>
+  </data>
+  <data name="approach_different_initial_size_description" xml:space="preserve">
+    <value>更改缩圈相对于物件的初始大小。</value>
+  </data>
+  <data name="approach_different_style_label" xml:space="preserve">
+    <value>样式</value>
+  </data>
+  <data name="approach_different_style_description" xml:space="preserve">
+    <value>更改缩圈的动画样式。</value>
+  </data>
+  <data name="bloom_max_size_at_combo_label" xml:space="preserve">
+    <value>最大大小所处连击数</value>
+  </data>
+  <data name="bloom_max_size_at_combo_description" xml:space="preserve">
+    <value>光标达到最大大小时，对应的连击数目。</value>
+  </data>
+  <data name="bloom_final_size_multiplier_label" xml:space="preserve">
+    <value>最终大小倍率</value>
+  </data>
+  <data name="bloom_final_size_multiplier_description" xml:space="preserve">
+    <value>连击数达到最大值时，为光标大小施加的倍率。</value>
+  </data>
+  <data name="classic_no_slider_head_accuracy_requirement_label" xml:space="preserve">
+    <value>移除滑条头准度要求</value>
+  </data>
+  <data name="classic_no_slider_head_accuracy_requirement_description" xml:space="preserve">
+    <value>按命中的滑条点数为滑条计分。</value>
+  </data>
+  <data name="classic_apply_note_lock_label" xml:space="preserve">
+    <value>使用传统物件锁</value>
+  </data>
+  <data name="classic_apply_note_lock_description" xml:space="preserve">
+    <value>对整个判定区间使用物件锁。</value>
+  </data>
+  <data name="classic_always_play_slider_tail_sample_label" xml:space="preserve">
+    <value>总是播放滑条尾音效</value>
+  </data>
+  <data name="classic_always_play_slider_tail_sample_description" xml:space="preserve">
+    <value>无论是否命中都播放滑条尾音效。</value>
+  </data>
+  <data name="classic_fade_out_hit_circles_earlier_label" xml:space="preserve">
+    <value>提前渐隐打击圈</value>
+  </data>
+  <data name="classic_fade_out_hit_circles_earlier_description" xml:space="preserve">
+    <value>打击圈会在渐隐后显示 Miss，而非先显示 Miss 再渐隐。</value>
+  </data>
+  <data name="classic_health_label" xml:space="preserve">
+    <value>传统血量机制</value>
+  </data>
+  <data name="classic_health_description" xml:space="preserve">
+    <value>进一步模拟原版掉血机制。</value>
+  </data>
+  <data name="depth_maximum_depth_label" xml:space="preserve">
+    <value>最大深度</value>
+  </data>
+  <data name="depth_maximum_depth_description" xml:space="preserve">
+    <value>物件出现时的距离。</value>
+  </data>
+  <data name="depth_show_approach_circles_label" xml:space="preserve">
+    <value>显示缩圈</value>
+  </data>
+  <data name="depth_show_approach_circles_description" xml:space="preserve">
+    <value>是否应显示缩圈。</value>
+  </data>
+  <data name="flashlight_follow_delay_label" xml:space="preserve">
+    <value>跟随延迟</value>
+  </data>
+  <data name="flashlight_follow_delay_description" xml:space="preserve">
+    <value>手电筒区域到达光标处所需毫秒数。</value>
+  </data>
+  <data name="hidden_only_fade_approach_circles_label" xml:space="preserve">
+    <value>仅隐藏缩圈</value>
+  </data>
+  <data name="hidden_only_fade_approach_circles_description" xml:space="preserve">
+    <value>启用后，物件本体不会渐隐。</value>
+  </data>
+  <data name="magnetised_attraction_strength_label" xml:space="preserve">
+    <value>引力强度</value>
+  </data>
+  <data name="magnetised_attraction_strength_description" xml:space="preserve">
+    <value>光标吸引物件的强度。</value>
+  </data>
+  <data name="mirror_flipped_axes_label" xml:space="preserve">
+    <value>翻转轴</value>
+  </data>
+  <data name="object_scale_tween_starting_size_label" xml:space="preserve">
+    <value>初始大小</value>
+  </data>
+  <data name="object_scale_tween_starting_size_description" xml:space="preserve">
+    <value>所有物件的初始大小倍率。</value>
+  </data>
+  <data name="random_angle_sharpness_label" xml:space="preserve">
+    <value>角度锐度</value>
+  </data>
+  <data name="random_angle_sharpness_description" xml:space="preserve">
+    <value>物件间夹角的尖锐程度</value>
+  </data>
+  <data name="repel_repulsion_strength_label" xml:space="preserve">
+    <value>斥力强度</value>
+  </data>
+  <data name="repel_repulsion_strength_description" xml:space="preserve">
+    <value>光标排斥打击物件的强度。</value>
+  </data>
+  <data name="sudden_death_also_fail_slider_tail_label" xml:space="preserve">
+    <value>Miss 滑条尾时也失败</value>
+  </data>
+  <data name="target_practice_metronome_ticks_label" xml:space="preserve">
+    <value>节拍器音效</value>
+  </data>
+  <data name="target_practice_metronome_ticks_description" xml:space="preserve">
+    <value>是否应播放节拍器的背景音效</value>
+  </data>
+  <data name="wiggle_strength_label" xml:space="preserve">
+    <value>强度</value>
+  </data>
+  <data name="wiggle_strength_description" xml:space="preserve">
+    <value>打击物件晃动强度的倍率。</value>
+  </data>
+</root>
