@@ -234,12 +234,6 @@
   <data name="speed_decrease_description" xml:space="preserve">
     <value>实际减小的速度</value>
   </data>
-  <data name="hp_drain_description" xml:space="preserve">
-    <value>覆盖谱面 HP 值。</value>
-  </data>
-  <data name="accuracy_description" xml:space="preserve">
-    <value>覆盖谱面 OD 值。</value>
-  </data>
   <data name="extended_limits_label" xml:space="preserve">
     <value>扩展限制</value>
   </data>
@@ -326,12 +320,6 @@
   </data>
   <data name="final_rate_description" xml:space="preserve">
     <value>调整的最终速度</value>
-  </data>
-  <data name="circle_size_description" xml:space="preserve">
-    <value>覆盖谱面 CS 值。</value>
-  </data>
-  <data name="approach_rate_description" xml:space="preserve">
-    <value>覆盖谱面 AR 值。</value>
   </data>
   <data name="on_state_label" xml:space="preserve">
     <value>开</value>

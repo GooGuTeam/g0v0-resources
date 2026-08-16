@@ -89,8 +89,6 @@
   <data name="direction_description" xml:space="preserve"><value>The direction of rotation</value></data>
   <data name="speed_decrease_label" xml:space="preserve"><value>Speed decrease</value></data>
   <data name="speed_decrease_description" xml:space="preserve"><value>The actual decrease to apply</value></data>
-  <data name="hp_drain_description" xml:space="preserve"><value>Override a beatmap's set HP.</value></data>
-  <data name="accuracy_description" xml:space="preserve"><value>Override a beatmap's set OD.</value></data>
   <data name="extended_limits_label" xml:space="preserve"><value>Extended Limits</value></data>
   <data name="extended_limits_description" xml:space="preserve"><value>Adjust difficulty beyond sane limits.</value></data>
   <data name="speed_increase_label" xml:space="preserve"><value>Speed increase</value></data>
@@ -120,8 +118,6 @@
   <data name="seed_description" xml:space="preserve"><value>Use a custom seed instead of a random one</value></data>
   <data name="final_rate_label" xml:space="preserve"><value>Final rate</value></data>
   <data name="final_rate_description" xml:space="preserve"><value>The final speed to ramp to</value></data>
-  <data name="circle_size_description" xml:space="preserve"><value>Override a beatmap's set CS.</value></data>
-  <data name="approach_rate_description" xml:space="preserve"><value>Override a beatmap's set AR.</value></data>
   <data name="on_state_label" xml:space="preserve"><value>On</value></data>
   <data name="off_state_label" xml:space="preserve"><value>Off</value></data>
 </root>
