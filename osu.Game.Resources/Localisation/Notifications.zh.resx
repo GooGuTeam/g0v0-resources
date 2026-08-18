@@ -214,4 +214,13 @@
   <data name="collection_beatmaps_added" xml:space="preserve">
     <value>已添加 {0} 张谱面到收藏夹 “{1}”。</value>
   </data>
+  <data name="ruleset_error" xml:space="preserve">
+    <value>自定义模式错误</value>
+  </data>
+  <data name="ruleset_unable_to_load" xml:space="preserve">
+    <value>无法加载以下游戏模式：</value>
+  </data>
+  <data name="ruleset_load_suggestion" xml:space="preserve">
+    <value>可尝试从开发者处获取更新，或向他们报告问题。</value>
+  </data>
 </root>
