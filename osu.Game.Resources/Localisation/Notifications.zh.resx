@@ -223,4 +223,7 @@
   <data name="ruleset_load_suggestion" xml:space="preserve">
     <value>可尝试从开发者处获取更新，或向他们报告问题。</value>
   </data>
+  <data name="ruleset_exception" xml:space="preserve">
+    <value>游戏模式“{0}”出了点问题。</value>
+  </data>
 </root>

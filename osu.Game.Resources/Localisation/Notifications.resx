@@ -224,4 +224,7 @@ Click to see what's new!</value>
   <data name="ruleset_load_suggestion" xml:space="preserve">
     <value>You may ask for updates from their developers, or report issues to them.</value>
   </data>
+  <data name="ruleset_exception" xml:space="preserve">
+    <value>Something went wrong with the ruleset "{0}".</value>
+  </data>
 </root>
