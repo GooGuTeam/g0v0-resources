@@ -127,4 +127,22 @@
   <data name="touch_overlay" xml:space="preserve">
     <value>Touch overlay</value>
   </data>
+  <data name="ruleset_management" xml:space="preserve">
+    <value>Ruleset management</value>
+  </data>
+  <data name="ruleset_management_subheading" xml:space="preserve">
+    <value>Manage supported game modes!</value>
+  </data>
+  <data name="local_rulesets" xml:space="preserve">
+    <value>Local rulesets</value>
+  </data>
+  <data name="unknown_version_placeholder" xml:space="preserve">
+    <value>&lt;unknown version&gt;</value>
+  </data>
+  <data name="builtin_prefix" xml:space="preserve">
+    <value>(Builtin)</value>
+  </data>
+  <data name="show_assembly_in_file_manager" xml:space="preserve">
+    <value>Show source assembly in file manager</value>
+  </data>
 </root>

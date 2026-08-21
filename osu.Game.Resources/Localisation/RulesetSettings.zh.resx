@@ -128,4 +128,22 @@
   <data name="touch_overlay" xml:space="preserve">
     <value>启用虚拟按键</value>
   </data>
+  <data name="builtin_prefix" xml:space="preserve">
+    <value>(内置)</value>
+  </data>
+  <data name="show_assembly_in_file_manager" xml:space="preserve">
+    <value>在文件管理器中显示源文件</value>
+  </data>
+  <data name="unknown_version_placeholder" xml:space="preserve">
+    <value>&lt;未知版本&gt;</value>
+  </data>
+  <data name="local_rulesets" xml:space="preserve">
+    <value>本地模式</value>
+  </data>
+  <data name="ruleset_management_subheading" xml:space="preserve">
+    <value>管理支持的游戏模式！</value>
+  </data>
+  <data name="ruleset_management" xml:space="preserve">
+    <value>模式管理</value>
+  </data>
 </root>
