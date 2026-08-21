@@ -226,4 +226,7 @@
   <data name="ruleset_exception" xml:space="preserve">
     <value>游戏模式“{0}”出了点问题。</value>
   </data>
+  <data name="ruleset_unknown_exception" xml:space="preserve">
+    <value>部分错误无法明确来源，请查看日志获取详情。</value>
+  </data>
 </root>

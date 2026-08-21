@@ -227,4 +227,7 @@ Click to see what's new!</value>
   <data name="ruleset_exception" xml:space="preserve">
     <value>Something went wrong with the ruleset "{0}".</value>
   </data>
+  <data name="ruleset_unknown_exception" xml:space="preserve">
+    <value>There are other exceptions caused by unknown sources. View the log for details.</value>
+  </data>
 </root>
