@@ -230,4 +230,13 @@ Click to see what's new!</value>
   <data name="ruleset_unknown_exception" xml:space="preserve">
     <value>There are other exceptions caused by unknown sources. View the log for details.</value>
   </data>
+  <data name="exception_title" xml:space="preserve">
+    <value>Boom!</value>
+  </data>
+  <data name="ruleset_crash_suggestion" xml:space="preserve">
+    <value>You can restore it anytime from the settings, but it's suggested to report this issue to the ruleset's developer first.</value>
+  </data>
+  <data name="ruleset_caused_crash" xml:space="preserve">
+    <value>It seems that the ruleset "{0}" caused the game to crash, and we have temporarily disabled it to avoid further problems.</value>
+  </data>
 </root>
