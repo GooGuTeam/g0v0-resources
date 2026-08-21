@@ -145,4 +145,13 @@
   <data name="show_assembly_in_file_manager" xml:space="preserve">
     <value>Show source assembly in file manager</value>
   </data>
+  <data name="local_ruleset_restart_note" xml:space="preserve">
+    <value>Changes to local rulesets would take effect after a restart of the game client.</value>
+  </data>
+  <data name="trusted_mode" xml:space="preserve">
+    <value>Trusted mode</value>
+  </data>
+  <data name="trusted_mode_tooltip" xml:space="preserve">
+    <value>Newly added rulesets won't be enabled by default.</value>
+  </data>
 </root>

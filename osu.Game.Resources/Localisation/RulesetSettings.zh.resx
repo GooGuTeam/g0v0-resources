@@ -146,4 +146,13 @@
   <data name="ruleset_management" xml:space="preserve">
     <value>模式管理</value>
   </data>
+  <data name="local_ruleset_restart_note" xml:space="preserve">
+    <value>对本地模式的改动将在下次启动游戏时生效。</value>
+  </data>
+  <data name="trusted_mode" xml:space="preserve">
+    <value>信任模式</value>
+  </data>
+  <data name="trusted_mode_tooltip" xml:space="preserve">
+    <value>新添加的模式将不会默认启用。</value>
+  </data>
 </root>
