@@ -155,4 +155,16 @@
   <data name="trusted_mode_tooltip" xml:space="preserve">
     <value>新添加的模式将不会默认启用。</value>
   </data>
+  <data name="restore" xml:space="preserve">
+    <value>恢复</value>
+  </data>
+  <data name="loaded_rulesets" xml:space="preserve">
+    <value>已加载的模式</value>
+  </data>
+  <data name="broken_rulesets" xml:space="preserve">
+    <value>损坏的模式</value>
+  </data>
+  <data name="broken_rulesets_note" xml:space="preserve">
+    <value>以下模式曾导致游戏崩溃，已暂时禁用。</value>
+  </data>
 </root>

@@ -154,4 +154,16 @@
   <data name="trusted_mode_tooltip" xml:space="preserve">
     <value>Newly added rulesets won't be enabled by default.</value>
   </data>
+  <data name="broken_rulesets_note" xml:space="preserve">
+    <value>The following rulesets caused the game to crash, hence being disabled temporarily.</value>
+  </data>
+  <data name="broken_rulesets" xml:space="preserve">
+    <value>Broken rulesets</value>
+  </data>
+  <data name="loaded_rulesets" xml:space="preserve">
+    <value>Loaded rulesets</value>
+  </data>
+  <data name="restore" xml:space="preserve">
+    <value>Restore</value>
+  </data>
 </root>
