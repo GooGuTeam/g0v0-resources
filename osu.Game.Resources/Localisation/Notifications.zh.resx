@@ -214,4 +214,28 @@
   <data name="collection_beatmaps_added" xml:space="preserve">
     <value>已添加 {0} 张谱面到收藏夹 “{1}”。</value>
   </data>
+  <data name="ruleset_error" xml:space="preserve">
+    <value>自定义模式错误</value>
+  </data>
+  <data name="ruleset_unable_to_load" xml:space="preserve">
+    <value>无法加载以下游戏模式：</value>
+  </data>
+  <data name="ruleset_load_suggestion" xml:space="preserve">
+    <value>可尝试从开发者处获取更新，或向他们报告问题。</value>
+  </data>
+  <data name="ruleset_exception" xml:space="preserve">
+    <value>游戏模式“{0}”出了点问题。</value>
+  </data>
+  <data name="ruleset_unknown_exception" xml:space="preserve">
+    <value>部分错误无法明确来源，请查看日志获取详情。</value>
+  </data>
+  <data name="exception_title" xml:space="preserve">
+    <value>砰！</value>
+  </data>
+  <data name="ruleset_caused_crash" xml:space="preserve">
+    <value>游戏模式“{0}”似乎导致了游戏崩溃，为了避免更多问题，已将其暂时禁用。</value>
+  </data>
+  <data name="ruleset_crash_suggestion" xml:space="preserve">
+    <value>你可以随时从设置中将其恢复，但在这之前，最好还是将这个问题向模式开发者反馈一下！</value>
+  </data>
 </root>

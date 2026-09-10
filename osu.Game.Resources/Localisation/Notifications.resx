@@ -215,4 +215,28 @@ Click to see what's new!</value>
   <data name="collection_beatmaps_added" xml:space="preserve">
     <value>Added {0} beatmaps to collection "{1}".</value>
   </data>
+  <data name="ruleset_error" xml:space="preserve">
+    <value>Ruleset error</value>
+  </data>
+  <data name="ruleset_unable_to_load" xml:space="preserve">
+    <value>The following rulesets could not be loaded:</value>
+  </data>
+  <data name="ruleset_load_suggestion" xml:space="preserve">
+    <value>You may ask for updates from their developers, or report issues to them.</value>
+  </data>
+  <data name="ruleset_exception" xml:space="preserve">
+    <value>Something went wrong with the ruleset "{0}".</value>
+  </data>
+  <data name="ruleset_unknown_exception" xml:space="preserve">
+    <value>There are other exceptions caused by unknown sources. View the log for details.</value>
+  </data>
+  <data name="exception_title" xml:space="preserve">
+    <value>Boom!</value>
+  </data>
+  <data name="ruleset_crash_suggestion" xml:space="preserve">
+    <value>You can restore it anytime from the settings, but it's suggested to report this issue to the ruleset's developer first.</value>
+  </data>
+  <data name="ruleset_caused_crash" xml:space="preserve">
+    <value>It seems that the ruleset "{0}" caused the game to crash, and we have temporarily disabled it to avoid further problems.</value>
+  </data>
 </root>
