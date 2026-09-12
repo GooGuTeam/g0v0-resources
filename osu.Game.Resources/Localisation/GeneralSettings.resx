@@ -98,7 +98,7 @@
     <value>Change folder location...</value>
   </data>
   <data name="change_folder_location_tooltip" xml:space="preserve">
-    <value>Move your current data to a new folder, or point osu! to backed-up data at an existing location.</value>
+    <value>Move your current data to a new folder, or point g0v0! to backed-up data at an existing location.</value>
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Run setup wizard</value>
