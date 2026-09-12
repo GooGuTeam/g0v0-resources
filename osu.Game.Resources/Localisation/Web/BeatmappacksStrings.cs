@@ -50,6 +50,11 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowDownload => new TranslatableString(getKey(@"show.download"), @"Download");
 
         /// <summary>
+        /// "Challenge"
+        /// </summary>
+        public static LocalisableString ShowNoDiffReductionBadge => new TranslatableString(getKey(@"show.no_diff_reduction_badge"), @"Challenge");
+
+        /// <summary>
         /// "cleared"
         /// </summary>
         public static LocalisableString ShowItemCleared => new TranslatableString(getKey(@"show.item.cleared"), @"cleared");
