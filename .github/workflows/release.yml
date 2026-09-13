@@ -1,0 +1,90 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*-g0v0'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'NuGet version to publish (for example 2026.913.0). Used when the workflow is not triggered by a tag.'
+        required: true
+        type: string
+
+env:
+  DOTNET_VERSION: '8.0.x'
+
+jobs:
+  version:
+    name: Compute version
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.version.outputs.version }}
+      nugetVersion: ${{ steps.version.outputs.nugetVersion }}
+    steps:
+      - name: Determine version
+        id: version
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            VERSION="${{ github.event.inputs.version }}"
+          else
+            VERSION="${{ github.ref_name }}"
+          fi
+
+          SEMVER="${VERSION#v}"
+          # Strip any pre-release suffix (for example -g0v0).
+          NUMERIC="${SEMVER%%-*}"
+          PARTS=$(echo "$NUMERIC" | awk -F. '{print NF}')
+          if [[ $PARTS -eq 1 ]]; then NUMERIC="$NUMERIC.0.0"; fi
+          if [[ $PARTS -eq 2 ]]; then NUMERIC="$NUMERIC.0"; fi
+
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "nugetVersion=$NUMERIC" >> $GITHUB_OUTPUT
+          echo "Publishing version: $VERSION (NuGet: $NUMERIC)"
+
+  nuget:
+    name: Pack & Publish NuGet
+    needs: version
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+      id-token: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v6
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: Pack
+        run: |
+          dotnet pack -c Release osu.Game.Resources \
+            /p:Version=${{ needs.version.outputs.nugetVersion }} \
+            /p:GenerateDocumentationFile=true \
+            /p:IncludeSymbols=true \
+            /p:SymbolPackageFormat=snupkg \
+            -o artifacts
+
+      - name: Upload NuGet artifacts
+        uses: actions/upload-artifact@v7
+        with:
+          name: nuget-packages
+          path: |
+            artifacts/*.nupkg
+            artifacts/*.snupkg
+
+      - name: NuGet login
+        uses: NuGet/login@v1
+        id: login
+        with:
+          user: ${{ secrets.NUGET_USER }}
+
+      - name: Publish to NuGet.org
+        run: dotnet nuget push "artifacts/*.nupkg" --api-key ${{ steps.login.outputs.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json --skip-duplicate
+
+      - name: Publish to GitHub Packages
+        run: dotnet nuget push "artifacts/*.nupkg" --api-key ${{ secrets.GITHUB_TOKEN }} --source https://nuget.pkg.github.com/${{ github.repository_owner }}/index.json --skip-duplicate

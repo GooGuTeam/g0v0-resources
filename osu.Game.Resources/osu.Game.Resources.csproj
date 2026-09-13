@@ -5,19 +5,28 @@
     <NoWarn>$(NoWarn);1591</NoWarn>
     <Title>g0v0!resources</Title>
     <Product>g0v0!resources</Product>
-    <Company>GooGuTeam; ppy Pty Ltd (original)</Company>
+    <Company>GooGuTeam</Company>
+    <Description>Resources (textures, fonts, skins, samples, tracks, shaders and localisation) used by g0v0!, a community fork of ppy/osu-resources.</Description>
   </PropertyGroup>
   <PropertyGroup Label="Nuget">
     <Title>g0v0!resources</Title>
-    <PackageId>ppy.osu.Game.Resources</PackageId>
-    <Authors>GooGuTeam; ppy Pty Ltd</Authors>
-    <PackageLicenseUrl>https://github.com/GooGuTeam/g0v0-resources/blob/master/LICENCE.md</PackageLicenseUrl>
+    <PackageId>g0v0.osu.Game.Resources</PackageId>
+    <Version>2026.913.0</Version>
+    <IsPackable>true</IsPackable>
+    <Authors>ppy Pty Ltd &amp; GooGuTeam</Authors>
+    <PackageLicenseFile>LICENCE.md</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/GooGuTeam/g0v0-resources</PackageProjectUrl>
     <RepositoryUrl>https://github.com/GooGuTeam/g0v0-resources</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>Automated release.</PackageReleaseNotes>
     <copyright>Copyright (c) 2019 ppy Pty Ltd; Copyright (c) 2026 GooGuTeam</copyright>
-    <PackageTags>g0v0 game resources</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>g0v0 game resources osu</PackageTags>
   </PropertyGroup>
+  <ItemGroup Label="Package Files">
+    <None Include="..\LICENCE.md" Pack="true" PackagePath="/" />
+    <None Include="..\README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Beatmaps\**\*" />
     <EmbeddedResource Include="Fonts\**\*" />
