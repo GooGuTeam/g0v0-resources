@@ -65,7 +65,7 @@
     <value>Não está em nenhum jogo de {0} finalizado no g0v0! ainda!</value>
   </data>
   <data name="empty.playlists" xml:space="preserve">
-    <value>seleção de música</value>
+    <value>playlist</value>
   </data>
   <data name="empty.ranked-play" xml:space="preserve">
     <value>competitivo</value>

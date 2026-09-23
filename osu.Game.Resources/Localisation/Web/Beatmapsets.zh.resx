@@ -148,6 +148,9 @@
   <data name="nsfw_badge.label" xml:space="preserve">
     <value>不良内容</value>
   </data>
+  <data name="rate.invalid" xml:space="preserve">
+    <value>评分无效。</value>
+  </data>
   <data name="show.discussion" xml:space="preserve">
     <value>讨论</value>
   </data>
@@ -305,7 +308,7 @@
     <value>由于特殊机制，此谱面仅可在 g0v0! 上游玩。</value>
   </data>
   <data name="show.lazer_only.scoreboard_switch_mode._" xml:space="preserve">
-    <value>{0} 以查看此谱面的成绩。</value>
+    <value>启用 {0} 以查看该谱面的排行榜。</value>
   </data>
   <data name="show.lazer_only.scoreboard_switch_mode.enable_link" xml:space="preserve">
     <value>启用 g0v0! 模式</value>
@@ -398,7 +401,7 @@
     <value>您所在的战队中还没有玩家上传过成绩！</value>
   </data>
   <data name="show.scoreboard.no_scores.unranked" xml:space="preserve">
-    <value>未上架 (Unranked) 谱面</value>
+    <value>未上架 (Unranked) 谱面。</value>
   </data>
   <data name="show.scoreboard.score.first" xml:space="preserve">
     <value>领先</value>

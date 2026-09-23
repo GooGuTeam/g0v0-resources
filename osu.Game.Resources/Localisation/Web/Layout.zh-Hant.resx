@@ -319,6 +319,9 @@
   <data name="popup_user.links.account-edit" xml:space="preserve">
     <value>設定</value>
   </data>
+  <data name="popup_user.links.create_team" xml:space="preserve">
+    <value>建立隊伍</value>
+  </data>
   <data name="popup_user.links.follows" xml:space="preserve">
     <value>追蹤清單</value>
   </data>

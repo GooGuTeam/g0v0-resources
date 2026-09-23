@@ -131,7 +131,7 @@
     <value>Đóng (Esc)</value>
   </data>
   <data name="gallery.fullscreen" xml:space="preserve">
-    <value>Bật/tắt toàn màn hình</value>
+    <value>Bật / tắt toàn màn hình</value>
   </data>
   <data name="gallery.zoom" xml:space="preserve">
     <value>Thu phóng</value>
@@ -179,7 +179,7 @@
     <value>cửa hàng</value>
   </data>
   <data name="footer.general._" xml:space="preserve">
-    <value>Tổng quát</value>
+    <value>Chung</value>
   </data>
   <data name="footer.general.home" xml:space="preserve">
     <value>Trang Chủ</value>
@@ -318,6 +318,9 @@
   </data>
   <data name="popup_user.links.account-edit" xml:space="preserve">
     <value>Cài Đặt</value>
+  </data>
+  <data name="popup_user.links.create_team" xml:space="preserve">
+    <value>Tạo Đội</value>
   </data>
   <data name="popup_user.links.follows" xml:space="preserve">
     <value>Danh sách theo dõi</value>

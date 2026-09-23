@@ -209,7 +209,7 @@
     <value>报告问题</value>
   </data>
   <data name="footer.help.wiki" xml:space="preserve">
-    <value>百科</value>
+    <value>Wiki</value>
   </data>
   <data name="footer.legal._" xml:space="preserve">
     <value>法律 &amp; 状态</value>
@@ -344,7 +344,7 @@
     <value>经典计分</value>
   </data>
   <data name="popup_user.links.scoring_mode_toggle_tooltip" xml:space="preserve">
-    <value>调整分数，让它感觉上更像经典的无上限计分分数。</value>
+    <value>调整分数显示数值，使其看起来更接近经典的无上限得分算法</value>
   </data>
   <data name="popup_user.links.team" xml:space="preserve">
     <value>战队</value>

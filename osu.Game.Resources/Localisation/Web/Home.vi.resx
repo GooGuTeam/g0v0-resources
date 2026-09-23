@@ -140,7 +140,7 @@
     <value>bao gồm các bài đăng bị xoá</value>
   </data>
   <data name="search.forum_post.label.topic_id" xml:space="preserve">
-    <value># chủ đề</value>
+    <value>chủ đề #</value>
   </data>
   <data name="search.forum_post.label.username" xml:space="preserve">
     <value>người đăng</value>
