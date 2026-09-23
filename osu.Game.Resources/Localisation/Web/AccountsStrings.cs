@@ -425,9 +425,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString PrivacyFriendsOnly => new TranslatableString(getKey(@"privacy.friends_only"), @"block private messages from people not on your friends list");
 
         /// <summary>
-        /// "this block also applies to osu!lazer multiplayer invites and ranked play duel requests"
+        /// "this block also applies to g0v0! multiplayer invites and ranked play duel requests"
         /// </summary>
-        public static LocalisableString PrivacyFriendsOnlyInfo => new TranslatableString(getKey(@"privacy.friends_only_info"), @"this block also applies to osu!lazer multiplayer invites and ranked play duel requests");
+        public static LocalisableString PrivacyFriendsOnlyInfo => new TranslatableString(getKey(@"privacy.friends_only_info"), @"this block also applies to g0v0! multiplayer invites and ranked play duel requests");
 
         /// <summary>
         /// "hide your online presence"
