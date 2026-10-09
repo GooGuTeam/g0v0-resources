@@ -175,4 +175,49 @@
   <data name="restore" xml:space="preserve">
     <value>Restore</value>
   </data>
+  <data name="online_rulesets" xml:space="preserve">
+    <value>Online rulesets</value>
+  </data>
+  <data name="online_rulesets_source" xml:space="preserve">
+    <value>Server: {0}</value>
+  </data>
+  <data name="online_rulesets_fetching" xml:space="preserve">
+    <value>Fetching ruleset information from the server...</value>
+  </data>
+  <data name="refresh_online_rulesets" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="online_rulesets_unsupported_server" xml:space="preserve">
+    <value>This server doesn't provide ruleset information.</value>
+  </data>
+  <data name="online_rulesets_fetch_failed" xml:space="preserve">
+    <value>Couldn't retrieve ruleset information from the server. Refresh to try again.</value>
+  </data>
+  <data name="online_rulesets_login_required" xml:space="preserve">
+    <value>Log in to see the rulesets provided by the server.</value>
+  </data>
+  <data name="ruleset_builtin" xml:space="preserve">
+    <value>Built-in</value>
+  </data>
+  <data name="ruleset_provided_by_server" xml:space="preserve">
+    <value>Provided by the server</value>
+  </data>
+  <data name="ruleset_not_installed" xml:space="preserve">
+    <value>Not installed</value>
+  </data>
+  <data name="ruleset_no_version_information" xml:space="preserve">
+    <value>No version information available</value>
+  </data>
+  <data name="ruleset_unsupported" xml:space="preserve">
+    <value>Unsupported</value>
+  </data>
+  <data name="ruleset_update_available" xml:space="preserve">
+    <value>Update available</value>
+  </data>
+  <data name="download_ruleset" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="ruleset_version" xml:space="preserve">
+    <value>v{0}</value>
+  </data>
 </root>
