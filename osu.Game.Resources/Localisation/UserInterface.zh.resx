@@ -175,4 +175,55 @@
   <data name="user_search" xml:space="preserve">
     <value>用户搜索</value>
   </data>
+  <data name="default_results_style" xml:space="preserve">
+    <value>默认</value>
+  </data>
+  <data name="v2_results_style" xml:space="preserve">
+    <value>g0v0! V2</value>
+  </data>
+  <data name="legacy_results_style" xml:space="preserve">
+    <value>Torii（旧版）</value>
+  </data>
+  <data name="results_header" xml:space="preserve">
+    <value>成绩</value>
+  </data>
+  <data name="results_screen_style" xml:space="preserve">
+    <value>成绩界面样式</value>
+  </data>
+  <data name="results_screen_style_description" xml:space="preserve">
+    <value>选择默认布局：现代成绩与分数环，或可使用皮肤的 stable 风格排名面板。对新打开的成绩界面生效。</value>
+  </data>
+  <data name="use_v2_results_screen" xml:space="preserve">
+    <value>使用 V2 成绩界面</value>
+  </data>
+  <data name="use_v2_results_screen_description" xml:space="preserve">
+    <value>以大号成绩和分数环显示单人成绩。关闭则使用原始布局。</value>
+  </data>
+  <data name="legacy_song_select" xml:space="preserve">
+    <value>旧版歌曲选择</value>
+  </data>
+  <data name="legacy_song_select_description" xml:space="preserve">
+    <value>使用 stable 风格的歌曲选择界面，带可使用皮肤的底栏与排名面板，不含现代筛选栏或信息面板。包含旧版底栏。重新打开歌曲选择界面后生效。</value>
+  </data>
+  <data name="legacy_song_select_footer" xml:space="preserve">
+    <value>旧版歌曲选择底栏</value>
+  </data>
+  <data name="legacy_song_select_footer_description" xml:space="preserve">
+    <value>在标准歌曲选择界面上显示 stable 风格底栏与排名面板。启用旧版歌曲选择时始终开启；独立的底栏偏好会被保留。重新打开歌曲选择界面后生效。</value>
+  </data>
+  <data name="song_select_appearance_header" xml:space="preserve">
+    <value>歌曲选择外观</value>
+  </data>
+  <data name="unslanted_song_select_ui" xml:space="preserve">
+    <value>严格竖直界面（无倾斜）</value>
+  </data>
+  <data name="unslanted_song_select_ui_description" xml:space="preserve">
+    <value>将歌曲选择界面的倾斜面板（信息板、排行榜、下拉框）重新渲染为规则矩形。下次进入歌曲选择界面时生效。</value>
+  </data>
+  <data name="use_inter_font" xml:space="preserve">
+    <value>在旧版歌曲选择中使用 Inter 字体</value>
+  </data>
+  <data name="use_inter_font_description" xml:space="preserve">
+    <value>在旧版歌曲选择组件中使用 Inter 替代默认界面字体。重新打开歌曲选择界面后生效。</value>
+  </data>
 </root>

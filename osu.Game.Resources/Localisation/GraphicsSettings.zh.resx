@@ -151,4 +151,49 @@
   <data name="shrink_game_to_safe_area" xml:space="preserve">
     <value>缩小游戏画面以避免被摄像头或屏幕刘海遮挡</value>
   </data>
+  <data name="vulkan_presentation_mode" xml:space="preserve">
+    <value>Vulkan 呈现模式：{0}</value>
+  </data>
+  <data name="direct3d_presentation_model" xml:space="preserve">
+    <value>Direct3D 呈现模型：{0}</value>
+  </data>
+  <data name="direct3d_exclusive_fullscreen" xml:space="preserve">
+    <value>全屏独占：{0}</value>
+  </data>
+  <data name="vulkan_exclusive_fullscreen" xml:space="preserve">
+    <value>全屏独占：{0}</value>
+  </data>
+  <data name="exclusive_fullscreen_active" xml:space="preserve">
+    <value>已激活</value>
+  </data>
+  <data name="exclusive_fullscreen_inactive" xml:space="preserve">
+    <value>未激活</value>
+  </data>
+  <data name="presentation_unknown" xml:space="preserve">
+    <value>未知</value>
+  </data>
+  <data name="flip_discard" xml:space="preserve">
+    <value>Flip 模型（FLIP_DISCARD）</value>
+  </data>
+  <data name="flip_sequential" xml:space="preserve">
+    <value>Flip 模型（FLIP_SEQUENTIAL）</value>
+  </data>
+  <data name="bitblt_discard" xml:space="preserve">
+    <value>BitBlt 模型（DISCARD）</value>
+  </data>
+  <data name="bitblt_sequential" xml:space="preserve">
+    <value>BitBlt 模型（SEQUENTIAL）</value>
+  </data>
+  <data name="vulkan_present_mode_fifo" xml:space="preserve">
+    <value>FIFO（垂直同步）</value>
+  </data>
+  <data name="vulkan_present_mode_fifo_relaxed" xml:space="preserve">
+    <value>FIFO（宽松垂直同步）</value>
+  </data>
+  <data name="vulkan_present_mode_immediate" xml:space="preserve">
+    <value>Immediate（允许画面撕裂）</value>
+  </data>
+  <data name="vulkan_present_mode_mailbox" xml:space="preserve">
+    <value>Mailbox（快速同步）</value>
+  </data>
 </root>

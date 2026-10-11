@@ -220,4 +220,10 @@
   <data name="ruleset_version" xml:space="preserve">
     <value>v{0}</value>
   </data>
+  <data name="show_slider_head_judgements" xml:space="preserve">
+    <value>Show slider head judgements</value>
+  </data>
+  <data name="show_slider_head_judgements_description" xml:space="preserve">
+    <value>Display accuracy judgements on slider heads when hit.</value>
+  </data>
 </root>

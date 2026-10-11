@@ -221,4 +221,10 @@
   <data name="ruleset_version" xml:space="preserve">
     <value>v{0}</value>
   </data>
+  <data name="show_slider_head_judgements" xml:space="preserve">
+    <value>显示滑条头判定</value>
+  </data>
+  <data name="show_slider_head_judgements_description" xml:space="preserve">
+    <value>命中滑条头时显示准度判定。</value>
+  </data>
 </root>

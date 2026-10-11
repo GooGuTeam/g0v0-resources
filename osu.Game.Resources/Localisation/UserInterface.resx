@@ -175,4 +175,55 @@
   <data name="user_search" xml:space="preserve">
     <value>User search</value>
   </data>
+  <data name="default_results_style" xml:space="preserve">
+    <value>Default</value>
+  </data>
+  <data name="v2_results_style" xml:space="preserve">
+    <value>g0v0 V2</value>
+  </data>
+  <data name="legacy_results_style" xml:space="preserve">
+    <value>Torii (Legacy)</value>
+  </data>
+  <data name="results_header" xml:space="preserve">
+    <value>Results</value>
+  </data>
+  <data name="results_screen_style" xml:space="preserve">
+    <value>Results screen style</value>
+  </data>
+  <data name="results_screen_style_description" xml:space="preserve">
+    <value>Choose the default layout, the modern score and rank ring, or the skinnable stable-style ranking panel. Applies to newly opened results screens.</value>
+  </data>
+  <data name="use_v2_results_screen" xml:space="preserve">
+    <value>Use V2 results screen</value>
+  </data>
+  <data name="use_v2_results_screen_description" xml:space="preserve">
+    <value>Show solo results with a large score and rank ring. Disable to use the original layout.</value>
+  </data>
+  <data name="legacy_song_select" xml:space="preserve">
+    <value>Legacy song select</value>
+  </data>
+  <data name="legacy_song_select_description" xml:space="preserve">
+    <value>Use a stable-style song select with a skinnable footer and rank panel, without the modern filter bar or information wedges. Includes the legacy footer. Reopen song select to apply.</value>
+  </data>
+  <data name="legacy_song_select_footer" xml:space="preserve">
+    <value>Legacy song select footer</value>
+  </data>
+  <data name="legacy_song_select_footer_description" xml:space="preserve">
+    <value>Show the stable-style footer and rank panel over the standard song select interface. Always enabled when legacy song select is on; your separate footer preference is preserved. Reopen song select to apply.</value>
+  </data>
+  <data name="song_select_appearance_header" xml:space="preserve">
+    <value>Song Select Appearance</value>
+  </data>
+  <data name="unslanted_song_select_ui" xml:space="preserve">
+    <value>Strictly vertical UI (no slant)</value>
+  </data>
+  <data name="unslanted_song_select_ui_description" xml:space="preserve">
+    <value>Re-render the slanted Song Select panels (wedges, leaderboard, dropdowns) as straight rectangles. Takes effect on next entry to song select.</value>
+  </data>
+  <data name="use_inter_font" xml:space="preserve">
+    <value>Use Inter font in legacy song select</value>
+  </data>
+  <data name="use_inter_font_description" xml:space="preserve">
+    <value>Use Inter instead of the default UI font in legacy song select components. Reopen song select to apply.</value>
+  </data>
 </root>

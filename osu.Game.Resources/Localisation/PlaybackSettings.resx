@@ -103,4 +103,16 @@
   <data name="analysis_settings_title" xml:space="preserve">
     <value>Analysis Settings</value>
   </data>
+  <data name="seek_to_next_miss" xml:space="preserve">
+    <value>Seek to one second before the next Miss</value>
+  </data>
+  <data name="seek_to_previous_miss" xml:space="preserve">
+    <value>Seek to one second before the previous Miss</value>
+  </data>
+  <data name="next_miss" xml:space="preserve">
+    <value>Next Miss</value>
+  </data>
+  <data name="previous_miss" xml:space="preserve">
+    <value>Previous Miss</value>
+  </data>
 </root>

@@ -103,4 +103,16 @@
   <data name="analysis_settings_title" xml:space="preserve">
     <value>分析设置</value>
   </data>
+  <data name="seek_to_next_miss" xml:space="preserve">
+    <value>跳转至下一个 Miss 前一秒</value>
+  </data>
+  <data name="seek_to_previous_miss" xml:space="preserve">
+    <value>跳转至上一个 Miss 前一秒</value>
+  </data>
+  <data name="next_miss" xml:space="preserve">
+    <value>下一个 Miss</value>
+  </data>
+  <data name="previous_miss" xml:space="preserve">
+    <value>上一个 Miss</value>
+  </data>
 </root>

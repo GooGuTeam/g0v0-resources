@@ -67,4 +67,52 @@
   <data name="no_pp_for_failed_scores" xml:space="preserve">
     <value>失败成绩不会获得表现分。</value>
   </data>
+  <data name="leaderboard_and_details" xml:space="preserve">
+    <value>排行榜 / 更多信息</value>
+  </data>
+  <data name="score_overview" xml:space="preserve">
+    <value>成绩概览</value>
+  </data>
+  <data name="more_info" xml:space="preserve">
+    <value>更多信息</value>
+  </data>
+  <data name="play_again" xml:space="preserve">
+    <value>重试</value>
+  </data>
+  <data name="screenshot" xml:space="preserve">
+    <value>截图</value>
+  </data>
+  <data name="upload_screenshot_short" xml:space="preserve">
+    <value>上传截图</value>
+  </data>
+  <data name="mapped_by" xml:space="preserve">
+    <value>谱面作者：{0}</value>
+  </data>
+  <data name="achieved_on" xml:space="preserve">
+    <value>达成于 {0}</value>
+  </data>
+  <data name="mods" xml:space="preserve">
+    <value>MODS</value>
+  </data>
+  <data name="combo" xml:space="preserve">
+    <value>连击</value>
+  </data>
+  <data name="featured_artist" xml:space="preserve">
+    <value>精选艺术家</value>
+  </data>
+  <data name="if_full_combo" xml:space="preserve">
+    <value>如果全连 {0}pp</value>
+  </data>
+  <data name="downloading_replay" xml:space="preserve">
+    <value>正在下载回放……</value>
+  </data>
+  <data name="no_mods" xml:space="preserve">
+    <value>未使用 Mod</value>
+  </data>
+  <data name="replay_unavailable" xml:space="preserve">
+    <value>回放不可用</value>
+  </data>
+  <data name="retry_unavailable" xml:space="preserve">
+    <value>游玩此谱面后即可重试。</value>
+  </data>
 </root>

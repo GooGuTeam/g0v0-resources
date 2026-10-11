@@ -151,4 +151,49 @@
   <data name="shrink_game_to_safe_area" xml:space="preserve">
     <value>Shrink game to avoid cameras and notches</value>
   </data>
+  <data name="vulkan_presentation_mode" xml:space="preserve">
+    <value>Vulkan presentation mode: {0}</value>
+  </data>
+  <data name="direct3d_presentation_model" xml:space="preserve">
+    <value>Direct3D presentation model: {0}</value>
+  </data>
+  <data name="direct3d_exclusive_fullscreen" xml:space="preserve">
+    <value>Exclusive fullscreen: {0}</value>
+  </data>
+  <data name="vulkan_exclusive_fullscreen" xml:space="preserve">
+    <value>Exclusive fullscreen: {0}</value>
+  </data>
+  <data name="exclusive_fullscreen_active" xml:space="preserve">
+    <value>Active</value>
+  </data>
+  <data name="exclusive_fullscreen_inactive" xml:space="preserve">
+    <value>Inactive</value>
+  </data>
+  <data name="presentation_unknown" xml:space="preserve">
+    <value>Unknown</value>
+  </data>
+  <data name="flip_discard" xml:space="preserve">
+    <value>Flip model (FLIP_DISCARD)</value>
+  </data>
+  <data name="flip_sequential" xml:space="preserve">
+    <value>Flip model (FLIP_SEQUENTIAL)</value>
+  </data>
+  <data name="bitblt_discard" xml:space="preserve">
+    <value>BitBlt model (DISCARD)</value>
+  </data>
+  <data name="bitblt_sequential" xml:space="preserve">
+    <value>BitBlt model (SEQUENTIAL)</value>
+  </data>
+  <data name="vulkan_present_mode_fifo" xml:space="preserve">
+    <value>FIFO (VSync)</value>
+  </data>
+  <data name="vulkan_present_mode_fifo_relaxed" xml:space="preserve">
+    <value>FIFO Relaxed</value>
+  </data>
+  <data name="vulkan_present_mode_immediate" xml:space="preserve">
+    <value>Immediate (Tearing)</value>
+  </data>
+  <data name="vulkan_present_mode_mailbox" xml:space="preserve">
+    <value>Mailbox (Fast Sync)</value>
+  </data>
 </root>
