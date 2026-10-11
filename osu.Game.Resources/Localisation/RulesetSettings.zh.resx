@@ -176,4 +176,49 @@
   <data name="broken_rulesets_note" xml:space="preserve">
     <value>以下模式曾导致游戏崩溃，已暂时禁用。</value>
   </data>
+  <data name="online_rulesets" xml:space="preserve">
+    <value>在线模式</value>
+  </data>
+  <data name="online_rulesets_source" xml:space="preserve">
+    <value>服务器：{0}</value>
+  </data>
+  <data name="online_rulesets_fetching" xml:space="preserve">
+    <value>正在从服务器获取模式信息……</value>
+  </data>
+  <data name="refresh_online_rulesets" xml:space="preserve">
+    <value>刷新</value>
+  </data>
+  <data name="online_rulesets_unsupported_server" xml:space="preserve">
+    <value>此服务器不提供模式信息。</value>
+  </data>
+  <data name="online_rulesets_fetch_failed" xml:space="preserve">
+    <value>无法从服务器获取模式信息，请刷新后重试。</value>
+  </data>
+  <data name="online_rulesets_login_required" xml:space="preserve">
+    <value>登录后可查看服务器提供的模式。</value>
+  </data>
+  <data name="ruleset_builtin" xml:space="preserve">
+    <value>内置</value>
+  </data>
+  <data name="ruleset_provided_by_server" xml:space="preserve">
+    <value>由服务器提供</value>
+  </data>
+  <data name="ruleset_not_installed" xml:space="preserve">
+    <value>未安装</value>
+  </data>
+  <data name="ruleset_no_version_information" xml:space="preserve">
+    <value>无可用版本信息</value>
+  </data>
+  <data name="ruleset_unsupported" xml:space="preserve">
+    <value>未支持版本</value>
+  </data>
+  <data name="ruleset_update_available" xml:space="preserve">
+    <value>可更新</value>
+  </data>
+  <data name="download_ruleset" xml:space="preserve">
+    <value>下载</value>
+  </data>
+  <data name="ruleset_version" xml:space="preserve">
+    <value>v{0}</value>
+  </data>
 </root>
