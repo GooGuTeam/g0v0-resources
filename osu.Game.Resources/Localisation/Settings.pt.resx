@@ -62,7 +62,9 @@
     <value>definições</value>
   </data>
   <data name="header_description" xml:space="preserve">
-    <value>alterar o modo como o g0v0! se comporta</value>
+
+    <value>mude a forma como o g0v0! comporta-se</value>
+
   </data>
   <data name="copy_version" xml:space="preserve">
     <value>Copiar versão</value>

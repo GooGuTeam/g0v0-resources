@@ -62,6 +62,11 @@
     <value>iestatījumi</value>
   </data>
   <data name="header_description" xml:space="preserve">
-    <value>izmainiet g0v0! uzvedību</value>
+
+    <value>mainīt g0v0! darbību</value>
+  </data>
+  <data name="copy_version" xml:space="preserve">
+    <value>Kopēt versiju</value>
+
   </data>
 </root>
