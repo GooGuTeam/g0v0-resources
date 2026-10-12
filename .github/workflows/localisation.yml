@@ -1,0 +1,45 @@
+name: Localisation check
+
+# Cross-checks this repository's .resx files against the *Strings.cs classes in the osu! repository
+# and publishes the findings to Security -> Code scanning. The checker lives in
+# GooGuTeam/g0v0-l10n-checker; this file only says who calls it and with what.
+#
+# The osu! repository has the mirrored call. Both are needed: the check itself always reads both
+# repositories, but a SARIF report is a list of paths relative to one of them, and an upload can only
+# ever target the repository running the job. Each side therefore publishes the half that lives in
+# it — this one publishes the .resx findings.
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  localisation:
+    uses: GooGuTeam/g0v0-l10n-checker/.github/workflows/localisation-check.yml@main
+    permissions:
+      contents: read
+      # Required to publish the report to code scanning. A called workflow can only be granted what
+      # its caller grants; without this the upload is rejected with a 403 and the findings are left in
+      # the job log. Missing it never fails the check — publishing is best effort.
+      security-events: write
+    with:
+      # This repository holds the .resx half, so the osu! side has to be named explicitly. Left empty,
+      # the calling repository would be read as the osu! side — every .resx file taken for a
+      # *Strings.cs class — and the workflow refuses to run instead of reporting nonsense.
+      osu-repository: GooGuTeam/g0v0
+      # The osu! code these resources are paired with. v2 is the fork's development branch, and it is
+      # deliberately the moving branch rather than a tag: a string added there shows up here as a
+      # missing key until the matching commit lands, which is the lag this check exists to make
+      # visible.
+      osu-ref: v2
+      # The commit under test. Left empty the checkout would use the default branch, which on a pull
+      # request is not the code being reviewed. On a fork's pull request this resolves to the merge
+      # commit, which lives in this repository, so it still checks out.
+      resources-ref: ${{ github.sha }}
+      # Publish the .resx half of the report; the osu! side publishes the .cs half from its own call.
+      sarif-source: resources
