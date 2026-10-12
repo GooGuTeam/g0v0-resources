@@ -37,9 +37,11 @@ jobs:
       # missing key until the matching commit lands, which is the lag this check exists to make
       # visible.
       osu-ref: v2
-      # The commit under test. Left empty the checkout would use the default branch, which on a pull
-      # request is not the code being reviewed. On a fork's pull request this resolves to the merge
-      # commit, which lives in this repository, so it still checks out.
+      # The commit under test, and the one ref in this file that cannot be left out. Left empty, the
+      # workflow derives the tag `v<version>-g0v0` from G0V0ResourcesVersion on the osu! side — which
+      # names the *published* resources, not the ones under review, i.e. the opposite of what a check
+      # on this repository is for. On a fork's pull request ${{ github.sha }} is the merge commit,
+      # which lives in this repository, so it still checks out.
       resources-ref: ${{ github.sha }}
       # Publish the .resx half of the report; the osu! side publishes the .cs half from its own call.
       sarif-source: resources
