@@ -67,4 +67,22 @@
   <data name="no_pp_for_failed_scores" xml:space="preserve">
     <value>失敗成績不會獲得 pp。</value>
   </data>
+  <data name="if_ss" xml:space="preserve">
+    <value>如果 SS {0}pp</value>
+  </data>
+  <data name="if_ssh" xml:space="preserve">
+    <value>如果 SSH {0}pp</value>
+  </data>
+  <data name="if_full_combo_tooltip" xml:space="preserve">
+    <value>達成全連可獲得的 PP。點擊切換至 SS 情況。</value>
+  </data>
+  <data name="if_ss_tooltip" xml:space="preserve">
+    <value>達成 SS 可獲得的 PP。</value>
+  </data>
+  <data name="if_ssh_tooltip" xml:space="preserve">
+    <value>達成 SSH 可獲得的 PP。</value>
+  </data>
+  <data name="click_to_full_combo_tooltip" xml:space="preserve">
+    <value>點擊切換至全連情況。</value>
+  </data>
 </root>

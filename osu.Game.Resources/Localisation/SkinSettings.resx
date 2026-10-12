@@ -88,4 +88,7 @@
   <data name="beatmap_hitsounds" xml:space="preserve">
     <value>Beatmap hitsounds</value>
   </data>
+  <data name="remember_separate_skin_for_each_ruleset" xml:space="preserve">
+    <value>Remember a separate skin for each ruleset</value>
+  </data>
 </root>

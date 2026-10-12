@@ -88,4 +88,7 @@
   <data name="beatmap_hitsounds" xml:space="preserve">
     <value>圖譜打擊音效</value>
   </data>
+  <data name="remember_separate_skin_for_each_ruleset" xml:space="preserve">
+    <value>為每個遊戲模式記住單獨的皮膚</value>
+  </data>
 </root>

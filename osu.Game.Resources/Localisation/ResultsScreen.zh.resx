@@ -103,6 +103,24 @@
   <data name="if_full_combo" xml:space="preserve">
     <value>如果全连 {0}pp</value>
   </data>
+  <data name="if_ss" xml:space="preserve">
+    <value>如果 SS {0}pp</value>
+  </data>
+  <data name="if_ssh" xml:space="preserve">
+    <value>如果 SSH {0}pp</value>
+  </data>
+  <data name="if_full_combo_tooltip" xml:space="preserve">
+    <value>达成全连可获得的 PP。点击切换至 SS 情况。</value>
+  </data>
+  <data name="if_ss_tooltip" xml:space="preserve">
+    <value>达成 SS 可获得的 PP。</value>
+  </data>
+  <data name="if_ssh_tooltip" xml:space="preserve">
+    <value>达成 SSH 可获得的 PP。</value>
+  </data>
+  <data name="click_to_full_combo_tooltip" xml:space="preserve">
+    <value>点击切换至全连情况。</value>
+  </data>
   <data name="downloading_replay" xml:space="preserve">
     <value>正在下载回放……</value>
   </data>

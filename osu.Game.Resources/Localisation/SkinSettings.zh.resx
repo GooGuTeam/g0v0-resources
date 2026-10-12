@@ -88,4 +88,7 @@
   <data name="beatmap_hitsounds" xml:space="preserve">
     <value>谱面打击音效</value>
   </data>
+  <data name="remember_separate_skin_for_each_ruleset" xml:space="preserve">
+    <value>为每个游戏模式记住单独的皮肤</value>
+  </data>
 </root>

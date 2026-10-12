@@ -106,6 +106,24 @@
   <data name="if_full_combo" xml:space="preserve">
     <value>if FC {0}pp</value>
   </data>
+  <data name="if_ss" xml:space="preserve">
+    <value>if SS {0}pp</value>
+  </data>
+  <data name="if_ssh" xml:space="preserve">
+    <value>if SSH {0}pp</value>
+  </data>
+  <data name="if_full_combo_tooltip" xml:space="preserve">
+    <value>PP you can gain if you achieve FC. Click to switch SS case.</value>
+  </data>
+  <data name="if_ss_tooltip" xml:space="preserve">
+    <value>PP you can gain if you achieve SS.</value>
+  </data>
+  <data name="if_ssh_tooltip" xml:space="preserve">
+    <value>PP you can gain if you achieve SSH.</value>
+  </data>
+  <data name="click_to_full_combo_tooltip" xml:space="preserve">
+    <value>Click to switch to FC case.</value>
+  </data>
   <data name="downloading_replay" xml:space="preserve">
     <value>Downloading replay…</value>
   </data>
