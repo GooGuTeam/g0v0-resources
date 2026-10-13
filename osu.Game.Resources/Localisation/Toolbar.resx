@@ -79,4 +79,37 @@
   <data name="time_running" xml:space="preserve">
     <value>running</value>
   </data>
+  <data name="toolbar_settings_header" xml:space="preserve">
+    <value>Toolbar</value>
+  </data>
+  <data name="more_icons" xml:space="preserve">
+    <value>more icons</value>
+  </data>
+  <data name="hidden_icons_header" xml:space="preserve">
+    <value>hidden icons</value>
+  </data>
+  <data name="manage_toolbar_icons" xml:space="preserve">
+    <value>Manage toolbar icons...</value>
+  </data>
+  <data name="manage_toolbar_icons_description" xml:space="preserve">
+    <value>Choose which icons are shown in the toolbar, their order, and hiding behaviour.</value>
+  </data>
+  <data name="hide_icon" xml:space="preserve">
+    <value>Hide this icon</value>
+  </data>
+  <data name="show_icon" xml:space="preserve">
+    <value>Show this icon</value>
+  </data>
+  <data name="auto_hide_icons" xml:space="preserve">
+    <value>Auto-hide icons when space is limited</value>
+  </data>
+  <data name="auto_hide_icons_description" xml:space="preserve">
+    <value>Hides toolbar icons from the left as space runs out, keeping the ruleset selector visible.</value>
+  </data>
+  <data name="restore_default_order" xml:space="preserve">
+    <value>Restore default order</value>
+  </data>
+  <data name="restore_default_settings" xml:space="preserve">
+    <value>Restore default settings</value>
+  </data>
 </root>
