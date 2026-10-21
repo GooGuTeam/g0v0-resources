@@ -79,4 +79,37 @@
   <data name="time_running" xml:space="preserve">
     <value>已运行</value>
   </data>
+  <data name="toolbar_settings_header" xml:space="preserve">
+    <value>工具栏</value>
+  </data>
+  <data name="more_icons" xml:space="preserve">
+    <value>更多图标</value>
+  </data>
+  <data name="hidden_icons_header" xml:space="preserve">
+    <value>已隐藏的图标</value>
+  </data>
+  <data name="manage_toolbar_icons" xml:space="preserve">
+    <value>管理工具栏图标…</value>
+  </data>
+  <data name="manage_toolbar_icons_description" xml:space="preserve">
+    <value>选择要在工具栏中显示的图标、顺序与隐藏行为。</value>
+  </data>
+  <data name="hide_icon" xml:space="preserve">
+    <value>隐藏此图标</value>
+  </data>
+  <data name="show_icon" xml:space="preserve">
+    <value>显示此图标</value>
+  </data>
+  <data name="auto_hide_icons" xml:space="preserve">
+    <value>空间不足时自动隐藏图标</value>
+  </data>
+  <data name="auto_hide_icons_description" xml:space="preserve">
+    <value>空间不足时从左侧开始隐藏工具栏图标，尽可能使模式选择区显示。</value>
+  </data>
+  <data name="restore_default_order" xml:space="preserve">
+    <value>恢复默认排序</value>
+  </data>
+  <data name="restore_default_settings" xml:space="preserve">
+    <value>恢复默认设置</value>
+  </data>
 </root>
