@@ -67,6 +67,9 @@
   <data name="no_pp_for_failed_scores" xml:space="preserve">
     <value>失敗成績不會獲得 pp。</value>
   </data>
+  <data name="performance_points_header" xml:space="preserve">
+    <value>表現分</value>
+  </data>
   <data name="if_ss" xml:space="preserve">
     <value>如果 SS {0}pp</value>
   </data>

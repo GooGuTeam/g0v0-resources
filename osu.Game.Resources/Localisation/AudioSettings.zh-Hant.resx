@@ -85,6 +85,9 @@
   <data name="music_volume" xml:space="preserve">
     <value>音樂</value>
   </data>
+  <data name="hitsound_volume" xml:space="preserve">
+    <value>打擊音效</value>
+  </data>
   <data name="offset_header" xml:space="preserve">
     <value>音訊偏移調整</value>
   </data>

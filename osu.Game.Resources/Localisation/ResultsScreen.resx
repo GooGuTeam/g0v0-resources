@@ -70,6 +70,9 @@
   <data name="no_pp_for_failed_scores" xml:space="preserve">
     <value>Performance points are not granted for failed scores.</value>
   </data>
+  <data name="performance_points_header" xml:space="preserve">
+    <value>Performance</value>
+  </data>
   <data name="leaderboard_and_details" xml:space="preserve">
     <value>Leaderboard / More info</value>
   </data>

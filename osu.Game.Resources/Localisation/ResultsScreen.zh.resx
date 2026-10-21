@@ -67,6 +67,9 @@
   <data name="no_pp_for_failed_scores" xml:space="preserve">
     <value>失败成绩不会获得表现分。</value>
   </data>
+  <data name="performance_points_header" xml:space="preserve">
+    <value>表现分</value>
+  </data>
   <data name="leaderboard_and_details" xml:space="preserve">
     <value>排行榜 / 更多信息</value>
   </data>
