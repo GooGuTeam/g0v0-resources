@@ -223,4 +223,19 @@
   <data name="matches_count" xml:space="preserve">
     <value>{0:#,0} match|{0:#,0} matches</value>
   </data>
+  <data name="objects" xml:space="preserve">
+    <value>Objects</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>Search:</value>
+  </data>
+  <data name="scope_ranking" xml:space="preserve">
+    <value>{0} Ranking</value>
+  </data>
+  <data name="no_personal_record" xml:space="preserve">
+    <value>No personal record set</value>
+  </data>
+  <data name="rank_of_total" xml:space="preserve">
+    <value>#{0:#,0} of {1:#,0}</value>
+  </data>
 </root>

@@ -136,4 +136,55 @@
   <data name="retry_unavailable" xml:space="preserve">
     <value>游玩此谱面后即可重试。</value>
   </data>
+  <data name="overall" xml:space="preserve">
+    <value>综合</value>
+  </data>
+  <data name="ranked_score" xml:space="preserve">
+    <value>进榜总分</value>
+  </data>
+  <data name="total_score" xml:space="preserve">
+    <value>总分</value>
+  </data>
+  <data name="performance" xml:space="preserve">
+    <value>表现分</value>
+  </data>
+  <data name="beatmap_ranking" xml:space="preserve">
+    <value>谱面排名</value>
+  </data>
+  <data name="overall_ranking" xml:space="preserve">
+    <value>综合排名</value>
+  </data>
+  <data name="online_ranking" xml:space="preserve">
+    <value>在线排名</value>
+  </data>
+  <data name="save_replay_to_folder" xml:space="preserve">
+    <value>将回放保存到 Replays 文件夹</value>
+  </data>
+  <data name="add_as_online_favourite" xml:space="preserve">
+    <value>添加到在线收藏</value>
+  </data>
+  <data name="local_rank_achieved" xml:space="preserve">
+    <value>你在本地排行榜中取得了第 {0} 名的成绩！</value>
+  </data>
+  <data name="your_best" xml:space="preserve">
+    <value>你的最佳：{0}</value>
+  </data>
+  <data name="no_plays_recorded" xml:space="preserve">
+    <value>此谱面尚无游玩记录</value>
+  </data>
+  <data name="play_count" xml:space="preserve">
+    <value>{0:N0} 次游玩</value>
+  </data>
+  <data name="submitted_since" xml:space="preserve">
+    <value>自 {0} 起</value>
+  </data>
+  <data name="pass_rate" xml:space="preserve">
+    <value>通过率 {0:0}%</value>
+  </data>
+  <data name="beatmap_by" xml:space="preserve">
+    <value>谱面作者：{0}</value>
+  </data>
+  <data name="played_by" xml:space="preserve">
+    <value>由 {0} 于 {1} 游玩。</value>
+  </data>
 </root>

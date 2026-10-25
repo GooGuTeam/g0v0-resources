@@ -139,4 +139,55 @@
   <data name="retry_unavailable" xml:space="preserve">
     <value>Retry is available after playing this beatmap.</value>
   </data>
+  <data name="overall" xml:space="preserve">
+    <value>Overall</value>
+  </data>
+  <data name="ranked_score" xml:space="preserve">
+    <value>Ranked Score</value>
+  </data>
+  <data name="total_score" xml:space="preserve">
+    <value>Total Score</value>
+  </data>
+  <data name="performance" xml:space="preserve">
+    <value>Performance</value>
+  </data>
+  <data name="beatmap_ranking" xml:space="preserve">
+    <value>Beatmap Ranking</value>
+  </data>
+  <data name="overall_ranking" xml:space="preserve">
+    <value>Overall Ranking</value>
+  </data>
+  <data name="online_ranking" xml:space="preserve">
+    <value>Online Ranking</value>
+  </data>
+  <data name="save_replay_to_folder" xml:space="preserve">
+    <value>Save replay to Replays folder</value>
+  </data>
+  <data name="add_as_online_favourite" xml:space="preserve">
+    <value>Add as online favourite</value>
+  </data>
+  <data name="local_rank_achieved" xml:space="preserve">
+    <value>You achieved the #{0} score on local rankings!</value>
+  </data>
+  <data name="your_best" xml:space="preserve">
+    <value>your best: {0}</value>
+  </data>
+  <data name="no_plays_recorded" xml:space="preserve">
+    <value>no plays recorded on this beatmap yet</value>
+  </data>
+  <data name="play_count" xml:space="preserve">
+    <value>{0:N0} plays</value>
+  </data>
+  <data name="submitted_since" xml:space="preserve">
+    <value>since {0}</value>
+  </data>
+  <data name="pass_rate" xml:space="preserve">
+    <value>{0:0}% pass rate</value>
+  </data>
+  <data name="beatmap_by" xml:space="preserve">
+    <value>Beatmap by {0}</value>
+  </data>
+  <data name="played_by" xml:space="preserve">
+    <value>Played by {0} on {1}.</value>
+  </data>
 </root>

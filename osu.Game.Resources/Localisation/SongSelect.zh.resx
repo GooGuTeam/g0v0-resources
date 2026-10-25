@@ -223,4 +223,19 @@
   <data name="matches_count" xml:space="preserve">
     <value>{0:#,0} 个匹配项</value>
   </data>
+  <data name="objects" xml:space="preserve">
+    <value>物件</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>搜索：</value>
+  </data>
+  <data name="scope_ranking" xml:space="preserve">
+    <value>{0}排行榜</value>
+  </data>
+  <data name="no_personal_record" xml:space="preserve">
+    <value>尚无个人成绩</value>
+  </data>
+  <data name="rank_of_total" xml:space="preserve">
+    <value>#{0:#,0} / {1:#,0}</value>
+  </data>
 </root>
