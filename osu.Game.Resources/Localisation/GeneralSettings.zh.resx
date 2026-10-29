@@ -124,4 +124,7 @@
   <data name="running_latest_release" xml:space="preserve">
     <value>你正在运行最新版本 ({0})</value>
   </data>
+  <data name="disable_automatic_updates" xml:space="preserve">
+    <value>禁用自动更新</value>
+  </data>
 </root>

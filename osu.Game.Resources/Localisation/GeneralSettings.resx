@@ -124,4 +124,7 @@
   <data name="running_latest_release" xml:space="preserve">
     <value>You are running the latest release ({0})</value>
   </data>
+  <data name="disable_automatic_updates" xml:space="preserve">
+    <value>Disable automatic updates</value>
+  </data>
 </root>
