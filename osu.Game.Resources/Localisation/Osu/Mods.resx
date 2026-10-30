@@ -312,4 +312,22 @@
   <data name="wiggle_strength_description" xml:space="preserve">
     <value>Multiplier applied to the wiggling strength.</value>
   </data>
+  <data name="score_v1_description" xml:space="preserve">
+    <value>Play with the ScoreV1 scoring algorithm.</value>
+  </data>
+  <data name="score_v2_description" xml:space="preserve">
+    <value>Play with the ScoreV2 scoring algorithm.</value>
+  </data>
+  <data name="show_slider_head_judgements_label" xml:space="preserve">
+    <value>Show slider head judgements</value>
+  </data>
+  <data name="show_slider_head_judgements_description" xml:space="preserve">
+    <value>Display accuracy judgements on slider heads when hit.</value>
+  </data>
+  <data name="classic_slider_judgement" xml:space="preserve">
+    <value>Classic slider judgement</value>
+  </data>
+  <data name="classic_slider_judgement_description" xml:space="preserve">
+    <value>Judge slider ticks and tails at fixed points in time, matching osu!stable.</value>
+  </data>
 </root>

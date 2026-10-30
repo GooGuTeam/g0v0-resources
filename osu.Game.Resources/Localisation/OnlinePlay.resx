@@ -76,11 +76,17 @@
   <data name="footer_button_freestyle" xml:space="preserve">
     <value>Freestyle</value>
   </data>
+  <data name="footer_button_win_condition" xml:space="preserve">
+    <value>Win condition</value>
+  </data>
   <data name="playlist_tray_description" xml:space="preserve">
     <value>Manage items on previous screen</value>
   </data>
   <data name="multiplayer_beatmap_queue" xml:space="preserve">
     <value>Beatmap queue</value>
+  </data>
+  <data name="win_condition_badge_tooltip" xml:space="preserve">
+    <value>Win through {0}</value>
   </data>
   <data name="playlist_progress" xml:space="preserve">
     <value>Progress</value>

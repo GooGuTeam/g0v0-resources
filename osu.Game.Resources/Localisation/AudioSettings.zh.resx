@@ -122,4 +122,31 @@
     <value>游玩过程中遇到音频问题时，请开启此选项。
 注意：该选项会增加音频延迟。</value>
   </data>
+  <data name="restart_audio_engine" xml:space="preserve">
+    <value>重启音频引擎</value>
+  </data>
+  <data name="exclusive_audio_mode" xml:space="preserve">
+    <value>独占音频模式</value>
+  </data>
+  <data name="exclusive_audio_mode_tooltip" xml:space="preserve">
+    <value>绕过系统音频混音器以获得尽可能低的音频延迟。启用后，其他应用程序将无法同时播放音频。</value>
+  </data>
+  <data name="buffer_size" xml:space="preserve">
+    <value>缓冲区大小（秒）</value>
+  </data>
+  <data name="buffer_size_tooltip" xml:space="preserve">
+    <value>音频缓冲区长度，单位为秒。设为 0 以使用支持的最小缓冲区大小。如果遇到音频卡顿或断音，请增大该值。</value>
+  </data>
+  <data name="auto_shared_audio_on_background" xml:space="preserve">
+    <value>后台时自动切换为共享音频</value>
+  </data>
+  <data name="auto_shared_audio_on_background_tooltip" xml:space="preserve">
+    <value>游戏失去焦点时自动退出独占音频模式并切换为共享模式。</value>
+  </data>
+  <data name="period" xml:space="preserve">
+    <value>周期（秒）</value>
+  </data>
+  <data name="period_tooltip" xml:space="preserve">
+    <value>音频更新的轮询间隔，单位为秒。设为 0 以请求设备支持的最小周期。如果音频播放不稳定，请增大该值。</value>
+  </data>
 </root>

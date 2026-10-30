@@ -109,6 +109,13 @@
   <data name="report_issue_tooltip" xml:space="preserve">
     <value>Report a problem with the game to the developers.</value>
   </data>
+  <data name="issue_report_dialog_header" xml:space="preserve">
+    <value>Reporting an issue</value>
+  </data>
+  <data name="issue_report_dialog_text" xml:space="preserve">
+    <value>This will open the project's issue page on GitHub, where you can view and create issue reports (requires a GitHub account).
+Before reporting an issue, we recommend searching for existing ones and exporting your client logs for future reference.</value>
+  </data>
   <data name="change_release_stream_package_warning" xml:space="preserve">
     <value>Check with your package manager / provider for other release streams.</value>
   </data>

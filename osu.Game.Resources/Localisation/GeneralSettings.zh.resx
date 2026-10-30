@@ -109,6 +109,13 @@
   <data name="report_issue_tooltip" xml:space="preserve">
     <value>向开发者报告游戏问题。</value>
   </data>
+  <data name="issue_report_dialog_header" xml:space="preserve">
+    <value>报告问题</value>
+  </data>
+  <data name="issue_report_dialog_text" xml:space="preserve">
+    <value>这将打开项目在 GitHub 上的问题页面，您可以在此查看和创建问题报告（需要 GitHub 账号）。
+报告问题前，我们建议先搜索已有问题，并导出手头客户端日志以备参考。</value>
+  </data>
   <data name="change_release_stream_package_warning" xml:space="preserve">
     <value>在切换版本流前，请检查您的软件包管理器或提供商。</value>
   </data>

@@ -76,11 +76,17 @@
   <data name="footer_button_freestyle" xml:space="preserve">
     <value>自由模式</value>
   </data>
+  <data name="footer_button_win_condition" xml:space="preserve">
+    <value>胜利条件</value>
+  </data>
   <data name="playlist_tray_description" xml:space="preserve">
     <value>在先前的界面中管理项目</value>
   </data>
   <data name="multiplayer_beatmap_queue" xml:space="preserve">
     <value>谱面队列</value>
+  </data>
+  <data name="win_condition_badge_tooltip" xml:space="preserve">
+    <value>以 {0} 取胜</value>
   </data>
   <data name="playlist_progress" xml:space="preserve">
     <value>进度</value>

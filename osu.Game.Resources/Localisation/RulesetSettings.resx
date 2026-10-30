@@ -217,6 +217,13 @@
   <data name="download_ruleset" xml:space="preserve">
     <value>Download</value>
   </data>
+  <data name="download_ruleset_confirmation_header" xml:space="preserve">
+    <value>Download {0} ({1})?</value>
+  </data>
+  <data name="download_ruleset_confirmation_body" xml:space="preserve">
+    <value>Download URL: {0}
+Warning: the download URL is provided by the server. Beware of potentially malicious code.</value>
+  </data>
   <data name="ruleset_version" xml:space="preserve">
     <value>v{0}</value>
   </data>

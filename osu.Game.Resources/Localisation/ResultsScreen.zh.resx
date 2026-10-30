@@ -97,6 +97,9 @@
   <data name="mods" xml:space="preserve">
     <value>MODS</value>
   </data>
+  <data name="personal_best" xml:space="preserve">
+    <value>个人最佳</value>
+  </data>
   <data name="combo" xml:space="preserve">
     <value>连击</value>
   </data>

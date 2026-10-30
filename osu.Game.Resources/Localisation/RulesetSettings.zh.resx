@@ -218,6 +218,13 @@
   <data name="download_ruleset" xml:space="preserve">
     <value>下载</value>
   </data>
+  <data name="download_ruleset_confirmation_header" xml:space="preserve">
+    <value>下载 {0}（{1}）？</value>
+  </data>
+  <data name="download_ruleset_confirmation_body" xml:space="preserve">
+    <value>下载地址：{0}
+警告：下载地址由服务器提供。请当心潜在的恶意代码。</value>
+  </data>
   <data name="ruleset_version" xml:space="preserve">
     <value>v{0}</value>
   </data>

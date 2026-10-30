@@ -121,4 +121,31 @@
   <data name="legacy_audio_tooltip" xml:space="preserve">
     <value>Use this if you are experiencing audio issues. Note that audio latency will be higher when this is toggled on.</value>
   </data>
+  <data name="restart_audio_engine" xml:space="preserve">
+    <value>Restart audio engine</value>
+  </data>
+  <data name="exclusive_audio_mode" xml:space="preserve">
+    <value>Exclusive audio mode</value>
+  </data>
+  <data name="exclusive_audio_mode_tooltip" xml:space="preserve">
+    <value>Bypasses the system audio mixer to achieve the lowest possible audio latency. When enabled, other applications will not be able to play audio simultaneously.</value>
+  </data>
+  <data name="buffer_size" xml:space="preserve">
+    <value>Buffer size (s)</value>
+  </data>
+  <data name="buffer_size_tooltip" xml:space="preserve">
+    <value>Length of the audio buffer in seconds. Set to 0 to use the lowest supported buffer size. Increase this value if you experience audio stuttering or dropouts.</value>
+  </data>
+  <data name="auto_shared_audio_on_background" xml:space="preserve">
+    <value>Auto switch to shared audio in background</value>
+  </data>
+  <data name="auto_shared_audio_on_background_tooltip" xml:space="preserve">
+    <value>Automatically releases exclusive audio mode and switches to shared mode when the game loses focus.</value>
+  </data>
+  <data name="period" xml:space="preserve">
+    <value>Period (s)</value>
+  </data>
+  <data name="period_tooltip" xml:space="preserve">
+    <value>Polling interval for audio updates in seconds. Set to 0 to request the minimum supported device period. Increase this value if audio playback is unstable.</value>
+  </data>
 </root>

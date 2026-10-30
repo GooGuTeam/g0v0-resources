@@ -100,6 +100,9 @@
   <data name="mods" xml:space="preserve">
     <value>MODS</value>
   </data>
+  <data name="personal_best" xml:space="preserve">
+    <value>Personal best</value>
+  </data>
   <data name="combo" xml:space="preserve">
     <value>Combo</value>
   </data>

@@ -312,4 +312,22 @@
   <data name="wiggle_strength_description" xml:space="preserve">
     <value>打击物件晃动强度的倍率。</value>
   </data>
+  <data name="score_v1_description" xml:space="preserve">
+    <value>使用 ScoreV1 计分算法游玩。</value>
+  </data>
+  <data name="score_v2_description" xml:space="preserve">
+    <value>使用 ScoreV2 计分算法游玩。</value>
+  </data>
+  <data name="show_slider_head_judgements_label" xml:space="preserve">
+    <value>显示滑条头判定</value>
+  </data>
+  <data name="show_slider_head_judgements_description" xml:space="preserve">
+    <value>命中滑条头时显示精度判定。</value>
+  </data>
+  <data name="classic_slider_judgement" xml:space="preserve">
+    <value>经典滑条判定</value>
+  </data>
+  <data name="classic_slider_judgement_description" xml:space="preserve">
+    <value>在固定时间点判定滑条点与尾端，与 osu!stable 一致。</value>
+  </data>
 </root>
