@@ -103,6 +103,14 @@
   <data name="personal_best" xml:space="preserve">
     <value>Personal best</value>
   </data>
+  <data name="legacy_health_graph_tooltip_text" xml:space="preserve">
+    <value>Accuracy:
+Error: {0:0.00}ms - {1:0.00}ms avg
+Unstable Rate: {2:0.00}</value>
+  </data>
+  <data name="legacy_online_ranking_button_text" xml:space="preserve">
+    <value>▼ Online Ranking ▼</value>
+  </data>
   <data name="combo" xml:space="preserve">
     <value>Combo</value>
   </data>

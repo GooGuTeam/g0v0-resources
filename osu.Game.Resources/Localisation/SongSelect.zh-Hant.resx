@@ -109,6 +109,9 @@
   <data name="scroll_speed" xml:space="preserve">
     <value>捲動速度</value>
   </data>
+  <data name="this_value_is_being_adjusted_by_mods" xml:space="preserve">
+    <value>此值正被模組調整（{0:0.0#} → {1:0.0#}）。</value>
+  </data>
   <data name="submitted" xml:space="preserve">
     <value>已提交</value>
   </data>

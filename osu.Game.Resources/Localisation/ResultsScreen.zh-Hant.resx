@@ -88,4 +88,12 @@
   <data name="click_to_full_combo_tooltip" xml:space="preserve">
     <value>點擊切換至全連情況。</value>
   </data>
+  <data name="legacy_health_graph_tooltip_text" xml:space="preserve">
+    <value>準確度：
+誤差：{0:0.00}ms - {1:0.00}ms 平均
+不穩定率：{2:0.00}</value>
+  </data>
+  <data name="legacy_online_ranking_button_text" xml:space="preserve">
+    <value>▼ 線上排名 ▼</value>
+  </data>
 </root>

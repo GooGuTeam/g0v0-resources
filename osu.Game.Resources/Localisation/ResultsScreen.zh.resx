@@ -100,6 +100,14 @@
   <data name="personal_best" xml:space="preserve">
     <value>个人最佳</value>
   </data>
+  <data name="legacy_health_graph_tooltip_text" xml:space="preserve">
+    <value>准确度：
+误差：{0:0.00}ms - {1:0.00}ms 平均
+不稳定率：{2:0.00}</value>
+  </data>
+  <data name="legacy_online_ranking_button_text" xml:space="preserve">
+    <value>▼ 在线排名 ▼</value>
+  </data>
   <data name="combo" xml:space="preserve">
     <value>连击</value>
   </data>
