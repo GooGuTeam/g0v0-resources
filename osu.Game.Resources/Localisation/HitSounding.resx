@@ -100,9 +100,6 @@
   <data name="addition_hint" xml:space="preserve">
     <value>Click to toggle this addition · Ctrl-click to select</value>
   </data>
-  <data name="shared_set_hint" xml:space="preserve">
-    <value>Every sample of this object shares one set index</value>
-  </data>
   <data name="configure_addition_hint" xml:space="preserve">
     <value>Enable an addition first to configure its bank</value>
   </data>
@@ -117,6 +114,33 @@
   </data>
   <data name="ctrl_split_hint" xml:space="preserve">
     <value>Ctrl-click to edit the volume from this sample point onwards</value>
+  </data>
+  <data name="tooltip_click_edit_bank" xml:space="preserve">
+    <value>Click to edit bank and set</value>
+  </data>
+  <data name="tooltip_select_sample_point" xml:space="preserve">
+    <value>Select sample point</value>
+  </data>
+  <data name="tooltip_restore_defaults" xml:space="preserve">
+    <value>Right click to restore defaults</value>
+  </data>
+  <data name="tooltip_cycle_sample_sets" xml:space="preserve">
+    <value>Cycle sample sets on hover; no selection needed</value>
+  </data>
+  <data name="tooltip_toggle_addition" xml:space="preserve">
+    <value>Click to toggle this addition</value>
+  </data>
+  <data name="tooltip_drag_volume" xml:space="preserve">
+    <value>Drag to change volume</value>
+  </data>
+  <data name="tooltip_double_click_volume" xml:space="preserve">
+    <value>Double click for precise volume editing</value>
+  </data>
+  <data name="tooltip_edit_volume_from_point" xml:space="preserve">
+    <value>Edit volume from a sample point</value>
+  </data>
+  <data name="tooltip_edit_volume_from_point_onwards" xml:space="preserve">
+    <value>Edit volume from this sample point onwards</value>
   </data>
   <data name="time_range" xml:space="preserve">
     <value>{0} - {1}</value>

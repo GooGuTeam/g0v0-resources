@@ -100,9 +100,6 @@
   <data name="addition_hint" xml:space="preserve">
     <value>點擊開關該追加音效 · 按住 Ctrl 點擊選擇</value>
   </data>
-  <data name="shared_set_hint" xml:space="preserve">
-    <value>該物件的所有取樣共用同一個音效組編號</value>
-  </data>
   <data name="configure_addition_hint" xml:space="preserve">
     <value>先啟用一個追加音效，才能設定它的音效組</value>
   </data>
@@ -117,6 +114,33 @@
   </data>
   <data name="ctrl_split_hint" xml:space="preserve">
     <value>按住 Ctrl 點擊以從該取樣點起編輯音量</value>
+  </data>
+  <data name="tooltip_click_edit_bank" xml:space="preserve">
+    <value>點擊編輯音效與音效組</value>
+  </data>
+  <data name="tooltip_select_sample_point" xml:space="preserve">
+    <value>選擇取樣點</value>
+  </data>
+  <data name="tooltip_restore_defaults" xml:space="preserve">
+    <value>右鍵恢復預設</value>
+  </data>
+  <data name="tooltip_cycle_sample_sets" xml:space="preserve">
+    <value>懸停時滾動切換音效組，無需選取</value>
+  </data>
+  <data name="tooltip_toggle_addition" xml:space="preserve">
+    <value>點擊開關該追加音效</value>
+  </data>
+  <data name="tooltip_drag_volume" xml:space="preserve">
+    <value>拖曳調整音量</value>
+  </data>
+  <data name="tooltip_double_click_volume" xml:space="preserve">
+    <value>雙擊精確編輯音量</value>
+  </data>
+  <data name="tooltip_edit_volume_from_point" xml:space="preserve">
+    <value>從取樣點起編輯音量</value>
+  </data>
+  <data name="tooltip_edit_volume_from_point_onwards" xml:space="preserve">
+    <value>從該取樣點起編輯音量</value>
   </data>
   <data name="time_range" xml:space="preserve">
     <value>{0} - {1}</value>
