@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="video_bitrate" xml:space="preserve"><value>Video bitrate</value></data>
+  <data name="bitrate_value" xml:space="preserve"><value>{0} Mbps</value></data>
+  <data name="video_frame_rate" xml:space="preserve"><value>Video frame rate</value></data>
+  <data name="encoder_profile" xml:space="preserve"><value>H.264 profile</value></data>
+  <data name="encoder_automatic" xml:space="preserve"><value>Automatic</value></data>
+  <data name="recording_settings_help" xml:space="preserve"><value>Changes apply to the next recording, stream or replay export.</value></data>
+  <data name="encoder_help" xml:space="preserve"><value>Use Automatic unless you need a specific profile. Unsupported profiles prevent encoding.</value></data>
+  <data name="video_resolution" xml:space="preserve"><value>Video resolution</value></data>
+  <data name="resolution_help" xml:space="preserve"><value>Output video size. Window capture preserves aspect ratio and adds black bars where needed.</value></data>
+  <data name="recording_backend" xml:space="preserve"><value>Encoding backend</value></data>
+  <data name="recording_backend_help" xml:space="preserve"><value>Used for recording, streaming and replay export. Automatic selects Media Foundation on Windows and FFmpeg on Linux/macOS. Install FFmpeg with libx264 and AAC support to use it.</value></data>
+  <data name="media_foundation_backend" xml:space="preserve"><value>Media Foundation hardware H.264 (Windows)</value></data>
+  <data name="ffmpeg_backend" xml:space="preserve"><value>FFmpeg (libx264)</value></data>
+  <data name="ffmpeg_path" xml:space="preserve"><value>FFmpeg executable path</value></data>
+  <data name="started" xml:space="preserve"><value>Recording started.</value></data>
+  <data name="saved" xml:space="preserve"><value>Recording saved: {0}</value></data>
+  <data name="failed" xml:space="preserve"><value>Recording failed; output may be incomplete: {0}</value></data>
+  <data name="export_replay" xml:space="preserve"><value>Create video</value></data>
+  <data name="export_autoplay" xml:space="preserve"><value>Create autoplay video</value></data>
+  <data name="export_preparing" xml:space="preserve"><value>Preparing replay video export…</value></data>
+  <data name="export_finalising" xml:space="preserve"><value>Finalising video…</value></data>
+  <data name="export_progress" xml:space="preserve"><value>Rendering replay: {0}/{1} frames ({2:0.00}×)</value></data>
+  <data name="export_cancel" xml:space="preserve"><value>Cancel</value></data>
+  <data name="stream_title" xml:space="preserve"><value>Live streaming</value></data>
+  <data name="stream_help" xml:space="preserve"><value>Enter your complete RTMPS publishing URL, including the stream key. It stays in memory for this session. Your game window and game audio will be broadcast.</value></data>
+  <data name="stream_destination" xml:space="preserve"><value>RTMPS publishing URL</value></data>
+  <data name="stream_ffmpeg_notice" xml:space="preserve"><value>FFmpeg publishes this stream, so the URL is passed to the FFmpeg process, where other programs on this computer can read it.</value></data>
+  <data name="stream_start" xml:space="preserve"><value>Start streaming</value></data>
+  <data name="stream_started" xml:space="preserve"><value>Live streaming started.</value></data>
+  <data name="stream_stopped" xml:space="preserve"><value>Live streaming stopped.</value></data>
+  <data name="stream_failed" xml:space="preserve"><value>Unable to stream. Check your publishing URL, network connection and video encoder.</value></data>
+  <data name="capture_busy" xml:space="preserve"><value>Stop the current recording or stream before starting another capture.</value></data>
+  <data name="capture_settings" xml:space="preserve"><value>Recording and live streaming</value></data>
+  <data name="record_toggle" xml:space="preserve"><value>Start recording</value></data>
+  <data name="record_stop" xml:space="preserve"><value>Stop recording</value></data>
+  <data name="stream_stop" xml:space="preserve"><value>Stop streaming</value></data>
+  <data name="toggle_recording" xml:space="preserve"><value>Start / stop video recording</value></data>
+  <data name="toggle_streaming" xml:space="preserve"><value>Open streaming dialog / stop stream</value></data>
+</root>
