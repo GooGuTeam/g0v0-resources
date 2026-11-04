@@ -70,21 +70,6 @@
   <data name="custom_set" xml:space="preserve">
     <value>自定义 #{0}</value>
   </data>
-  <data name="manage_sets" xml:space="preserve">
-    <value>管理音效组</value>
-  </data>
-  <data name="collapse_set" xml:space="preserve">
-    <value>折叠音效组</value>
-  </data>
-  <data name="expand_set" xml:space="preserve">
-    <value>展开音效组</value>
-  </data>
-  <data name="move_set_up" xml:space="preserve">
-    <value>上移音效组</value>
-  </data>
-  <data name="move_set_down" xml:space="preserve">
-    <value>下移音效组</value>
-  </data>
   <data name="normal" xml:space="preserve">
     <value>普通</value>
   </data>
@@ -94,23 +79,38 @@
   <data name="drum" xml:space="preserve">
     <value>鼓</value>
   </data>
-  <data name="sample_point" xml:space="preserve">
-    <value>采样点：{0} · {1} · 音效组 {2}</value>
+  <data name="additions" xml:space="preserve">
+    <value>追加音效</value>
+  </data>
+  <data name="whistle" xml:space="preserve">
+    <value>哨声</value>
+  </data>
+  <data name="finish" xml:space="preserve">
+    <value>掌声</value>
+  </data>
+  <data name="clap" xml:space="preserve">
+    <value>拍手</value>
+  </data>
+  <data name="auto" xml:space="preserve">
+    <value>跟随普通音效组</value>
+  </data>
+  <data name="bank_hint" xml:space="preserve">
+    <value>单击编辑音效组与编号 · 按住 Ctrl 单击选择 · 右键重置</value>
+  </data>
+  <data name="addition_hint" xml:space="preserve">
+    <value>单击开关该追加音效 · 按住 Ctrl 单击选择</value>
+  </data>
+  <data name="shared_set_hint" xml:space="preserve">
+    <value>该物件的所有采样共用同一个音效组编号</value>
+  </data>
+  <data name="configure_addition_hint" xml:space="preserve">
+    <value>先启用一个追加音效，才能配置它的音效组</value>
   </data>
   <data name="body_sample" xml:space="preserve">
     <value>物件音效</value>
   </data>
-  <data name="edit_hint" xml:space="preserve">
-    <value>左键编辑 · 按住 Ctrl 单击选择 · 拖动更改音效组 · 右键打开菜单</value>
-  </data>
   <data name="restore_defaults" xml:space="preserve">
     <value>恢复默认</value>
-  </data>
-  <data name="move_up_one_set" xml:space="preserve">
-    <value>上移一组</value>
-  </data>
-  <data name="move_down_one_set" xml:space="preserve">
-    <value>下移一组</value>
   </data>
   <data name="volume_hint" xml:space="preserve">
     <value>拖动调整音量 · 双击精确编辑 · 按住 Ctrl 单击从采样点开始编辑</value>
