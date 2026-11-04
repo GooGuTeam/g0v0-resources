@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="objects" xml:space="preserve">
+    <value>Objects</value>
+  </data>
+  <data name="set" xml:space="preserve">
+    <value>Set {0}</value>
+  </data>
+  <data name="user_skin" xml:space="preserve">
+    <value>User skin</value>
+  </data>
+  <data name="custom_set" xml:space="preserve">
+    <value>Custom #{0}</value>
+  </data>
+  <data name="manage_sets" xml:space="preserve">
+    <value>Manage sets</value>
+  </data>
+  <data name="collapse_set" xml:space="preserve">
+    <value>Collapse set</value>
+  </data>
+  <data name="expand_set" xml:space="preserve">
+    <value>Expand set</value>
+  </data>
+  <data name="move_set_up" xml:space="preserve">
+    <value>Move set up</value>
+  </data>
+  <data name="move_set_down" xml:space="preserve">
+    <value>Move set down</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="soft" xml:space="preserve">
+    <value>Soft</value>
+  </data>
+  <data name="drum" xml:space="preserve">
+    <value>Drum</value>
+  </data>
+  <data name="sample_point" xml:space="preserve">
+    <value>Sample point: {0} · {1} · set {2}</value>
+  </data>
+  <data name="body_sample" xml:space="preserve">
+    <value>Object sample</value>
+  </data>
+  <data name="edit_hint" xml:space="preserve">
+    <value>Left-click to edit · Ctrl-click to select · Drag to change bank · Right-click for options</value>
+  </data>
+  <data name="restore_defaults" xml:space="preserve">
+    <value>Restore defaults</value>
+  </data>
+  <data name="move_up_one_set" xml:space="preserve">
+    <value>Move up one set</value>
+  </data>
+  <data name="move_down_one_set" xml:space="preserve">
+    <value>Move down one set</value>
+  </data>
+  <data name="volume_hint" xml:space="preserve">
+    <value>Drag to change volume · Double-click for precise editing · Ctrl-click to edit from a sample point</value>
+  </data>
+  <data name="ctrl_split_hint" xml:space="preserve">
+    <value>Ctrl-click to edit the volume from this sample point onwards</value>
+  </data>
+  <data name="time_range" xml:space="preserve">
+    <value>{0} - {1}</value>
+  </data>
+</root>

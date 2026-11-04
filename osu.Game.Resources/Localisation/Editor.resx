@@ -112,6 +112,9 @@
   <data name="setup_screen" xml:space="preserve">
     <value>setup</value>
   </data>
+  <data name="hitsounding_screen" xml:space="preserve">
+    <value>hitsounding</value>
+  </data>
   <data name="compose_screen" xml:space="preserve">
     <value>compose</value>
   </data>

@@ -112,6 +112,9 @@
   <data name="setup_screen" xml:space="preserve">
     <value>设置</value>
   </data>
+  <data name="hitsounding_screen" xml:space="preserve">
+    <value>打击音效</value>
+  </data>
   <data name="compose_screen" xml:space="preserve">
     <value>编排</value>
   </data>

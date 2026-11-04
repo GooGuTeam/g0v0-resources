@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="objects" xml:space="preserve">
+    <value>物件</value>
+  </data>
+  <data name="set" xml:space="preserve">
+    <value>音效组 {0}</value>
+  </data>
+  <data name="user_skin" xml:space="preserve">
+    <value>用户皮肤</value>
+  </data>
+  <data name="custom_set" xml:space="preserve">
+    <value>自定义 #{0}</value>
+  </data>
+  <data name="manage_sets" xml:space="preserve">
+    <value>管理音效组</value>
+  </data>
+  <data name="collapse_set" xml:space="preserve">
+    <value>折叠音效组</value>
+  </data>
+  <data name="expand_set" xml:space="preserve">
+    <value>展开音效组</value>
+  </data>
+  <data name="move_set_up" xml:space="preserve">
+    <value>上移音效组</value>
+  </data>
+  <data name="move_set_down" xml:space="preserve">
+    <value>下移音效组</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>普通</value>
+  </data>
+  <data name="soft" xml:space="preserve">
+    <value>柔和</value>
+  </data>
+  <data name="drum" xml:space="preserve">
+    <value>鼓</value>
+  </data>
+  <data name="sample_point" xml:space="preserve">
+    <value>采样点：{0} · {1} · 音效组 {2}</value>
+  </data>
+  <data name="body_sample" xml:space="preserve">
+    <value>物件音效</value>
+  </data>
+  <data name="edit_hint" xml:space="preserve">
+    <value>左键编辑 · 按住 Ctrl 单击选择 · 拖动更改音效组 · 右键打开菜单</value>
+  </data>
+  <data name="restore_defaults" xml:space="preserve">
+    <value>恢复默认</value>
+  </data>
+  <data name="move_up_one_set" xml:space="preserve">
+    <value>上移一组</value>
+  </data>
+  <data name="move_down_one_set" xml:space="preserve">
+    <value>下移一组</value>
+  </data>
+  <data name="volume_hint" xml:space="preserve">
+    <value>拖动调整音量 · 双击精确编辑 · 按住 Ctrl 单击从采样点开始编辑</value>
+  </data>
+  <data name="ctrl_split_hint" xml:space="preserve">
+    <value>按住 Ctrl 单击以从该采样点起编辑音量</value>
+  </data>
+  <data name="time_range" xml:space="preserve">
+    <value>{0} - {1}</value>
+  </data>
+</root>
