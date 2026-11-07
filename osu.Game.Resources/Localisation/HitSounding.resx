@@ -100,9 +100,6 @@
   <data name="addition_hint" xml:space="preserve">
     <value>Click to toggle this addition · Ctrl-click to select</value>
   </data>
-  <data name="shared_set_hint" xml:space="preserve">
-    <value>Every sample of this object shares one set index</value>
-  </data>
   <data name="configure_addition_hint" xml:space="preserve">
     <value>Enable an addition first to configure its bank</value>
   </data>
@@ -118,7 +115,112 @@
   <data name="ctrl_split_hint" xml:space="preserve">
     <value>Ctrl-click to edit the volume from this sample point onwards</value>
   </data>
+  <data name="tooltip_click_edit_bank" xml:space="preserve">
+    <value>Click to edit bank and set</value>
+  </data>
+  <data name="tooltip_select_sample_point" xml:space="preserve">
+    <value>Select sample point</value>
+  </data>
+  <data name="tooltip_restore_defaults" xml:space="preserve">
+    <value>Right click to restore defaults</value>
+  </data>
+  <data name="tooltip_cycle_sample_sets" xml:space="preserve">
+    <value>Cycle sample sets on hover; no selection needed</value>
+  </data>
+  <data name="tooltip_cycle_sample_banks" xml:space="preserve">
+    <value>Cycle sample banks on hover; keep the current set</value>
+  </data>
+  <data name="tooltip_toggle_addition" xml:space="preserve">
+    <value>Click to toggle this addition</value>
+  </data>
+  <data name="tooltip_drag_volume" xml:space="preserve">
+    <value>Drag to change volume</value>
+  </data>
+  <data name="tooltip_double_click_volume" xml:space="preserve">
+    <value>Double click for precise volume editing</value>
+  </data>
+  <data name="tooltip_edit_volume_from_point" xml:space="preserve">
+    <value>Edit volume from a sample point</value>
+  </data>
+  <data name="tooltip_edit_volume_from_point_onwards" xml:space="preserve">
+    <value>Edit volume from this sample point onwards</value>
+  </data>
   <data name="time_range" xml:space="preserve">
     <value>{0} - {1}</value>
+  </data>
+  <data name="time" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="set_caption" xml:space="preserve">
+    <value>Set</value>
+  </data>
+  <data name="preview" xml:space="preserve">
+    <value>Preview</value>
+  </data>
+  <data name="set_id" xml:space="preserve">
+    <value>Set ID</value>
+  </data>
+  <data name="search_sets" xml:space="preserve">
+    <value>Search sets…</value>
+  </data>
+  <data name="preview_length" xml:space="preserve">
+    <value>Preview length</value>
+  </data>
+  <data name="preview_highlights" xml:space="preserve">
+    <value>Open preview highlights</value>
+  </data>
+  <data name="selected" xml:space="preserve">
+    <value>Selected</value>
+  </data>
+  <data name="play_preview" xml:space="preserve">
+    <value>▶  Play preview</value>
+  </data>
+  <data name="stop_preview" xml:space="preserve">
+    <value>■  Stop preview</value>
+  </data>
+  <data name="tooltip_time" xml:space="preserve">
+    <value>Time of the selected sample point</value>
+  </data>
+  <data name="tooltip_selected_set" xml:space="preserve">
+    <value>Every sample of this object shares one set index</value>
+  </data>
+  <data name="tooltip_selected_bank" xml:space="preserve">
+    <value>Click to choose the normal bank</value>
+  </data>
+  <data name="tooltip_selected_addition" xml:space="preserve">
+    <value>Choose the addition bank</value>
+  </data>
+  <data name="tooltip_whistle" xml:space="preserve">
+    <value>Click to toggle Whistle</value>
+  </data>
+  <data name="tooltip_finish" xml:space="preserve">
+    <value>Click to toggle Finish</value>
+  </data>
+  <data name="tooltip_clap" xml:space="preserve">
+    <value>Click to toggle Clap</value>
+  </data>
+  <data name="hotkey_toggle_whistle" xml:space="preserve">
+    <value>Toggle Whistle for selected points</value>
+  </data>
+  <data name="hotkey_toggle_finish" xml:space="preserve">
+    <value>Toggle Finish for selected points</value>
+  </data>
+  <data name="hotkey_toggle_clap" xml:space="preserve">
+    <value>Toggle Clap for selected points</value>
+  </data>
+  <data name="tooltip_preview" xml:space="preserve">
+    <value>Preview the hitsound under different samplesets!</value>
+  </data>
+  <data name="tooltip_search_sets" xml:space="preserve">
+    <value>The set number to filter</value>
+  </data>
+  <data name="tooltip_preview_length" xml:space="preserve">
+    <value>The preview length around the selected sound points</value>
+  </data>
+  <data name="tooltip_preview_highlights" xml:space="preserve">
+    <value>Turn on to show the preview range highlight</value>
+  </data>
+  <data name="tooltip_user_skin" xml:space="preserve">
+    <value>Use samples from the current user skin</value>
   </data>
 </root>
