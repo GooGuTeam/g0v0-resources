@@ -127,6 +127,9 @@
   <data name="tooltip_cycle_sample_sets" xml:space="preserve">
     <value>Cycle sample sets on hover; no selection needed</value>
   </data>
+  <data name="tooltip_cycle_sample_banks" xml:space="preserve">
+    <value>Cycle sample banks on hover; keep the current set</value>
+  </data>
   <data name="tooltip_toggle_addition" xml:space="preserve">
     <value>Click to toggle this addition</value>
   </data>

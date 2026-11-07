@@ -127,6 +127,9 @@
   <data name="tooltip_cycle_sample_sets" xml:space="preserve">
     <value>懸停時滾動切換音效組，無需選取</value>
   </data>
+  <data name="tooltip_cycle_sample_banks" xml:space="preserve">
+    <value>懸停時循環切換音效庫類型，保留目前的 Set 編號</value>
+  </data>
   <data name="tooltip_toggle_addition" xml:space="preserve">
     <value>點擊開關該追加音效</value>
   </data>

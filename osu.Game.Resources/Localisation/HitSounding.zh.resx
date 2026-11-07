@@ -127,6 +127,9 @@
   <data name="tooltip_cycle_sample_sets" xml:space="preserve">
     <value>悬停时滚动切换样本组，无需选中</value>
   </data>
+  <data name="tooltip_cycle_sample_banks" xml:space="preserve">
+    <value>悬停时循环切换采样库类型，保留当前 Set 编号</value>
+  </data>
   <data name="tooltip_toggle_addition" xml:space="preserve">
     <value>单击开关该追加音效</value>
   </data>
