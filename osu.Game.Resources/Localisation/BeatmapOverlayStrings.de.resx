@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Haftungsausschluss für Benutzerinhalte</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Durch das Deaktivieren des Filters "Featured Artist" werden alle von Benutzern hochgeladenen Inhalte angezeigt.
-
-Dazu gehören auch Inhalte, die möglicherweise nicht korrekt für die Verwendung in g0v0! lizenziert sind. Stöbere auf eigene Gefahr.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Ich bin einverstanden</value>
   </data>

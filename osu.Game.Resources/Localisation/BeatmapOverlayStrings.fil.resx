@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Pagtatatwa sa pang-user na nilalaman</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Sa pamamagitan ng pagpatay sa filter na "Itinatampok na Artist," lahat ng nilalamang na-upload ng mga user ay ipapakita.
-
-Kabilang na dito ang mga nilalaman na maaaring hindi wastong nalisensyahan para sa paggamit sa g0v0!. Mag-browse sa iyong sariling peligro.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Naiintindihan ko</value>
   </data>

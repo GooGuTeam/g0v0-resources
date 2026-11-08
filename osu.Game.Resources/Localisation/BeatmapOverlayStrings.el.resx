@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Αποποίηση ευθυνών για περιεχόμενο χρηστών</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Απενεργοποιώντας το φίλτρο "Προτεινόμενος Καλλιτέχνης", όλο το υλικό που ανέβηκε από χρήστες θα εμφανίζεται.
-
-Αυτό περιλαμβάνει περιεχόμενο που μπορεί να μην είναι κατάλληλα αδειοδοτημένο για χρήση στο g0v0!. Περιηγηθείτε με δική σας ευθύνη.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Κατανοητό</value>
   </data>

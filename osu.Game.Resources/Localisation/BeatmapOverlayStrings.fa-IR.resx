@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>سلب مسئولیت محتوای تولید شده توسط کاربر</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>با خاموش کردن فیلتر "هنرمندان برجسته"، تمام محتوا های آپلود شده توسط کاربران نشان داده خواهند شد.
-
-این شامل محتوا هایی می شود که شاید به درستی برای استفاده در g0v0! مجوز نگرفته اند. با مسئولیت خودتان کاوش کنید.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>متوجه ام</value>
   </data>

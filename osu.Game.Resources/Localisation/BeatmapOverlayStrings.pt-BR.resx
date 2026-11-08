@@ -58,18 +58,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Aviso de conteúdo feito por usuários</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Desativando o filtro "Artista em Destaque", todo o conteúdo enviado por usuários será exibido.
-
-Isso inclui conteúdo que pode não ser corretamente licenciado para o uso do g0v0!. Acesse por sua conta e risco.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Eu compreendo</value>
-  </data>
-  <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Artistas em Destaque são artistas de música que colaboraram com o osu! para disponibilizar uma seleção de suas músicas para uso em beatmaps. Para algumas versões do osu!, exibimos apenas beatmaps de artistas em destaque para apoiar o ecossistema do jogo.</value>
   </data>
 </root>

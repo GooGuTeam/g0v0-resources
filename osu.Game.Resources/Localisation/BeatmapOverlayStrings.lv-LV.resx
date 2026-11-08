@@ -58,16 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Lietotāja satura atruna</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Izslēdzot filtru "Sadarbības Izpildītāji", tiks parādīts viss lietotāja augšupielādētais saturs.
-
-
-Tas ietver arī saturu, kas, iespējams, nav pareizi licencēts lietošanai g0v0!. Pārlūkojiet, uzņemoties risku.</value>
-
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Sapratu</value>
   </data>

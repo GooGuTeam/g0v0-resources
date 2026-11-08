@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Disclaimer sul contenuto degli utenti</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Disattivando il filtro "Artisti in primo piano", verrà mostrato tutto il contenuto caricato dagli utenti.
-
-Il contenuto mostrato potrebbe non essere concesso su licenza per l'utilizzo in g0v0!. Naviga a tuo rischio.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Ho capito</value>
   </data>

@@ -58,18 +58,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Застереження щодо користувацького контенту</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>При вимкненні фільтру "Обрані виконавці" буде показано весь наявний контент в грі.
-
-Це також включає контент, який не є ліцензованим для використання в g0v0!. І це все на ваш страх і ризик.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Я розумію</value>
-  </data>
-  <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Обрані виконавці це ті, хто співпрацювали з osu! щоб зробити вибірку своїх треків доступними для використання у бітмапах. Для деяких релізів osu! ми показуємо лише бітмапи обраних виконавців, щоб краще підтримувати екосистему навколо.</value>
   </data>
 </root>

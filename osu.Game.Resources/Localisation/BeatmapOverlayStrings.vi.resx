@@ -58,18 +58,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Lời từ chối trách nhiệm về nội dung người dung</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Bằng cách tắt bộ lọc "Featured Artists", tất cả nội dung do người dùng tải lên sẽ được hiển thị.
-
-Nó sẽ bao gồm những nội dung có thể không được cấp phép đúng cách cho g0v0!. Bạn sẽ tự chịu rủi ro khi duyệt.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Tôi hiểu</value>
-  </data>
-  <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Featured Artists là những nghệ sĩ âm nhạc đã hợp tác với osu! để đưa một số bản nhạc của họ lên, cho phép cộng đồng sử dụng chúng trong beatmap. Đối với một số bản phát hành của osu!, chúng tôi chỉ giới thiệu các beatmap sử dụng nhạc từ các featured artist nhằm hỗ trợ tốt hơn cho hệ sinh thái này.</value>
   </data>
 </root>

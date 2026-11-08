@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>User content disclaimer</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>By turning off the "Featured Artist" filter, all user-uploaded content will be displayed.
-
-This includes content that may not be correctly licensed for g0v0! usage. Browse at your own risk.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>I understand</value>
   </data>

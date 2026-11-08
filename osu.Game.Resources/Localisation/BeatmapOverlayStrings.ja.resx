@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>ユーザーコンテンツ免責事項</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>「Featured Artist」フィルターをオフにすると、ユーザーがアップロードしたすべてのコンテンツが表示されます。
-
-正しくライセンスされていない可能性のあるコンテンツが含まれます。自己責任で閲覧してください。</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>分かりました</value>
   </data>

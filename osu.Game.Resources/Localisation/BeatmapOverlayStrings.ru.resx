@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Предупреждение о пользовательском контенте</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Отключение критерия фильтрации "избранные исполнители" приведёт к отображению абсолютно всего пользовательского контента.
-
-Некоторая часть этого контента не лицензирована для использования в g0v0!. Ищите на свой страх и риск.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Я понимаю</value>
   </data>

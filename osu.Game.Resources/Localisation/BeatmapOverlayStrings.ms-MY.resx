@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Penafian kandungan pengguna</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Semua kandungan yang dimuat naik pengguna akan dipaparkan sekiranya penapis "Artis Sorotan" dimatikan. 
-
-Ini termasuk kandungan yang mungkin tidak berlesen sah untuk penggunaaan g0v0!. Layari atas tanggungan anda sendiri.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Saya faham</value>
   </data>

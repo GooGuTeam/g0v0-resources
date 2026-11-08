@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Папярэджанне аб карыстацкім кантэнце</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Пры адключэнні фільтра "Выбраны Выканаўца", будзе адлюстроўвацца ўвесь кантэнт, загружаны карыстальнікам.
-
-Гэта ўключае ў сябе кантэнт, які можа быць не ліцэнзаваны для выкарыстання g0v0!. Праглядайце на свой страх i рызыку.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Зразумела</value>
   </data>

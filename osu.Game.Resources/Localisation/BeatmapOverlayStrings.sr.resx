@@ -58,18 +58,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Одрицање од одговорности</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Искључивањем филтера „Истакнути Уметник“, биће приказан сав садржај који је отпремио корисник.
-
-Укључујући садржај који није правилно лиценциран за коришћење на g0v0!. Погледајте на сопствени ризик.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Разумем</value>
-  </data>
-  <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Истакнути уметници су музички уметници који су сарађивали са osu! како би учинили избор својих нумера доступним за коришћење у мапама. За нека osu! издања, приказујемо само мапе истакнутих уметника како бисмо боље подржали околни екосистем.</value>
   </data>
 </root>
