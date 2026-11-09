@@ -127,9 +127,6 @@
   <data name="tooltip_cycle_sample_sets" xml:space="preserve">
     <value>懸停時滾動切換音效組，無需選取</value>
   </data>
-  <data name="tooltip_cycle_sample_banks" xml:space="preserve">
-    <value>懸停時循環切換音效庫類型，保留目前的 Set 編號</value>
-  </data>
   <data name="tooltip_toggle_addition" xml:space="preserve">
     <value>點擊開關該追加音效</value>
   </data>
@@ -196,9 +193,6 @@
   <data name="tooltip_finish" xml:space="preserve">
     <value>點擊切換鈸音效</value>
   </data>
-  <data name="tooltip_clap" xml:space="preserve">
-    <value>點擊切換拍手音效</value>
-  </data>
   <data name="hotkey_toggle_whistle" xml:space="preserve">
     <value>切換所選音效點的口哨音效</value>
   </data>
@@ -212,15 +206,99 @@
     <value>使用不同音效組試聽打擊音效！</value>
   </data>
   <data name="tooltip_search_sets" xml:space="preserve">
-    <value>依音效組編號篩選</value>
+    <value>要篩選的音效組編號</value>
   </data>
   <data name="tooltip_preview_length" xml:space="preserve">
-    <value>所選音效點前後的試聽時長（秒）</value>
+    <value>所選音效點前後的試聽長度</value>
   </data>
   <data name="tooltip_preview_highlights" xml:space="preserve">
     <value>開啟後顯示試聽範圍高亮</value>
   </data>
   <data name="tooltip_user_skin" xml:space="preserve">
     <value>使用目前使用者皮膚的音效</value>
+  </data>
+  <data name="default_normal" xml:space="preserve">
+    <value>預設普通</value>
+  </data>
+  <data name="show_all_normal" xml:space="preserve">
+    <value>不隱藏</value>
+  </data>
+  <data name="hide_normal_0" xml:space="preserve">
+    <value>隱藏 Normal0</value>
+  </data>
+  <data name="hide_normal_1" xml:space="preserve">
+    <value>隱藏 Normal1</value>
+  </data>
+  <data name="sample_gallery" xml:space="preserve">
+    <value>樣本庫</value>
+  </data>
+  <data name="tooltip_sample_gallery" xml:space="preserve">
+    <value>快速編輯音效組！</value>
+  </data>
+  <data name="sample_sets_header" xml:space="preserve">
+    <value>音效組</value>
+  </data>
+  <data name="add_set_button" xml:space="preserve">
+    <value>+  新增音效組</value>
+  </data>
+  <data name="tooltip_add_set" xml:space="preserve">
+    <value>新增音效組</value>
+  </data>
+  <data name="tooltip_assigned_slot_row" xml:space="preserve">
+    <value>將檔案拖放至此處以取代已指派的樣本</value>
+  </data>
+  <data name="tooltip_assigned_slot_play" xml:space="preserve">
+    <value>點擊播放指派到此槽位的樣本</value>
+  </data>
+  <data name="tooltip_empty_slot_click" xml:space="preserve">
+    <value>點擊選擇樣本檔案</value>
+  </data>
+  <data name="tooltip_empty_slot_drop" xml:space="preserve">
+    <value>將檔案拖放至此處以指派</value>
+  </data>
+  <data name="tooltip_drop_target" xml:space="preserve">
+    <value>放開以將 {0} 指派到 {1}</value>
+  </data>
+  <data name="sample_files_header" xml:space="preserve">
+    <value>樣本檔案</value>
+  </data>
+  <data name="add_files_button" xml:space="preserve">
+    <value>+  新增檔案</value>
+  </data>
+  <data name="tooltip_add_files" xml:space="preserve">
+    <value>將樣本檔案新增到此圖譜</value>
+  </data>
+  <data name="search_files_placeholder" xml:space="preserve">
+    <value>搜尋別名或檔案名稱…</value>
+  </data>
+  <data name="tooltip_search_files" xml:space="preserve">
+    <value>搜尋別名和原始檔案名稱</value>
+  </data>
+  <data name="files_count" xml:space="preserve">
+    <value>{0} 個檔案</value>
+  </data>
+  <data name="file_count_singular" xml:space="preserve">
+    <value>{0} 個檔案</value>
+  </data>
+  <data name="tooltip_file_tile_drag" xml:space="preserve">
+    <value>將此檔案拖曳到樣本槽位上</value>
+  </data>
+  <data name="tooltip_file_tile_alias" xml:space="preserve">
+    <value>雙擊編輯別名，不會重新命名原始檔案</value>
+  </data>
+  <data name="alias_confirm_hotkey" xml:space="preserve">
+    <value>ENTER</value>
+  </data>
+  <data name="alias_confirm" xml:space="preserve">
+    <value>確認別名</value>
+  </data>
+  <data name="files_hint" xml:space="preserve">
+    <value>將檔案方塊拖曳到樹狀項目上以指派其樣本</value>
+  </data>
+  <data name="no_sample_files" xml:space="preserve">
+    <value>尚無樣本檔案 — 使用「新增檔案」匯入一些</value>
+  </data>
+  <data name="no_matching_files" xml:space="preserve">
+    <value>沒有檔案符合你的搜尋</value>
   </data>
 </root>

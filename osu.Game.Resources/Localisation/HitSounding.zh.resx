@@ -127,9 +127,6 @@
   <data name="tooltip_cycle_sample_sets" xml:space="preserve">
     <value>悬停时滚动切换样本组，无需选中</value>
   </data>
-  <data name="tooltip_cycle_sample_banks" xml:space="preserve">
-    <value>悬停时循环切换采样库类型，保留当前 Set 编号</value>
-  </data>
   <data name="tooltip_toggle_addition" xml:space="preserve">
     <value>单击开关该追加音效</value>
   </data>
@@ -196,9 +193,6 @@
   <data name="tooltip_finish" xml:space="preserve">
     <value>点击切换镲音效</value>
   </data>
-  <data name="tooltip_clap" xml:space="preserve">
-    <value>点击切换拍手音效</value>
-  </data>
   <data name="hotkey_toggle_whistle" xml:space="preserve">
     <value>切换所选音效点的口哨音效</value>
   </data>
@@ -212,15 +206,99 @@
     <value>使用不同音效组试听打击音效！</value>
   </data>
   <data name="tooltip_search_sets" xml:space="preserve">
-    <value>按音效组编号筛选</value>
+    <value>要筛选的音效组编号</value>
   </data>
   <data name="tooltip_preview_length" xml:space="preserve">
-    <value>所选音效点前后的试听时长（秒）</value>
+    <value>所选音效点前后的试听长度</value>
   </data>
   <data name="tooltip_preview_highlights" xml:space="preserve">
     <value>开启后显示试听范围高亮</value>
   </data>
   <data name="tooltip_user_skin" xml:space="preserve">
     <value>使用当前用户皮肤的音效</value>
+  </data>
+  <data name="default_normal" xml:space="preserve">
+    <value>默认普通</value>
+  </data>
+  <data name="show_all_normal" xml:space="preserve">
+    <value>不隐藏</value>
+  </data>
+  <data name="hide_normal_0" xml:space="preserve">
+    <value>隐藏 Normal0</value>
+  </data>
+  <data name="hide_normal_1" xml:space="preserve">
+    <value>隐藏 Normal1</value>
+  </data>
+  <data name="sample_gallery" xml:space="preserve">
+    <value>样本库</value>
+  </data>
+  <data name="tooltip_sample_gallery" xml:space="preserve">
+    <value>快速编辑样本组！</value>
+  </data>
+  <data name="sample_sets_header" xml:space="preserve">
+    <value>样本组</value>
+  </data>
+  <data name="add_set_button" xml:space="preserve">
+    <value>+  添加样本组</value>
+  </data>
+  <data name="tooltip_add_set" xml:space="preserve">
+    <value>添加样本组</value>
+  </data>
+  <data name="tooltip_assigned_slot_row" xml:space="preserve">
+    <value>将文件拖放到此处以替换已分配的样本</value>
+  </data>
+  <data name="tooltip_assigned_slot_play" xml:space="preserve">
+    <value>点击播放分配到此槽位的样本</value>
+  </data>
+  <data name="tooltip_empty_slot_click" xml:space="preserve">
+    <value>点击选择样本文件</value>
+  </data>
+  <data name="tooltip_empty_slot_drop" xml:space="preserve">
+    <value>将文件拖放到此处以分配</value>
+  </data>
+  <data name="tooltip_drop_target" xml:space="preserve">
+    <value>松开以将 {0} 分配到 {1}</value>
+  </data>
+  <data name="sample_files_header" xml:space="preserve">
+    <value>样本文件</value>
+  </data>
+  <data name="add_files_button" xml:space="preserve">
+    <value>+  添加文件</value>
+  </data>
+  <data name="tooltip_add_files" xml:space="preserve">
+    <value>将样本文件添加到此谱面</value>
+  </data>
+  <data name="search_files_placeholder" xml:space="preserve">
+    <value>搜索别名或文件名…</value>
+  </data>
+  <data name="tooltip_search_files" xml:space="preserve">
+    <value>搜索别名和原始文件名</value>
+  </data>
+  <data name="files_count" xml:space="preserve">
+    <value>{0} 个文件</value>
+  </data>
+  <data name="file_count_singular" xml:space="preserve">
+    <value>{0} 个文件</value>
+  </data>
+  <data name="tooltip_file_tile_drag" xml:space="preserve">
+    <value>将此文件拖到样本槽位上</value>
+  </data>
+  <data name="tooltip_file_tile_alias" xml:space="preserve">
+    <value>双击编辑别名，不会重命名原始文件</value>
+  </data>
+  <data name="alias_confirm_hotkey" xml:space="preserve">
+    <value>ENTER</value>
+  </data>
+  <data name="alias_confirm" xml:space="preserve">
+    <value>确认别名</value>
+  </data>
+  <data name="files_hint" xml:space="preserve">
+    <value>将文件块拖到树状项目上以分配其样本</value>
+  </data>
+  <data name="no_sample_files" xml:space="preserve">
+    <value>尚无样本文件 — 使用“添加文件”导入一些</value>
+  </data>
+  <data name="no_matching_files" xml:space="preserve">
+    <value>没有文件匹配你的搜索</value>
   </data>
 </root>

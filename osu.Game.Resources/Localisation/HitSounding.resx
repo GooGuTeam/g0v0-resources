@@ -127,9 +127,6 @@
   <data name="tooltip_cycle_sample_sets" xml:space="preserve">
     <value>Cycle sample sets on hover; no selection needed</value>
   </data>
-  <data name="tooltip_cycle_sample_banks" xml:space="preserve">
-    <value>Cycle sample banks on hover; keep the current set</value>
-  </data>
   <data name="tooltip_toggle_addition" xml:space="preserve">
     <value>Click to toggle this addition</value>
   </data>
@@ -196,9 +193,6 @@
   <data name="tooltip_finish" xml:space="preserve">
     <value>Click to toggle Finish</value>
   </data>
-  <data name="tooltip_clap" xml:space="preserve">
-    <value>Click to toggle Clap</value>
-  </data>
   <data name="hotkey_toggle_whistle" xml:space="preserve">
     <value>Toggle Whistle for selected points</value>
   </data>
@@ -222,5 +216,89 @@
   </data>
   <data name="tooltip_user_skin" xml:space="preserve">
     <value>Use samples from the current user skin</value>
+  </data>
+  <data name="default_normal" xml:space="preserve">
+    <value>Default Normal</value>
+  </data>
+  <data name="show_all_normal" xml:space="preserve">
+    <value>Do not hide</value>
+  </data>
+  <data name="hide_normal_0" xml:space="preserve">
+    <value>Hide Normal0</value>
+  </data>
+  <data name="hide_normal_1" xml:space="preserve">
+    <value>Hide Normal1</value>
+  </data>
+  <data name="sample_gallery" xml:space="preserve">
+    <value>Sample Gallery</value>
+  </data>
+  <data name="tooltip_sample_gallery" xml:space="preserve">
+    <value>Quick edit the sampleset!</value>
+  </data>
+  <data name="sample_sets_header" xml:space="preserve">
+    <value>Sample sets</value>
+  </data>
+  <data name="add_set_button" xml:space="preserve">
+    <value>+  Add set</value>
+  </data>
+  <data name="tooltip_add_set" xml:space="preserve">
+    <value>Add a sample set</value>
+  </data>
+  <data name="tooltip_assigned_slot_row" xml:space="preserve">
+    <value>Drop a file here to replace the assigned sample</value>
+  </data>
+  <data name="tooltip_assigned_slot_play" xml:space="preserve">
+    <value>Click to play the sample assigned to this slot</value>
+  </data>
+  <data name="tooltip_empty_slot_click" xml:space="preserve">
+    <value>Click to choose a sample file</value>
+  </data>
+  <data name="tooltip_empty_slot_drop" xml:space="preserve">
+    <value>Drag and drop a file here to assign it</value>
+  </data>
+  <data name="tooltip_drop_target" xml:space="preserve">
+    <value>Release to assign {0} to {1}</value>
+  </data>
+  <data name="sample_files_header" xml:space="preserve">
+    <value>Sample files</value>
+  </data>
+  <data name="add_files_button" xml:space="preserve">
+    <value>+  Add files</value>
+  </data>
+  <data name="tooltip_add_files" xml:space="preserve">
+    <value>Add sample files to this beatmap</value>
+  </data>
+  <data name="search_files_placeholder" xml:space="preserve">
+    <value>Search aliases or filenames…</value>
+  </data>
+  <data name="tooltip_search_files" xml:space="preserve">
+    <value>Search aliases and original filenames</value>
+  </data>
+  <data name="files_count" xml:space="preserve">
+    <value>{0} files</value>
+  </data>
+  <data name="file_count_singular" xml:space="preserve">
+    <value>{0} file</value>
+  </data>
+  <data name="tooltip_file_tile_drag" xml:space="preserve">
+    <value>Drag this file onto a sample slot</value>
+  </data>
+  <data name="tooltip_file_tile_alias" xml:space="preserve">
+    <value>Double Click to edit alias without renaming the original file</value>
+  </data>
+  <data name="alias_confirm_hotkey" xml:space="preserve">
+    <value>ENTER</value>
+  </data>
+  <data name="alias_confirm" xml:space="preserve">
+    <value>Confirm alias</value>
+  </data>
+  <data name="files_hint" xml:space="preserve">
+    <value>Drag a tile onto a tree item to assign its sample</value>
+  </data>
+  <data name="no_sample_files" xml:space="preserve">
+    <value>No sample files yet — use Add files to import some</value>
+  </data>
+  <data name="no_matching_files" xml:space="preserve">
+    <value>No files match your search</value>
   </data>
 </root>
