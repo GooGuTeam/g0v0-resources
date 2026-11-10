@@ -2,6 +2,13 @@
 
 Assets used by g0v0!.
 
+> [!IMPORTANT]
+> **g0v0!resources is an unofficial fork of the upstream resources repository.**
+>
+> - We are **not affiliated with, endorsed by, or supported by ppy Pty Ltd**, or the upstream development team.
+> - The upstream name and all related branding are trademarks of **ppy Pty Ltd**, and copyright in the original content remains with ppy Pty Ltd (see the Licence section below). This fork only rebrands display names and replaces brand assets for the g0v0! project.
+> - **Please support the original project.** If you enjoy the game, play on the [official servers](https://osu.ppy.sh) and consider becoming a [supporter](https://osu.ppy.sh/home/support) — it directly funds upstream development.
+
 ## About this fork
 
 This repository is a fork of [ppy/osu-resources](https://github.com/ppy/osu-resources) (upstream resources), rebranded as **g0v0!resources** for the [g0v0!](https://github.com/GooGuTeam/g0v0) project. Display names have been changed to g0v0!, while the namespace and assembly (`osu.Game.Resources`) are retained for compatibility with the upstream client. The g0v0! fork publishes its rebranded resources as the NuGet package `g0v0.osu.Game.Resources`.
