@@ -96,4 +96,19 @@
   <data name="legacy_online_ranking_button_text" xml:space="preserve">
     <value>▼ 線上排名 ▼</value>
   </data>
+  <data name="ranking_footer_button_text" xml:space="preserve">
+    <value>排名</value>
+  </data>
+  <data name="more_statistics_footer_button_text" xml:space="preserve">
+    <value>更多統計</value>
+  </data>
+  <data name="catalogue_footer_button_text" xml:space="preserve">
+    <value>曲庫</value>
+  </data>
+  <data name="watch_replay_footer_button_text" xml:space="preserve">
+    <value>觀看回放</value>
+  </data>
+  <data name="play_again_footer_button_text" xml:space="preserve">
+    <value>再次遊玩</value>
+  </data>
 </root>

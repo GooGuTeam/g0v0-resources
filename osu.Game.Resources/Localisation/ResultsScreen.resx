@@ -201,4 +201,19 @@ Unstable Rate: {2:0.00}</value>
   <data name="played_by" xml:space="preserve">
     <value>Played by {0} on {1}.</value>
   </data>
+  <data name="ranking_footer_button_text" xml:space="preserve">
+    <value>Ranking</value>
+  </data>
+  <data name="more_statistics_footer_button_text" xml:space="preserve">
+    <value>More statistics</value>
+  </data>
+  <data name="catalogue_footer_button_text" xml:space="preserve">
+    <value>Catalogue</value>
+  </data>
+  <data name="watch_replay_footer_button_text" xml:space="preserve">
+    <value>Watch replay</value>
+  </data>
+  <data name="play_again_footer_button_text" xml:space="preserve">
+    <value>Play again</value>
+  </data>
 </root>

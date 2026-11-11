@@ -73,6 +73,12 @@
   <data name="battery_low" xml:space="preserve">
     <value>您的裝置電量不足！請立即將裝置接上電源，以避免遊玩過程被中斷。</value>
   </data>
+  <data name="power_not_connected" xml:space="preserve">
+    <value>你的裝置正在使用電池供電。連接電源轉接器以獲得穩定的遊戲效能。</value>
+  </data>
+  <data name="power_disconnected" xml:space="preserve">
+    <value>電源轉接器已中斷連線。你的裝置正在使用電池供電，這可能會影響遊戲效能。</value>
+  </data>
   <data name="game_volume_too_low" xml:space="preserve">
     <value>您的遊戲音量似乎有點太低囉！按這裡來還原音量。</value>
   </data>
@@ -203,6 +209,18 @@
     <value>螢幕擷圖已儲存！按一下即可檢視。
 {0}</value>
   </data>
+  <data name="uploading_screenshot" xml:space="preserve">
+    <value>正在上傳螢幕截圖...</value>
+  </data>
+  <data name="screenshot_upload_success" xml:space="preserve">
+    <value>螢幕截圖已上傳！連結已複製到剪貼簿上。</value>
+  </data>
+  <data name="screenshot_upload_failure" xml:space="preserve">
+    <value>螢幕截圖上傳失敗。</value>
+  </data>
+  <data name="screenshot_too_many_uploads" xml:space="preserve">
+    <value>你上傳太多螢幕截圖了！</value>
+  </data>
   <data name="multiplayer_server_shutting_down_immediately" xml:space="preserve">
     <value>多人遊戲伺服器正在維護中，請稍後再進行遊玩...</value>
   </data>
@@ -214,5 +232,38 @@
   </data>
   <data name="collection_beatmaps_added" xml:space="preserve">
     <value>新增 {0} 張圖譜至收藏 "{1}"。</value>
+  </data>
+  <data name="limited_processor_acceleration" xml:space="preserve">
+    <value>你的裝置處理器較舊，遊戲可能會卡頓。</value>
+  </data>
+  <data name="cannot_start_play" xml:space="preserve">
+    <value>無法開始遊戲</value>
+  </data>
+  <data name="score_will_not_be_submitted" xml:space="preserve">
+    <value>分數將不會提交</value>
+  </data>
+  <data name="failed_to_retrieve_score_submission_token" xml:space="preserve">
+    <value>分數提交權杖獲取失敗。</value>
+  </data>
+  <data name="prevent_submitting_with_outdated_client" xml:space="preserve">
+    <value>請確認使用的遊戲是最新官方版本。</value>
+  </data>
+  <data name="prevent_submitting_with_invalid_beatmap_hash" xml:space="preserve">
+    <value>譜面版本與線上版本不同。請更新或重新下載該譜面。</value>
+  </data>
+  <data name="prevent_submitting_with_expired_token" xml:space="preserve">
+    <value>系統時鐘設定有誤。請檢查日期、時間與時區設定。</value>
+  </data>
+  <data name="online_functionality_is_not_available" xml:space="preserve">
+    <value>線上功能無法使用。</value>
+  </data>
+  <data name="server_outage_in_progress" xml:space="preserve">
+    <value>伺服器故障中</value>
+  </data>
+  <data name="server_outage_explanation" xml:space="preserve">
+    <value>由於故障，線上功能暫時無法使用。造成不便，敬請見諒。</value>
+  </data>
+  <data name="user_challenged_you_to_duel" xml:space="preserve">
+    <value>{0} 向你發起了對決（{1}）。點擊接受。</value>
   </data>
 </root>

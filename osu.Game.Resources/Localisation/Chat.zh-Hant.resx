@@ -70,6 +70,9 @@
   <data name="in_game_input_placeholder" xml:space="preserve">
     <value>按下 {0} 以聊天...</value>
   </data>
+  <data name="report_confirmation" xml:space="preserve">
+    <value>已通知聊天室管理員。感謝您的幫助。</value>
+  </data>
   <data name="report_confirmation_pm" xml:space="preserve">
     <value>聊天管理員已收到檢舉。為保護你的隱私，管理員無法讀取被檢舉私訊的歷史記錄，請盡可能提供詳細資訊。
 必要時可以再次檢舉補充說明；如遇嚴重騷擾，請聯絡 g0v0! 團隊。

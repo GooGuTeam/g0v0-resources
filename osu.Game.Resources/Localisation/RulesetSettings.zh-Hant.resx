@@ -121,6 +121,9 @@
   <data name="touch_control_scheme" xml:space="preserve">
     <value>觸控控制方案</value>
   </data>
+  <data name="touch_drum_size" xml:space="preserve">
+    <value>觸控鼓面大小</value>
+  </data>
   <data name="mobile_layout" xml:space="preserve">
     <value>行動裝置版面配置</value>
   </data>

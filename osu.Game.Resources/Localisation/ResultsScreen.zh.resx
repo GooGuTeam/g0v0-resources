@@ -198,4 +198,19 @@
   <data name="played_by" xml:space="preserve">
     <value>由 {0} 于 {1} 游玩。</value>
   </data>
+  <data name="ranking_footer_button_text" xml:space="preserve">
+    <value>排名</value>
+  </data>
+  <data name="more_statistics_footer_button_text" xml:space="preserve">
+    <value>更多统计</value>
+  </data>
+  <data name="catalogue_footer_button_text" xml:space="preserve">
+    <value>曲库</value>
+  </data>
+  <data name="watch_replay_footer_button_text" xml:space="preserve">
+    <value>观看回放</value>
+  </data>
+  <data name="play_again_footer_button_text" xml:space="preserve">
+    <value>再次游玩</value>
+  </data>
 </root>

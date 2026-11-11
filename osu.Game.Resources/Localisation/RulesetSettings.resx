@@ -121,6 +121,9 @@
   <data name="touch_control_scheme" xml:space="preserve">
     <value>Touch control scheme</value>
   </data>
+  <data name="touch_drum_size" xml:space="preserve">
+    <value>Touch drum size</value>
+  </data>
   <data name="mobile_layout" xml:space="preserve">
     <value>Mobile layout</value>
   </data>

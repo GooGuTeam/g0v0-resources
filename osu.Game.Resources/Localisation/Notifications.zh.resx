@@ -73,6 +73,12 @@
   <data name="battery_low" xml:space="preserve">
     <value>电池电量过低！请为设备充电以避免游戏中断。</value>
   </data>
+  <data name="power_not_connected" xml:space="preserve">
+    <value>你的设备正在使用电池供电。连接电源适配器以获得稳定的游戏性能。</value>
+  </data>
+  <data name="power_disconnected" xml:space="preserve">
+    <value>电源适配器已断开。你的设备正在使用电池供电，这可能会影响游戏性能。</value>
+  </data>
   <data name="game_volume_too_low" xml:space="preserve">
     <value>你的游戏音量低到什么也听不见了！点击这里还原。</value>
   </data>
@@ -158,7 +164,7 @@
     <value>收藏导入正在初始化……</value>
   </data>
   <data name="reading_collections" xml:space="preserve">
-    <value>读取收藏夹……</value>
+    <value>读取收藏夹...</value>
   </data>
   <data name="collections_import_progress" xml:space="preserve">
     <value>导入了 {0} 个收藏</value>
@@ -202,6 +208,18 @@
   <data name="screenshot_saved" xml:space="preserve">
     <value>截图已保存！点此处查看： {0} </value>
   </data>
+  <data name="uploading_screenshot" xml:space="preserve">
+    <value>正在上传屏幕截图...</value>
+  </data>
+  <data name="screenshot_upload_success" xml:space="preserve">
+    <value>屏幕截图已上传！链接已复制到剪贴板。</value>
+  </data>
+  <data name="screenshot_upload_failure" xml:space="preserve">
+    <value>截屏上传失败。</value>
+  </data>
+  <data name="screenshot_too_many_uploads" xml:space="preserve">
+    <value>上传屏幕截图的频率太快了！</value>
+  </data>
   <data name="multiplayer_server_shutting_down_immediately" xml:space="preserve">
     <value>多人游戏服务器将很快恢复运行……</value>
   </data>
@@ -237,5 +255,38 @@
   </data>
   <data name="ruleset_crash_suggestion" xml:space="preserve">
     <value>你可以随时从设置中将其恢复，但在这之前，最好还是将这个问题向模式开发者反馈一下！</value>
+  </data>
+  <data name="limited_processor_acceleration" xml:space="preserve">
+    <value>你的设备处理器较旧，游戏可能会卡顿。</value>
+  </data>
+  <data name="cannot_start_play" xml:space="preserve">
+    <value>无法开始游戏</value>
+  </data>
+  <data name="score_will_not_be_submitted" xml:space="preserve">
+    <value>分数将不会提交</value>
+  </data>
+  <data name="failed_to_retrieve_score_submission_token" xml:space="preserve">
+    <value>分数提交令牌获取失败。</value>
+  </data>
+  <data name="prevent_submitting_with_outdated_client" xml:space="preserve">
+    <value>请确认使用的游戏是最新官方版本。</value>
+  </data>
+  <data name="prevent_submitting_with_invalid_beatmap_hash" xml:space="preserve">
+    <value>谱面版本与在线版本不同。请更新或重新下载该谱面。</value>
+  </data>
+  <data name="prevent_submitting_with_expired_token" xml:space="preserve">
+    <value>系统时钟设置有误。请检查日期、时间与时区设置。</value>
+  </data>
+  <data name="online_functionality_is_not_available" xml:space="preserve">
+    <value>在线功能不可用。</value>
+  </data>
+  <data name="server_outage_in_progress" xml:space="preserve">
+    <value>服务器故障中</value>
+  </data>
+  <data name="server_outage_explanation" xml:space="preserve">
+    <value>由于故障，在线功能暂时不可用。抱歉给您带来不便。</value>
+  </data>
+  <data name="user_challenged_you_to_duel" xml:space="preserve">
+    <value>{0} 向你发起了对决（{1}）。点击接受。</value>
   </data>
 </root>
