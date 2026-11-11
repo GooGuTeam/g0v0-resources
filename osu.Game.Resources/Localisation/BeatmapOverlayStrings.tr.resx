@@ -58,18 +58,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Kullanıcı içeriği uyarısı</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>"Featured Artist" filtresini kapatırsanız kullanıcılar tarafından yüklenmiş içerikleri göreceksiniz.
-
-Bu g0v0!'nun lisanslamadığı içerikleri içerebilir. Bu durum kendi sorumluluğunuzdadır.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Anladım</value>
-  </data>
-  <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Featured Artist'ler, osu! ile işbirliği yaparak beatmaplerde kullanılmak üzere bir dizi parça sağlayan müzik sanatçılarıdır. Bazı osu! güncellemelerinde, çevresindeki ekosistemi daha iyi desteklemek amacıyla yalnızca Featured Artist'lerin beatmap'lerini gösteriyoruz.</value>
   </data>
 </root>

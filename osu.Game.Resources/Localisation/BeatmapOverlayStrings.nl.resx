@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Disclaimer: inhoud afkomstig van gebruikers</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Door de "Aanbevolen artiesten"-filter uit te zetten, zal alle inhoud geüpload door gebruikers worden weergegeven.
-
-Deze inhoud heeft mogelijk geen licentie voor gebruik binnen g0v0!. Blader verder op eigen risico.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Ik begrijp het</value>
   </data>

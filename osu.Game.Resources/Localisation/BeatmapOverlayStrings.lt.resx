@@ -58,18 +58,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Vartotojų turinio perspėjimas</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Išjungus „Ryškiųjų Atlikėjų“ filtrą bus rodomas visas vartotojų įkeltas turinys.
-
-Į tai įeina turinys, kuris gali nebūti licencijuotas g0v0! naudojimui. Naršykite savo rizika.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Supratau</value>
-  </data>
-  <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Ryškieji Atlikėjai tai muzikos atlikėjai kurie bendradarbiavo su osu! kad padarytu jų kūrinius prieinamus beatmap'ų naudojimui. Kai kuriuose osu! leidimuose mes demonstruojame tik ryškiųjų atlikėjų beatmap'us tam kad paremti aplinkinę ekosistemą.</value>
   </data>
 </root>

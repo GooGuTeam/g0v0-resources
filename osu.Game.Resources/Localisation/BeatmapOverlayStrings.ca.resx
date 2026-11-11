@@ -58,14 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Avís del contingut de l'usuari</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Si desactiveu el filtre «Artista destacat», es mostrarà tot el contingut pujat pels usuaris.
-
-Això inclou contingut que pot no tenir una llicència correcta per a l'ús a g0v0!. Navega sota el teu propi risc.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Ho entenc</value>
   </data>

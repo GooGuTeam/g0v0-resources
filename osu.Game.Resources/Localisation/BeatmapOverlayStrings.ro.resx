@@ -58,18 +58,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="user_content_disclaimer" xml:space="preserve">
-    <value>Acord cu privire la conținut utilizatori</value>
-  </data>
-  <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>Prin oprirea filtrului "Artiști Oficiali", tot conținutul încărcat de utilizatori va fi afișat.
-
-Acesta include conținut care poate să nu fie licențiat corect pentru utilizarea în g0v0!. Navigați pe propriul risc.</value>
-  </data>
   <data name="understood" xml:space="preserve">
     <value>Am înţeles</value>
-  </data>
-  <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Artiștii Oficiali sunt artiști muzicali care au colaborat cu osu! pentru a face o selecție a pieselor lor disponibilă pentru utilizarea în beatmap-uri. În unele versiuni osu! afișăm doar beatmap-uri create pe piese ale artiștilor oficiali pentru a sprijini mai bine ecosistemul din jur.</value>
   </data>
 </root>
