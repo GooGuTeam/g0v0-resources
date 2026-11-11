@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -328,6 +328,6 @@
     <value>Classic slider judgement</value>
   </data>
   <data name="classic_slider_judgement_description" xml:space="preserve">
-    <value>Judge slider ticks and tails at fixed points in time, matching osu!stable.</value>
+    <value>Judge slider ticks and tails at fixed points in time, matching stable.</value>
   </data>
 </root>

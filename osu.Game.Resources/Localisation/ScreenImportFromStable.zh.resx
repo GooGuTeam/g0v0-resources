@@ -62,13 +62,13 @@
     <value>导入</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>如果已经安装了旧版本的 osu! ，您可以选择迁移现有的游戏数据。 注意，这丝毫不会影响已安装版本的文件。</value>
+    <value>如果已经安装了stable 客户端 ，您可以选择迁移现有的游戏数据。 注意，这丝毫不会影响已安装版本的文件。</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>旧版本 osu!</value>
+    <value>先前的 stable 安装</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>点击定位旧版本 osu!</value>
+    <value>点击定位先前的 stable 安装</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>导入之前的游戏数据</value>
@@ -89,9 +89,9 @@
     <value>您的操作系统不支持轻量文件链接，因此，导入时会生成一份所有文件的副本。</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>在导入时会复制并生成第二份文件。如果你想避免这种情况，请确保 g0v0 数据文件夹和先前安装的 osu! 文件夹，在相同的逻辑驱动器内（即盘符完全一致，且使用 NTFS 文件系统）。</value>
+    <value>在导入时会复制并生成第二份文件。如果你想避免这种情况，请确保 g0v0 数据文件夹和先前安装的 stable 文件夹，在相同的逻辑驱动器内（即盘符完全一致，且使用 NTFS 文件系统）。</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>在导入时会复制并生成第二份文件。如果你想避免这种情况，请确保 g0v0 数据文件夹和先前安装的 osu! 文件夹，在相同的逻辑驱动器内（即盘符完全一致，且文件系统支持硬链接）。</value>
+    <value>在导入时会复制并生成第二份文件。如果你想避免这种情况，请确保 g0v0 数据文件夹和先前安装的 stable 文件夹，在相同的逻辑驱动器内（即盘符完全一致，且文件系统支持硬链接）。</value>
   </data>
 </root>

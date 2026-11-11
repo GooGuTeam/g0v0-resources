@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -328,6 +328,6 @@
     <value>经典滑条判定</value>
   </data>
   <data name="classic_slider_judgement_description" xml:space="preserve">
-    <value>在固定时间点判定滑条点与尾端，与 osu!stable 一致。</value>
+    <value>在固定时间点判定滑条点和尾部，与 stable 一致。</value>
   </data>
 </root>

@@ -77,7 +77,7 @@
     <value>请选择一个新位置</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>目标目录似乎已安装了一份 osu!。要使用已安装的 osu! 数据吗？</value>
+    <value>目标目录似乎已有游戏数据。是否使用这些数据？g0v0! 将重新启动。</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>删除所有谱面</value>
@@ -128,7 +128,7 @@
     <value>没有找到要恢复的模组预设！</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>请选择 osu!stable 的安装位置</value>
+    <value>请选择 stable 的安装位置</value>
   </data>
   <data name="all_offsets_reset" xml:space="preserve">
     <value>已成功重置所有谱面偏移设置！</value>

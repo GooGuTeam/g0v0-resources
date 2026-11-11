@@ -70,4 +70,9 @@
   <data name="in_game_input_placeholder" xml:space="preserve">
     <value>按下 {0} 聊天……</value>
   </data>
+  <data name="report_confirmation_pm" xml:space="preserve">
+    <value>聊天管理员已收到举报。为保护你的隐私，管理员无法读取被举报私信的历史记录，请尽可能提供详细信息。
+必要时可以再次举报补充说明；如遇严重骚扰，请联系 g0v0! 团队。
+你也可以在用户主页或聊天用户名的右键菜单中屏蔽该用户。</value>
+  </data>
 </root>

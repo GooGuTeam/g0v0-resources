@@ -77,7 +77,7 @@
     <value>你可以尝试调整“屏幕缩放”模式来调整游玩或 UI 区域。游戏处于全屏显示时也能调整！</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>曾经的“osu!direct”功能现已对所有玩家开放，就像网站上一样。你可以随时按下 {0} 调出它！</value>
+    <value>谱面下载向所有用户开放，与网站一样。你可以随时按 {0} 访问！</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>观看游戏回放时，可通过拖动屏幕下方的进度条或使用左右方向键来调整回放进度！</value>

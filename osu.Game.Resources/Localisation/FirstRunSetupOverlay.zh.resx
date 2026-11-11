@@ -88,7 +88,7 @@ g0v0! 是一款可高度自由化配置的游戏，但初面这些繁多复杂�
   <data name="behaviour_description" xml:space="preserve">
     <value>游戏提供了部分表现内容的新预设，旨在易于玩家理解，并提升玩家的游玩体验。
 
-我们建议您先试用一下新预设，但如果您更偏好经典 g0v0! 的表现风格，也可轻松设置并应用经典预设。</value>
+建议你先尝试新的默认设置；如果更习惯 stable 的体验，也可以在下方应用适合的预设。</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>新预设</value>

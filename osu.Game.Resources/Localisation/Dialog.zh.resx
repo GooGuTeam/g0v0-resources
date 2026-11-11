@@ -71,7 +71,7 @@
     <value>不！中止任务。</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>无法自动定位 osu!stable 的安装位置。</value>
+    <value>无法自动定位 stable 的安装位置。</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>无法定位安装位置。如果你知道它在哪里，可以手动定位。</value>
@@ -80,7 +80,7 @@
     <value>当然！我知道他在哪里！</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>其实我还没有安装 osu!stable。</value>
+    <value>其实我还没有安装 stable。</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>{0} 上的所有本地成绩</value>

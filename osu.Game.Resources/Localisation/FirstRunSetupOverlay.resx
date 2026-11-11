@@ -87,7 +87,7 @@ g0v0! is a very configurable game, and diving straight into the settings can som
   <data name="behaviour_description" xml:space="preserve">
     <value>Some new defaults for game behaviours have been implemented, with the aim of improving the game experience and making it more accessible to everyone.
 
-We recommend you give the new defaults a try, but if you'd like to have things feel more like classic versions of g0v0!, you can easily apply some sane defaults below.</value>
+We recommend you give the new defaults a try, but if you'd like to have things feel more like stable, you can easily apply some sane defaults below.</value>
   </data>
   <data name="new_defaults" xml:space="preserve">
     <value>New defaults</value>

@@ -77,7 +77,7 @@
     <value>Try adjusting the "Screen Scaling" mode to change your gameplay or UI area, even in fullscreen!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>What used to be "osu!direct" is available to all users just like on the website. You can access it anywhere using {0}!</value>
+    <value>Beatmap downloads are available to all users, just like on the website. You can access them anywhere using {0}!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>Seeking in replays is available by dragging on the progress bar at the bottom of the screen or by using the left and right arrow keys!</value>

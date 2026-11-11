@@ -62,14 +62,14 @@
     <value>用户内容免责声明</value>
   </data>
   <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>关闭"精选艺术家"筛选后，将显示用户自行上传的一切内容。
+    <value>关闭“精选艺术家”筛选器后，将显示所有用户上传的内容。
 
-这其中可能包含尚未正确授权给 g0v0! 使用的内容，风险需要自负。</value>
+其中可能包含未获得适当游戏使用授权的内容，请自行判断后浏览。</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>我已知悉</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>精选艺术家与 osu! 合作，允许在游戏中使用他们创作的部分歌曲制作谱面。在部分平台，osu! 只展示精选艺术家谱面，以更好地支持版权生态。</value>
+    <value>精选艺术家是与上游项目合作、将部分曲目提供用于谱面创作的音乐艺术家。部分客户端版本仅展示精选艺术家的谱面，以支持相关生态。</value>
   </data>
 </root>

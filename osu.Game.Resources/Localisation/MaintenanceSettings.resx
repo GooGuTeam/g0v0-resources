@@ -77,7 +77,7 @@
     <value>Please select a new location</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>The target directory already seems to have an osu! install. Use that data instead? osu! will restart.</value>
+    <value>The target directory appears to contain an existing game installation. Use its data instead? g0v0! will restart.</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>Delete ALL beatmaps</value>
@@ -128,7 +128,7 @@
     <value>No mod presets found to restore!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>Please select your osu!stable install location</value>
+    <value>Please select your stable install location</value>
   </data>
   <data name="all_offsets_reset" xml:space="preserve">
     <value>All offsets have been reset!</value>

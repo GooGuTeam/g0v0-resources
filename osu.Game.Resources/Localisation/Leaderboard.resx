@@ -77,7 +77,7 @@
     <value>Please sign in to view online leaderboards!</value>
   </data>
   <data name="please_invest_in_an_osu_supporter_tag_to_view_this_leaderboard" xml:space="preserve">
-    <value>Please invest in an osu!supporter tag to view this leaderboard!</value>
+    <value>Active supporter status is required to view this leaderboard.</value>
   </data>
   <data name="no_team" xml:space="preserve">
     <value>You are not on a team. Maybe you should join one!</value>

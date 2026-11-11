@@ -98,7 +98,7 @@
     <value>季節限定背景圖片</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>此設定僅對 osu!supporter 有效</value>
+    <value>此設定的變更僅在擁有有效支持者身分時生效。</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>歌曲選擇</value>

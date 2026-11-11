@@ -62,13 +62,13 @@
     <value>Import</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>If you have an installation of a previous osu! version, you can choose to migrate your existing content. Note that this will not affect your existing installation's files in any way.</value>
+    <value>If you have an existing stable installation, you can choose to migrate your existing content. Note that this will not affect your existing installation's files in any way.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>previous osu! install</value>
+    <value>previous stable installation</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Click to locate a previous osu! install</value>
+    <value>Click to locate a previous stable installation</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Import content from previous version</value>
@@ -89,9 +89,9 @@
     <value>Lightweight linking of files is not supported on your operating system yet, so a copy of all files will be made during import.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>A second copy of all files will be made during import. To avoid this, please make sure the g0v0 data folder is on the same drive as your previous osu! install (and the file system is NTFS).</value>
+    <value>A second copy of all files will be made during import. To avoid this, please make sure the g0v0 data folder is on the same drive as your previous stable installation (and the file system is NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>A second copy of all files will be made during import. To avoid this, please make sure the g0v0 data folder is on the same drive as your previous osu! install (and the file system supports hard links).</value>
+    <value>A second copy of all files will be made during import. To avoid this, please make sure the g0v0 data folder is on the same drive as your previous stable installation (and the file system supports hard links).</value>
   </data>
 </root>

@@ -77,7 +77,7 @@
     <value>試試調整「螢幕縮放」模式，以改變你的遊戲或 UI 區域，即使在全螢幕模式下也能使用！</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>過去稱為「osu!direct」的功能，現在如同網站一樣，開放給所有使用者使用。您可以隨時按下 Ctrl-B 來存取它！</value>
+    <value>圖譜下載向所有使用者開放，與網站一樣。你可以隨時按 {0} 存取！</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>拖曳下方的進度表或按左、右方向鍵可以在重播中調整播放時間！</value>

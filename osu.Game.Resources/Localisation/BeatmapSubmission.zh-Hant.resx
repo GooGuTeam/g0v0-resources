@@ -137,7 +137,7 @@
     <value>提交後在瀏覽器開啟圖譜頁面</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>注意：為了讓所有 osu! 版本的使用者都能享受你的圖譜，它將會以向下相容的格式匯出。雖然我們已盡力確保此過程能讓圖譜以其預期形式正常遊玩，但某些與舊版 osu! 不支援的功能相關的資料仍可能遺失。</value>
+    <value>注意：為了讓舊用戶端也能遊玩你的圖譜，圖譜將以向後相容的格式匯出。雖然我們盡力保留預期的遊玩體驗，但舊用戶端不支援的部分功能資料可能遺失。</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>無法提交空白圖譜。</value>

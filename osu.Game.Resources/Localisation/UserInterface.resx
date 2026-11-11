@@ -98,7 +98,7 @@
     <value>Seasonal backgrounds</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Changes to this setting will only apply with an active osu!supporter tag.</value>
+    <value>Changes to this setting only apply with active supporter status.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Song Select</value>

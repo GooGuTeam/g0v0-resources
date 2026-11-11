@@ -62,14 +62,14 @@
     <value>使用者內容免責聲明</value>
   </data>
   <data name="by_turning_off_the_featured" xml:space="preserve">
-    <value>當您關閉 "精選藝術家" 分類時，圖譜庫將顯示所有使用者所上傳的內容
+    <value>關閉「精選藝術家」篩選器後，將顯示所有使用者上傳的內容。
 
-將可能會顯示一些未被正式授權供 g0v0! 使用的內容，請謹慎瀏覽。</value>
+其中可能包含未獲得適當遊戲使用授權的內容，請自行判斷後瀏覽。</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>我了解了</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>精選藝術家是指與 osu! 合作，將其部分曲目授權用於製作圖譜的音樂藝術家。在某些 osu! 版本發布時，我們僅會展示精選藝術家的圖譜，以更好地支持周邊生態系統。</value>
+    <value>精選藝術家是與上游專案合作、將部分曲目提供用於圖譜創作的音樂藝術家。部分用戶端版本僅展示精選藝術家的圖譜，以支持相關生態。</value>
   </data>
 </root>

@@ -77,7 +77,7 @@
     <value>請選擇一個新的位置</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>已在所選的資料夾中偵測到現有的 osu! 安裝，是否直接使用該資料？</value>
+    <value>目標資料夾似乎已有遊戲資料。是否使用這些資料？g0v0! 將重新啟動。</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>刪除「全部」圖譜</value>
@@ -128,7 +128,7 @@
     <value>找不到要復原的 Mod 預設！</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>請選擇您的 osu! 穩定版安裝位置</value>
+    <value>請選擇您的 stable安裝位置</value>
   </data>
   <data name="all_offsets_reset" xml:space="preserve">
     <value>已重置所有延遲設定！</value>
