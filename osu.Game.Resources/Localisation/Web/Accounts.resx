@@ -281,10 +281,10 @@
     <value>with video if available</value>
   </data>
   <data name="options.beatmapset_download.direct" xml:space="preserve">
-    <value>open in osu!direct</value>
+    <value>open in g0v0!direct</value>
   </data>
   <data name="options.beatmapset_download.lazer" xml:space="preserve">
-    <value>open in osu!</value>
+    <value>open in g0v0!</value>
   </data>
   <data name="options.beatmapset_download.no_video" xml:space="preserve">
     <value>without video</value>

@@ -62,6 +62,6 @@
     <value>Stapel Leniency</value>
   </data>
   <data name="stack_leniency_description" xml:space="preserve">
-    <value>In de speelmodus, osu! stapelt noten die zich op dezelfde locatie voordoen. Het verhogen van deze waarde betekent dat het eerder noten van verdere afstand in tijd zal maken.</value>
+    <value>In de speelmodus, g0v0! stapelt noten die zich op dezelfde locatie voordoen. Het verhogen van deze waarde betekent dat het eerder noten van verdere afstand in tijd zal maken.</value>
   </data>
 </root>

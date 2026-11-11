@@ -62,6 +62,6 @@
     <value>Tolerancia de apilamiento</value>
   </data>
   <data name="stack_leniency_description" xml:space="preserve">
-    <value>Cuando estás jugando, osu! agrupa automáticamente las notas que aparecen en la misma posición. Si aumentas este valor, será más probable que se agrupen notas con mayor distancia entre ellas.</value>
+    <value>Cuando estás jugando, g0v0! agrupa automáticamente las notas que aparecen en la misma posición. Si aumentas este valor, será más probable que se agrupen notas con mayor distancia entre ellas.</value>
   </data>
 </root>

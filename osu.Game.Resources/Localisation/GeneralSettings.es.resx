@@ -98,7 +98,7 @@
     <value>Cambiar ubicación de la carpeta...</value>
   </data>
   <data name="change_folder_location_tooltip" xml:space="preserve">
-    <value>Mueve tus datos actuales a una nueva carpeta o indica a osu! dónde se encuentran los datos de la copia de seguridad en una ubicación ya existente.</value>
+    <value>Mueve tus datos actuales a una nueva carpeta o indica a g0v0! dónde se encuentran los datos de la copia de seguridad en una ubicación ya existente.</value>
   </data>
   <data name="run_setup_wizard" xml:space="preserve">
     <value>Ejecutar el asistente de configuración</value>

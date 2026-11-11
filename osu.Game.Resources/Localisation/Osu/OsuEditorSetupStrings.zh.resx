@@ -62,6 +62,6 @@
     <value>堆叠阈值</value>
   </data>
   <data name="stack_leniency_description" xml:space="preserve">
-    <value>在游玩时，osu! 会将相同位置的物件错开并堆叠起来。增加此值，意味着物件之间触发堆叠效果的时间间隔更大。</value>
+    <value>在游玩时，g0v0! 会将相同位置的物件错开并堆叠起来。增加此值，意味着物件之间触发堆叠效果的时间间隔更大。</value>
   </data>
 </root>
