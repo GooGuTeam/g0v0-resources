@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -72,6 +72,12 @@
   </data>
   <data name="battery_low" xml:space="preserve">
     <value>Your battery level is low! Charge your device to prevent interruptions during gameplay.</value>
+  </data>
+  <data name="power_not_connected" xml:space="preserve">
+    <value>Your device is running on battery power. Connect the power adapter for consistent gameplay performance.</value>
+  </data>
+  <data name="power_disconnected" xml:space="preserve">
+    <value>The power adapter has been disconnected. Your device is now running on battery power, which may affect gameplay performance.</value>
   </data>
   <data name="game_volume_too_low" xml:space="preserve">
     <value>Your game volume is too low to hear anything! Click here to restore it.</value>
@@ -252,5 +258,8 @@ Click to see what's new!</value>
   </data>
   <data name="ruleset_caused_crash" xml:space="preserve">
     <value>It seems that the ruleset "{0}" caused the game to crash, and we have temporarily disabled it to avoid further problems.</value>
+  </data>
+  <data name="limited_processor_acceleration" xml:space="preserve">
+    <value>Your device has an older processor. The game may stutter.</value>
   </data>
 </root>
