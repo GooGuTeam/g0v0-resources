@@ -214,12 +214,6 @@
   <data name="song_select_appearance_header" xml:space="preserve">
     <value>歌曲选择外观</value>
   </data>
-  <data name="unslanted_song_select_ui" xml:space="preserve">
-    <value>严格竖直界面（无倾斜）</value>
-  </data>
-  <data name="unslanted_song_select_ui_description" xml:space="preserve">
-    <value>将歌曲选择界面的倾斜面板（信息板、排行榜、下拉框）重新渲染为规则矩形。下次进入歌曲选择界面时生效。</value>
-  </data>
   <data name="use_inter_font" xml:space="preserve">
     <value>在旧版歌曲选择中使用 Inter 字体</value>
   </data>

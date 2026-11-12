@@ -214,12 +214,6 @@
   <data name="song_select_appearance_header" xml:space="preserve">
     <value>Song Select Appearance</value>
   </data>
-  <data name="unslanted_song_select_ui" xml:space="preserve">
-    <value>Strictly vertical UI (no slant)</value>
-  </data>
-  <data name="unslanted_song_select_ui_description" xml:space="preserve">
-    <value>Re-render the slanted Song Select panels (wedges, leaderboard, dropdowns) as straight rectangles. Takes effect on next entry to song select.</value>
-  </data>
   <data name="use_inter_font" xml:space="preserve">
     <value>Use Inter font in legacy song select</value>
   </data>
