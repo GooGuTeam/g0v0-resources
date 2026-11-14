@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="theme_music_header" xml:space="preserve">
+    <value>Theme music</value>
+  </data>
+  <data name="use_custom_theme_music" xml:space="preserve">
+    <value>Use custom theme music</value>
+  </data>
+  <data name="use_custom_theme_music_description" xml:space="preserve">
+    <value>Plays the audio of the beatmap selected as theme music on startup instead of the g0v0! music theme.</value>
+  </data>
+  <data name="start_from_preview_point" xml:space="preserve">
+    <value>Start theme music from preview point</value>
+  </data>
+  <data name="start_from_preview_point_description" xml:space="preserve">
+    <value>Only applies to custom theme music.</value>
+  </data>
+  <data name="use_as_theme_music" xml:space="preserve">
+    <value>Set as theme music</value>
+  </data>
+  <data name="current_theme_music" xml:space="preserve">
+    <value>Current theme music: {0}</value>
+  </data>
+  <data name="no_theme_music" xml:space="preserve">
+    <value>No beatmap is currently set as theme music.</value>
+  </data>
+  <data name="theme_music_not_found" xml:space="preserve">
+    <value>The beatmapset set as theme music could not be found.</value>
+  </data>
+  <data name="theme_music_unavailable" xml:space="preserve">
+    <value>Theme music unavailable, as the beatmap was deleted or has no audio: {0}</value>
+  </data>
+  <data name="reset_theme_music" xml:space="preserve">
+    <value>Reset theme music</value>
+  </data>
+  <data name="reset_theme_music_confirmation" xml:space="preserve">
+    <value>This will clear the selected theme music and revert to the default music theme.</value>
+  </data>
+</root>
