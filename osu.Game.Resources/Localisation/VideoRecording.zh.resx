@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="video_bitrate" xml:space="preserve"><value>视频码率</value></data>
+  <data name="bitrate_value" xml:space="preserve"><value>{0} Mbps</value></data>
+  <data name="video_frame_rate" xml:space="preserve"><value>视频帧率</value></data>
+  <data name="encoder_profile" xml:space="preserve"><value>H.264 配置文件</value></data>
+  <data name="encoder_automatic" xml:space="preserve"><value>自动</value></data>
+  <data name="recording_settings_help" xml:space="preserve"><value>更改将在下一次录像、推流或回放导出时生效。</value></data>
+  <data name="encoder_help" xml:space="preserve"><value>除非需要特定配置文件，否则请使用“自动”。不受支持的配置文件将无法编码。</value></data>
+  <data name="video_resolution" xml:space="preserve"><value>视频分辨率</value></data>
+  <data name="resolution_help" xml:space="preserve"><value>输出视频的尺寸。窗口录制会保持宽高比，并在需要时添加黑边。</value></data>
+  <data name="recording_backend" xml:space="preserve"><value>编码后端</value></data>
+  <data name="recording_backend_help" xml:space="preserve"><value>用于录像、推流和回放导出。“自动”在 Windows 上使用 Media Foundation，在 Linux/macOS 上使用 FFmpeg。使用 FFmpeg 需要安装支持 libx264 和 AAC 的 FFmpeg。</value></data>
+  <data name="media_foundation_backend" xml:space="preserve"><value>Media Foundation 硬件 H.264（Windows）</value></data>
+  <data name="ffmpeg_backend" xml:space="preserve"><value>FFmpeg（libx264）</value></data>
+  <data name="ffmpeg_path" xml:space="preserve"><value>FFmpeg 可执行文件路径</value></data>
+  <data name="started" xml:space="preserve"><value>录像已开始。</value></data>
+  <data name="saved" xml:space="preserve"><value>录像已保存：{0}</value></data>
+  <data name="failed" xml:space="preserve"><value>录像失败，输出可能不完整：{0}</value></data>
+  <data name="export_replay" xml:space="preserve"><value>生成视频</value></data>
+  <data name="export_autoplay" xml:space="preserve"><value>生成自动游玩视频</value></data>
+  <data name="export_preparing" xml:space="preserve"><value>正在准备导出回放视频…</value></data>
+  <data name="export_finalising" xml:space="preserve"><value>正在完成视频…</value></data>
+  <data name="export_progress" xml:space="preserve"><value>正在渲染回放：{0}/{1} 帧（{2:0.00}×）</value></data>
+  <data name="export_cancel" xml:space="preserve"><value>取消</value></data>
+  <data name="stream_title" xml:space="preserve"><value>直播推流</value></data>
+  <data name="stream_help" xml:space="preserve"><value>请输入完整的 RTMPS 推流地址（包括串流密钥）。地址仅在本次会话中保存在内存里。你的游戏窗口和游戏音频将被直播。</value></data>
+  <data name="stream_destination" xml:space="preserve"><value>RTMPS 推流地址</value></data>
+  <data name="stream_ffmpeg_notice" xml:space="preserve"><value>此次推流由 FFmpeg 发布，地址会传给 FFmpeg 进程，这台电脑上的其他程序可以读取到它。</value></data>
+  <data name="stream_start" xml:space="preserve"><value>开始推流</value></data>
+  <data name="stream_started" xml:space="preserve"><value>直播推流已开始。</value></data>
+  <data name="stream_stopped" xml:space="preserve"><value>直播推流已停止。</value></data>
+  <data name="stream_failed" xml:space="preserve"><value>无法推流。请检查推流地址、网络连接和视频编码器。</value></data>
+  <data name="capture_busy" xml:space="preserve"><value>请先停止当前的录像或推流，再开始新的录制。</value></data>
+  <data name="capture_settings" xml:space="preserve"><value>录像与直播推流</value></data>
+  <data name="record_toggle" xml:space="preserve"><value>开始录像</value></data>
+  <data name="record_stop" xml:space="preserve"><value>停止录像</value></data>
+  <data name="stream_stop" xml:space="preserve"><value>停止推流</value></data>
+  <data name="toggle_recording" xml:space="preserve"><value>开始 / 停止录像</value></data>
+  <data name="toggle_streaming" xml:space="preserve"><value>打开推流对话框 / 停止推流</value></data>
+</root>
