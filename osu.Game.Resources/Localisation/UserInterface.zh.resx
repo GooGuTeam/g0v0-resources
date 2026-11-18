@@ -220,4 +220,40 @@
   <data name="use_inter_font_description" xml:space="preserve">
     <value>在旧版歌曲选择组件中使用 Inter 替代默认界面字体。重新打开歌曲选择界面后生效。</value>
   </data>
+  <data name="pinned_seasonal_background" xml:space="preserve">
+    <value>固定季节背景</value>
+  </data>
+  <data name="pinned_seasonal_background_index" xml:space="preserve">
+    <value>固定背景序号</value>
+  </data>
+  <data name="skin_background" xml:space="preserve">
+    <value>皮肤背景</value>
+  </data>
+  <data name="beatmap_background" xml:space="preserve">
+    <value>谱面背景</value>
+  </data>
+  <data name="random_seasonal_background" xml:space="preserve">
+    <value>随机季节背景</value>
+  </data>
+  <data name="pinned_seasonal_background_item" xml:space="preserve">
+    <value>固定的季节背景 #{0}</value>
+  </data>
+  <data name="unavailable" xml:space="preserve">
+    <value>不可用</value>
+  </data>
+  <data name="export_background" xml:space="preserve">
+    <value>保存背景到文件</value>
+  </data>
+  <data name="save_and_exit" xml:space="preserve">
+    <value>保存并退出</value>
+  </data>
+  <data name="background_exported" xml:space="preserve">
+    <value>背景已保存至 {0}</value>
+  </data>
+  <data name="background_export_failed" xml:space="preserve">
+    <value>保存当前背景失败。</value>
+  </data>
+  <data name="background_editor" xml:space="preserve">
+    <value>背景编辑</value>
+  </data>
 </root>

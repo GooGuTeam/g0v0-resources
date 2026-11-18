@@ -175,4 +175,85 @@
   <data name="user_search" xml:space="preserve">
     <value>使用者搜尋</value>
   </data>
+  <data name="default_results_style" xml:space="preserve">
+    <value>預設</value>
+  </data>
+  <data name="v2_results_style" xml:space="preserve">
+    <value>g0v0 V2</value>
+  </data>
+  <data name="legacy_results_style" xml:space="preserve">
+    <value>Torii（舊版）</value>
+  </data>
+  <data name="results_header" xml:space="preserve">
+    <value>結果</value>
+  </data>
+  <data name="results_screen_style" xml:space="preserve">
+    <value>結果畫面樣式</value>
+  </data>
+  <data name="results_screen_style_description" xml:space="preserve">
+    <value>選擇預設版面、現代分數與排名圓環，或可使用皮膚的 stable 風格排名面板。適用於新開啟的結果畫面。</value>
+  </data>
+  <data name="use_v2_results_screen" xml:space="preserve">
+    <value>使用 V2 結果畫面</value>
+  </data>
+  <data name="use_v2_results_screen_description" xml:space="preserve">
+    <value>在單人結果畫面顯示大型分數與排名圓環。停用後使用原始版面。</value>
+  </data>
+  <data name="legacy_song_select" xml:space="preserve">
+    <value>舊版歌曲選擇</value>
+  </data>
+  <data name="legacy_song_select_description" xml:space="preserve">
+    <value>使用 stable 風格的歌曲選擇介面，帶可使用皮膚的底欄與排名面板，不含現代篩選欄或資訊面板。包含舊版底欄。重新開啟歌曲選擇介面後生效。</value>
+  </data>
+  <data name="legacy_song_select_footer" xml:space="preserve">
+    <value>舊版歌曲選擇底欄</value>
+  </data>
+  <data name="legacy_song_select_footer_description" xml:space="preserve">
+    <value>在標準歌曲選擇介面上顯示 stable 風格底欄與排名面板。啟用舊版歌曲選擇時始終開啟；獨立的底欄偏好會被保留。重新開啟歌曲選擇介面後生效。</value>
+  </data>
+  <data name="song_select_appearance_header" xml:space="preserve">
+    <value>歌曲選擇外觀</value>
+  </data>
+  <data name="use_inter_font" xml:space="preserve">
+    <value>在舊版歌曲選擇中使用 Inter 字型</value>
+  </data>
+  <data name="use_inter_font_description" xml:space="preserve">
+    <value>在舊版歌曲選擇元件中使用 Inter 取代預設介面字型。重新開啟歌曲選擇介面後生效。</value>
+  </data>
+  <data name="pinned_seasonal_background" xml:space="preserve">
+    <value>釘選季節性背景</value>
+  </data>
+  <data name="pinned_seasonal_background_index" xml:space="preserve">
+    <value>釘選背景編號</value>
+  </data>
+  <data name="skin_background" xml:space="preserve">
+    <value>皮膚背景</value>
+  </data>
+  <data name="beatmap_background" xml:space="preserve">
+    <value>譜面背景</value>
+  </data>
+  <data name="random_seasonal_background" xml:space="preserve">
+    <value>隨機季節性背景</value>
+  </data>
+  <data name="pinned_seasonal_background_item" xml:space="preserve">
+    <value>釘選的季節性背景 #{0}</value>
+  </data>
+  <data name="unavailable" xml:space="preserve">
+    <value>無法使用</value>
+  </data>
+  <data name="export_background" xml:space="preserve">
+    <value>儲存背景至檔案</value>
+  </data>
+  <data name="save_and_exit" xml:space="preserve">
+    <value>儲存並退出</value>
+  </data>
+  <data name="background_exported" xml:space="preserve">
+    <value>背景已儲存至 {0}</value>
+  </data>
+  <data name="background_export_failed" xml:space="preserve">
+    <value>儲存目前背景失敗。</value>
+  </data>
+  <data name="background_editor" xml:space="preserve">
+    <value>背景編輯</value>
+  </data>
 </root>
