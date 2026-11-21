@@ -292,4 +292,88 @@ Click to see what's new!</value>
   <data name="user_challenged_you_to_duel" xml:space="preserve">
     <value>{0} challenged you to a duel ({1}). Click to accept.</value>
   </data>
+  <data name="task_completed" xml:space="preserve">
+    <value>Task has completed!</value>
+  </data>
+  <data name="preparing_to_delete_all" xml:space="preserve">
+    <value>Preparing to delete all {0}s...</value>
+  </data>
+  <data name="deleting_models" xml:space="preserve">
+    <value>Deleting {0}s ({1} of {2})</value>
+  </data>
+  <data name="deleted_all" xml:space="preserve">
+    <value>Deleted all {0}s!</value>
+  </data>
+  <data name="no_models_found_to_delete" xml:space="preserve">
+    <value>No {0}s found to delete!</value>
+  </data>
+  <data name="no_models_found_to_restore" xml:space="preserve">
+    <value>No {0}s found to restore!</value>
+  </data>
+  <data name="restoring_models" xml:space="preserve">
+    <value>Restoring ({0} of {1})</value>
+  </data>
+  <data name="restored_all_deleted_items" xml:space="preserve">
+    <value>Restored all deleted items!</value>
+  </data>
+  <data name="preparing_to_delete_all_videos" xml:space="preserve">
+    <value>Preparing to delete all {0} videos...</value>
+  </data>
+  <data name="failed_to_join_room" xml:space="preserve">
+    <value>Failed to join room.</value>
+  </data>
+  <data name="reprocessing_star_ratings" xml:space="preserve">
+    <value>Reprocessing star rating for beatmaps</value>
+  </data>
+  <data name="star_ratings_updated" xml:space="preserve">
+    <value>beatmaps' star ratings have been updated</value>
+  </data>
+  <data name="updating_online_data" xml:space="preserve">
+    <value>Updating online data for beatmaps</value>
+  </data>
+  <data name="online_data_updated" xml:space="preserve">
+    <value>beatmaps' online data have been updated</value>
+  </data>
+  <data name="populating_beatmap_statistics" xml:space="preserve">
+    <value>Populating missing statistics for beatmaps</value>
+  </data>
+  <data name="beatmap_statistics_populated" xml:space="preserve">
+    <value>beatmaps have been populated with missing statistics</value>
+  </data>
+  <data name="populating_score_statistics" xml:space="preserve">
+    <value>Populating missing statistics for scores</value>
+  </data>
+  <data name="score_statistics_populated" xml:space="preserve">
+    <value>scores have been populated with missing statistics</value>
+  </data>
+  <data name="upgrading_mod_multipliers" xml:space="preserve">
+    <value>Upgrading scores to new mod multipliers</value>
+  </data>
+  <data name="mod_multipliers_upgraded" xml:space="preserve">
+    <value>scores have been upgraded to the new mod multipliers</value>
+  </data>
+  <data name="upgrading_scoring_algorithm" xml:space="preserve">
+    <value>Upgrading scores to new scoring algorithm</value>
+  </data>
+  <data name="scoring_algorithm_upgraded" xml:space="preserve">
+    <value>scores have been upgraded to the new scoring algorithm</value>
+  </data>
+  <data name="adjusting_score_ranks" xml:space="preserve">
+    <value>Adjusting ranks of scores</value>
+  </data>
+  <data name="score_ranks_adjusted" xml:space="preserve">
+    <value>scores now have more correct ranks.</value>
+  </data>
+  <data name="populating_submission_dates" xml:space="preserve">
+    <value>Populating missing submission and rank dates</value>
+  </data>
+  <data name="submission_dates_populated" xml:space="preserve">
+    <value>beatmap sets now have correct submission and rank dates.</value>
+  </data>
+  <data name="updating_user_tags" xml:space="preserve">
+    <value>Updating user tags</value>
+  </data>
+  <data name="user_tags_updated" xml:space="preserve">
+    <value>beatmaps have had their tags updated. This runs once a month to allow searching user tags.</value>
+  </data>
 </root>

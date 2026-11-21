@@ -289,4 +289,88 @@
   <data name="user_challenged_you_to_duel" xml:space="preserve">
     <value>{0} 向你发起了对决（{1}）。点击接受。</value>
   </data>
+  <data name="task_completed" xml:space="preserve">
+    <value>任务已完成！</value>
+  </data>
+  <data name="preparing_to_delete_all" xml:space="preserve">
+    <value>正在准备删除所有{0}……</value>
+  </data>
+  <data name="deleting_models" xml:space="preserve">
+    <value>正在删除{0}（{1}/{2}）</value>
+  </data>
+  <data name="deleted_all" xml:space="preserve">
+    <value>已删除所有{0}！</value>
+  </data>
+  <data name="no_models_found_to_delete" xml:space="preserve">
+    <value>没有找到要删除的{0}！</value>
+  </data>
+  <data name="no_models_found_to_restore" xml:space="preserve">
+    <value>没有找到要恢复的{0}！</value>
+  </data>
+  <data name="restoring_models" xml:space="preserve">
+    <value>正在恢复（{0}/{1}）</value>
+  </data>
+  <data name="restored_all_deleted_items" xml:space="preserve">
+    <value>已恢复所有已删除的项目！</value>
+  </data>
+  <data name="preparing_to_delete_all_videos" xml:space="preserve">
+    <value>正在准备删除所有{0}的视频……</value>
+  </data>
+  <data name="failed_to_join_room" xml:space="preserve">
+    <value>加入房间失败。</value>
+  </data>
+  <data name="reprocessing_star_ratings" xml:space="preserve">
+    <value>正在重新处理谱面星级</value>
+  </data>
+  <data name="star_ratings_updated" xml:space="preserve">
+    <value>谱面星级已更新</value>
+  </data>
+  <data name="updating_online_data" xml:space="preserve">
+    <value>正在更新谱面在线数据</value>
+  </data>
+  <data name="online_data_updated" xml:space="preserve">
+    <value>谱面在线数据已更新</value>
+  </data>
+  <data name="populating_beatmap_statistics" xml:space="preserve">
+    <value>正在补全谱面缺失的统计信息</value>
+  </data>
+  <data name="beatmap_statistics_populated" xml:space="preserve">
+    <value>已为谱面补全缺失的统计信息</value>
+  </data>
+  <data name="populating_score_statistics" xml:space="preserve">
+    <value>正在补全成绩缺失的统计信息</value>
+  </data>
+  <data name="score_statistics_populated" xml:space="preserve">
+    <value>已为成绩补全缺失的统计信息</value>
+  </data>
+  <data name="upgrading_mod_multipliers" xml:space="preserve">
+    <value>正在将成绩升级到新的模组倍率</value>
+  </data>
+  <data name="mod_multipliers_upgraded" xml:space="preserve">
+    <value>成绩已升级到新的模组倍率</value>
+  </data>
+  <data name="upgrading_scoring_algorithm" xml:space="preserve">
+    <value>正在将成绩升级到新的计分算法</value>
+  </data>
+  <data name="scoring_algorithm_upgraded" xml:space="preserve">
+    <value>成绩已升级到新的计分算法</value>
+  </data>
+  <data name="adjusting_score_ranks" xml:space="preserve">
+    <value>正在调整成绩排名</value>
+  </data>
+  <data name="score_ranks_adjusted" xml:space="preserve">
+    <value>成绩现已获得更准确的排名。</value>
+  </data>
+  <data name="populating_submission_dates" xml:space="preserve">
+    <value>正在补全缺失的提交日期和排名日期</value>
+  </data>
+  <data name="submission_dates_populated" xml:space="preserve">
+    <value>谱面集现已拥有正确的提交日期和排名日期。</value>
+  </data>
+  <data name="updating_user_tags" xml:space="preserve">
+    <value>正在更新用户标签</value>
+  </data>
+  <data name="user_tags_updated" xml:space="preserve">
+    <value>谱面标签已更新。此操作每月运行一次，以便搜索用户标签。</value>
+  </data>
 </root>
