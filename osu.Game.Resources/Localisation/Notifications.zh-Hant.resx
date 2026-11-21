@@ -234,7 +234,7 @@
     <value>新增 {0} 張圖譜至收藏 "{1}"。</value>
   </data>
   <data name="limited_processor_acceleration" xml:space="preserve">
-    <value>你的裝置處理器較舊，遊戲可能會卡頓。</value>
+    <value>您的裝置處理器較舊。遊戲可能會出現卡頓。</value>
   </data>
   <data name="cannot_start_play" xml:space="preserve">
     <value>無法開始遊戲</value>
