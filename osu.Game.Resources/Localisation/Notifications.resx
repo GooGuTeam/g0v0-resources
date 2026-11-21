@@ -376,4 +376,49 @@ Click to see what's new!</value>
   <data name="user_tags_updated" xml:space="preserve">
     <value>beatmaps have had their tags updated. This runs once a month to allow searching user tags.</value>
   </data>
+  <data name="deleted_videos" xml:space="preserve">
+    <value>Deleted {0} {1} video(s)!</value>
+  </data>
+  <data name="deleting_videos_from" xml:space="preserve">
+    <value>Deleting videos from {0}s ({1} deleted)</value>
+  </data>
+  <data name="model_beatmap" xml:space="preserve">
+    <value>beatmap</value>
+  </data>
+  <data name="model_score" xml:space="preserve">
+    <value>score</value>
+  </data>
+  <data name="model_skin" xml:space="preserve">
+    <value>skin</value>
+  </data>
+  <data name="no_models_found_to_import" xml:space="preserve">
+    <value>No {0}s were found to import!</value>
+  </data>
+  <data name="import_initialising" xml:space="preserve">
+    <value>{0} import is initialising...</value>
+  </data>
+  <data name="imported_x_of_y" xml:space="preserve">
+    <value>Imported {0} of {1} {2}s</value>
+  </data>
+  <data name="import_failed" xml:space="preserve">
+    <value>{0} import failed! Check logs for more information.</value>
+  </data>
+  <data name="imported_x_of_y_completed" xml:space="preserve">
+    <value>Imported {0} of {1} {2}s.</value>
+  </data>
+  <data name="imported_count" xml:space="preserve">
+    <value>Imported {0} {1}s!</value>
+  </data>
+  <data name="imported_named" xml:space="preserve">
+    <value>Imported {0}!</value>
+  </data>
+  <data name="import_paused" xml:space="preserve">
+    <value>{0} import is paused due to gameplay...</value>
+  </data>
+  <data name="import_resuming" xml:space="preserve">
+    <value>{0} import is resuming...</value>
+  </data>
+  <data name="with_click_to_view" xml:space="preserve">
+    <value>{0} Click to view.</value>
+  </data>
 </root>

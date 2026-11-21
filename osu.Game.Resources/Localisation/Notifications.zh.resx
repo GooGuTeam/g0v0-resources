@@ -373,4 +373,49 @@
   <data name="user_tags_updated" xml:space="preserve">
     <value>谱面标签已更新。此操作每月运行一次，以便搜索用户标签。</value>
   </data>
+  <data name="deleted_videos" xml:space="preserve">
+    <value>已删除{1}的 {0} 个视频！</value>
+  </data>
+  <data name="deleting_videos_from" xml:space="preserve">
+    <value>正在删除{0}的视频（已删除 {1} 个）</value>
+  </data>
+  <data name="model_beatmap" xml:space="preserve">
+    <value>谱面</value>
+  </data>
+  <data name="model_score" xml:space="preserve">
+    <value>成绩</value>
+  </data>
+  <data name="model_skin" xml:space="preserve">
+    <value>皮肤</value>
+  </data>
+  <data name="no_models_found_to_import" xml:space="preserve">
+    <value>没有找到要导入的{0}！</value>
+  </data>
+  <data name="import_initialising" xml:space="preserve">
+    <value>{0}导入正在初始化……</value>
+  </data>
+  <data name="imported_x_of_y" xml:space="preserve">
+    <value>已导入{2}（{0}/{1}）</value>
+  </data>
+  <data name="import_failed" xml:space="preserve">
+    <value>{0}导入失败！查看日志了解更多信息。</value>
+  </data>
+  <data name="imported_x_of_y_completed" xml:space="preserve">
+    <value>已导入{2}（{0}/{1}）。</value>
+  </data>
+  <data name="imported_count" xml:space="preserve">
+    <value>已导入 {0} 个{1}！</value>
+  </data>
+  <data name="imported_named" xml:space="preserve">
+    <value>已导入{0}！</value>
+  </data>
+  <data name="import_paused" xml:space="preserve">
+    <value>游戏进行中，{0}导入已暂停……</value>
+  </data>
+  <data name="import_resuming" xml:space="preserve">
+    <value>{0}导入正在恢复……</value>
+  </data>
+  <data name="with_click_to_view" xml:space="preserve">
+    <value>{0}点击查看。</value>
+  </data>
 </root>

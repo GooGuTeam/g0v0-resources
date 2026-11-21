@@ -233,6 +233,30 @@
   <data name="collection_beatmaps_added" xml:space="preserve">
     <value>新增 {0} 張圖譜至收藏 "{1}"。</value>
   </data>
+  <data name="ruleset_error" xml:space="preserve">
+    <value>自定義模式錯誤</value>
+  </data>
+  <data name="ruleset_unable_to_load" xml:space="preserve">
+    <value>無法載入以下遊戲模式：</value>
+  </data>
+  <data name="ruleset_unknown_exception" xml:space="preserve">
+    <value>部分錯誤無法明確來源，請查看日誌取得詳情。</value>
+  </data>
+  <data name="ruleset_load_suggestion" xml:space="preserve">
+    <value>可嘗試從開發者處取得更新，或向他們回報問題。</value>
+  </data>
+  <data name="ruleset_exception" xml:space="preserve">
+    <value>遊戲模式「{0}」出了點問題。</value>
+  </data>
+  <data name="ruleset_caused_crash" xml:space="preserve">
+    <value>遊戲模式「{0}」似乎導致了遊戲崩潰，為了避免更多問題，已將其暫時停用。</value>
+  </data>
+  <data name="ruleset_crash_suggestion" xml:space="preserve">
+    <value>你可以隨時從設定中將其恢復，但在這之前，最好還是將這個問題向模式開發者回饋一下！</value>
+  </data>
+  <data name="exception_title" xml:space="preserve">
+    <value>砰！</value>
+  </data>
   <data name="limited_processor_acceleration" xml:space="preserve">
     <value>您的裝置處理器較舊。遊戲可能會出現卡頓。</value>
   </data>
@@ -349,5 +373,50 @@
   </data>
   <data name="user_tags_updated" xml:space="preserve">
     <value>譜面標籤已更新。此操作每月執行一次，以便搜尋使用者標籤。</value>
+  </data>
+  <data name="deleted_videos" xml:space="preserve">
+    <value>已刪除{1}的 {0} 個影片！</value>
+  </data>
+  <data name="deleting_videos_from" xml:space="preserve">
+    <value>正在刪除{0}的影片（已刪除 {1} 個）</value>
+  </data>
+  <data name="model_beatmap" xml:space="preserve">
+    <value>譜面</value>
+  </data>
+  <data name="model_score" xml:space="preserve">
+    <value>成績</value>
+  </data>
+  <data name="model_skin" xml:space="preserve">
+    <value>皮膚</value>
+  </data>
+  <data name="no_models_found_to_import" xml:space="preserve">
+    <value>沒有找到要匯入的{0}！</value>
+  </data>
+  <data name="import_initialising" xml:space="preserve">
+    <value>{0}匯入正在初始化……</value>
+  </data>
+  <data name="imported_x_of_y" xml:space="preserve">
+    <value>已匯入{2}（{0}/{1}）</value>
+  </data>
+  <data name="import_failed" xml:space="preserve">
+    <value>{0}匯入失敗！查看日誌了解更多資訊。</value>
+  </data>
+  <data name="imported_x_of_y_completed" xml:space="preserve">
+    <value>已匯入{2}（{0}/{1}）。</value>
+  </data>
+  <data name="imported_count" xml:space="preserve">
+    <value>已匯入 {0} 個{1}！</value>
+  </data>
+  <data name="imported_named" xml:space="preserve">
+    <value>已匯入{0}！</value>
+  </data>
+  <data name="import_paused" xml:space="preserve">
+    <value>遊戲進行中，{0}匯入已暫停……</value>
+  </data>
+  <data name="import_resuming" xml:space="preserve">
+    <value>{0}匯入正在恢復……</value>
+  </data>
+  <data name="with_click_to_view" xml:space="preserve">
+    <value>{0}點擊查看。</value>
   </data>
 </root>
