@@ -76,9 +76,6 @@
   <data name="empty_title" xml:space="preserve">
     <value>尚無截圖</value>
   </data>
-  <data name="refresh" xml:space="preserve">
-    <value>重新整理</value>
-  </data>
   <data name="retention_note" xml:space="preserve">
     <value>長時間未被存取的截圖會被伺服器定期清理。</value>
   </data>

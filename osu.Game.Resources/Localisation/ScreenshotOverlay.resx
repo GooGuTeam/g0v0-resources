@@ -76,9 +76,6 @@
   <data name="empty_title" xml:space="preserve">
     <value>No screenshots yet</value>
   </data>
-  <data name="refresh" xml:space="preserve">
-    <value>Refresh</value>
-  </data>
   <data name="retention_note" xml:space="preserve">
     <value>Screenshots which have not been accessed for a while are periodically removed from the server.</value>
   </data>
