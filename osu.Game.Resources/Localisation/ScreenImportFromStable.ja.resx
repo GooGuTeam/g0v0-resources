@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>以前のバージョンのosu!をインストールしている場合は、既存のコンテンツ等をこちらのバージョンにコピーすることができます。既存のコンテンツは削除されませんので、ご安心ください。</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>以前のosu!をインストール</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>クリックして以前のosu!がインストールされている場所を探します。</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>以前のバージョンからコンテンツをインポート</value>
   </data>

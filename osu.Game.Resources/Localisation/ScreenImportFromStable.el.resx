@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Αν έχετε μια εγκατάσταση προηγούμενης έκδοσης του osu!, μπορείτε να μεταφέρετε το υπάρχον περιεχόμενό σας. Έχετε υπ' όψη ότι αυτό δε θα επηρεάσει τα αρχεία της υπάρχουσας εγκατάστασής σας με οποιοδήποτε τρόπο.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>προηγούμενη εγκατάσταση osu!</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Κάντε κλικ για να εντοπίσετε μια προηγούμενη εγκατάσταση του osu!</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Εισαγωγή περιεχομένου από προηγούμενη έκδοση</value>
   </data>

@@ -62,13 +62,7 @@
     <value>导入</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>如果已经安装了stable 客户端 ，您可以选择迁移现有的游戏数据。 注意，这丝毫不会影响已安装版本的文件。</value>
-  </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>先前的 stable 安装</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>点击定位先前的 stable 安装</value>
+    <value>如果已经安装了 stable 客户端 ，您可以选择迁移现有的游戏数据。 注意，这丝毫不会影响已安装版本的文件。</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>导入之前的游戏数据</value>

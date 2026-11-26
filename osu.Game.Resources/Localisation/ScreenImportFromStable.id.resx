@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Apabila kamu memiliki osu! versi terdahulu yang terpasang, kamu bisa memilih untuk memigrasikan semua konten yang kamu miliki. Proses ini tidak akan memengaruhi berkas milik instalasi osu! yang sudah ada.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>instalasi osu! versi terdahulu</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Klik untuk menentukan lokasi instalasi osu! versi terdahulu</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Impor konten dari osu! versi terdahulu</value>
   </data>

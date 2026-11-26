@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Якщо ви маєте попередню версію osu!, ви можете обрати куди перемістити її наявний зміст. Зауважте, що це ніяк не зашкодить вашим теперішнім файлам.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>попередня версія osu!</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Натисніть для знаходження попередньої версії osu!</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Імпортувати контент з попередньої версії</value>
   </data>

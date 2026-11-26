@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Sekiranya anda mempunyai pemasangan versi osu! sebelumnya, anda boleh memilih untuk menghijrah kandungan yang ada. Catat bahawa hal ini tidak mempengaruhi fail pemasangan yang ada langsung.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>pemasangan osu! sebelumnya</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Klik untuk mengesan pemasangan osu! sebelumnya</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Import kandungan dari versi sebelumnya</value>
   </data>

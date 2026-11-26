@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Jei esate įsidiege ankstesnę osu! versija, galite persikelti esamą tūrinį. Tai tik sukurs kopiją ir nepaveiks jūsų esamo įdiegimo.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>ankstesnis osu! diegimas</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Spausk, kad rasti praeitą osu! diegimą</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Importuoti duomenis iš ankstesnės versijos</value>
   </data>

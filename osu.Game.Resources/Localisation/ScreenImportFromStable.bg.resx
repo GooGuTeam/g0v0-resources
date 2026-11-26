@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Ако имате инсталирана версия на osu!, може да прехвърлите съдържанието от него. Това няма да засегне съществуващите файлове по никакъв начин.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>предишна osu! инсталация</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Кликнете за намиране на предишната osu! инсталация</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Вмъкване на съдържание от предишната версия</value>
   </data>

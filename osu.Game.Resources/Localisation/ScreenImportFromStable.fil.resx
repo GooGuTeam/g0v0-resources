@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Kung mayroon kang installation ng isang nakaraang osu! bersyon, maaari mong piliing i-migrate ang iyong kasalukuyang nilalaman. Tandaan na lilikha ito ng kopya, at hindi makakaapekto sa iyong kasalukuyang installation.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>nakaraang install ng osu!</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>I-click para maghanap ng isang nakaraang install ng osu!</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Mag-import ng nilalaman mula sa nakaraang bersyon</value>
   </data>

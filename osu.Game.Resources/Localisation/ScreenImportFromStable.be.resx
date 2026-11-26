@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Калі ў вас усталявана папярэдняя версія osu!, вы можаце перанесці існуючы кантэнт. Звярніце ўвагу, што гэта створыць копію і не паўплывае на вашу існуючую ўстаноўку.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>шлях ад папярэдняй osu!</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Націсніце, каб выбраць шлях папярэдняй версіі osu!</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Імпартаваць змесціва з папярэдняй версіі</value>
   </data>

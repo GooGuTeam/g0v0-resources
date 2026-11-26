@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Si vous avez une installation d'une version précédente d'osu!, vous pouvez choisir d'importer votre contenu. Notez que cela n'affectera en aucune façon les fichiers de votre installation existante.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>version précédente d'osu!</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Cliquez pour localiser une version précédente d'osu!</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Importer le contenu de la version précédente</value>
   </data>

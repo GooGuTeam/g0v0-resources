@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Si tienes una instalación de una versión anterior de osu!, puedes elegir migrar su contenido existente. Ten en cuenta que esto creará una copia, y no afectará a la instalación existente.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>instalación anterior de osu!</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Haz clic para localizar una instalación anterior de osu!</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Importar contenido de la versión anterior</value>
   </data>

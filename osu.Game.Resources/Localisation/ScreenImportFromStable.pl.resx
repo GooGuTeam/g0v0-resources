@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Jeżeli na swoim urządzeniu masz zainstalowaną poprzednią wersję osu!, możesz zaimportować z niej istniejącą zawartość. Nie będzie to miało żadnego wpływu na pliki obecnej instalacji.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>poprzednia wersja osu!</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Kliknij, by wybrać lokalizację poprzedniej wersji osu!</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Importuj zawartość z poprzedniej wersji gry</value>
   </data>

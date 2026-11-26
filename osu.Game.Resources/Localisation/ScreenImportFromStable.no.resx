@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Dersom du har en tidligere osu! versjon installert, kan du velge å migrere det eksisterende innholdet ditt. Merk at dette ikke vil påvirke filene til den eksisterende installasjonen på noen måte.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>forrige osu! installasjon</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Trykk for å finne en tidligere osu installasjon</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Importer innhold fra tidligere versjon</value>
   </data>

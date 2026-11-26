@@ -70,10 +70,10 @@
   <data name="lazer_description" xml:space="preserve">
     <value>你也可以从其他 g0v0! 或 lazer 安装迁移数据。请选择该安装的数据文件夹（即包含 "client.realm" 的）。</value>
   </data>
-  <data name="locate_lazer_directory_label" xml:space="preserve">
-    <value>先前的 g0v0! 或 lazer 安装</value>
+  <data name="locate_directory_label" xml:space="preserve">
+    <value>先前安装位置</value>
   </data>
-  <data name="locate_lazer_directory_placeholder" xml:space="preserve">
+  <data name="locate_directory_placeholder" xml:space="preserve">
     <value>点击定位先前安装</value>
   </data>
   <data name="second_copy_will_be_made" xml:space="preserve">

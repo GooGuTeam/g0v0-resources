@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Ja jums ir iepriekšējās osu! versijas instalācija, varat migrēt esošo saturu. Ņemiet vērā, ka tas nekādā veidā neietekmēs jūsu esošās instalācijas failus.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>iepriekšējā osu! instalācija</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Klikšķiniet, lai atrastu iepriekšējo osu! instalāciju</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Importēt saturu no iepriekšējās versijas</value>
   </data>

@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Bir önceki osu! sürümünden kurulumuz varsa, mevcut içeriğinizi taşımayı seçebilirsiniz. Bunun bir kopya oluşturacağını ve mevcut kurulumunuzu etkilemeyeceğini unutmayın.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>önceki osu! kurulumu</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Bir önceki osu! kurulumunu bulmak için tıklayın</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>İçeriği önceki sürümden içe aktarın</value>
   </data>

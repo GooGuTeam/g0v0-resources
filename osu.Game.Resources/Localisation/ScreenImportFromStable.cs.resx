@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Pokud již máš nainstalovanou předchozí verzi osu!, můžeš importovat všechen existující obsah. Toto nijak neovlivní soubory tvojí stávající instalace.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>předchozí instalace osu!</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Klikněte pro nalezení předchozí osu! instalace</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Importovat obsah z předchozí verze</value>
   </data>

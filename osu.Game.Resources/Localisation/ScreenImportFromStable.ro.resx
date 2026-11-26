@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Dacă aveți o instalare a unei versiuni osu! anterioare, puteți alege să migrați conținutul existent. Țineți cont că acest lucru nu vă va afecta instalarea existentă.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>instalare anterioară osu!</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Faceți clic pentru a localiza o instalare osu! anterioară</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Importă conținut din versiunea anterioară</value>
   </data>

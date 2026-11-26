@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>如果你有安裝過stable 用戶端，你可以選擇移入現有的資料。請注意，本操作不會影響你目前安裝的先前的 stable 安裝。</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>先前的 stable 安裝</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>點擊來尋找先前的 stable 安裝</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>從舊版本匯入內容</value>
   </data>

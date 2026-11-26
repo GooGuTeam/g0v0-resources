@@ -65,13 +65,6 @@
     <value>Ако имате инсталацију претходне верзије osu!, можете одабрати да мигрирате свој постојећи садржај. Имајте на уму да ће ово створити копију и да неће утицати на вашу постојећу инсталацију.
 </value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>претходни osu! install</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Кликните да бисте лоцирали претходни osu! install
-</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Унеси садржај из старе верзије</value>
   </data>

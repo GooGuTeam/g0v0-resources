@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>إذا كان لديك تثبيت من إصدار osu! سابق، يمكنك اختيار ترحيل المحتوى الموجود لديك. لاحظ أن هذا سوف ينشئ نسخة، ولن يؤثر على التثبيت الموجود لديك.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>تثبيت osu! المسبق</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>اضغط لتحديد مكان تواجد تثبيت osu! السابق</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>إستيراد المحتوي من الإصدار السابق</value>
   </data>

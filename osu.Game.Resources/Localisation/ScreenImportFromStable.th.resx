@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>หากคุณมีการติดตั้งของ osu! เวอร์ชันก่อนหน้า คุณสามารถเลือกที่จะโอนเนื้อหาที่มีอยู่แล้วของคุณเข้า osu! เวอร์ชั่นนี้ได้ โดนการโอนเนื้อหานี้จะไม่ส่งผลกระทบต่อ osu! เวอร์ชั่นก่อนหน้าแต่อย่างใด</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>การติดตั้งของ osu! เวอร์ชันก่อนหน้า</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>คลิกเพื่อค้นหาการติดตั้งของ osu! เวอร์ชันก่อนหน้า</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>นำเข้าเนื้อหาจากเวอร์ชันก่อนหน้า</value>
   </data>

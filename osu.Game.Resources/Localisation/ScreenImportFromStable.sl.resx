@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>Če imaš nameščeno prejšnjo različico programa osu!, lahko migriraš obstoječo vsebino. Upoštevaj, da to na noben način ne bo vplivalo na datoteke tvoje obstoječe namestitve.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>prejšnja namestitev osu!</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Klikni za iskanje prejšnje namestitve osu!</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Uvozi vsebino iz prejšnje različice</value>
   </data>

@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>만약 이전 버전의 osu!가 있으시다면, 저장되어 있던 컨텐츠를 선택적으로 들여올 수 있어요. 어떤 방식으로든 설치 파일에는 절대 영향을 주지 않음을 참고해 주세요.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>이전 버전의 osu! 설치 경로</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>여기를 눌러 이전에 설치된 osu! 경로 지정</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>이전 버전에서 콘텐츠 가져오기</value>
   </data>

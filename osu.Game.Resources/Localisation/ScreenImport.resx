@@ -70,10 +70,10 @@
   <data name="lazer_description" xml:space="preserve">
     <value>You can also migrate content from another g0v0! or lazer installation. Select its data folder (the one which contains "client.realm").</value>
   </data>
-  <data name="locate_lazer_directory_label" xml:space="preserve">
-    <value>previous g0v0! or lazer installation</value>
+  <data name="locate_directory_label" xml:space="preserve">
+    <value>previous installation</value>
   </data>
-  <data name="locate_lazer_directory_placeholder" xml:space="preserve">
+  <data name="locate_directory_placeholder" xml:space="preserve">
     <value>Click to locate a previous installation</value>
   </data>
   <data name="second_copy_will_be_made" xml:space="preserve">

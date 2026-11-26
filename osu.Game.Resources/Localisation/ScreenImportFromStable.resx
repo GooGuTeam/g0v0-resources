@@ -64,12 +64,6 @@
   <data name="description" xml:space="preserve">
     <value>If you have an existing stable installation, you can choose to migrate your existing content. Note that this will not affect your existing installation's files in any way.</value>
   </data>
-  <data name="locate_directory_label" xml:space="preserve">
-    <value>previous stable installation</value>
-  </data>
-  <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Click to locate a previous stable installation</value>
-  </data>
   <data name="import_button" xml:space="preserve">
     <value>Import content from previous version</value>
   </data>
